@@ -2,7 +2,7 @@
 # v0.1  - Revised
 #
 # Required files:
-# 
+#
 # - Original Cel Animation Color Charts XLSX
 # - PANTONE to Lab CSV
 
@@ -32,7 +32,7 @@ class AnimeColourCardsPDF:
         self.pantone_csv_path = pantone_csv_path
         self.styles = getSampleStyleSheet()
         self.setup_custom_styles()
-        self.current_page = 1
+        self.current_page = 19
         self.sheet_name = ""
         self.page_offset = 0
         self.sheet_page_starts = {}
@@ -44,7 +44,7 @@ class AnimeColourCardsPDF:
         pantone_list = []
         try:
             if os.path.exists(self.pantone_csv_path):
-                print(f" Loading Pantone data from: {self.pantone_csv_path}")
+                print(f"📖 Loading Pantone data from: {self.pantone_csv_path}")
                 with open(self.pantone_csv_path, newline='', encoding='utf-8') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
@@ -55,13 +55,13 @@ class AnimeColourCardsPDF:
                                 'lab': LabColor(float(row['L']), float(row['a']), float(row['b']))
                             })
                         except (ValueError, KeyError) as e:
-                            print(f"  [QWARN]Skipping invalid Pantone row: {e}")
-                print(f"  [OK] Loaded {len(pantone_list)} Pantone colors")
+                            print(f"  ⚠️ Skipping invalid Pantone row: {e}")
+                print(f"  ✅ Loaded {len(pantone_list)} Pantone colors")
             else:
-                print(f"  [ERROR!!!] Pantone CSV file not found: {self.pantone_csv_path}")
-                print("  [OK] Pantone matching will be disabled")
+                print(f"  ⚠️ Pantone CSV file not found: {self.pantone_csv_path}")
+                print("  ℹ️ Pantone matching will be disabled")
         except Exception as e:
-            print(f"  [ERROR!!!] Error loading Pantone data: {e}")
+            print(f"  ❌ Error loading Pantone data: {e}")
         return pantone_list
 
 
@@ -409,7 +409,7 @@ class AnimeColourCardsPDF:
             required_present = sum(1 for col in required_columns if col in columns_present)
 
             if required_present < 5:
-                print(f"  [ERROR!!!] '{sheet_name}': Only {required_present}/7 required columns found")
+                print(f"  ❌ '{sheet_name}': Only {required_present}/7 required columns found")
                 return False
 
             # Verify numeric data - ahora verificamos solo las columnas LAB y RGB
@@ -425,17 +425,17 @@ class AnimeColourCardsPDF:
                         break
 
             if not numeric_data_found:
-                print(f"  [ERROR!!!] '{sheet_name}': No valid numeric data found")
+                print(f"  ❌ '{sheet_name}': No valid numeric data found")
                 return False
 
-            print(f"  [OK] '{sheet_name}': Identified as valid colour card")
+            print(f"  ✅ '{sheet_name}': Identified as valid colour card")
             return True
 
         except Exception as e:
-            print(f"  [ERROR!!!] '{sheet_name}': Error validating - {e}")
+            print(f"  ❌ '{sheet_name}': Error validating - {e}")
             return False
 
-### correspondencias
+### correspondence
     def load_correspondences_from_excel(self, excel_data):
         """Load STAC correspondences from Excel sheets with proper bidirectional mapping"""
         correspondences = {}
@@ -464,10 +464,10 @@ class AnimeColourCardsPDF:
                         old_stac_col = col
 
                 if not stac_col:
-                    print("  [ERROR] No STAC column found!")
+                    print("  ❌ No STAC column found!")
                     continue
 
-                print(f"  [OK] Columns: {stac_col}, {taiyo_col}, {old_stac_col}")
+                print(f"  ✅ Columns: {stac_col}, {taiyo_col}, {old_stac_col}")
 
                 # Procesar cada fila
                 for idx, row in df.iterrows():
@@ -494,24 +494,24 @@ class AnimeColourCardsPDF:
 
                         # STAC → OLD STAC (evitar auto-referencias)
                         for old_stac in old_stac_values:
-                            if old_stac and old_stac != stac_val:  # Evitar auto-referencia!!!
+                            if old_stac and old_stac != stac_val:  # Evitar auto-referencia
                                 self.add_correspondence(correspondences, stac_val, 'old_stac', old_stac)
                                 self.add_correspondence(correspondences, old_stac, 'stac', stac_val)
 
                         # TAIYO → OLD STAC (si ambos existen y son diferentes)
                         for taiyo in taiyo_values:
                             for old_stac in old_stac_values:
-                                if taiyo and old_stac and taiyo != old_stac:  # Evitar auto-referencia!!!!!
+                                if taiyo and old_stac and taiyo != old_stac:  # Evitar auto-referencia
                                     self.add_correspondence(correspondences, taiyo, 'old_stac', old_stac)
                                     self.add_correspondence(correspondences, old_stac, 'taiyo', taiyo)
 
                     except Exception as e:
-                        print(f"  [FAIL!!!] Error en la row {idx+1}: {e}")
+                        print(f"  ⚠️ Error en fila {idx+1}: {e}")
 
                 print(f"  ✅ Loaded {len(correspondences)} correspondence entries")
                 return correspondences
 
-        print("  No STAC correspondence sheet found")
+        print("  ℹ️ No STAC correspondence sheet found")
         return correspondences
 
     def clean_value(self, value):
@@ -539,7 +539,7 @@ class AnimeColourCardsPDF:
 
     def add_correspondence(self, correspondences, key, corr_type, value):
         """Add correspondence to the dictionary"""
-        if not key or not value or key == value:  # Evitar auto-referencias!!!!
+        if not key or not value or key == value:  # Evitar auto-referencias
             return
 
         if key not in correspondences:
@@ -571,7 +571,7 @@ class AnimeColourCardsPDF:
                 else:
                     other_sheets_data[sheet_name] = df
 
-            print(f"\n SUMMARY:")
+            print(f"\n📊 SUMMARY:")
             print(f"  - Colour cards found: {len(colour_card_data)}")
             print(f"  - Other sheets (notes/conversions): {len(other_sheets_data)}")
 
@@ -805,7 +805,7 @@ class AnimeColourCardsPDF:
             ('FONTNAME', (0, 0), (-1, -1), 'Helvetica'),
             ('FONTSIZE', (0, 0), (-1, -1), 11),
             ('TEXTCOLOR', (0, 0), (-1, -1), colors.darkslategray),
-            ('BOTTOMPADDING', (0, 0), (-1, -1), 8),  # GAP VERTICAL!
+            ('BOTTOMPADDING', (0, 0), (-1, -1), 8),  # Added vertical gap
 
             # Header cells (left column)
             ('FONTNAME', (0, 0), (0, -1), 'Helvetica-Bold'),
@@ -820,7 +820,7 @@ class AnimeColourCardsPDF:
             ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
 
             # REMOVED GRID LINES COMPLETELY
-            ('GRID', (0, 0), (-1, -1), 0, colors.white), 
+            ('GRID', (0, 0), (-1, -1), 0, colors.white),  # Invisible grid
 
             # Padding
             ('LEFTPADDING', (0, 0), (-1, -1), 8),
@@ -836,7 +836,7 @@ class AnimeColourCardsPDF:
 
         # Card title
         story.append(Paragraph(f"{sheet_name}", self.title_style))
-        story.append(Paragraph(f"Detailed Chart starts on Page {start_page + 23}", self.index_style))  # +23 para el offset !!!
+        story.append(Paragraph(f"Detailed Chart starts on Page {start_page + 41}", self.index_style))  # +23 para el offset +18 por el prologo
         story.append(Spacer(1, 0.2*inch))
 
         # 6x8 grid = 48 colours per page
@@ -871,7 +871,7 @@ class AnimeColourCardsPDF:
                 colour_cell = Table([
                     [''],  # Colour space
                     [f"{code}"],
-                    [f"(Page {actual_page + 23})"]  # +23 para el offset
+                    [f"(Page {actual_page + 41})"]  # +23 para el offset +18 por el prologo
                 ], colWidths=[2.8*cm], rowHeights=[1.2*cm, 0.4*cm, 0.3*cm])
 
                 colour_cell.setStyle(TableStyle([
@@ -966,7 +966,8 @@ class AnimeColourCardsPDF:
 
         # Summary of cards with page numbers
         # Start counting from page 3 (title page + this page + next page)
-        current_page = 26
+        # +23 +18
+        current_page = 44
 
         for sheet_name, df in colour_data.items():
             colour_count = len(df)
@@ -1002,16 +1003,25 @@ class AnimeColourCardsPDF:
 
         return story
 
+
+
     def add_page_number(self, canvas, doc):
-        """Add page number to footer"""
+        """Add footer with left, center, and right text"""
         canvas.saveState()
         canvas.setFont('Helvetica', 10)
         canvas.setFillColor(colors.gray)
+
+        # Izquierda
+        canvas.drawString(1*cm, 1*cm, "Anime Cel Pigment References")
+
+        # Centro
         canvas.drawCentredString(A4[0]/2, 1*cm, f"{self.current_page}")
+
+        # Derecha
+        canvas.drawRightString(A4[0]-1*cm, 1*cm, "Version 1.0 • August, 2025")
+
         canvas.restoreState()
         self.current_page += 1
-
-
 
 
 
@@ -1140,7 +1150,7 @@ class AnimeColourCardsPDF:
                     story.append(Paragraph(correspondence_note, notes_style))
                     story.append(Spacer(1, 0.2*inch))
                 else:
-                    print(f"  [OK] No correspondences found for {code}")
+                    print(f"  ℹ️ No correspondences found for {code}")
 
                 # Add space for handwritten notes
                 story.append(Spacer(1, 3*cm))
@@ -1159,7 +1169,7 @@ class AnimeColourCardsPDF:
             original_path = Path(self.excel_file_path)
             new_file_path = original_path.parent / f"{original_path.stem}_with_pantone{original_path.suffix}"
 
-            print(f"\n[OK] Exportando Excel mejorado: {new_file_path}")
+            print(f"\n📊 Exportando Excel mejorado: {new_file_path}")
 
             # Crear un escritor de Excel
             with pd.ExcelWriter(new_file_path, engine='openpyxl') as writer:
@@ -1231,11 +1241,11 @@ class AnimeColourCardsPDF:
                                 # Aplicar color de fondo
                                 self.color_cell_simple(worksheet, cell_ref, hex_value)
 
-            print(f"[OK] Excel mejorado exportado exitosamente: {new_file_path}")
+            print(f"✅ Excel mejorado exportado exitosamente: {new_file_path}")
             return new_file_path
 
         except Exception as e:
-            print(f"[FAILED!!!] Error exportando Excel mejorado: {e}")
+            print(f"❌ Error exportando Excel mejorado: {e}")
             import traceback
             traceback.print_exc()
             return None
@@ -1266,13 +1276,13 @@ class AnimeColourCardsPDF:
 
     def generate_pdf(self):
         """Generate the complete PDF"""
-        print("[OK] ANIME COLOUR CARDS PDF GENERATOR")
+        print("🎨 ANIME COLOUR CARDS PDF GENERATOR")
         print("=" * 50)
 
         # Read Excel data
         colour_data, other_sheets_data = self.read_excel_data()
         if not colour_data:
-            print("[FAILED!] No valid colour cards found!")
+            print("❌ No valid colour cards found!")
             return
 
         # Create PDF document
@@ -1288,39 +1298,39 @@ class AnimeColourCardsPDF:
         story = []
 
         # Add index pages
-        print("\n[OK] Creating index pages...")
+        print("\n📑 Creating index pages...")
         index_content = self.create_index_page(colour_data)
         story.extend(index_content)
 
         # Add colour pages
-        print("[OK] Creating colour pages...")
+        print("🎨 Creating colour pages...")
         colour_pages = self.create_colour_pages(colour_data)
         story.extend(colour_pages)
 
         # Add other content pages
         if other_sheets_data:
-            print("[OK] Creating additional content pages...")
+            print("📝 Creating additional content pages...")
             other_content = self.create_other_content_pages(other_sheets_data)
             story.extend(other_content)
 
     # Build PDF
-        print(f"\n[OK] Building PDF: {self.output_pdf_path}")
+        print(f"\n📄 Building PDF: {self.output_pdf_path}")
         doc.build(story, onFirstPage=self.add_page_number, onLaterPages=self.add_page_number)
 
-        print(f"[OK] PDF generated successfully!")
-        print(f"[OK] Total pages: {self.current_page - 1}")
-        print(f"[OK] Colour cards processed: {sum(len(df) for df in colour_data.values())}")
+        print(f"✅ PDF generated successfully!")
+        print(f"📊 Total pages: {self.current_page - 1}")
+        print(f"🎨 Colour cards processed: {sum(len(df) for df in colour_data.values())}")
 
         # Exportar Excel mejorado
-        print("\n[OK] Exportando Excel con datos PANTONE...")
+        print("\n💾 Exportando Excel con datos PANTONE...")
         self.export_enhanced_excel()
 
         # Open the PDF
         try:
             os.startfile(self.output_pdf_path)
-            print("[OK] Opening PDF...")
+            print("📂 Opening PDF...")
         except:
-            print(f"[OK] PDF saved at: {os.path.abspath(self.output_pdf_path)}")
+            print(f"📂 PDF saved at: {os.path.abspath(self.output_pdf_path)}")
 
 
 
@@ -1328,9 +1338,9 @@ class AnimeColourCardsPDF:
 # Usagi
 
 if __name__ == "__main__":
-    
-    excel_file = "ORIGINAL_Cel_Animation_Color_Charts.xlsx"
-    pantone_csv = "pantone_lab_2024.csv" 
+
+    excel_file = "ORIGINAL_Cel_Animation_Color_Charts.xlsx"  # Your Excel file
+    pantone_csv = "pantone_lab_2024.csv"  # Pantone reference CSV
 
     generator = AnimeColourCardsPDF(excel_file, "1_Anime-ALL-Colour-Charts.pdf", pantone_csv)
     generator.generate_pdf()
