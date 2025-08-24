@@ -44,7 +44,7 @@ class AnimeColourCardsPDF:
         pantone_list = []
         try:
             if os.path.exists(self.pantone_csv_path):
-                print(f"📖 Loading Pantone data from: {self.pantone_csv_path}")
+                print(f" Loading Pantone data from: {self.pantone_csv_path}")
                 with open(self.pantone_csv_path, newline='', encoding='utf-8') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
