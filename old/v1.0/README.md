@@ -1,4 +1,12 @@
-# Classic Anime Colour Charts Preservation Project (v1)
+# Anime ANY-Colour Charts v1.0
+
+**Technical specifications for STAC / Taiyo-Shikisai / USA-Cartoon Colour Cel-Vinyl colour charts including sRGB / CMYK / PANTONE matching system.**
+
+Version 1.0 • August 24, 2025 • European ICC Profiles (ECI/FOGRA)
+
+Alexandr Gomez
+
+---
 
 ## Technical Colour Workflow for Almost Any Classic Anime / Cel Pigment Charts
 
@@ -8,93 +16,8 @@ This document consolidates sources, specifications, decisions, and reference cod
 * **太陽色彩 (TAIYO-SHIKISAI / 太陽色彩株式会社 ANIMATION. PAINT)**
 * **Cel-Vinyl Colour Charts**
 
-**Version:** 1.1 • **Date:** August, 2025
+**Version:** 1.0 • **Date:** 24/08/2025 • **Scope:** Europe (ICC ECI/FOGRA commercial printing profiles)
 
----
-
-# AVAILABLE DATA
-
-1. JSON format -> colours\_complete.json
-2. BOOK PDF (with embedded PSCoated v3 ICC profile) -> BOOK-v1-1\_Anime\_CEL\_Pigments\_References\_Project-AlexandrGomez.pdf
-3. EXCEL Original with the original spectrophotometric measurements used -> ORIGINAL\_Cel\_Animation\_Color\_Charts.xlsx
-
----
-
-# ENGINE USAGE
-
-## 1. Processing Pipeline (`main.py`)
-
-This script processes the original Excel colour charts and generates a complete JSON database.
-
-```bash
-python main.py [excel_file] [options]
-```
-
-**Arguments:**
-
-* `excel_file` *(optional)*: Path to the Excel file with colour charts. Default: `ORIGINAL_Cel_Animation_Color_Charts.xlsx`
-
-**Options:**
-
-* `-o, --output <file>`: Output JSON file. Default: `colours_complete.json`
-* `-i, --icc-profile <icc>`: ICC profile for CMYK conversion. Default: `PSOcoated_v3.icc`
-* `-p, --pantone-csv <csv>`: Pantone LAB database CSV. Default: `pantone_lab_2024.csv`
-* `--no-backup`: Do not create backup of existing output file
-* `-v, --verbose`: Enable verbose logging
-
-**Example:**
-
-```bash
-python main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx -o colours_complete.json -i PSOcoated_v3.icc -p pantone_lab_2024.csv -v
-```
-
----
-
-## 2. PDF Generator (`pdf_generator.py`)
-
-This script generates professional PDF colour cards from the processed JSON data.
-
-```bash
-python pdf_generator.py <json_file> [output_pdf] [options]
-```
-
-**Arguments:**
-
-* `json_file` *(required)*: Input JSON file with processed colour data
-* `output_pdf` *(optional)*: Output PDF filename. Default: `colour_cards.pdf`
-
-**Options:**
-
-* `-j, --join <pdf>`: Prepend another PDF before the colour cards (e.g. cover, introduction)
-* `--offset <n>`: Page numbering offset for merged documents. Default: `0`
-* `-i, --icc-profile <icc>`: ICC profile for CMYK embedding. Default: `PSOcoated_v3.icc`
-* `-v, --verbose`: Enable verbose output
-
-**Example:**
-
-```bash
-python pdf_generator.py colours_complete.json colour_cards.pdf -j intro.pdf --offset 10 -i PSOcoated_v3.icc -v
-```
-
----
-
-## Workflow
-
-1. Process Excel file → Generate JSON:
-
-   ```bash
-   python main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx -o colours_complete.json
-   ```
-2. Generate professional PDF from JSON:
-
-   ```bash
-   python pdf_generator.py colours_complete.json colour_cards.pdf
-   ```
-
-
----
-
-# TECHNICAL DECISSIONS
 ---
 
 ## 1. Sources (LAB, RGB, Hex sRGB, Hex ProPhoto, HSL)
@@ -109,7 +32,6 @@ https://www.kanzenshuu.com/forum/viewtopic.php?t=19448
 > ***I am grateful for the work carried out, which has made it possible to perform the rest of the conversions and cataloguing presented in this document***
 
 ### Original Measuring Devices Specifications
-##### (From Analogic to Digital data 
 
 | Measuring Device | Date Created | Notes |
 |------------------|--------------|--------|
@@ -554,13 +476,14 @@ PDF/X standards are reserved for pre-press applications requiring embedded CMYK 
 * Commercial printing introduces ±2-3 ΔE00 variation; specify acceptable tolerance ranges
 
 ---
+
+***Work done out of love for colour and the preservation of handmade anime!***
+
 **— End of Technical Documentation —**
----
+
 ### Best Valuable Sources
 
 * https://www.kanzenshuu.com/forum/viewtopic.php?t=19448
 * http://www.style.fm/as/05_column/tsujita/tsujita_bn.shtml
 * https://animestyle.jp/column/
 * https://www.nekomataya.info/
----
-# ***Work done out of love for colour and the preservation of handmade anime!***

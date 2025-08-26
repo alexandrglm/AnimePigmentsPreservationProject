@@ -1,0 +1,72 @@
+# PDF METADATA TEMPLATE - Standards Compliant
+# Based on PDF/X, PDF/A, and ICC profile embedding standards
+# Fields that actually work in PDF readers and color management systems
+
+# ===== PDF STANDARD METADATA (Dublin Core) =====
+title=Anime Cel Pigments References Preservation Project v1.1
+author=Alexandr Gomez
+subject=Professional color reference with embedded ICC profile
+keywords=color management,ICC profile,CMYK,Pantone,LAB colorimetry,print production
+# creator=PDF Color Card Generator v1.2
+# producer=ReportLab + pikepdf
+
+# ===== PDF/X STANDARD FIELDS =====
+# These fields are part of PDF/X standard for print production
+custom_gts_pdfxversion=PDF/X-4:2010
+custom_gts_pdfxconformance=PDF/X-4
+custom_trapped=False
+
+# ===== COLOR MANAGEMENT METADATA (ISO 15076) =====
+custom_color_space=CMYK
+custom_icc_profile_description=PSO Coated v3 (FOGRA51)
+custom_output_condition_identifier=FOGRA51
+custom_output_condition=Offset printing, coated paper, 330% ink limit, positive plate
+custom_registry_name=http://www.color.org
+custom_rendering_intent=RelativeColorimetric
+custom_black_point_compensation=true
+
+# ===== ICC PROFILE METADATA (ISO 15076-1) =====
+custom_profile_version=4.3.0
+custom_device_class=prtr
+custom_data_color_space=CMYK
+custom_profile_connection_space=XYZ
+custom_platform=ADBE
+custom_profile_creator=FOGR
+custom_illuminant=D65
+custom_observer=2°
+
+# ===== XMP COLOR MANAGEMENT =====
+custom_xmp_color_mode=CMYK
+custom_xmp_color_profile=PSO Coated v3
+custom_xmp_color_space_type=ICC
+custom_xmp_rendering_intent=1
+
+# ===== DOCUMENT CLASSIFICATION =====
+custom_document_class=Professional Color Reference
+custom_conformance_level=A
+custom_pdf_version=1.7
+custom_color_management_version=ICC.1:2010
+
+# ===== PRINT PRODUCTION METADATA =====
+custom_print_condition=ISO 12647-2:2013
+custom_paper_type=Coated
+custom_ink_limit=330%
+custom_dot_gain=15%
+custom_screen_ruling=175 lpi
+
+# ===== QUALITY CONTROL =====
+custom_color_accuracy=Delta E CIE2000 < 3.0 for 97% of colors
+custom_gamut_coverage=ISO Coated v2 (ECI)
+custom_validation_standard=ISO 15076-1:2010
+
+# ===== TECHNICAL SPECIFICATIONS =====
+custom_lab_illuminant=D65
+custom_lab_observer=CIE 1931 2°
+custom_white_point=0.9505, 1.0000, 1.0891
+custom_media_white_point=95, 100, 109
+
+# ===== WORKFLOW METADATA =====
+custom_created_with=Python Color Processing Pipeline
+custom_workflow_version=1.2.0
+custom_color_engine=ICC Profile Based
+custom_processing_date=2024-01-01
