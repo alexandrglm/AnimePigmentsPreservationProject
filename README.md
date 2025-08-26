@@ -1,4 +1,4 @@
-# Classic Anime Colour Charts Preservation Project (v1)
+# Anime Cel Pigment References Preservation Project v1.1
 
 ## Technical Colour Workflow for Almost Any Classic Anime / Cel Pigment Charts
 
