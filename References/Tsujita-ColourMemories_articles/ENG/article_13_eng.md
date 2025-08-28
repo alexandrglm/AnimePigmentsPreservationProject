@@ -12,6 +12,8 @@
 
 Well then.
 
+---
+
 **When it comes to essential items for color direction in the paint era, it was definitely the strip color chart.**
 
 **In industries dealing with color - publishing, printing, and others - they almost always use "color samples," right?** For example, when choosing wallpaper at home centers or even for paint, there are strip-shaped sample bundles at sales floors so you can compare color differences up close. Similarly, cel paints had strip-shaped color sample charts.

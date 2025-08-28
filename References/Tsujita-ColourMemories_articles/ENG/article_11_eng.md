@@ -14,6 +14,8 @@
 
 Well then.
 
+---
+
 **About paints. Did you know? Paints are "perishable goods."**
 
 **I have no idea what raw materials are actually used, but cel paints would grow mold and rot.** Stack paints especially were thoroughly "perishable goods."

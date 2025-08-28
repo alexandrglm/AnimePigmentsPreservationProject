@@ -10,6 +10,8 @@ Articles and series about people involved in animation tend to focus on directio
 
 Well then.
 
+---
+
 In my animation work, I do **[finishing]**, mainly **color design** and **color direction**. Color design? Color direction? It's quite hard to understand, isn't it? This time, let me start with a general explanation of this work.
 
 In the animation screen production process, after progressing through **[storyboard]** → **[layout]** → **[key animation]** → **[in-between animation]**, the drawings are passed to **[finishing]**. Here, the completed line drawings are colored and materials are prepared for filming. But when told "paint it!", you can't know what colors to paint those drawings with. That's where the job of **[color direction]** becomes necessary.

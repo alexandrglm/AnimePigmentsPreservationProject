@@ -10,6 +10,8 @@
 
 Well then.
 
+---
+
 **Suddenly, but actually I'm still not quite back to normal, so this time is a special episode (bitter laugh).** Moreover, it's not about anime at all... (sweat).
 
 **In anime, people actually die quite often, but when a person - just one person - dies, it's actually an incredibly difficult thing (bitter laugh).** The dying itself is certainly difficult, but what comes after death is also very troublesome in various ways.

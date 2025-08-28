@@ -10,6 +10,8 @@
 
 Well then.
 
+---
+
 **I think many people spent GW overseas, but did any of you watch anime during your travels?** Japanese-made anime, specifically.
 
 **I once watched extensively from early morning in Rome, Italy.** That day happened to be Saturday, and early morning seemed to be that kind of time slot. The works shown that day were *Future Boy Conan*, *Haikara-san ga Tōru (はいからさんが通る)*, *Lupin III*, and *Maison Ikkoku*. There were also 2-3 other older Japanese robot shows and classics on different channels, but I've forgotten the titles.
