@@ -13,13 +13,25 @@ A complete colorimetric database and processing pipeline for preserving and conv
 
 ---
 
-## 📁 Available Data Formats
+##  Available Data Formats
 
 | Format | File | Description |
 |--------|------|-------------|
 | **JSON** | `colours_complete.json` | Complete colorimetric database |
 | **PDF** | `BOOK-v1-1_Anime_CEL_Pigments_References.pdf` | Professional reference book with embedded ICC profile |
 | **Excel** | `ORIGINAL_Cel_Animation_Color_Charts.xlsx` | Original spectrophotometric measurements |
+
+
+## Palettes for ADOBE, Unity, etc.
+| No | Software   | Format                   | Notes / Import Path                                                                                                                                      |
+| -- | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | GIMP-gpl   | `.gpl` ASCII             | Import via `Windows → Dockable Dialogs → Palettes → Import Palette`                                                                                      |
+| 2  | CSS        | `.css`                   | Generates variables: `--ColourName: rgb(R,G,B);`                                                                                                         |
+| 3  | SCSS       | `.scss`                  | Generates variables: `$ColourName: rgb(R,G,B);`                                                                                                          |
+| 4  | Unity      | `.cs` or `.unitypalette` | Colours as `Color(r,g,b,1)` floats 0–1                                                                                                                   |
+| 5  | ASE        | `.ase` binary            | Compatible with almost any ADOBE software(Photoshop, Illustrator,...), also Affinity, Corel; RGB; type global=0                                                                              |
+| 6  | TXT Simple | `.txt`                   | Each line: `R G B   ColourName`; compatible with Clip Studio, SAI, OpenToonz, Harmony                                                                    |
+| 7  | Krita      | `.kpl` ZIP               | Contains `colorset.xml`, `profiles.xml`, `mimetype`; default sRGB profile; import via `Palette → Import Palette`; also Krita palettes with custom ICC profile added **(PSO Coated V3)** |
 
 ---
 
