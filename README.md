@@ -22,7 +22,8 @@ A complete colorimetric database and processing pipeline for preserving and conv
 | **Excel** | `ORIGINAL_Cel_Animation_Color_Charts.xlsx` | Original spectrophotometric measurements |
 
 
-## Palettes for ADOBE, Unity, etc.
+## Palette files for ADOBE, Unity, etc.
+
 | No | Software   | Format                   | Notes / Import Path                                                                                                                                      |
 | -- | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | GIMP-gpl   | `.gpl` ASCII             | Import via `Windows → Dockable Dialogs → Palettes → Import Palette`                                                                                      |
@@ -35,19 +36,10 @@ A complete colorimetric database and processing pipeline for preserving and conv
 
 ---
 
-## ENGINE USAGE
-
+# ENGINE USAGE
+---
+## XLS Charts -> JSON Processor
 ### 1. Process Excel Charts → Generate JSON Database
-```bash
-python main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx -o colours_complete.json
-```
-
-### 2. Generate Professional PDF Cards
-```bash
-python pdf_generator.py colours_complete.json colour_cards.pdf
-```
-
-### Processing Pipeline (`main.py`)
 
 Processes Excel colour charts and generates complete JSON database with CMYK conversions, Pantone matches, and equivalences.
 
@@ -69,7 +61,7 @@ python main.py [excel_file] [options]
 
 #### Example
 ```bash
-python main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
+python ./engine/1-main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
   -o colours_complete.json \
   -i PSOcoated_v3.icc \
   -p pantone_lab_2024.csv \
@@ -77,13 +69,15 @@ python main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
 ```
 
 ---
+## 2 - PDF Reference Book Generator
 
-### PDF Generator (`pdf_generator.py`)
+- Allows custom ICC Profile use
+- Allows prepending document at the start position
+- Allows custom offset for a proper page numerartion
 
-Generates professional PDF colour cards with embedded ICC profiles and comprehensive colorimetric data.
-
+#### Usage
 ```bash
-python pdf_generator.py <json_file> [output_pdf] [options]
+python ./engine/1-pdf_generator.py <json_file> [output_pdf] [options]
 ```
 
 #### Arguments
@@ -100,13 +94,48 @@ python pdf_generator.py <json_file> [output_pdf] [options]
 
 #### Example
 ```bash
-python pdf_generator.py colours_complete.json colour_cards.pdf \
+python ./engine/2-pdf_generator.py colours_complete.json colour_cards.pdf \
   -j intro.pdf \
   --offset 10 \
   -i PSOcoated_v3.icc \
   -v
 ```
+---
 
+## 3 - Palette files generator for ADOBE, Krita, Corel, PaintTool SAI, etc...
+
+#### Usage
+```bash
+python ./engine/plugin_palettes/1-palette_generator.py <json_file> [options]
+```
+
+#### Arguments
+- `json_file` *(required)*: JSON palette file containing colour charts
+- `[options]` *(optional)*: Flags and parameters for specific export formats
+
+#### Options
+| Option | Description | Default |
+|--------|-------------|---------|
+| `-f, --format <num>` | Choose software export format:<br>1: GIMP-gpl, 2: CSS, 3: SCSS, 4: Unity, 5: ASE, 6: TXT, 7: Krita | 1 |
+| `-c, --columns <n>` | Number of columns for GIMP `.gpl` palettes | 8 |
+| `-i, --icc-profile <icc>` | Embed custom ICC profile (Krita `.kpl` only) | `sRGB.icc` |
+| `-v, --verbose` | Enable verbose output | Off |
+
+#### Examples
+- **Export all palettes to Krita `.kpl` with a custom ICC:**
+  ```bash
+  python ./engine/plugin_palettes/1-palette_generator.py colours.json -f 7 -i PSOcoated_v3.icc
+  ```
+
+  **Export GIMP `.gpl` with 12 columns:**
+  ```bash
+  python ./engine/plugin_palettes/1-palette_generator.py colours.json -f 1 -c 12
+  ```
+
+  **Export ASE for Photoshop/Affinity/Corel:**
+  ```bash
+  python 1-palette_generator.py colours.json -f 5
+  ```
 ---
 # PROJECT TECHNICAL DECISSIONS
 
@@ -254,6 +283,7 @@ python pdf_generator.py colours_complete.json colour_cards.pdf \
 - `reportlab` (PDF generation)
 - `pikepdf` (ICC embedding)
 - `colormath` (Delta E calculations)
+- `swatch` (Binary parser for Adobe colour palettes)
 
 ---
 
