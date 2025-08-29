@@ -1,0 +1,52 @@
+// Palette: STAC A-Chart
+using UnityEngine;
+
+public static class STAC_A-Chart_Palette {
+    public static readonly Color32 A-1 = new Color32(98,67,41,255);
+    public static readonly Color32 A-2 = new Color32(132,100,65,255);
+    public static readonly Color32 A-3 = new Color32(52,98,106,255);
+    public static readonly Color32 A-4 = new Color32(99,74,43,255);
+    public static readonly Color32 A-5 = new Color32(143,145,52,255);
+    public static readonly Color32 A-6 = new Color32(220,166,123,255);
+    public static readonly Color32 A-7 = new Color32(141,23,7,255);
+    public static readonly Color32 A-8 = new Color32(208,192,131,255);
+    public static readonly Color32 A-9 = new Color32(82,60,32,255);
+    public static readonly Color32 A-10 = new Color32(255,183,90,255);
+    public static readonly Color32 A-11 = new Color32(0,99,117,255);
+    public static readonly Color32 A-12 = new Color32(114,197,159,255);
+    public static readonly Color32 A-13 = new Color32(199,201,195,255);
+    public static readonly Color32 A-14 = new Color32(0,161,186,255);
+    public static readonly Color32 A-15 = new Color32(46,103,160,255);
+    public static readonly Color32 A-16 = new Color32(0,105,170,255);
+    public static readonly Color32 A-17 = new Color32(242,225,177,255);
+    public static readonly Color32 A-18 = new Color32(123,84,35,255);
+    public static readonly Color32 A-19 = new Color32(138,53,101,255);
+    public static readonly Color32 A-20 = new Color32(66,94,29,255);
+    public static readonly Color32 A-21 = new Color32(251,214,98,255);
+    public static readonly Color32 A-22 = new Color32(168,83,62,255);
+    public static readonly Color32 A-23 = new Color32(204,37,18,255);
+    public static readonly Color32 A-24 = new Color32(182,159,129,255);
+    public static readonly Color32 A-25 = new Color32(189,173,108,255);
+    public static readonly Color32 A-26 = new Color32(179,16,20,255);
+    public static readonly Color32 A-27 = new Color32(188,142,57,255);
+    public static readonly Color32 A-28 = new Color32(206,140,0,255);
+    public static readonly Color32 A-29 = new Color32(188,192,188,255);
+    public static readonly Color32 A-30 = new Color32(255,189,40,255);
+    public static readonly Color32 A-31 = new Color32(223,174,149,255);
+    public static readonly Color32 A-32 = new Color32(200,137,1,255);
+    public static readonly Color32 A-33 = new Color32(171,176,174,255);
+    public static readonly Color32 A-34 = new Color32(180,209,209,255);
+    public static readonly Color32 A-35 = new Color32(0,153,51,255);
+    public static readonly Color32 A-36 = new Color32(124,106,149,255);
+    public static readonly Color32 A-37 = new Color32(80,172,198,255);
+    public static readonly Color32 A-38 = new Color32(175,104,152,255);
+    public static readonly Color32 A-39 = new Color32(228,156,185,255);
+    public static readonly Color32 A-40 = new Color32(191,194,0,255);
+    public static readonly Color32 A-41 = new Color32(201,48,58,255);
+    public static readonly Color32 A-42 = new Color32(163,117,89,255);
+    public static readonly Color32 A-43 = new Color32(154,64,40,255);
+    public static readonly Color32 A-44 = new Color32(216,191,130,255);
+    public static readonly Color32 A-45 = new Color32(224,184,143,255);
+    public static readonly Color32 A-46 = new Color32(114,90,164,255);
+    public static readonly Color32 A-47 = new Color32(143,138,179,255);
+}
