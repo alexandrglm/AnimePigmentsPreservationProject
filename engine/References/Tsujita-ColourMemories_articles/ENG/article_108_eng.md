@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 108: Once Upon a Time... (65) I Love Thinking About Girls' Clothing Colors! *Sailor Moon R* Movie
+## Episode 108: Once Upon a Time... (65) I Love Thinking About Girls' Clothing Colors! *Sailor Moon R* Movie
 
 Monday through Tuesday this week, I went to Kyoto again (which is why I missed my Tuesday deadline (sweat)). Self-funded location scouting to mentally prepare for a certain new project. Well, the previous trip was similar (laugh). This time the director also asked me to shoot video materials for the main production, so I went and struggled with an unfamiliar movie camera.
 

@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 115: It's February Already But... New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Final Part 1)
+## Episode 115: It's February Already But... New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Final Part 1)
 
 Somehow, it's become February already!
 

@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 134: Once Upon a Time... 78 - 1994 Part 12 - *Sailor Moon S* Movie: Even More Color Carbon Blues
+## Episode 134: Once Upon a Time... 78 - 1994 Part 12 - *Sailor Moon S* Movie: Even More Color Carbon Blues
 
 I went to Kyoto again.
 

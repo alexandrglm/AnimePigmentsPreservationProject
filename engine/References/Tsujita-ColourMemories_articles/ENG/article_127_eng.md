@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 127: All 11 Episodes Were Battle Episodes! *The Tatami Galaxy* Complete!
+## Episode 127: All 11 Episodes Were Battle Episodes! *The Tatami Galaxy* Complete!
 
 Writing this manuscript in the evening of June's final day, ah, half of this year has already ended today. Tomorrow begins this year's second half.
 

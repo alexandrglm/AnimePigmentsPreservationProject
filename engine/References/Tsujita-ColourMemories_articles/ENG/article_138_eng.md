@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 138: Once Upon a Time... 82 - 1995 Part 2 - Pseudo-Digital? February
+## Episode 138: Once Upon a Time... 82 - 1995 Part 2 - Pseudo-Digital? February
 
 "Heat and cold until the equinox"
 

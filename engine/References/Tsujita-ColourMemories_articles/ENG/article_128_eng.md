@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 128: Once Upon a Time... 73 - 1994 Part 7 - *Dragon Ball Z* Blues
+## Episode 128: Once Upon a Time... 73 - 1994 Part 7 - *Dragon Ball Z* Blues
 
 The other day, I actually bought reading glasses! When I went shopping at Muji in Ikebukuro Seibu, they were selling lightweight, affordable, somewhat fashionable ones, and I couldn't help picking them up.
 

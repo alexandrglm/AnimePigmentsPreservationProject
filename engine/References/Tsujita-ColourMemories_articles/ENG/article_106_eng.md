@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 106: Somehow Escaped from the "Pirate Movie"!!
+## Episode 106: Somehow Escaped from the "Pirate Movie"!!
 
 Last week, I went to Kyoto for a bit. I walked endlessly along the Kamogawa riverbank, going upstream from Shijo all the way to Shimogamo Shrine. It was still a little too early for the autumn leaves, but I thoroughly enjoyed weekday Kyoto and the Kamogawa River. More than anything, it was just the right kind of stimulation for my heart and body, which were completely exhausted from the "pirate movie," and made for a good change of pace.
 
@@ -28,6 +28,6 @@ So sorry! That's all for today again! I'll properly get back into the swing of t
 
 And so, *Strong World ONE PIECE FILM* opens nationwide on December 12th. Please look forward to it!
 
-■Continues to Episode 107
+Continues to Episode 107
 
 (09.11.24)

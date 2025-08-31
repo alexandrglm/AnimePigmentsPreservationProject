@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 109: Once Upon a Time... (66) *Sailor Moon R* Movie
+## Episode 109: Once Upon a Time... (66) *Sailor Moon R* Movie
 ...Oh, and About *Space Battleship Yamato: Resurrection*
 
 Last weekend saw the nationwide release of *Strong World ONE PIECE FILM*, which turned into a situation far beyond our wildest imagination. From the first showings in the morning to the late-night screenings on opening day and the second day, theaters across the country were completely sold out. Seeing footage of the long lines of customers surrounding theaters who came to watch—wow, what a surprise. I knew advance ticket sales were incredible, so I personally expected "there'll probably be some lines," but I honestly hadn't imagined it would reach this scale.

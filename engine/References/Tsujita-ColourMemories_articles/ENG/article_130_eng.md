@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 130: Once Upon a Time... 74 - 1994 Part 8 - *Sailor Moon S* Movie Blues
+## Episode 130: Once Upon a Time... 74 - 1994 Part 8 - *Sailor Moon S* Movie Blues
 
 I've returned to morning-person lifestyle recently.
 

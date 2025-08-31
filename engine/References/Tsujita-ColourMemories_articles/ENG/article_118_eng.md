@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 118: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 4) "SW" Main Feature Complete Scene Color Design Notes! Part 3
+## Episode 118: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 4) "SW" Main Feature Complete Scene Color Design Notes! Part 3
 
 It's completely spring now. Tokyo apparently had its cherry blossom bloom declaration, and the buds on the cherry tree-lined street near my home are swollen to bursting. We'll soon see this year's magnificent cherry blossom tunnel.
 

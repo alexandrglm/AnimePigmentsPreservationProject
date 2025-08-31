@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 140: *The Tatami Galaxy* Color Design Notes Volume 1
+## Episode 140: *The Tatami Galaxy* Color Design Notes Volume 1
 
 Sports Day long weekend—some schools probably had athletic festivals around this time. In elementary school, I absolutely hated those "rehearsals" done the day before athletic festivals—I just couldn't stand them. Why practice everything? Is doing things properly that important? One-shot showdowns would be fine! And such.
 

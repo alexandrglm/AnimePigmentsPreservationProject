@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 126: About *NOX*
+## Episode 126: About *NOX*
 
 The rainy season has arrived, and I'm suffering from the daily mugginess. The most challenging season of the year has come.
 

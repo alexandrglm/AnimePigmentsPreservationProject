@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 122: Once Upon a Time... 70 - 1994 Part 4 - What! A Bus to "Higashikurume Station"!
+## Episode 122: Once Upon a Time... 70 - 1994 Part 4 - What! A Bus to "Higashikurume Station"!
 
 At last, *The Tatami Galaxy* began last week (Tokyo area). Did everyone get a chance to watch? For me personally, this is my first Noitamina slot since *Graveyard Kitaro* two years ago, and I'm hoping for the kind of excitement we had with *Graveyard Kitaro*.
 

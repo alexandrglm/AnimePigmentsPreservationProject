@@ -1,6 +1,6 @@
-Color Design Notes [Tsujita Kunio]
+# Color Design Notes [Tsujita Kunio]
 
-Episode 111: New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Part 1)
+## Episode 111: New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Part 1)
 
 Happy New Year!
 
