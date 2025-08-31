@@ -32,16 +32,8 @@ So, if the ending became new, maybe the opening too? (sweat) But with delays in 
 
 ...However, one day suddenly, "Sorry! We're making a new opening after all!" said the director (laugh). What a sudden about-face!
 
-<<
 
-Episode 188: *Mawaru Penguindrum* Color Design Notes - Part 15...
 
-Episode 190: *Mawaru Penguindrum* Color Design Notes - Part 17...
+Continued in Episode 190
 
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.07.24)

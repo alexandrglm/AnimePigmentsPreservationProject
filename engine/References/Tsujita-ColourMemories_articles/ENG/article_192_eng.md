@@ -36,16 +36,6 @@ Ah, it's an old man's past flashback (laugh). Happy memories, good recollections
 
 What kind of summer vacation lives do today's elementary students have? Since my wife and I don't have children, I don't really understand that part. Ah, now there are probably active extracurricular activities like soccer? Or cram school attendance? Compared to my childhood there are probably many more fun things, but still, I think summer vacation should broadcast anime for elementary students every morning!
 
-<<
+Continued in Episode 193
 
-Episode 191: *Mawaru Penguindrum* Color Design Notes - Part 18...
-
-Episode 193: Summer Vacation 2012...
-
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.08.14)

@@ -38,16 +38,6 @@ Such was the "fugu sashimi" we all worked hard on (laugh).
 
 But you know, if you're going to put "fugu sashimi" and such in the main story, well, you need realism, so research is necessary! Experience is key in anime making! You really have to actually eat it! Even just that "translucency" - real experience is necessary!! So when I work on anime featuring "fugu sashimi" next time, I must convince the higher-ups and definitely go "research" it with related staff! I thought this very, very strongly (laugh).
 
-<<
+Continued in Episode 195
 
-Episode 193: Summer Vacation 2012...
-
-Episode 195: *Mawaru Penguindrum* Color Design Notes - Part 20...
-
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.08.28)

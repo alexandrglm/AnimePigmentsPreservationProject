@@ -42,18 +42,8 @@ Now clearly revealed this time are Momoka's diary secrets, but here's another se
 
 So for this diary, we thought up content for only the pages needed for main story scenes each time and had Kagaya write them each time. Occasionally when other pages were unexpectedly needed on screen, we'd frantically think up text and order from Kagaya - this happened many times (laugh). Since we were making the diary in such an ad-hoc way (!), we didn't have text & illustrations for a full diary volume. Ah, thinking about it now, if we had properly made a full volume, we could have sold it as merchandise (laugh). There were surely many people who would have wanted it!
 
-Even so, Yamashita-kun is mysterious. Why did he invite Shoma to the hot springs? Mysterious, right? Suspicious, right?
+Even so, Yamashita-kun is mysterious. Why did he invite Shoma to the hot springs? Mysterious, right? Suspicious, right.
 
-<<
+Continued in Episode 192
 
-Episode 190: *Mawaru Penguindrum* Color Design Notes - Part 17...
-
-Episode 192: Summer Vacation 1970...
-
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.08.07)

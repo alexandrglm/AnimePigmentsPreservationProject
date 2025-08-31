@@ -48,12 +48,6 @@ Now, Episode 13's biggest worry was actually the fried chicken that appeared at 
 
 And from Episode 13 the ending changed. That story will be next time.
 
-Episode 189: *Mawaru Penguindrum* Color Design Notes - Part 16...
+Continued in Episode 189
 
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.07.17)

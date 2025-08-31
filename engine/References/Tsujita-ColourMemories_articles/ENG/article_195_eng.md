@@ -48,16 +48,6 @@ Incidentally for Episode 17, editing was August 24th. Voice recording was the fo
 
 From here on, such situations and rushes would continue every week until the final episode.
 
-<<
+Continued in Episode 196
 
-Episode 194: *Mawaru Penguindrum* Color Design Notes - Part 19...
-
-Episode 196: *Mawaru Penguindrum* Color Design Notes - Part 21...
-
->>
-
-Tweet
-
-mixi Check
-
-Color Design Notes
+(12.09.11)
