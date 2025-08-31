@@ -1,0 +1,43 @@
+# Color Design Notes [Tsujita Kunio]
+
+## Episode 182: *Mawaru Penguindrum* Color Design Notes - Part 9
+
+The new TV series *Saint Seiya Omega* that started broadcasting April 1st. Between that work, an unannounced short work, and another short-length TV series, I'm getting completely swamped, which is partly why I'm falling behind on manuscripts again. Really sorry.
+
+So that *Saint Seiya Omega* - at the end of this month, right before broadcast starts, we're doing an all-night event at a movie theater. It's become such a big thing with a world premiere and all (sweat). *Saint Seiya* is popular not just domestically in Japan but overseas too. Even so, I'm surprised! For a Toei production to do such an event before broadcast begins - hasn't that never happened before? ...A bit nervous.
+
+Even so, ah, there's really so little time left this month! We've come to the point where everyone will be able to see it soon (sweat). Everyone, please support *Saint Seiya Omega*!
+
+Now then.
+
+**Episode 7: The Woman Who Does Tamahomare** Storyboard/Matsumoto Jun (松本淳), Direction/Ichimura Tetsuo (市村徹夫), Color Direction/Tsujita Kunio
+
+At the center of the stage of the theater performance Tabuki invited her to was that woman - Yuri. And an unexpected engagement announcement. Though crushed, Ringo thinks of forceful strategies to make Tabuki hers. Shoma gets dragged into her schemes. On Shoma's back is the Tamahomare Frog. Such was Episode 7.
+
+Episode 7 was also one where I handled color direction. Episode 7 was produced around the time of the series broadcast start. As I wrote earlier, for *Mawaru Penguindrum* we had a three-person color direction system. During this period when there was still some schedule leeway, I was also in the rotation doing color direction for each episode. But after Episode 9, I was removed from color direction until the series finale. The reason being that when broadcast started and we had the tight schedule of delivering one episode per week, if I participated in color direction too, it would delay the original design work. Moreover, for this work I was properly attending from direction meetings to final checks of retakes just before delivery, so I really couldn't handle individual episode color direction anymore. But actually handling the animation and confronting it for each episode's color direction is fun, so I enjoyed working on Episode 7 too.
+
+From Episode 7, photography for the main story was handled by Graphinica.
+
+For main story photography, they created screens matching the overall texture and smoothing of animation material main lines so the screen atmosphere wouldn't change significantly from Episodes 1-6. However, while there was much matching, they simultaneously evolved into newer, more advanced screens.
+
+First, the Sunshine Opera Company stage scene. In this scene, Yuri's costume on stage has sparkling photography processing applied. This was Photography Director Ogihara's idea. While the animation costume was certainly beautifully finished, color alone wasn't quite enough. The director and I were both thinking we needed one more "sparkle." So we decided to use this for Yuri's cut in the opening that was being worked on in parallel at Sanzigen, and among the opening cuts, that Yuri full-sparkle dress cut was a collaboration cut where Ogihara applied processing to the animation (coloring) and output sequential materials, which Sanzigen then photographed.
+
+Pictogram handling began evolving from Episode 7. Fan pictograms swarming Yuri, customer pictograms in the luxury restaurant, invitation guests and waiter pictograms at the garden party - various pictogram variations began appearing in Episode 7. During direction meetings we'd continuously discuss "Do we need to create new pictograms here?" and "Should the pictograms here have gorgeous clothing?" Assistant Director Yamazaki would order these from designer Osakabe, keeping them as simple as possible.
+
+So these pictograms - we'd hand Illustrator data to photography, and photography would arrange them on screen according to direction photography instructions. Since pictograms themselves are individual fixed designs, they don't walk around like animation in-betweens, so photography creates all their movement. Horizontal and vertical movement is just sliding on screen so it's not too difficult, but depth movement from front to back seems quite challenging - in Episode 7 the movement of fan pictograms swarming toward Yuri and Yuki was apparently quite difficult. The balance between that speed feeling and animation size was delicate, and particularly the cut where Ringo gets shoved by pictograms swarming from behind required many retake re-shoots. Even so, the bouncing fan pictograms were cute. They're in my top five favorite pictograms (laugh).
+
+Pictograms were quite difficult to handle in terms of "color" too. Especially this time with the garden party scene. Originally pictograms are in a sense "visual abbreviation" - icons placed for that abbreviation. So in a sense they're not real entities. Therefore, in that meaning, it might be okay for them to stand out quite a bit.
+
+However, this scene is outdoors at night, and spatially it's not very bright except for parts where lights hit. We're placing pictograms in such an environment, but if you just plop those pure white pictograms into darkness, only the pictograms would shine and gleam in the screen, making unwanted assertions and breaking the screen and direction. So naturally we'd change (lower) the pictogram colors to match the screen darkness, but when you adjust colors to blend with spatial light and dark, they gradually become entities - actual "human-shaped boards" placed there. If that happens, wouldn't that be wrong? Photography suggested "For example, how about adding gradient shadows from the ground direction upward?" but that would create even more "board-like substance feeling," so I rejected it.
+
+In Episode 7, knowing this risk, I deliberately dropped the pictogram brightness quite realistically to match the background. I aimed for the borderline, but how was it? Whether this was acceptable for *Mawaru Penguindrum*'s screen style. Every time I rewatch Episode 7, this part bothers me (laugh). Incidentally, later in the finale's "Children's Broiler" and such, we placed pictograms somewhat brighter. While there were differences in direction intent, it was the color (brightness) of pictograms where I continuously questioned "Is this okay?"
+
+Now, one thing not to forget about *Mawaru Penguindrum* is "food." "Make food properly delicious-looking!" was *Penguindrum*'s... or rather my theme (laugh), so we had animation drawn with spirit from the rough animation stage. This time it was restaurant cuisine above all! This was a finish that could only be called magnificent. Special effects like texture from Episode 7 onward were handled by Graphinica's Yamada. That soft-looking meat and sauce shine feeling was supreme. And from this episode onward, various special effects magic would be displayed. Oh, all the monitor screen content of Ringo's laptop in the science room was also created by Yamada.
+
+That frog story in the science room (laugh). That frog's design source was one item from a "Gachapon" series called "Primary Colors Japanese Frogs" or something that I happened to have. Some day after *One Piece Film: Strong World* ended, I casually tried the gachapon machines lined up in front of the toilet on the 4th floor of Yodobashi Camera in Kichijoji or somewhere, and out came that frog. It had been sitting in front of my computer since *The Tatami Galaxy* days and was carried along to Brain's Base. So when we needed some frog reference material, that frog sitting on my desk happened to be in the spotlight (laugh). Director Shibata put it together as a character while looking at that tiny figure (is that what you call it?) (laugh).
+
+The color had an order from Director Ikuhara to "make it flashy anyway!" We created something and checked it with everyone while tweaking it, putting together flashy coloring. But wait, I feel like I've seen this somewhere... It ended up looking extremely similar to Eva Unit-01's colors. Hmm. What to do? It got an OK at the scene with a "well, I guess it's fine" feeling, but late that night the director called my cell phone. "About that, I want to do something about it after all... I mean, if it were a parody of our own work that might be okay, but if it looks like a parody of other people's work, I think that wouldn't be good for those people" - so we readjusted. The result was that Tamahomare Frog.
+
+Continued in Episode 183
+
+(12.03.21)
