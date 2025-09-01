@@ -1,7 +1,7 @@
 # Color Design Notes [Tsujita Kunio]
 ## Episode 82: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Color Design Notes (Part 3)
 
-The WBC (World Baseball Classic) is really exciting! I'm also a huge baseball fan, so I can't help but be tremendously concerned about how the games turn out. Sports really should be enjoyed via live broadcast. Just knowing the results afterward is somehow unbearable for me.
+The **WBC** ***(World Baseball Classic)*** **is really exciting!** I'm also a huge baseball fan, so I can't help but be tremendously concerned about how the games turn out. Sports really should be enjoyed via live broadcast. Just knowing the results afterward is somehow unbearable for me.
 
 But unfortunately, the preliminary game times coincided with travel between studios, or working in environments without TV or radio. Meetings can't be helped, but during travel and such, couldn't something be done? Following game progress on mobile phone news sites is also not quite right...
 
@@ -64,7 +64,6 @@ Due to the art staff's schedule, the meeting was set for 1 AM. I was pretty exha
 The idea was that since the main episodes moved incredibly densely, the opening should be solidly composed of accumulated still images. Of course, the animation would be by Umakoshi Yoshihiko. We'd mix in some cuts with movement as accents, but basically everything would be single drawings of Umakoshi's bold-lined animation.
 
 >   "The problem is finding a method that properly utilizes these animation lines,"- said the director.
-
 >   "Ah..."-I said.
 >   "Can't we make it like a poster?"
 

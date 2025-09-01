@@ -23,4 +23,5 @@ if [[ -f "$file" ]]; then
     fi
 done
 
+echo ""
 echo "D0NE!"

@@ -8,5 +8,8 @@ for f in *.md; do
         sed -i 's/■/#### /g' "$f"
         echo "FIXES APPLIED at: $f"
 
+
     fi
 done
+echo ""
+echo "D0NE!"
