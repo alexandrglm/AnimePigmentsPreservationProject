@@ -23,7 +23,11 @@ In most animation character color creation, the process is: character design get
 
 While Hasegawa would draw based on Saito Chiho's character rough drafts, actually the story wasn't a solid final version yet either - it was still a period of subtle fluctuation. So character setting directions weren't fully solidified, and character settings were still at the rough stage.
 
-So I'd add colors to settings at that stage, but how to do this work? I didn't want to start making color samples using cel paints from the beginning. As I wrote earlier, since *Utena* was home work for me, first doing cel coloring at home was super troublesome. Setting up cel paints, light boxes, drying racks - all that stuff would be a major undertaking. Moreover, if you start thinking with cel paints from the beginning, you get restricted by paint color numbers and types, potentially shackling your ideas. Furthermore, the problem of which manufacturer's paints to use. Stack or Taiyo Shikisai? Well, since it wasn't a Toei work, it would definitely be Taiyo Shikisai, and then I didn't have those paints on hand... and so on.
+So I'd add colors to settings at that stage, but how to do this work? I didn't want to start making color samples using cel paints from the beginning. As I wrote earlier, since *Utena* was home work for me, first doing cel coloring at home was super troublesome. Setting up cel paints, light boxes, drying racks - all that stuff would be a major undertaking.  
+
+Moreover, if you start thinking with cel paints from the beginning, you get restricted by paint color numbers and types, potentially shackling your ideas.  
+
+Furthermore, the problem of which manufacturer's paints to use. STAC or Taiyo Shikisai? Well, since it wasn't a Toei work, it would definitely be Taiyo Shikisai, and then I didn't have those paints on hand... and so on.
 
 Now I'd start like "well, let's scan line art into computer..." but it was 1995. While personal computers were gradually becoming usable in video and image fields, casually importing images and adding colors was still far from general use. Anime production sites were still in the analog era of cel animation supremacy.
 

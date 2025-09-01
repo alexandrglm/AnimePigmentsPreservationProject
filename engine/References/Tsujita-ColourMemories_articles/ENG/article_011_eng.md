@@ -17,7 +17,7 @@ Well then.
 
 **About paints. Did you know? Paints are "perishable goods."**
 
-**I have no idea what raw materials are actually used, but cel paints would grow mold and rot.** Stack paints especially were thoroughly "perishable goods."
+**I have no idea what raw materials are actually used, but cel paints would grow mold and rot.** STAC paints especially were thoroughly "perishable goods."
 
 **When you go to art supply stores in town, sometimes they sell animation cels and cel paints.** The cel paints sold there come in tiny small bottles, but for our work painting purposes, those are definitely too small (laughs). We use bigger small bottles. Glass bottles about the size of small coffee cans, or slightly shorter poly bottles with thicker circumferences, filled with paints and arranged around each person's painting desk for easy use. **These small bottles of paint sometimes set various traps waiting for us (laughs).**
 

@@ -1,4 +1,5 @@
 #!/bin/sh
+
 # las fechas, juan, las fechas
 
 for f in *.md; do
@@ -20,9 +21,5 @@ for f in *.md; do
         fi
     else
         echo "[WARN] $f has DIFFERENT ENDING!!!"
-
     fi
-
 done
-echo ""
-echo "D0NE!"

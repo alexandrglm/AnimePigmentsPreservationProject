@@ -9,13 +9,13 @@
 
 Well then.
 
-**Having joined Toei Doga, I inevitably had to deal with Stack color paints whether I liked it or not.**
+**Having joined Toei Doga, I inevitably had to deal with STAC color paints whether I liked it or not.**
 
 **Toei Doga divided paints into three groups.**
 
 **First, about 120 colors for regular TV works.** Next, about 70 special colors for theatrical works called **"X (Ekkusu) colors."** And about 70-plus special colors for American "collaborative works" called **"A colors"** (numbered like "A-1").
 
-**TV work basic colors had about 5 gradation levels for each color,** organized as a super-average, well-balanced chart that could be used for any work. I once heard that Toei Doga's art department decided this chart saying "Like this..." and Stack made paints according to it, but I'm not sure about that since I never confirmed it (laughs).
+**TV work basic colors had about 5 gradation levels for each color,** organized as a super-average, well-balanced chart that could be used for any work. I once heard that Toei Doga's art department decided this chart saying "Like this..." and STAC made paints according to it, but I'm not sure about that since I never confirmed it (laughs).
 
 **"X colors" were gradually added as needed when making theatrical works, since TV basic colors alone weren't sufficient.** Incidentally, several colors numbered "X-51" and above were exceptions - when we took over collaborative works that other companies had been handling, these were colors formulated to match Taiyo Shikisai paints, so these exceptionally had compatibility with Taiyo colors. For example, "X-54" was like Taiyo Shikisai's "200G."
 

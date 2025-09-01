@@ -2,7 +2,6 @@
 
 for f in *.md; do
     if grep -q '^>' "$f"; then
-        echo "QUOTES FOUND: $f"
+        echo "Citas encontradas en: $f"
     fi
 done
-
