@@ -15,7 +15,7 @@ First, let me start with the "bonus" notes.
 
 *The Tatami Galaxy* was decided from the beginning to have 11 episodes for the main story, but additionally, production of a "side story" for DVD & Blu-ray bonus content equivalent to one TV-length episode was decided. It ultimately became three short films, but we in production called it "Episode 12" as work progressed. Schedule-wise, we made it immediately after working on the main story's final episode without a break. "Since it's just a 'bonus,' keep it light," said Director Yuasa. It has quite a different feel from the main story. Incidentally, I did the color direction myself. Three different styles, like independent films shown at school festivals - it was very interesting!
 
-## Bonus Episode 1 (Episode 12-2): Underground Submarine to Antarctica
+#### Bonus Episode 1 (Episode 12-2): Underground Submarine to Antarctica
 
 Storyboard/Direction/Animation: Mihara Michio, Color Direction: Tsujita Kunio
 
@@ -25,7 +25,7 @@ In the main TV series, character skin was basically colorless "white," but in th
 
 These three "bonus" episodes had color restrictions: Natsume-san's second one was "pink" or rather "red," Miyazawa-san's third one was "black and white," and this first one by Mihara-san was "blue." Otsu appears as an octopus monster, and initially Mihara-san ordered "pinkish." A pink octopus in a blue-white world. However, when we actually placed the color, it didn't settle well. So ultimately, the Otsu octopus also became blue. I quite like this blue Otsu octopus.
 
-## Bonus Episode 2 (Episode 12-3): Underground Submarine to Women's Bath ~Boudoir Investigation Team Pink Exploration~
+#### Bonus Episode 2 (Episode 12-3): Underground Submarine to Women's Bath ~Boudoir Investigation Team Pink Exploration~
 
 Storyboard/Direction/Animation: Natsume Shingo, Color Direction: Tsujita Kunio
 
@@ -35,7 +35,7 @@ Actually, pink is quite difficult to create on PC monitors and doesn't display t
 
 Like Mihara-san's, this subtly incorporates the atmosphere of "The Night Is Short, Walk on Girl." Both feature a character called "Rihaku." Plus "God of the Used Book Market" also appears.
 
-## Bonus Episode 3 (Episode 12-1): Love and Fishing Underground Submarine
+#### Bonus Episode 3 (Episode 12-1): Love and Fishing Underground Submarine
 
 Storyboard/Direction/Animation: Miyazawa Yasunori, Color Direction: Tsujita Kunio
 
@@ -53,7 +53,7 @@ So from there, we spent several hours repainting all the finished cels (laugh). 
 
 ...And that ends the "bonus" talk. Now, let's go straight to the main story until the end!
 
-## Episode 9: Secret Organization "Lucky Cat Restaurant"
+#### Episode 9: Secret Organization "Lucky Cat Restaurant"
 
 Storyboard/Direction: Yokoyama Akitoshi, Animation Director: Makihara Ryotaro, Color Direction: Saito Mayu
 
@@ -69,7 +69,7 @@ Since it's a summary episode, many past scenes and cuts appear dizzingly. Howeve
 
 "You must not use the word 'possibility' indefinitely." "Being captivated by things that don't exist leads nowhere. Placing hope in unreliable things like your other possibilities is the root of all evil." "You must acknowledge yourself as unable to become anything other than who you are here and now." These are Master Higuchi's words at early morning Kamogawa Delta, in response to "I's" wandering and troubled questioning. I think this scene is a major pillar of this work. The gentle Kamogawa background with a slight blue tint in the black and white monotone foundation, and the blue tint of Master Higuchi's scarf created a truly transparent and beautiful screen. It's my favorite scene.
 
-## Episode 10: Four-and-a-Half-Mat-ist
+#### Episode 10: Four-and-a-Half-Mat-ist
 
 Storyboard/Direction: CHOI EUNYOUNG, Animation Directors: Ito Nobutaka & Ishihama Masashi, Color Direction: Suzuki Hisae
 
@@ -83,7 +83,7 @@ Using the massive photo materials shot in that room, every cut was a collage sto
 
 Meanwhile, for colors, we decided basically not to change them after being confined. However, there was a slight communication miss, or rather confirmation miss, between me and Unyoung-san. I intended to go normal, but Unyoung-san was thinking monochrome tone. Normal is very monochrome tone-ish, but actually has proper colors in it. When cels started coming up and several rushes came up, this problem was discovered. We hurriedly corrected the cels. Really, I was truly sorry > everyone involved
 
-## Episode 11 (Final Episode): The End of the Four-and-a-Half-Mat Era
+#### Episode 11 (Final Episode): The End of the Four-and-a-Half-Mat Era
 
 Storyboard/Direction: Yuasa Masaaki, Animation Director: Ito Nobutaka, Color Direction: Akimoto Yuki
 

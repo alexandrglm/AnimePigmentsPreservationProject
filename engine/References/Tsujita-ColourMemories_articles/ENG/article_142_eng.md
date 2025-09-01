@@ -19,7 +19,7 @@ Anyway.
 
 This week's "*The Tatami Galaxy* Color Design Notes" continues. Episodes 6-8 from DVD & Blu-ray Volume 3, finally entering the second half.
 
-## Episode 6: English Conversation Circle "Joy English"
+#### Episode 6: English Conversation Circle "Joy English"
 
 Storyboard/Direction: Natsume Shingo, Animation Directors: Nishigaki Shoji & Asano Naoyuki, Color Direction: Otsuka Natsuko
 
@@ -39,7 +39,7 @@ The "brain conference" - I was already laughing when I first received the charac
 
 And "Johnny." First there was the animation character design, then we decided colors like other characters, then had it made into Flash.
 
-## Episode 7: Circle "Hero Show Enthusiasts"
+#### Episode 7: Circle "Hero Show Enthusiasts"
 
 Storyboard/Direction/Animation Director: Mihara Michio, Color Direction: Suzuki Hisae
 
@@ -57,7 +57,7 @@ From when he embraces Kaori-san and flees under the Kamogawa bridge, we actually
 
 Incidentally, the Mochiguman show at the opening scene, with children's "Reform yourself!" chants. This might be scarier than "Honwaka" depending on how you think about it (laugh). Oh yes, about the Mochiguman in the Mochiguman show - originally there are five colors and five bodies, but actually only four appear in this scene. But there are five colors. Why did this happen? There was some reason for it, but...
 
-## Episode 8: Reading Circle "SEA"
+#### Episode 8: Reading Circle "SEA"
 
 Storyboard: Shimizu Hiroshi, Direction: Fujise Jun'ichi, Animation Director: Ito Nobutaka, Color Direction: Akimoto Yuki
 

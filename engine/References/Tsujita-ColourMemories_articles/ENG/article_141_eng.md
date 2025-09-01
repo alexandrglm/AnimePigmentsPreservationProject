@@ -13,7 +13,7 @@ Anyway.
 
 This week's "*The Tatami Galaxy* Color Design Notes" continues. Episodes 3-5 from DVD & Blu-ray Volume 2.
 
-## Episode 3: Cycling Club "Soleil"
+#### Episode 3: Cycling Club "Soleil"
 
 Storyboard/Direction/Animation Director: Makihara Ryotaro, Animation Director: Asano Naoyuki, Color Direction (色指定): Otsuka Natsuko
 
@@ -33,7 +33,7 @@ The color direction (色指定) for Episode 3 was done by Otsuka Natsuko-san. Sh
 
 In Episode 3, there's one scene - well, it's not a failure, but I have some regrets about it - the scene with "I" and Akashi-san during the race at Keage. It's the scene at the magnificent Incline with cherry blossoms. Director Yuasa apparently wanted this to be like the evening scenes in Tadasu Forest used in Episodes 1 and 2, but that would have been problematic timing-wise, so it ended up being a daytime scene. However, to make it a "special scene," we made the main lines pink and finished it in colors that felt pink-purple. But looking back now, ah, I should have gone more boldly with the coloring. From that reflection, or lesson, came the pink-tinted coloring for "I" and Akashi-san that appeared several times from Episode 4 onward - hair also made pink, becoming the pink version of Episode 1's evening colors.
 
-## Episode 4: Seeking Disciples
+#### Episode 4: Seeking Disciples
 
 Storyboard/Direction: Yokoyama Akitoshi, Animation Director: Ito Nobutaka, Color Direction: Suzuki Hisako
 
@@ -53,7 +53,7 @@ Incidentally, the master's hammock was actually animation, and we pasted in chiy
 
 Oh yes, the pink coloring for "I" and Akashi-san I wrote about in the Episode 3 section appears in the scene where "I" and Akashi-san, who were wandering in search of the phantom scrub brush, meet at Nishiki Market.
 
-## Episode 5: Softball Circle "Honwaka"
+#### Episode 5: Softball Circle "Honwaka"
 
 Storyboard: Hamasaki Hirofumi, Direction: Takahashi Tomoya, Animation Director: Ishihama Masashi, Color Direction: Akimoto Yuki
 
