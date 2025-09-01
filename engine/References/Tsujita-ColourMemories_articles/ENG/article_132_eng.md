@@ -43,6 +43,4 @@ But such worries proved groundless—while there were some correction notes, bas
 
 Now main feature work could start... but this color carbon proved more troublesome than imagined.
 
-■Continues to Episode 133
-
 *(10.08.03)*

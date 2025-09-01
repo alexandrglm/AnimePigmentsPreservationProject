@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 27: Special Episode - My Personal Best Theatrical Anime This Summer**
 
 This series has actually exceeded 26 episodes. In TV terms, that's 2 cours! Though I've taken breaks occasionally, man, this is wonderful. I'm amazed at myself (laughs).
@@ -52,7 +52,5 @@ By the way, though not anime, I also saw the movie "Transformers." Man, this was
 Just having it transform, stand up, and say "I am Optimus Prime" (in English) was already the best! For us who made the anime version as collaborative work, it's "Optimus Prime," not "Convoy (コンボイ)" (laughs).
 
 But man, magnificent transformation! Transformation scenes that should have been possible only through "anime lies" going "shaki-shaki-shakin!" so naturally - the world really is anything-goes now (laughs).
-
-## **■Continues to Episode 28**
 
 *(07.09.04)*

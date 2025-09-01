@@ -33,6 +33,4 @@ Since it was a story the original creator put out as "Use this!" we animation fo
 
 Release was first week of December. To achieve that, completion was necessary by mid-November. Work on this midwinter story of dancing snow and ice getting serious would begin in the thick of late summer heat, late August.
 
-■Continues to Episode 131
-
 *(10.07.21)*

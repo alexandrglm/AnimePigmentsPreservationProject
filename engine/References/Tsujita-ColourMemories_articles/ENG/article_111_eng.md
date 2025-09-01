@@ -59,6 +59,4 @@ Computer monitors and printed paper naturally have completely different color re
 
 After waiting several days, the long-awaited response from Oda-sensei came back. But...
 
-■Continues to Episode 112
-
 *(10.01.05)*

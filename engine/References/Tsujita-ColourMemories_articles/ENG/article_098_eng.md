@@ -51,6 +51,4 @@ For this warship, close-ups of interiors and deck were background paintings, but
 
 After somehow rescuing Coo from such warships, when humans fire at him, Coo separates from Yosuke and others, departing into the ocean. And Yosuke and others develop protest actions to prevent nuclear testing in waters where Coo's tribe is thought to live. The story heads toward its finale.
 
-■ Continued in Episode 99
-
 *(09.08.11)*

@@ -61,6 +61,4 @@ These Print 0 screenings were held at Toei-affiliated processing lab Toei Chemic
 
 From 1990 through 1991, OVA-centered days continued like this.
 
-■ Continued in Episode 57
-
 *(08.06.18)*

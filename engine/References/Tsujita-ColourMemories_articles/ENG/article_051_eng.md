@@ -13,13 +13,13 @@ Well then.
 
 After Haraguchi-san's interview, I felt like I hadn't talked enough (laugh), and at the same time, I thought it might be good to write down somewhere all the various things that I'm forgetting. So suddenly, this time is a color design-style episode commentary for *Hakaba Kitaro*.
 
-## Episode 1: Kitaro's Birth - Storyboard/Chioka Hirotoshi, Direction/Hatano Kohei, Color Direction/Tsujita
+#### Episode 1: Kitaro's Birth - Storyboard/Chioka Hirotoshi, Direction/Hatano Kohei, Color Direction/Tsujita
 
 I also handled color direction for episode 1. For series works where I'm entrusted with design, I ask to handle episode 1 color direction myself unless there are production issues. That's because there are many things you can't understand without doing color direction yourself. Especially for newly starting works. Beyond what I anticipated at the design stage, various problems and points of attention emerge.
 
 So, episode 1. What was most frustrating was the opening night scene with Mizuki in pajamas. The colors just wouldn't come out (bitter laugh). That scene was planned to go with blue-toned night colors and I designed and directed colors accordingly, but when photographed, the blue tones were beautifully suppressed and it became almost gray monotone. I had the photography team reshoot it two or three times, but it still didn't work. "So you're that kind of troublemaker, this filter!" I cursed the mysterious characteristics of the "Hakaba filter" (bitter laugh).
 
-## Episode 2: Yasha vs. Dracula IV - Storyboard & Direction/Kakudo Hiroyuki, Color Direction/Akimoto Yuki
+#### Episode 2: Yasha vs. Dracula IV - Storyboard & Direction/Kakudo Hiroyuki, Color Direction/Akimoto Yuki
 
 This episode's production was quite last-minute, a difficult birth spanning the New Year. Dark clouds began gathering with talk that photography was incredibly difficult and taking too much time—this was episode 2. With the bonus that Yasha was all CG processing (bitter laugh). But the finished result was beautifully balanced.
 
@@ -27,7 +27,7 @@ For Yasha's colors, I had them output one CG model as Photoshop data, I colored 
 
 For *Hakaba Kitaro*, we created a "simple conversion filter" for color direction from the photography filters & textures (let's call it the "Hakaba filter"), and advanced color direction while placing this on cels. This simple filter couldn't be used with old Photoshop versions. So we hurriedly had color director Akimoto-san's machine updated with the latest version. I heard they also got a new machine while they were at it. Thanks to *Hakaba Kitaro* (laugh).
 
-## Episode 3: Vampire Tree - Storyboard & Direction/Ueda Hidehito, Color Direction/Kojima Akihiro
+#### Episode 3: Vampire Tree - Storyboard & Direction/Ueda Hidehito, Color Direction/Kojima Akihiro
 
 For *Hakaba Kitaro*, we asked production company A-LINE to handle gross production for episodes 3 and 9. So episode 3 actually had very proper scheduling. However, previous episode photography was incredibly delayed, so we had them wait quite a bit.
 
@@ -35,7 +35,7 @@ In episodes 1 and 2, I had assembled detailed special coloring according to scen
 
 Instead, for scenes like Shigei's "transformation" in the theater, I told the color director "Up to you!" (laugh). But Kojima-san perfectly hit the mark and built it up. Thank you!
 
-## Episode 4: Neko - Storyboard & Direction/Nakamura Tetsuji, Color Direction/Sakuma Yoshiko
+#### Episode 4: Neko - Storyboard & Direction/Nakamura Tetsuji, Color Direction/Sakuma Yoshiko
 
 When you say "cats," it's color director Sakuma-san (laugh). At Toei, production tends to dislike having multiple color directors rotating through one series. But I pushed and had Sakuma-san participate. This created a three-team system: Akimoto = Sakuma = gross production episodes. Otherwise, one person handling such heavy weekly work would be impossible.
 
@@ -49,7 +49,7 @@ The note about background characters in *Hakaba Kitaro* was "brown hair is NG." 
 
 For the latter half bridge scene, I actually made a mistake with Neko's sunset color balance at the design stage. The broadcast version stayed subtle, but we've corrected it for the DVD.
 
-## Episode 5: False Kitaro - Storyboard/Chioka Hirotoshi, Direction/Hatano Kohei, Color Direction/Akimoto Yuki
+#### Episode 5: False Kitaro - Storyboard/Chioka Hirotoshi, Direction/Hatano Kohei, Color Direction/Akimoto Yuki
 
 Neko who went to hell has white-outlined visuals in the original too, but wanting to make it slightly more alien—or having an atmosphere of going "over there"—I tried softening shadow boundary lines with Paintman coloring software brush processing. This was quite good, I think—shameless self-praise (laugh).
 
@@ -59,7 +59,7 @@ This episode was the end of the "Neko arc" and the first half of *Hakaba Kitaro*
 
 When I finished up to here, there was a strange sense of relief like "Ah, it's fine now." The worldview of *Hakaba Kitaro* that we'd advanced by trial and error somehow fit well with me.
 
-## Episode 6: Water God - Storyboard & Direction/Ishiguro Iku, Color Direction/Makabe Genta
+#### Episode 6: Water God - Storyboard & Direction/Ishiguro Iku, Color Direction/Makabe Genta
 
 Episode 6 was produced by Studio Doga Kobo. From this episode, it gradually becomes more omnibus-like. Kitaro with a somewhat "vacant" feeling. Visually, the screen filter was changed to white-based, changing the atmosphere from episodes 1-5.
 
@@ -67,7 +67,7 @@ However, was the color direction data changed? Not at all—we used the same dat
 
 The Water God sphere appearing over Ginza (?) had its color atmosphere provided by me, with the rest being photography director Iribe-san's technique. Tanks, fighter planes, great floods—*Hakaba Kitaro*'s biggest spectacle episode. Work-wise, it was also a difficult episode. Anyway, it was an episode with tons of characters without character settings, and I'm endlessly grateful to the color director who handled all those background characters well.
 
-## Episode 7: Werewolf and Ghost Train - Storyboard & Direction/Shibata Hiroki, Color Direction/Sakuma Yoshiko
+#### Episode 7: Werewolf and Ghost Train - Storyboard & Direction/Shibata Hiroki, Color Direction/Sakuma Yoshiko
 
 The famous episode "Ghost Train." I was mostly hands-off with this one too (laugh). I left it to Sakuma-san (laugh).
 
@@ -75,7 +75,7 @@ For the ghost train interior, since many cuts were animation, I created colors f
 
 But what was still difficult was reflection-type color direction. The flame reflection in the scene burning the Water God couldn't create good colors, clashing with the "Hakaba filter." That was a bit disappointing (bitter laugh). Like the sunset colors in episode 5, trying to shift colors toward orange didn't reflect well—that was one characteristic of the "Hakaba filter."
 
-## Episode 8: Strange Number One Match - Storyboard & Direction/Kakudo Hiroyuki, Color Direction/Akimoto Yuki
+#### Episode 8: Strange Number One Match - Storyboard & Direction/Kakudo Hiroyuki, Color Direction/Akimoto Yuki
 
 By this point, except for rough settings I provide, it's mostly "Please handle it, color directors!" (laugh). The "ha-hi-fu-he-ho" ghosts were all thought up by the color directors.
 
@@ -83,7 +83,7 @@ The fireball reflection at the opening went well—more shameless self-praise (l
 
 The white coloring of Murata and Kanemaru in the pitch-black world with the "Guide" uses the same color construction as episode 5's white Neko. That "Guide" color came from director Chioka and Yamamuro-san's words "something raw-like" (laugh). Still, the "Guide"—both design and movement are supreme! (laugh).
 
-## Episode 9: Johnny in the Fog - Storyboard & Direction/Ueda Hidehito, Color Direction/Kojima Akihiro
+#### Episode 9: Johnny in the Fog - Storyboard & Direction/Ueda Hidehito, Color Direction/Kojima Akihiro
 
 The curry scene with the Prime Minister. Due to the "Hakaba filter," apparently delicious colors wouldn't come out easily, and the color director worried considerably. Finally, they had it shot with colors overlaid again during photography.
 
@@ -91,7 +91,7 @@ The dissolved Kitaro processing is basically the same as the body fluid processi
 
 This episode also had many night scenes. In *Hakaba Kitaro*, we got through almost all episodes with just variations like outdoor night colors → night color 1, indoor night colors without light sources → night color 2. For episode 9 too, meetings were just like "This scene is 'night 1'" and beyond that, I mostly left everything to the color directors (laugh).
 
-## Episode 10: Brigadoon - Storyboard/Sato Jun'ichi, Direction/Hatano Kohei, Color Direction/Sakuma Yoshiko
+#### Episode 10: Brigadoon - Storyboard/Sato Jun'ichi, Direction/Hatano Kohei, Color Direction/Sakuma Yoshiko
 
 The episode that recorded high ratings (laugh).
 
@@ -99,7 +99,7 @@ Initially, I was thinking of desaturating character colors too for the daydream-
 
 The various monsters also had character designer Yamamuro-san and animation supervisor Hakamada-san carefully create character settings for almost everything, allowing proper decisions, which was very helpful. So actually, while the volume was large, it was relatively easy color direction-wise.
 
-## Episode 11: Foolish Man - Storyboard & Direction/Chioka Hirotoshi, Color Direction/Akimoto Yuki
+#### Episode 11: Foolish Man - Storyboard & Direction/Chioka Hirotoshi, Color Direction/Akimoto Yuki
 
 Actually, I initially planned to do color direction for this final episode myself. But I thought it might work better to ask Akimoto-san, who had handled several episodes already. Absolutely correct (laugh). Really, interesting screens were created.
 
@@ -114,7 +114,5 @@ This is about it for episode commentary and notes.
 Being a short decisive battle escape-type series of just 11 episodes, it became one of the few works where I could give full effort comprehensively. I don't think there will be many works like this, before or after. Being able to participate in such a work was very fortunate, and we achieved good results too—it was great.
 
 And with that, *Hakaba Kitaro* ends (laugh).
-
-■ Continued in Episode 52
 
 *(08.05.13)*

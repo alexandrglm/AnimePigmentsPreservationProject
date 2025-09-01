@@ -43,6 +43,4 @@ As always, my scene-by-scene color design is strictly framework, strictly bluepr
 
 So please enjoy *The Tatami Galaxy* with that "color" aspect as one highlight too.
 
-■Continues to Episode 125
-
 *(10.05.25)*

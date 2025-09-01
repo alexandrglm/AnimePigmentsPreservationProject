@@ -45,6 +45,4 @@ All 13 episodes made over about 2 years (come to think of it, there was also a t
 
 While juggling multiple concurrent projects at the time, I feel this was a work where I could create very fulfillingly. At the same time, it was a work where I can now say "Ah, I grew quite a bit (laugh)."
 
-■ Continued in Episode 56
-
 *(08.06.10)*

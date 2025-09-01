@@ -51,6 +51,4 @@ Unfortunately, it's basically broadcasting in the Kanto local slot, and the netw
 
 In any case, please look forward to it!
 
-■ Continued in Episode 38
-
 *(08.01.08)*

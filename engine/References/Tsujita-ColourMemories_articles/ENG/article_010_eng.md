@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 10: Special Episode... I'm in Seoul**
 
 **Since yesterday (Monday), I've been in Seoul, Korea.** For meetings regarding the work I'm currently participating in, *Taichi Senjimon (太極千字文)*.
@@ -24,7 +24,5 @@
 **This *Taichi Senjimon* broadcast in Japan is still undecided, but I hope broadcast in Japan gets decided soon.**
 
 **So sorry, this time was such a Seoul business trip diary (sweat).**
-
-## **■Continues to Episode 11**
 
 *(07.03.13)*

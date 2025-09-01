@@ -87,6 +87,4 @@ Having defeated Hades and saved the earth's crisis, where will Athena and the Sa
 
 "I don't know when it will be..." After the final episode staff first screening ended, producer Obara-kun said in his greeting. "I want to do it again! *Saint Seiya*!" I want to wait for that day.
 
-■ Continued in Episode 62
-
 *(08.08.07)*

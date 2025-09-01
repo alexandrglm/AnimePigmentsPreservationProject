@@ -49,6 +49,4 @@ Well, such were the various things I thought about vaguely while eating deliciou
 
 Oh, speaking of which, back during *Doremi*, when Nagamine-kun was going to direct Ai-chan's hometown story, he actually went on "self-funded research" to Tennoji in Osaka. I remembered such things while eating kushikatsu under Tsutenkaku (laughs).
 
-■ Continued in Episode 74
-
 *(08.12.26)*

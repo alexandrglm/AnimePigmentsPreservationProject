@@ -35,6 +35,4 @@ And the climax was the yellow dragon's descent! Hmm, truly, story material was e
 
 And in such circumstances, that day finally came. The end of *Dragon Ball's* serialization in Weekly Shonen Jump magazine was decided.
 
-To be continued in Episode 149
-
 *(10.12.14)*

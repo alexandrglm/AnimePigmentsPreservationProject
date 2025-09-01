@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 1: What are Color Design and Color Direction?**
 
 **Nice to meet you.** My name is **Tsujita Kunio (辻田邦夫)**. I work in **color design** and **color direction**.
@@ -26,8 +26,6 @@ Then you meet with **[color direction]** and request actual color instructions. 
 After having the colors specified this way, **[painting]** paints them, and then **[inspection]** checks whether the painted results are correct. This is roughly the **[finishing]** process. Then those OK cels are passed to **[photography]** for filming.
 
 Well, I've explained it simply, but from next time I'll go into more depth.
-
-## **■Continues to Episode 2**
 
 ---
 

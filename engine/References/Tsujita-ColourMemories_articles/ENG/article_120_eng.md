@@ -45,6 +45,4 @@ The cel and film full analog era. Moreover, complex photography takes that much 
 
 In today's digital era, you can simulate on your own computer monitor, so screens can generally be built to strike zone feeling, but 1994 was still an era with no hint of such a convenient world's arrival.
 
-■Continues to Episode 121
-
 *(10.04.06)*

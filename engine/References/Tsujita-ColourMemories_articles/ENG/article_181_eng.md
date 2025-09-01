@@ -37,6 +37,4 @@ Making screens like the frog park while simultaneously making screens more gag-l
 
 The pink color tone of the final "first night in progress" scene under the floor of Tabuki's apartment was created imagining a somewhat seedy Showa-era love hotel (laugh). I requested this during the art board meeting. Ah, this might be why *Mawaru Penguindrum* gets called a "Showa anime" in some quarters (laugh).
 
-Continued in Episode 182
-
 *(12.03.07)*

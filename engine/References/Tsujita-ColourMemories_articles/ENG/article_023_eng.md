@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 23: Once Upon a Time... (18) *Saint Seiya* Part 5 - Things I Was Taught, Things I Learned Through Skin and Body**
 
 I'm moving. The apartment where I've lived with my wife for 7 years has become too cramped, so we're moving to a slightly larger place.
@@ -40,7 +40,5 @@ Not just being taught hand-by-hand, but accumulating many experiences like this 
 The popular *Saint Seiya* led to theatrical release. Production of the second theatrical work ***Saint Seiya: The Heated Battle of the Gods*** was decided. Unfortunately I couldn't participate in the first theatrical version, but this time I could participate properly. And Director: **Yamauchi Shigeyasu**.
 
 Here comes Yamauchi-san!
-
-## **■Continues to Episode 24**
 
 *(07.07.24)*

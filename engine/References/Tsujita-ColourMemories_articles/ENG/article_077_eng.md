@@ -45,6 +45,4 @@ I've never read a travel guide so thoroughly from corner to corner, before or si
 
 A very useful guidebook. It became the first overseas travel guidebook I ever bought in my life. However, I still haven't been able to visit the places introduced in this book.
 
-■ Continued in Episode 77
-
 *(09.01.28)*

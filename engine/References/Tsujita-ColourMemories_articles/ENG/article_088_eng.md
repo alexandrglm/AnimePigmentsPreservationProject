@@ -77,6 +77,4 @@ Thus *Coo: Far From Home* was able to establish a system for creating "colors" u
 
 And finally we'd enter the real production of main episode screens.
 
-■ Continued in Episode 89
-
 *(09.04.21)*

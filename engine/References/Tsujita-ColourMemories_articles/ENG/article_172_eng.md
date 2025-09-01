@@ -29,6 +29,4 @@ Somehow, such things are emotional.
 
 This *Mawaru Penguindrum* I'm working hard on now might also influence someone's future? Maybe years later, someone will say "I watched *Mawaru Penguindrum*, got hooked, and entered this industry..." (laugh).
 
-To be continued in Episode 173
-
 *(11.10.18)*

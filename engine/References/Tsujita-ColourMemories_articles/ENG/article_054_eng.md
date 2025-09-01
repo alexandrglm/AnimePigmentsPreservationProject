@@ -49,6 +49,4 @@ With surgery decided but waiting for bed availability until the hospitalization 
 
 This was around the 1990 rainy season (laugh).
 
-■ Continued in Episode 55
-
 *(08.06.04)*

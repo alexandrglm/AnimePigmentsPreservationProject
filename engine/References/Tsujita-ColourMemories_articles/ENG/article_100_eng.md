@@ -75,6 +75,4 @@ Was I already at Toei Doga then? (laughs)
 
 These works are all important to me - I actually still have their color direction sheets preserved at my parents' house (laughs). Including experiences, these color direction sheets are all my little treasures.
 
-■ Continued in Episode 101
-
 *(09.09.01)*

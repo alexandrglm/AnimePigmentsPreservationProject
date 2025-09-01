@@ -25,6 +25,4 @@ So I'll probably remain captured by pirates a while longer, please forgive me (t
 
 Such theatrical *ONE PIECE FILM STRONG WORLD* opens December 12th! Please look forward to it!
 
-■ Continued in Episode 105
-
 *(09.10.27)*

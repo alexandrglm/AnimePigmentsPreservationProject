@@ -29,6 +29,4 @@ Having received lots of courage and lots of harsh opinions about color direction
 
 And then, several days later. I was in Narita Airport's departure lobby again. This time, heading to Seoul, Korea!
 
-To be continued in Episode 145
-
 *(10.11.09)*

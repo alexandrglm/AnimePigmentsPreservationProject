@@ -41,6 +41,4 @@ But still, detailed areas show roughness throughout the screen. Myself feeling l
 
 Though I was like that, there was another reason for "not remembering very well" the difficult aspects... While handling TV series *Neighborhood Story* color design in parallel, currently in enthusiastic crunch for theatrical *Sailor Moon SuperS*. And amazingly, preparation for two more theatrical works plus another different job had started. That was November 1995.
 
-To be continued in Episode 162
-
 *(11.03.29)*

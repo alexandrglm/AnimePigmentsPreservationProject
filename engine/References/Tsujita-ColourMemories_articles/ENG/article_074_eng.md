@@ -75,6 +75,4 @@ But well, in this short life, I want to live this year to the fullest too, yes (
 
 So please treat me well this year too! (^_^)
 
-■ Continued in Episode 75
-
 *(09.01.06)*

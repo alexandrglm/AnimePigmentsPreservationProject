@@ -77,6 +77,4 @@ Generally, it's common to add color processing by applying filters to the entire
 
 This work increased more and more in subsequent episodes, and I actually handled everything single-handedly until the final episode. But you know, it was enjoyable work! As a designer (設計), you delegate each episode to the assigned color direction staff, so you can't really directly touch the main footage to participate in each episode yourself. Being able to touch the screen like this without infringing on the color direction staff's work divisions made me very happy.
 
-To be continued in Episode 143
-
 *(10.10.26)*

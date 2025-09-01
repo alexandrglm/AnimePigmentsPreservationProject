@@ -41,6 +41,4 @@ I think we created a good feeling for the rapid series of scenes riding on Yosuk
 
 As a postscript, considerably after the release, when *Coo: Far From Home* was broadcast on Nippon Television, this "attack scene" was beautifully pitch black (laughs). It really wasn't visible on TV.
 
-■ Continued in Episode 98
-
 *(09.08.04)*

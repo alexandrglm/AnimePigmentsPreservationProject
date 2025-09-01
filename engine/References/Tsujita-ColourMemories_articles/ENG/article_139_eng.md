@@ -39,6 +39,4 @@ Well, generally proceeding with decisions and meetings in such flow each time.
 
 Since the introduction got long, that's all for this time. Next time diving into individual episode notes.
 
-■Continues to Episode 140
-
 *(10.10.05)*

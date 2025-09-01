@@ -69,6 +69,4 @@ This is still just the first part of my work. The real battle is color direction
 
 To be continued next time!
 
-■ Continued in Episode 71
-
 *(08.11.18)*

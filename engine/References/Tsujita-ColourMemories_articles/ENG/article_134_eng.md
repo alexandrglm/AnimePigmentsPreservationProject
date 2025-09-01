@@ -49,6 +49,4 @@ For works like *Dragon Ball Z* with solid, tough animation, it wouldn't matter m
 
 Watching the preview screening while brooding over such things was *Sailor Moon S* movie.
 
-■Continues to Episode 135
-
 *(10.08.18)*

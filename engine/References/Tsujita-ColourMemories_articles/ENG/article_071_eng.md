@@ -53,6 +53,4 @@ So anyway, I managed to give final approval to all cuts about 12 hours before wr
 
 The short film *GeGeGe Festival! The Five Great Kitaros* and *GeGeGe no Kitaro the Movie: Japan Explodes!!* - just over 2 weeks until everyone can see them (oh, there seems to be an advance screening next weekend). Please look forward to it!
 
-■ Continued in Episode 72
-
 *(08.12.02)*

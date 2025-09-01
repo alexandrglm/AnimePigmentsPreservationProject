@@ -33,6 +33,4 @@ Recently we properly did "purification" prayers for the program's hit and, since
 
 So please favor *Ghost Stories Restaurant* among this fall's anime.
 
-■ Continued in Episode 102
-
 *(09.09.08)*

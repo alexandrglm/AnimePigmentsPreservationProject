@@ -27,6 +27,4 @@ Like that, calendar was delivered before autumn equinox in a rush. Afterward, "V
 
 But that was brief. Strategy guide work finally began. December was already enthusiastically working on both parallel *Neighborhood Story* and the next theatrical work. The "Dragon Quest VI" that finally reached me had no time to play (cry).
 
-To be continued in Episode 164
-
 *(11.04.19)*

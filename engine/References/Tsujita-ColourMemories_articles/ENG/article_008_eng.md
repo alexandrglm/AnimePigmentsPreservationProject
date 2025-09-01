@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 8: Once Upon a Time... (6) Cel Paints Have a Sweet Fragrance That's Wonderful**
 
 **The other day I went to see the movie "Bubble he GO!! Time Machine wa Drum-shiki."** A story about time-traveling from 2007 to the bubble peak year 1990 to prevent the bubble's collapse and save Japan's near-bankrupt economy. **Hirosue Ryoko** love! **Abe Hiroshi** the best! It was quite an enjoyable movie and I was very satisfied.
@@ -36,7 +36,5 @@ Well then.
 **As I wrote earlier, Taiyo colors and Stack colors have basically no compatibility.** Even gray paints have subtly different colors. So we very forcibly and roughly "converted" them for painting (laughs). It's unthinkable now, but back then it was OK even if colors were somewhat different.
 
 **For absolutely unavailable colors, we'd ask production progress staff to bring the necessary number of small bottles along with cuts.** The Taiyo paints brought this way gradually increased as inventory. So when taking rush jobs, we'd start by rewriting color specifications with our Taiyo paint inventory list in hand and calling to identify missing colors.
-
-## **■Continues to Episode 9**
 
 *(07.02.27)*

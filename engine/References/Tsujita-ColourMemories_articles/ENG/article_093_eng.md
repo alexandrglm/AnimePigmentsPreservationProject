@@ -75,6 +75,4 @@ Naturally, case-by-case, sometimes it's more readable not to force everything on
 
 We'd take clean copies of the cut-and-pasted re-layouts. Finally, we'd add paint numbers and painting division instructions.
 
-■ Continued in Episode 94
-
 *(09.06.18)*

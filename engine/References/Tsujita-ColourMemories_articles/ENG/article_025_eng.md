@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 25: Once Upon a Time... (20) *Saint Seiya* Part 7 - Theatrical *Saint Seiya: The Heated Battle of the Gods* A Bit More, and Stories about Special Effects Staff**
 
 I took about 2 weeks off from the series, and during this time I couldn't escape to cool highlands for summer retreat (cries) - I've been spending incredibly busy days. In this brutal heat too...
@@ -56,7 +56,5 @@ During **saridashi** (compositing), **Yamauchi** director noticed. Naturally I w
 Incidentally, it's properly retaken in the main story, so now only I know about this (laughs).
 
 Every time I rewatch ***Saint Seiya: The Heated Battle of the Gods***, what I first remember is **Frey**'s sword's magnificent special effects and **Yamauchi** director's words.
-
-## **■Continues to Episode 26**
 
 *(07.08.21)*

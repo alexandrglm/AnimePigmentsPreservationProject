@@ -13,7 +13,7 @@ Now then.
 
 Continuing from last time, "*The Tatami Galaxy* Color Design Notes." Finally individual episode notes.
 
-■Episode 1: Tennis Club "Cupid"
+#### Episode 1: Tennis Club "Cupid"
 
 Storyboard & Direction: Yuasa Masaaki, Animation Director: Ito Nobuyoshi, Color Direction: Tsujita Kunio
 
@@ -31,7 +31,7 @@ However, Akashi-san's bag, which was black like hair—following rules it would 
 
 Final "Gozan" crowd scene. All characters except main ones got bold single-color silhouette processing, but those color tones and brightness were indeed subtle—they combined nicely on computer monitors, but watching actually shot cuts on checking monitors showed poor balance. Main lines dissolved into painting colors or dissolved against backgrounds. So I requested several retakes (reshoots) for subtle cut-by-cut adjustments.
 
-■Episode 2: Film Club "Misogi"
+#### Episode 2: Film Club "Misogi"
 
 Storyboard & Direction: Yokoyama Akitoshi, Animation Director: Nishigaki Shoko, Color Direction: Akimoto Yuki
 
@@ -47,7 +47,7 @@ Like that, basically all special painting scene by scene. It seemed quite comple
 
 Oh right, Yoshida Mountain flashback scene. "Where exactly is my skin white? There are lots of other people with white skin..." Akashi-san's line. While wanting to retort "No no Akashi-san, you're plenty white," actually Akashi-san's skin color had faint redness, and RGB data-wise "I" had whiter skin. I couldn't help grinning alone (laugh).
 
-■Bonus: Opening
+#### Bonus: Opening
 
 Storyboard & Direction: Yuasa Masaaki, Video Design & Photography & Editing: Kato Michiya, Color Direction: Tsujita Kunio
 
@@ -56,7 +56,5 @@ For this opening's colors, I handled everything myself. Not just appearing chara
 Based on imagery conveyed in meetings, I prepared data in advance, then matching it to provisional movies sent by Kato-san, while somewhat restraining the director who was tired from daily storyboard checks and meetings, I decided everything one by one—not just colors but timing of color changes and how many times to change.
 
 Characters spinning at opening's end—when we started making the opening many characters still had unconfirmed colors, so it took until delivery deadline with 2-3 replacements to reach final version colors.
-
-■Continues to Episode 141
 
 *(10.10.12)*

@@ -43,6 +43,4 @@ This is roughly my recent daily routine and current status. Such days will conti
 
 Making *Mawaru Penguindrum* like this - everyone please treat us favorably (laugh).
 
-To be continued in Episode 170
-
 *(11.08.16)*

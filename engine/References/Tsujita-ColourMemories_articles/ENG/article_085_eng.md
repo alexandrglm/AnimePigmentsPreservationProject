@@ -15,7 +15,7 @@ Episodes 22, 23, and 24 were ultimately a battle against time. Director Yamauchi
 
 But time passed mercilessly, and we proceeded with animation meetings as soon as storyboards were completed, with art meetings the week before delivery. Art boards were handled by Matsumoto-san, and background work had everyone who had handled individual episodes until then - Koyama-san, Matsuda-san, See Through Studio, Studio Rufus, and Yuki Yukie-san - all participating in battle. Large meetings with everyone, then dividing the work to complete everything in one week - total warfare. The animation staff were the same. The direction team too. And we color staff also went to total war.
 
-## Episode 22: "A Drop Called Eternity"
+#### Episode 22: "A Drop Called Eternity"
 
 Script: Kobayashi Yasuko / Storyboard: Yamauchi Shigeyasu / Direction: Nakayama Naomi / Animation Director: Tominaga Mari / Color Direction: Kohinata Tomoko
 
@@ -33,7 +33,7 @@ Meanwhile, Dio's scenes use contrasting "quiet" coloring, carefully and quietly 
 
 The scenes connecting these two axes, especially the Ringo, Lyuze, and Ouji scenes, are created with suppressed saturation and heavier colors. This was so the key scenes would stand out. It's the same in episode 23.
 
-## Episode 23: "Those Who Return"
+#### Episode 23: "Those Who Return"
 
 Script: Kobayashi Yasuko / Storyboard: Yamauchi Shigeyasu / Direction: Kimura Nobukage / Animation Director: Nishii Terumi / Color Direction: Akimoto Yuki
 
@@ -53,7 +53,7 @@ Both episode 22 and this episode 23 turned out to be screens that made me think 
 
 And finally episode 24. Even higher hurdles awaited there.
 
-## Episode 24: "To the Flower That Blooms in Cycles"
+#### Episode 24: "To the Flower That Blooms in Cycles"
 
 Script: Kobayashi Yasuko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Umakoshi Yoshihiko / Color Direction: Kunioto Kunio
 
@@ -96,7 +96,5 @@ Though unsatisfactory, please watch on DVD or Blu-Ray once more if possible.
 Anyway, *Casshern Sins* is complete. It feels like a big typhoon passed, the sky is clear beautiful weather, the mood is refreshing, but now we have to clean up the scattered house debris - that kind of feeling.
 
 But you know, this feeling is wonderful. So once again, without learning my lesson, I want to create works together with Director Yamauchi.
-
-■ Continued in Episode 86
 
 *(09.03.31)*

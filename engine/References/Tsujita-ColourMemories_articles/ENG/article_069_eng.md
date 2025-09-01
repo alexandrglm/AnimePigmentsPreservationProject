@@ -71,6 +71,4 @@ Producer I should definitely go see it properly at the theater!
 
 And the story about that other job next time.
 
-■ Continued in Episode 70
-
 *(08.11.04)*

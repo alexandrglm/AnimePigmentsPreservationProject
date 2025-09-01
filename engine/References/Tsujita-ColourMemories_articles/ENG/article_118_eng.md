@@ -15,7 +15,7 @@ Now then.
 
 Final installment of "*SW* Main Feature Complete Scene Color Design Notes!" that I've been writing at length.
 
-■Scene 68: Palace Research Lab Cultivation Facility
+#### Scene 68: Palace Research Lab Cultivation Facility
 
 Usopp and Chopper carrying Nami and searching for "medicine" enter the research facility. The skylit glasshouse is an "IQ" cultivation facility. A somewhat fantastical screen bathed in moonlight.
 
@@ -27,7 +27,7 @@ Since I didn't really understand during color direction, I had them paint it wit
 
 ...But there were also cuts wrong in animation, so it's a draw (ah).
 
-■Scene 69: Palace Research Lab Chemical Factory
+#### Scene 69: Palace Research Lab Chemical Factory
 
 First, the research room interior in the scene's first half. Background art is fairly dark brown-black, with dim equipment lights in that space. Characters are also made dark to match backgrounds, but aiming for a feeling "somehow lit by equipment lights," I added faint green taste to normal parts.
 
@@ -39,15 +39,15 @@ The latter half, Zoro's appearance and confrontation with Indigo. I made this a 
 
 Incidentally, the first three cuts of this scene—chemicals and various things on tables. Special Effects team worked so hard it became quite like the secret underground room from "Nausicaa" (wry laugh).
 
-■Scene 70: Palace Exterior Rooftop
+#### Scene 70: Palace Exterior Rooftop
 
 Next, Sanji VS Captain Scarlett. This is fairly hand-to-hand combat. I avoided flashy color use, normally used night color base with some cuts slightly high-contrast. I briefly considered whether to color smoke from Sanji's leg techniques, but since the legs themselves looked like they'd glow nicely with transmitted light, I made the smoke whitish so that would be easily visible.
 
-■Scene 71: Palace Exterior
+#### Scene 71: Palace Exterior
 
 The scene where Nami regains consciousness on Chopper's back. From around here, Nami's face "spots" start fading. Special Effects created nice transparency in Nami's eyes as she notices weather changes and looks around.
 
-■Scenes 72-75: Merveille Everywhere
+#### Scenes 72-75: Merveille Everywhere
 
 Shiki VS Luffy + Billy aerial battle. Around here, my initial plan considered changing colors by location, but since the animation and cut buildup speed felt good, I deliberately pushed through with basic night colors.
 
@@ -55,19 +55,19 @@ However, since Luffy stayed in Gear Second, I wish I could have created better r
 
 The scene where Shiki cuts the sea to drown Luffy and others. The seawater here combines animation-created material with CG overlay. I actually wasn't very confident about cel water colors, but the CG team put it together well.
 
-■Scene 76, 78: Palace Exterior
+#### Scene 76, 78: Palace Exterior
 
 From around here where storms approach and snowfall becomes intense, I made character colors "storm colors." Saturation is lowered and made slightly heavier than previous "night colors."
 
-■Scene 77: Palace Interior Armory etc.
+#### Scene 77: Palace Interior Armory etc.
 
 Chopper and others busily setting bombs. I used colors from the earlier research room here.
 
-■Scene 79: Some Small Island
+#### Scene 79: Some Small Island
 
 Luffy regaining consciousness and standing up. Also "storm colors." Initially Luffy wasn't bleeding, but Oda-san proposed "Shouldn't we add blood?" so forehead blood animation was added.
 
-■Scene 80: Above Palace
+#### Scene 80: Above Palace
 
 Shiki VS Luffy. The decisive battle. Blizzard action throughout. And Gear Third.
 
@@ -81,11 +81,11 @@ From midway through the battle, I used overall lightning-type blue-white high-co
 
 After Luffy's giant radish heel drop explodes, Sunny flies through gradually brightening dawn that shakes off the battle's lightning high-contrast. As expected, safely surviving Luffy appears in sun-bathed colors. Everyone on Sunny's deck also changes colors in two stages during this time—from anxious monotone tones to relieved brightness upon learning Luffy's safe.
 
-■Scene 81: Navy Warship
+#### Scene 81: Navy Warship
 
 Captured pirate captains and Navy cuts. I deliberately shifted this toward purple. Looking back later, maybe it could have been more restrained. But maybe the somewhat unstable feeling is good too. Islands are falling from the sky after all.
 
-■Scenes 84-86: Sunny Epilogue
+#### Scenes 84-86: Sunny Epilogue
 
 An epilogue hoping to achieve refreshing feeling. Basically "normal" color direction. Only ship interior brightness is slightly suppressed to match backgrounds. After big incidents end, this returns to daily life—hoping that atmosphere would come through. So I finished it unchanged without doing anything special.
 
@@ -93,7 +93,7 @@ Chopper holds the medicine box by hand, but "Hey, how is he holding this?" I ask
 
 In this scene, everyone changed costumes. Luffy and several others wear TV series main setting clothes, but balanced for theatrical use. Nami's dress shirt look was strong director intent, but this was also every male staff member's wish. Making it color trace finishing was my intent (laugh). For me, Robin was more striking than Nami! A see-through blouse. I was excited while creating colors (laugh). But disappointingly it didn't show much on screen.
 
-■Ending
+#### Ending
 
 This was also created under incredibly tight time constraints. Several cuts came up as quite disappointing in-between animation, but naturally we couldn't cry about it—re-animation. We barely managed to remake them at the last minute.
 
@@ -112,7 +112,5 @@ About the post-release big hit, I was surprised to the point of "it didn't need 
 While fully aware of big hit catalyst "Volume 0" effects, having so many people watch it was still the happiest thing for production staff. And hearing that many repeat viewers came to theaters three or four times made me even more grateful.
 
 At the wrap party, Director Sakai said, "Someday I'd like to do another theatrical work with this staff!" All of us staff feel the same way.
-
-■Continues to Episode 119
 
 *(10.03.23)*

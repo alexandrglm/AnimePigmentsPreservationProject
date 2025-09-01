@@ -29,6 +29,4 @@ Now my home work room has become like a digital fortress secret base with comput
 
 And through promotional still work for *Neighborhood Story*, I would start using computers extensively.
 
-To be continued in Episode 152
-
 *(11.01.11)*

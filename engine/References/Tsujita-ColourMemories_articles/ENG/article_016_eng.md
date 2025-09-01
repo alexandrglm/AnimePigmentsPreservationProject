@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 16: Once Upon a Time... (11) *GeGeGe no Kitaro: Yokai Daisenso***
 
 **The other day, Ms. O from the records department (Toei Animation has this kind of position - like a script supervisor in live-action. Without these people, matching sound and image from editing onward becomes impossible - very important work) came to me saying:**
@@ -54,7 +54,5 @@ Well then.
 **In the ending staff credits, my name appears with the job title "inspection."** This was because back then Toei Doga didn't have "color direction" notation - it was strictly cel delivery "inspection," that kind of era. As I mentioned earlier, this stemmed from the style where all "color"-related things were decided and specified by art (actually, our room is still noted as "inspection" in internal company notation even now (bitter laugh)).
 
 **Incidentally, among the finishing staff names is **Itasaka-san**, who handles color design for the 4th series and currently broadcasting *Kitaro*.** Ah, it's fate, right? >Itasaka-san (laughs)
-
-## **■Continues to Episode 17**
 
 *(07.05.29)*

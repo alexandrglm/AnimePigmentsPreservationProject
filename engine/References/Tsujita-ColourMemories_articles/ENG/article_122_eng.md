@@ -35,6 +35,4 @@ Watching such Manila scenes made me feel strange. The *Dragon Ball* and *Sailor 
 
 While I was lost in such thoughts, the car arrived at the studio. Now, finally a full studio tour. It would be my first meeting with local staff.
 
-■Continues to Episode 123
-
 *(10.04.27)*

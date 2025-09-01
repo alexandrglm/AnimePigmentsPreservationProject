@@ -37,6 +37,4 @@ For me it's quite a new way of working, so surrounded by fashionable magazine pi
 
 Such was my spring situation.
 
-■ Continued in Episode 87
-
 *(09.04.10)*

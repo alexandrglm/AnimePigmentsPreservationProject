@@ -51,6 +51,4 @@ As written earlier, I didn't participate in *Sailor Moon*'s "startup" either. In
 
 A year and a half later, such *Sailor Moon* awaited me after *COO* ended. Ikuhara Kunihiko's directorial work *Pretty Soldier Sailor Moon R The Movie*.
 
-■ Continued in Episode 103
-
 *(09.09.29)*

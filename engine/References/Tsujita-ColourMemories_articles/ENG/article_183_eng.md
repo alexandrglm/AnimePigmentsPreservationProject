@@ -27,6 +27,4 @@ Here the animation (shading, expressions), art (damp rain atmosphere), photograp
 
 Incidentally, since "We forgot about #2! What should we do?", we decided he was blown away by the car too (laugh).
 
-Continued in Episode 184
-
 *(12.06.12)*

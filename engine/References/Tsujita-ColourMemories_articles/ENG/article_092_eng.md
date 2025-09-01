@@ -53,6 +53,4 @@ Test photography results: While honestly different from realistic appearance, it
 
 Today, various methods and techniques might express realistic shallow underwater scenes, and even then, pursuing it further might have achieved much more realistic shallow water depictions. But I think making it too realistic would somehow differ from what this work aimed for. The director and main staff all seemed to somehow share such feelings.
 
-■ Continued in Episode 93
-
 *(09.06.11)*

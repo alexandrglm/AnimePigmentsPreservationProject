@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 35: Once Upon a Time... (26) *Saint Seiya* Part 13 - About the Final Episode of "*Saint Seiya Hades Twelve Temples Arc*"**
 
 The other day my ordered ***Ratatouille*** DVD arrived, so I immediately watched it with my wife on my home 37-inch "Kameyama Model."
@@ -52,7 +52,5 @@ I sent all cels to photography and repeated rush checking. Then, the last. I gav
 Thus ***Saint Seiya: Hades Twelve Temples Arc*** ended. Thanks to this work becoming a big DVD sales hit, afterwards theatrical ***Saint Seiya: Heaven Chapter Overture*** then ***Sanctuary Chapter*** and ***Elysion Chapter*** would be made, but well, those stories are for another time.
 
 As an aside, Golden Week 2001, I went to Greece on my honeymoon. I spent time on Aegean Sea islands, and also visited a small island called Delos. This World Heritage island has temples, sculptures, and Roman-era ruins throughout. Just like the Sanctuary. Standing atop Mount Kinthos (キントス山) in the island's center, looking down at the ruins spread below, I thought ah, maybe the scenery the Saints saw was like this too. A bit moving. Somehow I felt like bronze-colored Saint Cloth boxes might be lying around there.
-
-## **■Continues to Episode 36**
 
 *(07.11.27)*

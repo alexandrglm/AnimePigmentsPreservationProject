@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 21: Once Upon a Time... (16) *Saint Seiya* Part 3 - Steel Saints**
 
 **Last weekend, my beloved laptop PowerBook G4 wouldn't start up.** The cause was hard disk failure. A year and a half after purchase. Considering usage frequency, ah, from experience it's about time for problems to occur (cries).
@@ -52,7 +52,5 @@ Well then.
 **"Well, this is how it'll be," so color checking was also OK like that.** Thus "Steel Saints" appeared on TV, but...
 
 **They only appeared in a few episodes, then were somehow buried in darkness, with no one mentioning their existence anymore.**
-
-## **■Continues to Episode 22**
 
 *(07.07.03)*

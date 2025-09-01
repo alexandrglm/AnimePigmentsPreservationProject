@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 26: Once Upon a Time... (21) *Saint Seiya* Part 8 - Getting Fired Up in the "Twelve Temples Arc"**
 
 The hot summer has finally started to show signs of waning, but man, it's still hot in this final week of August.
@@ -40,7 +40,5 @@ I looked forward to weekly first screenings, and above all I'd become a huge *Sa
 Watching the "Twelve Temples Arc" again on DVD now - man, it still gets me fired up! (laughs)
 
 And the theatrical *Legend of Crimson Youth (真紅の少年伝説)* battle would unfold in this Sanctuary with its "Twelve Temples."
-
-## **■Continues to Episode 27**
 
 *(07.08.28)*

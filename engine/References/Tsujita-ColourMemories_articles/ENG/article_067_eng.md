@@ -45,6 +45,4 @@ The hair color during "weak" times didn't have good saturation (color developmen
 
 Anyway, we somehow managed to complete it and achieved nationwide March release. After somehow finishing and taking a breather, the script for summer Toei Manga Festival's *Dragon Ball Z* was at my desk.
 
-■ Continued in Episode 68
-
 *(08.10.15)*

@@ -61,6 +61,4 @@ Each time, we'd rack our brains, try countless combinations of available paints,
 
 While today certainly has today's struggles and considerations, "devising ways to create convincing colors for viewers with limited available colors" wasn't just my battle - it was the fight of all color direction staff in the anime industry at that time.
 
-■ Continued in Episode 90
-
 *(09.05.01)*

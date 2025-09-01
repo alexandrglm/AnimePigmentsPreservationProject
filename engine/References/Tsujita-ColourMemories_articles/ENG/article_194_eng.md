@@ -37,6 +37,4 @@ Such was the "fugu sashimi" we all worked hard on (laugh).
 
 But you know, if you're going to put "fugu sashimi" and such in the main story, well, you need realism, so research is necessary! Experience is key in anime making! You really have to actually eat it! Even just that "translucency" - real experience is necessary!! So when I work on anime featuring "fugu sashimi" next time, I must convince the higher-ups and definitely go "research" it with related staff! I thought this very, very strongly (laugh).
 
-Continued in Episode 195
-
 *(12.08.28)*

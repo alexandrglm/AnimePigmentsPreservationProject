@@ -47,6 +47,4 @@ Recently, when I looked down from a Chuo Line train, I saw elementary school poo
 
 Tokyo's rainy season is almost over.
 
-■ Continued in Episode 59
-
 *(08.07.15)*

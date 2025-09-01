@@ -37,6 +37,4 @@ That frog story in the science room (laugh). That frog's design source was one i
 
 The color had an order from Director Ikuhara to "make it flashy anyway!" We created something and checked it with everyone while tweaking it, putting together flashy coloring. But wait, I feel like I've seen this somewhere... It ended up looking extremely similar to Eva Unit-01's colors. Hmm. What to do? It got an OK at the scene with a "well, I guess it's fine" feeling, but late that night the director called my cell phone. "About that, I want to do something about it after all... I mean, if it were a parody of our own work that might be okay, but if it looks like a parody of other people's work, I think that wouldn't be good for those people" - so we readjusted. The result was that Tamahomare Frog.
 
-Continued in Episode 183
-
 *(12.03.21)*

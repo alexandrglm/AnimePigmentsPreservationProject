@@ -47,6 +47,4 @@ Then, one by one, people would leave the staff room as they finished their assig
 
 That was the tension under which the key animation progressed. And that key animation would next make its way to me.
 
-■Continues to Episode 108
-
 *(09.12.01)*

@@ -47,6 +47,4 @@ Oh, as an aside, the opening song for this *Akuma-kun*—when you sing it at kar
 
 This *Akuma-kun*—wasn't it released on DVD? With *Hakaba Kitaro* as a catalyst, I'm hoping this *Akuma-kun* might also get the DVD treatment (laugh).
 
-■ Continued in Episode 43
-
 *(08.03.04)*

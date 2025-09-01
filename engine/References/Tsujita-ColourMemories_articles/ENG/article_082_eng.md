@@ -23,11 +23,11 @@ Before entering the second half, today I'll delve into the mysteries of the open
 
 First, the ending stories.
 
-## Ending 1 (Song: KANA "reason")
+#### Ending 1 (Song: KANA "reason")
 
 Storyboard & Direction: Kimura Nobukage / Key Animation: Okuda Yoshiko / Art: Kajiyama Nariyo / Color Design & Direction: Kohinata Tomoko
 
-## Ending 2 (Song: Kuno Shinji "Light and Shadow")
+#### Ending 2 (Song: Kuno Shinji "Light and Shadow")
 
 Storyboard & Direction: Nakayama Naomi / Key Animation: Tominaga Mari / Art: Gyoshin Mitsu / Color Design & Direction: Akimoto Yuki
 
@@ -39,19 +39,17 @@ We originally planned for 12 episodes each for broadcast, but due to certain pro
 
 In the first ending, the "glass pendant" appears. That's the one Ringo gave to Lyuze in the main episode. I hadn't thought deeply about it, but the main episode with the pendant ended up being Kohinata-san's assigned episode by good coincidence (laughs).
 
-In the second ending, Friender isn't on screen. So I asked director Nakayama-san: "Hey, where's Friender?"
-
-"Ah! (heavy sweat)"
-
-"...C-can I interpret this as an ending from Friender's perspective?"
-
-"...Y-yes. That's right!"
+In the second ending, Friender isn't on screen. So I asked director Nakayama-san: 
+>   "Hey, where's Friender?"
+>   "Ah! (heavy sweat)"
+>   "...C-can I interpret this as an ending from Friender's perspective?"
+>   "...Y-yes. That's right!"
 
 ...Apparently that's what it is.
 
 And now, the opening story.
 
-## Opening (Song: Color Bottle "Blue Flower")
+#### Opening (Song: Color Bottle "Blue Flower")
 
 Storyboard & Direction: Yamauchi Shigeyasu / Key Animation: Umakoshi Yoshihiko / Art: Kono Rei / Color Direction & Coloring: Kunioto Kunio
 
@@ -65,11 +63,10 @@ Due to the art staff's schedule, the meeting was set for 1 AM. I was pretty exha
 
 The idea was that since the main episodes moved incredibly densely, the opening should be solidly composed of accumulated still images. Of course, the animation would be by Umakoshi Yoshihiko. We'd mix in some cuts with movement as accents, but basically everything would be single drawings of Umakoshi's bold-lined animation.
 
-"The problem is finding a method that properly utilizes these animation lines," said the director.
+>   "The problem is finding a method that properly utilizes these animation lines,"- said the director.
 
-"Ah..." said I.
-
-"Can't we make it like a poster?"
+>   "Ah..."-I said.
+>   "Can't we make it like a poster?"
 
 I think the greatest charm of Umakoshi's animation is the "rough feel" of those lines. I love the power of the lines he draws, and when he draws posters or stills, I try to utilize the "rough feel" of the lines, their textured quality.
 
@@ -96,7 +93,5 @@ The flow of cut colors is more important in openings than in main episodes. Base
 That's how the opening was made. Unfortunately there wasn't enough time, so for the first several episodes the title cut "blue flower" ended up as a still image, but otherwise maybe I just fine-tuned the eye cut colors?
 
 Such was the opening. I've done openings for various works, but this *Casshern Sins* opening is quite a favorite of mine.
-
-■ Continued in Episode 83
 
 *(09.03.10)*

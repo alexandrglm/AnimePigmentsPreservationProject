@@ -49,6 +49,4 @@ After passing Shueisha checks and progressing through poster and trailer work, 1
 
 At that year's start, something tremendous literally shook the Japanese archipelago.
 
-■Continues to Episode 137
-
 *(10.09.14)*

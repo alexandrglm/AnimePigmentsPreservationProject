@@ -35,6 +35,4 @@ What a morning past 5 AM that was. A strange sense of fulfillment that could bec
 
 This completed the color direction work. Now the battle with massive cel completions would begin.
 
-■ Continued in Episode 67
-
 *(08.10.07)*

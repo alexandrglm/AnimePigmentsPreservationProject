@@ -41,6 +41,4 @@ Honestly, some TV colors had color direction that made me think "Eh? These color
 
 And on top of that, "Let's build theatrical versions as theatrical worlds!"—that feeling remains unchanged in me even after over ten years.
 
-■Continues to Episode 120
-
 *(10.03.30)*

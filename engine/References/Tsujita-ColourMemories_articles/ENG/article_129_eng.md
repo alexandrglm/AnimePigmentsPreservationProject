@@ -45,6 +45,4 @@ Well, touring places I felt deeply about like that. I really understood the feel
 
 I got so emotionally invested in *The Tatami Galaxy*, but this finally gave me emotional closure. This "post-production location tour" was also for such "closure." Work and feelings are hereby finished. My feelings will now enter new works.
 
-■Continues to Episode 130
-
 *(10.07.16)*

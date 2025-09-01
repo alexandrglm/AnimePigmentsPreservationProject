@@ -33,6 +33,4 @@ Well, basically it was enjoyable "Dragon Quest VI" work I couldn't help loving, 
 
 And naturally, the actual game *Dragon Quest VI* was postponed until those were finished.
 
-To be continued in Episode 165
-
 *(11.04.26)*

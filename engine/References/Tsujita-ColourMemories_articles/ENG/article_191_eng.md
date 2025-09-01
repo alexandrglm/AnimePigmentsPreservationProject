@@ -43,6 +43,4 @@ So for this diary, we thought up content for only the pages needed for main stor
 
 Even so, Yamashita-kun is mysterious. Why did he invite Shoma to the hot springs? Mysterious, right? Suspicious, right.
 
-Continued in Episode 192
-
 *(12.08.07)*

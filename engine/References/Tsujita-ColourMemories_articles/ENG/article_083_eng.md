@@ -23,7 +23,7 @@ Now then.
 
 So please bear with me a little longer.
 
-## Episode 13: "The Past Fills Before My Eyes"
+#### Episode 13: "The Past Fills Before My Eyes"
 
 Script: Kobayashi Yasuko / Storyboard & Direction: Kimura Nobukage / Animation Director: Okuda Yoshiko / Color Direction: Kohinata Tomoko
 
@@ -39,7 +39,7 @@ Oh yes, episode 13 had an irregular ending change just for this episode. "Blue S
 
 This song was apparently one Sera-san put his heart into creating... but just between us, as my personal opinion, it didn't really fit the atmosphere of *Casshern Sins*. It was probably created from the image of the original *Casshern*. The guitar just doesn't suit *Casshern Sins* (laughs). ...Ah, that was unnecessary commentary (laughs).
 
-## Episode 14: "Truth Illuminates the Darkness"
+#### Episode 14: "Truth Illuminates the Darkness"
 
 Script: Kamishiro Tsutomu / Storyboard: Miyashita Shinpei / Direction: Ito Tatsufumi / Animation Director: Ito Tatsufumi / Color Direction: Akimoto Yuki
 
@@ -49,7 +49,7 @@ This was newlywed Ito-san's direction and animation director episode. Until the 
 
 From around these episodes, crowds appear frequently, but I left the work mostly to the color direction staff. The crowd colors created a nice atmosphere. I had the color direction staff create samples by creating the atmosphere with main episode cuts and rough coloring, then checked those. Almost all were approved in one go. They understood the color world of *Casshern Sins* perfectly - wonderful.
 
-## Episode 15: "Death God Down"
+#### Episode 15: "Death God Down"
 
 Script: Takahashi Natsuko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Umakoshi Yoshihiko / Color Direction: Kunioto Kunio
 
@@ -67,7 +67,7 @@ The animation was supervised by Umakoshi too, the art was wonderful, and though 
 
 The New Year's card that arrived later from Yukie-san had one comment: "My first anime in 4 years was tough (laughs)." But she seemed to enjoy it (laughs).
 
-## Episode 16: "For the Power to Believe"
+#### Episode 16: "For the Power to Believe"
 
 Script: Yamada Takashi / Storyboard & Direction: Kimura Nobukage / Animation Director: Yamamuro Naoyoshi, Watanabe Natsuki / Color Direction: Kohinata Tomoko
 
@@ -79,7 +79,7 @@ Usually previews are made according to the previous episode's key frame schedule
 
 From episode 7 onward, we had a system where different art designers handled art boards for each episode, and for episode 16 we asked Honma Sadayuki-san, who had helped us with *GeGeGe no Kitaro the Movie: Japan Explodes!!*. Actually, I had persuaded him at the *Kitaro* wrap party (laughs).
 
-## Episode 17: "Glass Cradle"
+#### Episode 17: "Glass Cradle"
 
 Script: Takahashi Natsuko / Storyboard & Direction: Ito Naoyuki / Animation Director: Hayama Jun'ichi, Hamada Kunihiko, Kitao Masaru, Umakoshi Yoshihiko / Color Direction: Akimoto Yuki
 
@@ -95,7 +95,7 @@ The climax, something extracted from Holter's chest - in the original storyboard
 
 From episode 17, the "complete version" of ending 2 was attached (episodes 14-16 were provisional versions).
 
-## Episode 18: "The Time I Lived, The Time to Come"
+#### Episode 18: "The Time I Lived, The Time to Come"
 
 Script: Yamato-ya Akira / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Maru Kanako / Color Direction: Kunioto Kunio
 
@@ -120,7 +120,5 @@ That's how it turned out (laughs).
 I didn't think it would be blurred that much, so I was a bit surprised seeing the finished product. Well, I suppose so - showing faces clearly would be problematic. Ah, the tree stump nearby really looked like a "well" (laughs).
 
 So now you know who was in that footage, right? (laughs)
-
-■ Continued in Episode 84
 
 *(09.03.18)*

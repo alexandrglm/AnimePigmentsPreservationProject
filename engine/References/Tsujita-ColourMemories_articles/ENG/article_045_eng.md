@@ -35,6 +35,4 @@ That's exactly why I think: seize the moment and play lots! Go lots of places, s
 
 So, being "in rehabilitation," I'll keep it short this week (explosion).
 
-■ Continued in Episode 46
-
 *(08.03.25)*

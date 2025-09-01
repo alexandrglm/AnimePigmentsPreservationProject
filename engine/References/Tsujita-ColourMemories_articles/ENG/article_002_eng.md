@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 2: Once Upon a Time... (1)**
 
 **January is already half over.** During the year-end and New Year holidays, there were various movies I wanted to see, but I only managed to go see "The Inugami Family" (cries). I guess I'll have to work hard with DVD rentals (bitter laugh).
@@ -24,7 +24,5 @@ Also, we couldn't make it on Toei Doga works alone. So we also took on various w
 We'd take jobs based on our schedule situation, but I was nervous every time. With theatrical works, both the animation and colors were completely different grade from TV. Especially the color usage in character color direction, the detailed specifications. The beauty when painted (laughs). Eventually I began to yearn for it: "Color direction, huh. Ah, this kind of world might be good!"
 
 And well, various things happened (bitter laugh), but in February 1984, I ended up joining Toei Doga. It was early spring when I was 22.
-
-## **■Continues to Episode 3**
 
 *(07.01.16)*

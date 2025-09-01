@@ -37,6 +37,4 @@ Incidentally, if I were to receive nursing care for a cold, would it be Bakabon'
 
 Such were my cold-induced delusions.
 
-To be continued in Episode 154
-
 *(11.01.25)*

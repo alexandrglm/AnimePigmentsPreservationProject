@@ -17,6 +17,4 @@ Somehow, we could probably make a theatrical version with this feeling! I though
 
 So my year was entirely *Mawaru Penguindrum*-colored. Last year was *The Tatami Galaxy's* year, and before that was *Strong World One Piece Film's* year. What works will I be involved with next year? I can't wait to find out!
 
-To be continued in Episode 174
-
 *(11.12.27)*

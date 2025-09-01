@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 15: Once Upon a Time... (10) Still More Collaborative Works, Then Suddenly**
 
 **It's early summer.** The weather's decent and the sunshine feels pleasant and refreshing. The air is crisp, and even when you sweat a bit, it dries right up - GOOD.
@@ -32,7 +32,5 @@ Well then.
 **Like this, day after day I was struggling with collaborative works that couldn't be seen in Japan, but suddenly things took a sharp turn - I ended up handling a domestic work.** Moreover, it was a theatrical work!
 
 **The title was *GeGeGe no Kitaro: Yokai Daisenso (ゲゲゲの鬼太郎妖怪大戦争)*.**
-
-## **■Continues to Episode 16**
 
 *(07.05.15)*

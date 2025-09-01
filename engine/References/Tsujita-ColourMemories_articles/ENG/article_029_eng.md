@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 29: Special Episode - Theatrical *CLANNAD* Release Commemoration - Stories with Director Dezaki Part 2**
 
 For certain reasons, I've been intensively watching *The File of Young Kindaichi (金田一少年の事件簿)* DVDs lately. The anime version (laughs). A work I previously did color design and color direction for. I helped with the recently released DVD-BOX packaging work, and through that connection I forcibly got the DVD-BOX! (Sorry)
@@ -54,8 +54,5 @@ And 90 minutes. Screening ended. Great relief. "Hmm, I see!" I thought. The dire
 In the waiting room after screening, I told the director who was smoking: "You added quite a bit, didn't you? (laughs)" "Well, something like that," the director grinned. Thus theatrical *CLANNAD* was completed.
 
 Later, at the wrap party after the first screening at Toei Studios screening room. At the end of the excited after-party, I had a firm, gentle but strong handshake with Director Dezaki. "Man, thank you. You really helped a lot," said Director Dezaki. Man, I was moved. So happy! I don't know if I'll get to work with the director again, but I'll work hard dreaming of collaborating again someday!
-
-## **■Continues to Episode 30**
-
 
 *(07.09.25)*

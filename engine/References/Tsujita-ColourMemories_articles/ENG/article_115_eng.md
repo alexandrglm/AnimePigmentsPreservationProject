@@ -69,6 +69,4 @@ Literally whipping young staff into shape, sometimes raising our voices, somehow
 
 And so, we utterly exhausted staff welcomed November...
 
-■Continues to Episode 116
-
 *(10.02.08)*

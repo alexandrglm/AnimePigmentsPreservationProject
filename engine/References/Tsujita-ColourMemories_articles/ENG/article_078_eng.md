@@ -63,6 +63,4 @@ After that we moved to Aburatsubo Marine Park to observe dolphins and other mari
 
 And the end of that Aburatsubo location scouting was extending our trip to Misaki Port for everyone to eat together. Misaki Port means tuna! We had delicious tuna at a restaurant run by the local fishermen's cooperative. Ending with everyone eating delicious food together - this too is an important point of location scouting (laughs).
 
-■ Continued in Episode 79
-
 *(09.02.10)*

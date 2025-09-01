@@ -39,6 +39,4 @@ Getting through fun, difficult crunch like that, somehow reaching completion by 
 
 The story climax has "Gogeta," who appears through Goku and Vegeta's fusion technique, magnificently defeating Janemba and restoring order between this world and the next. As a result, Vegeta, who was revived by Janemba, becomes soul-only again. I quite liked this part—Vegeta's cool departure got me a bit emotional.
 
-■Continues to Episode 139
-
 *(10.09.28)*

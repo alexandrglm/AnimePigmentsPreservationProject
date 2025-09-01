@@ -31,7 +31,7 @@ That's the flow for individual episodes. Furthermore, I think about the color co
 
 When entering episode 1, scripts for quite a few episodes were ready except for the latter half to climax, so I could grasp the overall picture and enter design after thinking about the composition myself.
 
-## Episode 1: "In a World Coming to an End"
+#### Episode 1: "In a World Coming to an End"
 
 Script: Kobayashi Yasuko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Umakoshi Yoshihiko / Color Direction: Kunioto Kunio
 
@@ -53,7 +53,7 @@ So the first half of episode 1 ended up with the darkest screen throughout the s
 
 However, from the latter half when the large robot appears, we're using "normal" color direction. Since it was episode 1, I somehow wanted to end episode 1 with "normal" color tone. The backgrounds happened to be bright scenes too, so they're raw normal colors.
 
-## Episode 2: "The World is Full of Doomsday Voices"
+#### Episode 2: "The World is Full of Doomsday Voices"
 
 Script: Kobayashi Yasuko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Umakoshi Yoshihiko / Color Direction: Kunioto Kunio
 
@@ -67,7 +67,7 @@ The special coloring used in this madness mode, adding mysterious colors to shad
 
 Episodes 1 and 2 anyway were made using plenty of time. Naturally the animation frame count also reached wonderful heights (laughs). The quality is supreme. But the production producer's face was blue (laughs).
 
-## Episode 3: "At the End of Suffering"
+#### Episode 3: "At the End of Suffering"
 
 Script: Yamato-ya Akira / Storyboard & Direction: Minatsu Tatsuya / Animation Director: Nishii Terumi / Color Direction: Akimoto Yuki
 
@@ -83,7 +83,7 @@ Episode 3's color direction was by Akimoto Yuki-san. She and Kohinata Tomoko-san
 
 As a result, they each handled color direction for 1/3 of all 24 episodes, and two endings completely from color design, respectively. My gratitude! So grateful!
 
-## Episode 4: "Angel of Destruction"
+#### Episode 4: "Angel of Destruction"
 
 Script: Takahashi Natsuko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Umakoshi Yoshihiko / Color Direction: Kunioto Kunio
 
@@ -101,7 +101,7 @@ Just when episode 4's production peak coincided with the final push of *Dragon B
 
 Oh yes, the animation rule that "bangs don't show through in *Casshern Sins*!" was established starting from this episode. Until then it was all over the place - sometimes transparent, sometimes not. Actually there are several cuts in this episode we couldn't fix completely (laughs).
 
-## Episode 5: "The Man Who Killed the Sun Named Moon"
+#### Episode 5: "The Man Who Killed the Sun Named Moon"
 
 Script: Kamishiro Tsutomu / Storyboard: Ohira Naoki / Direction: Kimura Nobukage / Animation Director: Okuda Yoshiko / Color Direction: Kohinata Tomoko
 
@@ -113,7 +113,7 @@ The "Luna murder" scene shown in the avant-title was created with red-purple as 
 
 Episodes 5 and 6 are connected stories. And this following episode 6 was actually made almost parallel with episode 1 schedule-wise. So I asked Kohinata-san, who handled episode 6's color direction, to also do episode 5 later. Actually, the evening scene in the B-part uses exactly what was created for episode 6.
 
-## Episode 6: "Reunion With Destiny"
+#### Episode 6: "Reunion With Destiny"
 
 Script: Kamishiro Tsutomu / Storyboard & Direction: Ito Naoyuki / Animation Director: Okuda Yoshiko / Color Direction: Kohinata Tomoko
 
@@ -130,7 +130,5 @@ However, in terms of the balance of mysteriousness, this level of darkness was t
 So there was that, and from the point of the overall "flow" of the series and color design composition, episodes after this gradually have more bright screens.
 
 Even so, I earnestly think I want people to watch on digital terrestrial rather than analog terrestrial broadcast, and on Blu-Ray rather than regular DVD (laughs).
-
-■ Continued in Episode 81
 
 *(09.02.24)*

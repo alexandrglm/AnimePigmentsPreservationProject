@@ -37,6 +37,4 @@ Since it's for an event, it probably can't be seen on TV, but if you're interest
 
 So next time, I plan to resume "Once Upon a Time..." ...probably (sweat).
 
-■ Continued in Episode 64
-
 *(08.09.02)*

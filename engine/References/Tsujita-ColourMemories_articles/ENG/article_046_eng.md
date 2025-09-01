@@ -49,6 +49,4 @@ Now Japanese anime works are speaking in various languages around the world, but
 
 (...Ah, there's no color discussion... (sweat))
 
-■ Continued in Episode 47
-
 *(08.04.01)*

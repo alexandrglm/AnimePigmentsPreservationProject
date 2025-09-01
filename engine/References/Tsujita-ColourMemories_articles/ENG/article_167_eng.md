@@ -29,6 +29,4 @@ However, unbeknownst to me, *The Path to Power* had fallen into various problema
 
 Producer Morishita-san issued the order. All main staff, production people, and planning people were summoned to a large room at Hotel Hikarigaoka near Oizumi Studio. October 19th evening.
 
-To be continued in Episode 168
-
 *(11.07.12)*

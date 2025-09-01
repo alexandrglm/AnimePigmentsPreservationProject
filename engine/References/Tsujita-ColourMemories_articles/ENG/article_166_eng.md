@@ -41,6 +41,4 @@ However, depending on what direction my work heads, things will probably change 
 
 Even so, I think I probably can't separate from this apple-marked equipment.
 
-To be continued in Episode 167
-
 *(11.06.28)*

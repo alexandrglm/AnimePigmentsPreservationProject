@@ -37,6 +37,4 @@ I returned to the studio afterward and stayed overnight for theatrical *Sailor M
 
 Oh yes, that guest room was rented until morning, so "since we have it, someone stay overnight!" said Morishita-san. So Nagamine-kun and Sakai-kun stayed to clean up. Wait? I remember that bedroom having a double bed... How was it? ←What?
 
-To be continued in Episode 169
-
 *(11.07.26)*

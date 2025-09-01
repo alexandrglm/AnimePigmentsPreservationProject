@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 6: Once Upon a Time... (5) People Fighting from 11 PM**
 
 **"I want to see *Odin: Photon Sailer Starlight*," I said, and thanks to Editor-in-Chief Oguro I was able to see it (Thank you, Editor-in-Chief Oguro!).** So recently we held a mini-screening in the color design room at Oizumi Studio. Several of us who were involved in finishing at the time watched it together.
@@ -56,7 +56,5 @@ The animation and finishing work requested from Korean production companies came
 **While reflecting on various things like this, cuts flowed to photography like a raging torrent.** This continued for about 3 days. The final retake processing finished at 6 AM on the last day. 12 hours later, all the rushes were completed, and all staff watched that connected film together. There we found several major retakes, rushed to fix those too and re-shot. Thus *Robotex* Episode 1 was somehow shipped to America.
 
 **Finally taking a breath... but there was no time for that, as Episode 2's cuts waiting for color direction were already piled like a mountain on my desk.**
-
-## **■Continues to Episode 7**
 
 *(07.02.13)*

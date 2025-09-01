@@ -57,6 +57,4 @@ For the final bedroom passage after the mysterious atmosphere began, I created c
 
 "Rather than blending with the screen, make it clearly red, bright red with a sharp impact!" These were words I said to color director Akimoto during the color direction meeting. "This will decide this episode (laugh)." It was explaining the cut where naked Yuri mysteriously goes "sharp!" with the red cord (laugh).
 
-Continued in Episode 191
-
 *(12.07.31)*

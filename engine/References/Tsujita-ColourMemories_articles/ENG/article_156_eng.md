@@ -33,6 +33,4 @@ Work progressed like that, but when we gave tentative OK on monitor and actually
 
 Everyone waited by that narrow color copier watching the work screen through such repeated work. The clock hands reached midnight. Ultimately, giving OK to two stills took until near dawn.
 
-To be continued in Episode 157
-
 *(11.02.15)*

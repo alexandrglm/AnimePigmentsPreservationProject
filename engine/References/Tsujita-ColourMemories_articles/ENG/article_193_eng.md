@@ -37,6 +37,4 @@ Incidentally, admission is only 400 yen for adults! For just 400 yen you can hav
 
 And you know, such "other worlds" still remain all over Tokyo. I'm filled with feelings of wanting to keep going out and standing in various places!
 
-Continued in Episode 194
-
 *(12.08.21)*

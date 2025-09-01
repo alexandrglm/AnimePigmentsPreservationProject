@@ -53,6 +53,4 @@ At the end, perhaps as "service," they spun the latest anti-aircraft gun around 
 
 And that was the end of *COO*'s location scouting. Now we would finally enter the main production work.
 
-■ Continued in Episode 80
-
 *(09.02.18)*

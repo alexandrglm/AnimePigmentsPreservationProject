@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 34: Once Upon a Time... (25) *Saint Seiya* Part 12 - And After 15 Years, "*Saint Seiya Hades Twelve Temples Arc*" Begins**
 
 Did you watch ***The File of Young Kindaichi SP*** that aired over two weeks? Behind that main broadcast, I attended the Anime Style *Mononoke* event.
@@ -54,7 +54,5 @@ Saints' unleashed techniques mostly became CG effect-added processing. Creating 
 However, what was difficult was fusing 3D into 2D cel + background screens. *Saint Seiya* is thoroughly 2D animation drawing world. 2D-drawn dimensionality and pure 3D dimensionality screens were often incompatible. Still, gradually understanding the key points episode by episode, direction and animation gradually improved at using and showing CG effects. Well, first it's how much acting can be worked into storyboards. Then how animators draw that up, and how directors control it further. That remains the foundation.
 
 Among effects we worked on this way, one thing just wouldn't work well: "Pegasus Meteor Fist." The dynamic power accelerating from background to foreground inevitably became weak with CG alone. Despite multiple retakes and attempts, it still failed. So "Pegasus Meteor Fist" became traditional animation, TP + brush.
-
-## **■Continues to Episode 35**
 
 *(07.11.20)*

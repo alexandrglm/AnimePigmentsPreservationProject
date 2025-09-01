@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 5: Once Upon a Time... (4) All First Experiences! (laughs)**
 
 **The other week, my wife and I happened to be watching TV when a commercial for Bandai's plastic model "1/350 Space Battleship Yamato" came on.** My wife looked at the happy-eyed middle-aged men on screen and said "I wonder if anyone actually buys this" while looking at me. There I was with the same eyes as the TV middle-aged men, grinning. "...You bought it, didn't you."
@@ -44,7 +44,5 @@ Back then, assistant directors for collaborative works would fly to Korea after 
 **And we absolutely had to get them on those flights.** The mountain of cuts that never seemed to decrease no matter how much we worked. Every day barely finishing input by the deadline. Still, somehow we sent out all cuts, but naturally all this would come back painted.
 
 **A few days later, looking at those painted cels, I stood stunned.**
-
-## **■Continues to Episode 6**
 
 *(07.02.06)*

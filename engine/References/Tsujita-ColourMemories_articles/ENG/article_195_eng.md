@@ -47,6 +47,4 @@ Incidentally for Episode 17, editing was August 24th. Voice recording was the fo
 
 From here on, such situations and rushes would continue every week until the final episode.
 
-Continued in Episode 196
-
 *(12.09.11)*

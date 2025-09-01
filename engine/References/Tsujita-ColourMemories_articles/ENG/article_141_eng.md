@@ -77,6 +77,4 @@ I'm writing this while rewatching the DVD footage, and the completely dark fores
 
 The schedule was already getting quite tight from around Episode 5. But thinking back, maybe this area still had plenty of room...
 
-To be continued in Episode 142
-
 *(10.10.19)*

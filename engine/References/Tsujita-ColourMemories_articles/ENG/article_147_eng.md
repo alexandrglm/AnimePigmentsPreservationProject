@@ -37,6 +37,4 @@ But honestly, as a *Dragon Ball Z* work, it was already at its limit. Character 
 
 And in such circumstances, that day finally came. The end of *Dragon Ball's* serialization in Weekly Shonen Jump was decided.
 
-To be continued in Episode 148
-
 *(10.12.07)*

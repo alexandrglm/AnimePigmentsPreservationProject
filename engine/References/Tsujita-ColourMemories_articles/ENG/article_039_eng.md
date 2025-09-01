@@ -31,6 +31,4 @@ The opening and ending we made this way turned out to be quite interesting, I th
 
 So please watch this week too, everyone!
 
-■ Continued in Episode 40
-
 *(08.01.22)*

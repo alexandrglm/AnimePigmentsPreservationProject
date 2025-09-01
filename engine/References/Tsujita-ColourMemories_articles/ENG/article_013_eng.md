@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 13: Once Upon a Time... (9) Strip Color Charts and Paint Maniacs**
 
 **It's supposedly Golden Week (GW) in society.** If you take the right days off, this year's GW could be 9 consecutive days - how are you all spending it? (laughs)
@@ -48,7 +48,5 @@ Well then.
 **Color design and color direction... or rather, the foundation of finishing begins with "learning colors, learning paints."** Especially in "color specification" work, you can't do the job without properly understanding paint numbers and their color characteristics and differences. So by painting ourselves this way, we learned paints and colors.
 
 **This remains true in the current digital coloring era.** Though tangible things like strip charts no longer exist, whether for character samples or anything else, imagining colors yourself and actually painting them to think things through is a fundamental principle for us in color design and color direction.
-
-## **■Continues to Episode 14**
 
 *(07.05.01)*

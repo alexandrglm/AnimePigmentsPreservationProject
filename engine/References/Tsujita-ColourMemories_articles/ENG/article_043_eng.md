@@ -41,6 +41,4 @@ Also, in art meetings for this week's episode 10, the art director in charge kne
 
 I hope you can feel the obsessions of us "senior group" members, including myself, in various places throughout *Hakaba Kitaro* (laugh).
 
-■ Continued in Episode 44
-
 *(08.03.11)*

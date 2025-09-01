@@ -53,6 +53,4 @@ Actually, there was a small incident during production. There was a cut where a 
 
 I recently rewatched these two works after a long time. My, how nostalgic (laugh). At the same time, I thought "Ah, I want to remake this with today's digital technology." If possible, I want to redo at least all the cels from color direction up. That's how wonderful the animation and art are. Ah, wouldn't someone make this *Crying Freeman* again? (laugh).
 
-■ Continued in Episode 51
-
 *(08.05.07)*

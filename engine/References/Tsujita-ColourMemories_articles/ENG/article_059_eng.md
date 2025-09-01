@@ -79,6 +79,4 @@ And finally the ace appears - Ikki! (laugh) While all five Bronze Saints' auras 
 
 The full 6 episodes that we should have approached with plenty of leeway - the final two were still somewhat, or rather considerably, tight scheduling. Even so, *Inferno Chapter* got started somehow. After finishing *Prelude*, there was much to consider, and I began preparing homework for what came next.
 
-■ Continued in Episode 60
-
 *(08.08.05)*

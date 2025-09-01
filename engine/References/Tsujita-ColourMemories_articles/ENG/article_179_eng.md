@@ -37,6 +37,4 @@ However, this caused trouble later. Actually, that floral subway took an incredi
 
 Even so, that skunk with the "KIGA" pattern. Why the "KIGA" pattern? Even I don't know the reason (laugh). It was quite a mysterious existence, but the name "Kiyoshi-kun" apparently comes from the name of animator Hasegawa Shinya's pet cat (laugh).
 
-Continued in Episode 180
-
 *(12.02.23)*

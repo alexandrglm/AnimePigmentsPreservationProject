@@ -31,8 +31,4 @@ So, if the ending became new, maybe the opening too? (sweat) But with delays in 
 
 ...However, one day suddenly, "Sorry! We're making a new opening after all!" said the director (laugh). What a sudden about-face!
 
-
-
-Continued in Episode 190
-
 *(12.07.24)*

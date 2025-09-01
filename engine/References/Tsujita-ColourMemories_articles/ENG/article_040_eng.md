@@ -39,6 +39,4 @@ Oh, incidentally, Kitaro and Medama Oyaji aren't really affected by the filter m
 
 I hope you can enjoy *Hakaba Kitaro* while imagining such things (laugh).
 
-■ Continued in Episode 41
-
 *(08.02.12)*

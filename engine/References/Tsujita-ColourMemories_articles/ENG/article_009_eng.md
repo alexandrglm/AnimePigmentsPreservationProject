@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 9: Once Upon a Time... (7) The Forbidden "X" Paints**
 
 **It's warm. It's spring.** Tokyo is already warm enough that the cherry blossoms seem ready to bloom. The cherry trees in Shakujii Park also seem to be showing a pinkish tint overall.
@@ -38,7 +38,5 @@ Well then.
 **However, with the flow of time, more works requiring "shadows" even for TV anime increased.** Not just adding shadows to raise visual grade, but many characters arranged different colors in shadow colors from normal color gradations to create atmosphere when deciding character colors. In this context, "X colors" came to be used normally on TV.
 
 **Also, the shift of finishing work sites from domestic productions to overseas studios was significant.**
-
-## **■Continues to Episode 10**
 
 *(07.03.06)*

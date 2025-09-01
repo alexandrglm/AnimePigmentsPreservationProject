@@ -45,6 +45,4 @@ Regarding fashion, Yazawa-sensei would create fashion reference materials by cha
 
 That's right. Amazingly, visiting Yazawa-sensei's home for research was suddenly decided!
 
-To be continued in Episode 151
-
 *(11.01.07)*

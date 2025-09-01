@@ -27,6 +27,4 @@ Actually, they were people from D Company, a Seoul animation production company 
 
 Thus began D Company's grand Seoul hospitality tour (laugh). Depending on how you look at it, this was kidnapping (laugh). We no longer had any means to resist (laugh). "But, well, it's okay (bitter laugh)" - things had become quite interesting.
 
-To be continued in Episode 146
-
 *(10.11.16)*

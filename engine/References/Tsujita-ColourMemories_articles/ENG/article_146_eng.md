@@ -43,6 +43,4 @@ On that flight, I encountered tremendously sad news. Voice actor Yamada Yasuo-sa
 
 And at Narita Airport, we would encounter even more surprising news. That morning, someone had spread sarin gas in Tokyo's subway, resulting in many deaths! It had become a major confusion, a major incident! We were stunned. It was March 20, 1995.
 
-To be continued in Episode 147
-
 *(10.11.30)*

@@ -43,6 +43,4 @@ It's interesting how, while deciding the basic normal colors, plans for various 
 
 "Yeah. Let's go with this feeling!" Umezawa-san gave the OK, and the base colors were decided. That was the beginning of turbulent days.
 
-■ Continued in Episode 48
-
 *(08.04.15)*

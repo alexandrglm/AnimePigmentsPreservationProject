@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 14: GW Memorial... Japanese Anime Protagonists Speaking Foreign Languages**
 
 **Golden Week (GW) - how did everyone spend it?**
@@ -30,7 +30,5 @@ Well then.
 **That work was *Muppet Babies*.** One of the "collaborative works" once produced at Toei Doga. And amazingly, the episode airing on TV was one I had done color direction for! Man, I was moved! I never expected to reunite here! I was so happy I watched intently (laughs).
 
 **Something I was somewhat involved in remains like this, properly broadcasts somewhere in the world, and various people watch it.** It's really happy. That's why I can't quit this job (laughs).
-
-## **■Continues to Episode 15**
 
 *(07.05.09)*

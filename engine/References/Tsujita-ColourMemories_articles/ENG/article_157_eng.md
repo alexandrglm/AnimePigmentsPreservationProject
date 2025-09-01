@@ -43,6 +43,4 @@ Digital processing-like screen creation using computers was also incorporated in
 
 But these were all still early series stages. Still just starting to run. First was the stage of establishing these "rules."
 
-To be continued in Episode 158
-
 *(11.03.01)*

@@ -29,6 +29,4 @@ So while not forcing it, I gradually made minor adjustments to original colors. 
 
 Well, watching it again now after over ten years, it has a subtle atmosphere (bitter laugh). What is it? Somehow feels like old-fashioned struggling, making me involuntarily bitter-laugh. Rather, the original colors look newer and more innovative. The original and original designs were truly amazing - I'm newly impressed.
 
-To be continued in Episode 172
-
 *(11.09.07)*

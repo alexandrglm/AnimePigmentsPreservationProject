@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 24: Once Upon a Time... (19) *Saint Seiya* Part 6 - Theatrical *Saint Seiya: The Heated Battle of the Gods*, and Stories with Yamauchi-san**
 
 It's high school baseball season. The other day, while browsing West Tokyo tournament match results on the internet, huh? I saw my alma mater - Tokyo Metropolitan Fuji High School - in the match results. I hurriedly checked their record and amazingly they'd won through the 2nd and 3rd rounds to reach the best 16. Winning further - surprise! Best 8!
@@ -56,7 +56,5 @@ But unlike recent digital coloring, even normal cels in dark nights, just photog
 With mostly normal coloring, battle scenes and "technique" scenes dealing with light always had detailed high-contrast and image coloring cels made for photography fade-in/fade-out. Slowly when creating intervals, quickly and briefly when increasing tempo. This "light" acting is still basic to *Seiya* today.
 
 March 1988. This theatrical ***Saint Seiya: The Heated Battle of the Gods*** was released as one film in the spring "**Toei Manga Festival**." At that staff first screening wrap party, what was handed to me was the final script for ***Saint Seiya: Legend of Crimson Youth***.
-
-## **■Continues to Episode 25**
 
 *(07.07.31)*

@@ -49,6 +49,4 @@ Oh yes, this *Vampire War*, being aimed at slightly older audiences, actually ha
 
 OVA *Crying Freeman 4: Yugekitougoku* (Crying Freeman４　雄首冬獄). That work by director Yamauchi Shigeyasu was waiting.
 
-■ Continued in Episode 50
-
 *(08.04.30)*

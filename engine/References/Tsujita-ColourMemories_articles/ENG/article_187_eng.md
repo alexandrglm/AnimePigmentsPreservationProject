@@ -43,6 +43,4 @@ Such an Episode 12 that can't be fully described (laugh).
 
 Incidentally, as a digression, about the elementary school Momoka and Tabuki attended - what should we do about its school emblem? For that, the elementary school's name had to be decided first. So, Kagaya Elementary School. We borrowed production staff member Kagaya's surname (laugh).
 
-Continued in Episode 188
-
 *(12.07.10)*

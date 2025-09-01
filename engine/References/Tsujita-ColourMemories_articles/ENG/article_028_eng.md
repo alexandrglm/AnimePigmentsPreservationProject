@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 28: Special Episode - Theatrical *CLANNAD* Release Commemoration - Stories with Director Dezaki**
 
 Well then.
@@ -30,8 +30,5 @@ Girl characters I could mostly mentally convert, but the protagonist's friend Su
 But I was dying to see how these guys would develop.
 
 To be continued (laughs).
-
-## **■Continues to Episode 29**
-
 
 *(07.09.18)*

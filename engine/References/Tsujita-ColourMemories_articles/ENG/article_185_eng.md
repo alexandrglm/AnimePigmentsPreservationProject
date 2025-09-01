@@ -35,6 +35,4 @@ The night vision goggle view of the operating room's darkness - well, the standa
 
 Another subtle failure in such dark performance. The Kanba×Masako kiss scene was fine in the close-up cut, but in the subsequent wide shot, Kanba×Masako in the background blended too much with the dark BG, and only the Esmeralda×#1 kiss scene in the foreground stood out on screen (laugh). Hmm, dark scenes are indeed difficult to balance.
 
-Continued in Episode 186
-
 *(12.06.26)*

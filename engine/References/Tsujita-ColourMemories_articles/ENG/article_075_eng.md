@@ -67,6 +67,4 @@ In a studio room, first we had a meeting with just Director Imazawa, Okura-san, 
 
 However, what was drawn there wasn't the Japanese boy Yosuke, but a foreign boy - clearly a white boy.
 
-■ Continued in Episode 76
-
 *(09.01.13)*

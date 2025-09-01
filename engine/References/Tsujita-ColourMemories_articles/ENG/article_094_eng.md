@@ -39,6 +39,4 @@ To prevent this, notation specifications should follow the same rules. Many peop
 
 These rules remain basically the same even with today's digital coloring.
 
-■ Continued in Episode 95
-
 *(09.07.09)*

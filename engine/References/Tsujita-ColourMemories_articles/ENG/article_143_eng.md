@@ -109,6 +109,4 @@ The best scene for "I" and Akashi-san is that Episode 1 evening recollection sce
 
 This is self-praise, but this isn't just my work - it's very good work that we all in the color team accomplished together with all the color direction staff who worked hard with me. This color team was truly a dream team for me. And I'm truly grateful to everyone for being able to work with the wonderful, or rather amazing staff including Director Yuasa. They were truly enjoyable days. A wonderful experience from late autumn 2009 to early summer 2010. And I hope that someday, somehow, all of us can meet again somewhere.
 
-To be continued in Episode 144
-
 *(10.11.02)*

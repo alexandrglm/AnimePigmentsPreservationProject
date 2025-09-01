@@ -49,6 +49,4 @@ Compared to main story cut data, these are incredibly large image data files, so
 
 Finally, you can see DVD volume 1 jacket images on the web and such. That flat, old print-like image is actually the outer jacket design, while the jacket for the soft vinyl package itself is made with that same artwork but using the exact coloring and photography processing from the main story. It's turned out quite suspicious (mysterious). Please look forward to it.
 
-■ Continued in Episode 45
-
 *(08.03.18)*

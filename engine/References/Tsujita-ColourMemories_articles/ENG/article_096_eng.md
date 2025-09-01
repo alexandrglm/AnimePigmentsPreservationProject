@@ -37,6 +37,4 @@ Both backgrounds and animation finishing gradually progressed, and cuts (in-betw
 
 I created and decided various colors in sequence - not just daytime, but several evening colors for different time progressions, early morning colors, etc. And finally came the first half's climax: "night" scenes.
 
-■ Continued in Episode 97
-
 *(09.07.24)*

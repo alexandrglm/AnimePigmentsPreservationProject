@@ -49,6 +49,4 @@ So I eagerly started reading volume 1 of the "Earth Chapter"...
 
 Ah, I failed spectacularly (explosion). In the end, I never reached the crucial "Heaven Chapter," and the days of OVA *Tenjou-hen Uchuu Kouji* began (laugh).
 
-■ Continued in Episode 53
-
 *(08.05.20)*

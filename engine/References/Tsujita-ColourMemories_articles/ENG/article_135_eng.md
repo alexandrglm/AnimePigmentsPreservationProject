@@ -41,6 +41,4 @@ Actually anime isn't just TV and theatrical—quite a lot of such works are made
 
 So while "anime halls" and such "buildings" are inexcusable, creating archives of anime that don't appear much before general audiences would be quite meaningful, I think.
 
-■Continues to Episode 136
-
 *(10.09.08)*

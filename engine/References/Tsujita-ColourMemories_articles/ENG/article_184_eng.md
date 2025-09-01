@@ -47,6 +47,4 @@ When first made, we had colored Himari's pupils in Princess costume with the usu
 
 The decision was left to me, so in the Blu-ray/DVD version, I corrected the pink pupils to Himari's normal colored pupils (though there are cuts intentionally left pink). So for those doing detailed analysis, I planted further "seeds" (laugh).
 
-Continued in Episode 185
-
 *(12.06.19)*

@@ -51,6 +51,4 @@ And finally, Oda-san's response arrived. An "OK"!
 
 Thus that trailer was completed. "Ah, finally we can stand at the starting point for *STRONG WORLD*"—that was my feeling.
 
-■Continues to Episode 112
-
 *(10.01.05)*

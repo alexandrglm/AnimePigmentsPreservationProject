@@ -39,6 +39,4 @@ In today's digitized era, painting data (cels) are digital, so such painting add
 
 So current *PreCure* series are probably still easier (laugh). Well, they probably have their own difficulties now (wry laugh).
 
-■Continues to Episode 132
-
 *(10.07.27)*

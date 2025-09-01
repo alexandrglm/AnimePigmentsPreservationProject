@@ -17,7 +17,7 @@ Now then.
 
 *Casshern Sins* Color Design Notes - this week covers episodes 19-21 of the main story (←It still won't end (laughs)).
 
-## Episode 19: "Believing in the Flower That Lives in the Heart"
+#### Episode 19: "Believing in the Flower That Lives in the Heart"
 
 Script: Yoshida Reiko / Storyboard & Direction: Nakayama Naomi / Animation Director: Okuda Yoshiko / Color Direction: Kohinata Tomoko
 
@@ -31,7 +31,7 @@ From the pre-dawn rain battle, Helen's death marks dawn breaking all at once, an
 
 Incidentally, the cut where Helene dies was wonderful work by color direction Kohinata-san. I just conveyed a rough image and let Kohinata-san create the colors - it was a special cut.
 
-## Episode 20: "For Whom Do Flowers Bloom"
+#### Episode 20: "For Whom Do Flowers Bloom"
 
 Script: Takahashi Natsuko / Storyboard & Direction: eunyoung CHOI / Animation Director: eunyoung CHOI / Color Direction: Akimoto Yuki
 
@@ -51,7 +51,7 @@ Eunyoung-san would critique my scene design where I assembled color samples on a
 
 Was it the director's decision to assign Eunyoung-san to episode 20? Production PD Fujio-san's decision? Either way, it was a perfect match. I want to work with Eunyoung-san again! (laughs)
 
-## Episode 21: "Paradise of Disappointment"
+#### Episode 21: "Paradise of Disappointment"
 
 Script: Yoshida Reiko / Storyboard: Miyashita Shinpei / Direction: Kimura Nobukage / Animation Director: Kiyomaru Satoru, Saito Tadashi, Takanya, Tsuchikawa Norika, Sakurai Masaaki, Kitao Masaru / Color Direction: Komada Noriko
 
@@ -74,7 +74,5 @@ The final cut of Casshern being trampled. We created Casshern's rough feeling by
 And about episode 22...
 
 "I'll do the final three episodes 22, 23, 24 myself!" Director Yamauchi's bombshell declaration! Despite the production schedule being so tight already, having Director Yamauchi handle storyboard + direction for all of the last three episodes himself - in a way reckless and extremely dangerous, such thrilling developments were secretly in progress...
-
-■ Continued in Episode 85
 
 *(09.03.26)*

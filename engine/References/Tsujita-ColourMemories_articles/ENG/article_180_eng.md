@@ -29,6 +29,4 @@ Incidentally, the truck appearing in this scene used a 3D model. I believe we bo
 
 Anyway, since I hadn't had work requesting gross production including direction for years, there were various things that didn't go smoothly, and for me it was an episode with not a few points of reflection.
 
-Continued in Episode 181
-
 *(12.03.01)*

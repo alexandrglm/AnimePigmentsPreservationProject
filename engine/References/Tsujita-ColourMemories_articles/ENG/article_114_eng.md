@@ -47,6 +47,4 @@ Literally kicking young staff in the rear, sometimes raising our voices, somehow
 
 And so, we utterly exhausted staff faced November...
 
-■Continues to Episode 116
-
 *(10.01.27)*

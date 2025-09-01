@@ -25,6 +25,4 @@ It's her handwriting habit. "Shi" (シ) and "Tsu" (ツ) - a common story, but as
 
 Fighting such battles, the theatrical *ONE PIECE FILM STRONG WORLD* we're working hard on opens next month, December 12th. Please look forward to it!
 
-■ Continued in Episode 106
-
 *(09.11.10)*

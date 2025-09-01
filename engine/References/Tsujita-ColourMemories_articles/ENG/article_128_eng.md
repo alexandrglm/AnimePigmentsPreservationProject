@@ -33,6 +33,4 @@ Then summer. After resting somewhat leisurely, two projects came to me from late
 
 And *Warriors of Erosion* was apparently a video work commissioned by some religious organization. This seemed potentially quite interesting.
 
-■Continues to Episode 129
-
 *(10.07.09)*

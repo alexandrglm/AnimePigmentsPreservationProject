@@ -43,6 +43,4 @@ This was quite moving. Especially since *Theatrical Saint Seiya: Legend of Crims
 
 Once a precedent or format is established, it gets carried forward. For a while after this, "Color Direction Inspection" became the established credit for theatrical production endings.
 
-■ Continued in Episode 39
-
 *(08.01.15)*

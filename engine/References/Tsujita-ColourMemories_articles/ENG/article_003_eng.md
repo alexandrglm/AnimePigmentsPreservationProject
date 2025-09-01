@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 3: Once Upon a Time... (2)**
 
 **I recently bought a new computer for work.** A **MacPro**. I've finally become an intel-mac user. I increased the memory to 5GB and immediately put it to work. Whoa, it's fast! **Photoshop**, **TraceMan**, and **PaintMan** are all running smoothly at speeds I've never experienced in my personal history! Now if only my own hands could get faster... (distant stare).
@@ -28,7 +28,5 @@ So every day, from afternoon to night, sometimes until dawn, that work.
 Every late night, cel deliveries were carried by hand from Korea. One day, that hand luggage included what appeared to be a souvenir jar of **kimchi**. But apparently that kimchi's sealing was terrible, and the kimchi juice had soaked into the cel deliveries. Naturally, the cut bags, time sheets, and in-between animation paper had absorbed it well, and every cut we opened was kimchi-pickled. We had to dry them and inspect the cels, but every time we flipped through them one by one, there was that "take this!" kimchi smell... (laughs).
 
 Despite such struggles, we somehow managed to complete *Odin* at the very last minute. In the end, there was no staff screening at the studio, and by coincidence, on the opening day when I was going home in the morning, I saw the very first screening at a Shinjuku movie theater.
-
-## **■Continues to Episode 4**
 
 *(07.01.23)*

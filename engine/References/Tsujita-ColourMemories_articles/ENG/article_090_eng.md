@@ -51,6 +51,4 @@ The palace and stairs surrounded by cold iron fencing stood there quietly yet be
 
 By the way, the next day I went to Murano Island. The island famous as the birthplace of Venetian glass. I went to that island to search for Mirai-san and her workshop (!), but unfortunately I couldn't find them (laughs).
 
-■ Continued in Episode 91
-
 *(09.05.12)*

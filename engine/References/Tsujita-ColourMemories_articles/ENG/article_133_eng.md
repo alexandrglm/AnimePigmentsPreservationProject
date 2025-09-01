@@ -45,6 +45,4 @@ Actually when making color samples for checking, I'd shown color sample cels pai
 
 Now what? (sweat) Main feature work had already started. Changes weren't possible now.
 
-■Continues to Episode 134
-
 *(10.08.10)*

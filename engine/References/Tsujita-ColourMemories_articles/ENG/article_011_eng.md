@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 11: Once Upon a Time... (8) The Treacherous Small Bottles**
 
 **After returning from Seoul, Tokyo has gotten cold somehow.**
@@ -56,7 +56,5 @@ Well then.
 **The entire paint becomes slimy to the touch, paint on brush tips starts stringing, and on cel surfaces the paint won't spread properly, making it hard to paint.** Some colors would even darken. Once it reached this state, it was over. That paint went to the trash.
 
 **Cel paints varied in condition according to each user's preferences.** Some people found it easier to paint with more moisture in a looser state, while others preferred it harder for vigorous painting. So depending on that water balance, moldiness and rotting tendencies probably varied too.
-
-## **■Continues to Episode 12**
 
 *(07.03.20)*

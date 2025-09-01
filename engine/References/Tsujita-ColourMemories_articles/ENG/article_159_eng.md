@@ -31,6 +31,4 @@ That much - this method of thinking character colors using Copics was revolution
 
 While handling *Neighborhood Story* character setting color work daily like this, another work was actually operating in parallel behind the scenes. Such was autumn 1995.
 
-To be continued in Episode 160
-
 *(11.03.08)*

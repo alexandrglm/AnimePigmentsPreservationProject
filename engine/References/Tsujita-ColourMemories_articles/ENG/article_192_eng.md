@@ -35,6 +35,4 @@ Ah, it's an old man's past flashback (laugh). Happy memories, good recollections
 
 What kind of summer vacation lives do today's elementary students have? Since my wife and I don't have children, I don't really understand that part. Ah, now there are probably active extracurricular activities like soccer? Or cram school attendance? Compared to my childhood there are probably many more fun things, but still, I think summer vacation should broadcast anime for elementary students every morning!
 
-Continued in Episode 193
-
 *(12.08.14)*

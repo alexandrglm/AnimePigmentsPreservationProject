@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 33: Special Episode - *The File of Young Kindaichi SP* Broadcast Commemoration - How to Make Hajime-chan's Colors**
 
 It's been a while (sweat).
@@ -70,7 +70,5 @@ Additionally, both works this time had Ota Sunao-kun's (太田直) Toei Animatio
 Such slightly luxurious effort went into ***The File of Young Kindaichi SP*** (laughs).
 
 The other day, talking with Directors Ito-kun and Uda-kun, we laughed that Inspector Kenmochi is probably about our actual age now. Ito-kun, Uda-kun, and I are roughly the same age. So we thought, "Ah, we're 'old men' too now" (laughs). Though we're such "old men," we'd like to do ***The File of Young Kindaichi*** again.
-
-## **■Continues to Episode 34**
 
 *(07.11.13)*

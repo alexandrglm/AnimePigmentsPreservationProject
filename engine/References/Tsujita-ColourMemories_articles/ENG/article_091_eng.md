@@ -55,6 +55,4 @@ However...
 
 "Hmm, we need some more flavoring..." While watching test photography rushes of underwater cuts, the director and animation director began pondering.
 
-■ Continued in Episode 92
-
 *(09.06.02)*

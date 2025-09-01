@@ -37,6 +37,4 @@ Anyway, since the shocking visual exceeded our imagination, creating colors to g
 
 Anyway, Episode 11 ends with a tension-filled cliffhanger of "What on earth is about to begin!?"
 
-Continued in Episode 187
-
 *(12.07.03)*

@@ -63,6 +63,4 @@ Even so, for me it was probably a work that became a huge treasure.
 
 As a side note, among promotional goods distributed to staff during production was a memo pad, which I actually still treasure and use. Using it, or rather too precious to use (laughs). It's still firmly placed on my Oizumi Studio desk. Maybe it's like a good luck charm now? (laughs)
 
-■ Continued in Episode 100
-
 *(09.08.25)*

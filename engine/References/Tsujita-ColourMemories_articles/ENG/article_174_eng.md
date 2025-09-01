@@ -48,6 +48,4 @@ Even so, those two boys... (bitter laugh). Those were colors decided in the mome
 
 According to records, this Episode 1's art meeting was held at the end of November the year before last (2010). Broadcast start was next summer, so about half a year before. But actually at this point, storyboards weren't completed. Well, were they tentatively done? Either way, we couldn't discuss some parts. Yes, that bank scene where Princess of Crystal appears.
 
-To be continued in Episode 175
-
 *(12.01.10)*

@@ -47,6 +47,4 @@ I think the main feature movie will officially appear on ANKAMA's site eventuall
 
 Now, that Eun-Young participates in *Tatami Galaxy* Episode 10 "Four-and-a-Half Tatami Idealist" for storyboard and direction. It broadcasts this week in Kanto. Everyone please support it. Please look forward to it!
 
-■Continues to Episode 127
-
 *(10.06.22)*

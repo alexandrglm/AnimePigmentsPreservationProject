@@ -65,6 +65,4 @@ The production site is getting tough, but I'm having so much fun I can't help it
 
 While it's a work with limited broadcast areas, you can also watch it through online distribution, so please give it a try. Of course, there will be both regular DVD and Blu-ray versions for home video!
 
-■ Continued in Episode 73
-
 *(08.12.09)*

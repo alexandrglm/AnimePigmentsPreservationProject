@@ -35,6 +35,4 @@ Witnessing that earthquake footage, honestly I thought "I don't want to create r
 
 Thinking that way, "Ah, this theatrical *Dragon Ball Z* was good to make with bright screens and many comical parts!" That's what I thought in January 1995.
 
-■Continues to Episode 138
-
 *(10.09.21)*

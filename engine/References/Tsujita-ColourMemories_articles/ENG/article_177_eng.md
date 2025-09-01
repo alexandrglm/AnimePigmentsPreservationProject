@@ -57,6 +57,4 @@ And above all, they thoroughly understand my methods (laugh). This is important,
 
 Now, during such Episodes 2 and 3. The art meeting for Episode 3 that began in the morning had ended, and we were having a late lunch when it happened. The Great East Japan Earthquake. March 11th. From that day, our production site would also be greatly affected.
 
-Continued in Episode 178
-
 *(12.02.08)*

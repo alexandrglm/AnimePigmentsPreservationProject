@@ -45,6 +45,4 @@ My reaction after watching the first print was a "smirk" (laugh). I had a premon
 
 But after this, an unexpected situation was waiting for me.
 
-■ Continued in Episode 54
-
 *(08.05.27)*

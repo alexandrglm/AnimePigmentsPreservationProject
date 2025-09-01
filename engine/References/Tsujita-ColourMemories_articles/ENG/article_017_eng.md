@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 17: Once Upon a Time... (12) "Atatatatata..." "Bushu! Hidebu!"**
 
 **A CD I ordered online recently arrived - *Future Boy Conan Complete Music Collection*.**
@@ -44,7 +44,5 @@ Well then.
 **Come to think of it, when the video was released, I think I bought it through internal company sales...** I lent it to someone and that was it... Anyone who remembers, please contact me! (laughs)
 
 **What I can't forget from that time was during pre-editing *Hokuto no Ken* crunch when help was called and we were all working at night, listening to "Tunnels All Night Nippon" when a news bulletin came on.** It was news that Space Shuttle **Challenger** had exploded. Late night January 28th.
-
-## **■Continues to Episode 18**
 
 *(07.06.05)*

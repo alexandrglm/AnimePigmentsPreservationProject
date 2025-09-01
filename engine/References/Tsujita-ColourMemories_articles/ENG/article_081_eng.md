@@ -25,7 +25,7 @@ Now then.
 
 Have you purchased them, everyone? *Casshern Sins* DVD & Blu-Ray. This week I'm delivering part 2 of "*Casshern Sins* Color Design Notes."
 
-## Episode 7: "The Woman in the High Tower"
+#### Episode 7: "The Woman in the High Tower"
 
 Script: Yoshida Reiko / Storyboard & Direction: Yamauchi Shigeyasu / Animation Director: Tominaga Mari / Color Direction: Kohinata Tomoko
 
@@ -41,7 +41,7 @@ The scene near the end of the first half where she tries to put Casshern to slee
 
 For me, the robots playing cards at the beginning and those cards are my favorite parts (laughs).
 
-## Episode 8: "A Hymn of Hope"
+#### Episode 8: "A Hymn of Hope"
 
 Script: Yamato-ya Akira / Storyboard: Yamauchi Shigeyasu / Direction & Animation Director: Ito Tatsufumi / Color Direction: Akimoto Yuki
 
@@ -53,7 +53,7 @@ The climax is still spectacular - Janis's singing scene and Casshern's big battl
 
 Actually, the battle scene outside this music hall - both the robots and backgrounds had colors that were a bit too deep, and when we filmed it, it became too dark and you couldn't tell what was what. So we had the photography department adjust the screen brightness.
 
-## Episode 9: "Flowers Blooming in the Valley of Death"
+#### Episode 9: "Flowers Blooming in the Valley of Death"
 
 Script: Kamishiro Tsutomu / Storyboard & Direction: Kimura Nobukage / Animation Director: Aoki Tetsuro / Color Direction: Kohinata Tomoko
 
@@ -67,7 +67,7 @@ In return, the finishing was tough with all the flowers (laughs). The flower fie
 
 From this episode, Matsumoto Kenji-san joined the art staff. Matsumoto-san's uniquely deep artistic style really hit the spot with Niko's poignancy.
 
-## Episode 10: "A Man Imprisoned by the Past"
+#### Episode 10: "A Man Imprisoned by the Past"
 
 Script: Kobayashi Yasuko / Storyboard: Ito Naoyuki / Animation Director: Hayama Jun'ichi / Color Direction: Akimoto Yuki
 
@@ -81,7 +81,7 @@ Meanwhile, the "cool Down" appearing in flashback scenes is a solidly built hand
 
 Actually, I had made this scene to look normal colored like other scenes, but the director said "Let's use colors to give meaning that flashback scenes are flashback scenes." "If we're making normal scenes look ordinary, we should give some variation to flashback scenes."
 
-## Episode 11: "Under His Own Mission"
+#### Episode 11: "Under His Own Mission"
 
 Script: Kamishiro Tsutomu / Storyboard: Sendo-ji Takuma / Direction: Hatano Kohei / Animation Director: Hayama Kenji / Color Direction: Nakano Tomoaki
 
@@ -101,7 +101,7 @@ In the latter half, there's a scene where companions pressure Jin to "kill Cassh
 
 You probably can't tell unless you watch really carefully, but I tried to create the screen atmosphere including such small details.
 
-## Episode 12: "Coloring the Time I Lived"
+#### Episode 12: "Coloring the Time I Lived"
 
 Script: Takahashi Natsuko / Storyboard & Direction: Minatsu Tatsuya / Animation Director: Nishii Terumi / Color Direction: Akimoto Yuki
 
@@ -116,7 +116,5 @@ The Margo drawn in the storyboard seemed like some old guy character, but the se
 Actually, this episode hit quite a spot for me personally. I suddenly thought "maybe I'm the same as Margo."
 
 The episodic complete stories mostly ended with episode 12. Finally, in the latter half, the story would head toward the main plot.
-
-■ Continued in Episode 82
 
 *(09.03.05)*

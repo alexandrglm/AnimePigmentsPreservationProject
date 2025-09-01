@@ -33,6 +33,4 @@ Like this, she had carefully compiled character "rules" combining teacher's hand
 
 And upon deciphering this "Book of Rules," the colors I'd conceived apparently didn't deviate from these "rules." Ah, thank goodness! Following these "rules" and then studying trends myself, I should be able to manage somehow. I was confident of that.
 
-To be continued in Episode 153
-
 *(11.01.18)*

@@ -55,6 +55,4 @@ Now, the "are directors popular?" problem. An important statement emerges here.
 
 ...The truth of that matter is for another time (laugh).
 
-To be continued in Episode 171
-
 *(11.08.31)*

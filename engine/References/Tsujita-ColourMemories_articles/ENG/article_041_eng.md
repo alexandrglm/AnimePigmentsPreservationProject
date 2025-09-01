@@ -33,6 +33,4 @@ I'm in charge of deciding the colors for that text (incidentally, the person cho
 
 Well, *Hakaba* has just a little left, but I wonder what will happen with the text in the final episode 11's ending? Actually, that hasn't been decided yet...
 
-■ Continued in Episode 42
-
 *(08.02.26)*

@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 31: Once Upon a Time... (23) *Saint Seiya* Part 10 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Preview Cuts and "Light, Shadow, and Color"**
 
 Last weekend I mowed the lawn at my parents' house. Since my father passed away in spring, including his illness period, it was the first lawn mowing in about a year. Oh man, it had grown completely wild - more like "grass cutting" than "lawn mowing."
@@ -44,7 +44,5 @@ This remains my theme today.
 Now digital coloring helps as a weapon, so that "degree" can aim for almost satisfying balance, but back then was still the cel paint era. Moreover, the desperately intermediate-color and low-saturation-lacking STAC colors, Toei color chart world. Plus the color count itself was overwhelmingly small. I spent every day and night repeatedly test-painting to explore what combinations would show the targeted color tones.
 
 Looking back now, I think I used imagination more richly to create colors back then.
-
-## **■Continues to Episode 32**
 
 *(07.10.09)*

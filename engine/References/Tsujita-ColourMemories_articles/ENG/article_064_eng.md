@@ -53,6 +53,4 @@ So by designing shadow colors slightly deeper in the original STAC color design 
 
 So in early 1992, I frantically prepared "conversions." And finally color direction with Taiyo Shikisai paint conversion began.
 
-■ Continued in Episode 65
-
 *(08.09.10)*

@@ -41,6 +41,4 @@ So my first digital work was actually this part-time "Tokyo Dungeon" before *Nei
 
 Now, finally *Neighborhood Story* work proper. This would become unexpectedly quite difficult.
 
-To be continued in Episode 156
-
 *(11.02.08)*

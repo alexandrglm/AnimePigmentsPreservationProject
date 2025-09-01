@@ -37,6 +37,4 @@ The era was definitely heading digital, and actually, even home game consoles ar
 
 And just before departing for Manila business trip, I made a big decision. Actually around this time, I left my parents' home, rented an apartment room calling it my "work room," and amazingly bought this PowerMacintosh 8100AV for that room.
 
-To be continued in Episode 155
-
 *(11.02.01)*

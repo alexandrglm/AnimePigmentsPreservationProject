@@ -47,6 +47,4 @@ Of course I'd never read it. "What kind of work is it..." I was wondering when S
 
 *Neighborhood Story* had already started moving considerably toward September broadcast.
 
-To be continued in Episode 150
-
 *(10.12.21)*

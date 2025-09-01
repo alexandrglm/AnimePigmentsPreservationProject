@@ -61,7 +61,7 @@ You can't do finishing inspection without properly understanding trace and paint
 
 Thus shipped luggage would be delivered to Oizumi the next afternoon.
 
-"Hi, Tsujita-san, ○△▼×◇●■!"
+"Hi, Tsujita-san, ○△▼×◇●#### !"
 
 Filipino staff were all impossibly cheerful, speaking to me with smiles. But I don't understand! (wry laugh) English would be manageable somehow, but local Tagalog was completely hopeless, so I could only respond with my best strained smile (wry laugh).
 
@@ -72,7 +72,5 @@ Strangely, trace and painting teams wore fairly casual clothing. T-shirts and sh
 While individual, everyone seemed uniformly happy. I'd never seen people so happily doing trace, painting, and inspection in Japan.
 
 Well, having toured the finishing department overall, various problems requiring improvement were visible everywhere. So now I had to talk to all staff about those problems.
-
-■Continues to Episode 124
 
 *(10.05.18)*

@@ -55,6 +55,4 @@ Then I departed for home. Return luggage was two aluminum cases so packed full t
 
 After that, how much did the business trip results achieve? Not dramatically, but still some improvement occurred. But three months later, during my next theatrical work's crunch, similar situations would repeat (laugh).
 
-■Continues to Episode 126
-
 *(10.06.15)*

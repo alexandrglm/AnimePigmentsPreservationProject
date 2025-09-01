@@ -45,6 +45,4 @@ I knew Mukuo-san had been hospitalized for a long time, but he passed away durin
 
 This was the first half of 1992, when I was 29. What awaited me was an even bigger theatrical work - a full two-hour feature.
 
-■ Continued in Episode 69
-
 *(08.10.22)*

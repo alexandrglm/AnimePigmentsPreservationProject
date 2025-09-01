@@ -55,6 +55,4 @@ The time was mid-November 1991. Theatrical release was March 7th the following y
 
 My long relationship with the *Dragon Ball Z* theatrical series, which would continue from then on, began like this.
 
-■ Continued in Episode 63
-
 *(08.08.12)*

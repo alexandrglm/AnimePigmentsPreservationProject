@@ -63,6 +63,4 @@ And here too, ace Ikki appears at the very end (laugh). He's truly got the best 
 
 *Inferno Chapter* had various issues including "voice actor changes," but we managed to run through it somehow.
 
-■ Continued in Episode 61
-
 *(08.08.06)*

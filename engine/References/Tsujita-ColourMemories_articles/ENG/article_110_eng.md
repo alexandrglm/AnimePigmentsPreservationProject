@@ -59,6 +59,4 @@ And it was always a competition between me and Assistant Director Igarashi for t
 
 This *Pretty Soldier Sailor Moon R* movie, thanks to everyone, became a big hit. And receiving this big hit, *Sailor Moon* theatrical versions would continue to be made the following year and the year after that.
 
-■Continues to Episode 111
-
 *(09.12.22)*

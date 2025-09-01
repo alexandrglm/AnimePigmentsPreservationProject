@@ -53,6 +53,4 @@ So we managed to complete the TSM icon replacement. After taking breaks, work co
 
 And two days later, late at night, starting with the Kansai region, the actual broadcast of *Mawaru Penguindrum* began. Thus we stood at the new starting point of the intense, harsh battle that would continue for the next six months.
 
-Continued in Episode 177
-
 *(12.01.24)*

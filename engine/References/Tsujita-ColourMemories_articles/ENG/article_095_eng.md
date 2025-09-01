@@ -77,6 +77,4 @@ Anyway, these are two contrasting works, *Evangelion: 2.0 You Can (Not) Advance*
 
 ...Ah~, still, how frustrating! (bitter laugh)
 
-■ Continued in Episode 96
-
 *(09.07.17)*

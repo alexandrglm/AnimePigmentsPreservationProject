@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 12: Special Episode... Adventures Around Windows and Family Registers**
 
 **It's been a while.**
@@ -60,7 +60,5 @@ Well then.
 **Man, a bit moving.** By following family register copies, I felt my father's 80-year life anew and firmly.
 
 **And various procedures are still incomplete and continuing (sweat).** I wonder when they'll end...
-
-## **■Continues to Episode 13**
 
 *(07.04.24)*

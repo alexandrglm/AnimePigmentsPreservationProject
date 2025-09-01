@@ -53,6 +53,4 @@ That was a comment from production staff member Kaburaki-san.
 
 If we don't have sleeves, let's first make those sleeves. Thus we reached the groundbreaking development of ordering special new paint colors exclusively for *COO* from STAC.
 
-■ Continued in Episode 88
-
 *(09.04.14)*

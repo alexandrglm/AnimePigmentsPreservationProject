@@ -51,6 +51,4 @@ We requested additional instructions and corrections for just a few points, with
 
 However, we still had big challenges remaining. Yes, the opening and ending problems remained.
 
-To be continued in Episode 176
-
 *(12.01.17)*

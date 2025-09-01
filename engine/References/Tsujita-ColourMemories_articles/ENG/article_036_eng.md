@@ -49,6 +49,4 @@ While the art department was still giving initial color instructions, all the wo
 
 And so, the long battle over "Color Direction" credits began...
 
-■ Continued in Episode 37
-
 *(07.12.11)*

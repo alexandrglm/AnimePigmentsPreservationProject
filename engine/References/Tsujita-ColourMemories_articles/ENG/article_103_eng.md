@@ -41,6 +41,4 @@ Oh yes, these "Sailor Senshi" costumes are design-wise more like figure skating 
 
 "Takeuchi-san's (original creator) concept is really good," I remember Ikuhara-kun admiring.
 
-■ Continued in Episode 104
-
 *(09.10.09)*

@@ -39,6 +39,4 @@ For *Casshern Sins*, I decided to be credited with my real name. And simultaneou
 
 It's been three years now, but I think that decision was correct. Being able to continue without wavering like this is thanks to what Yamauchi-san said that time - I'm grateful. Works marking turning points for me are always Director Yamauchi's works.
 
-To be continued in Episode 166
-
 *(11.05.31)*

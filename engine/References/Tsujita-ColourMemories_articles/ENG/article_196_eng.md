@@ -41,5 +41,4 @@ In the final scene where the three siblings and Ringo huddle under the light, to
 
 Oh yes, in Episode 18 Penguin #1 secretly parts ways with erotic magazines! (laugh) Including that aspect, it was Episode 18 where people's (and penguins') hearts moved greatly.
 
-
 *(12.09.18)*

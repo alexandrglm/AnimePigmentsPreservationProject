@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 7: Surely *Space Battleship Yamato* Was the Beginning**
 
 **Due to my work, our house was piled with VHS videotapes.** Various program recordings from TV, work reference footage, even white boxes (completed video dubbed to VHS tapes for staff use). They were all necessary, but they just took up space and were bothersome. In recent years, DVD recorders appeared on the market, and our house dutifully purchased one. We converted all the VHS tapes to DVD at once. We were able to clear them out beautifully.
@@ -52,7 +52,5 @@ Well then.
 **In the booklet included with this DVD box set, the original coloring settings from that time were published as reference material.** So for the first time, I learned the original *Yamato* color direction and paint numbers. The basic ship body was **Z-4**, the ship bottom and smokestack red parts' basic was **Zm-1**. From the paint numbering system, I think these were probably colors created specifically for *Yamato*. Man, I was moved! In plastic model paint terms, that's "Japanese Navy warship color" and "ship bottom color" (laughs). After all, *Yamato* is imprinted with these colors in my mind, so I just can't like Toei Doga's "blue-tinted Yamato."
 
 **After the so-called *Space Battleship Yamato* boom, the three Toei Doga theatrical versions I mentioned earlier were made, and TV series *2* and *3* were also made,** but for me, *Space Battleship Yamato* means the first TV series. There was a time when I thought "If new ones are made again, I want to participate too!" but now I want to cherish it as just one fan.
-
-## **■Continues to Episode 8**
 
 *(07.02.20)*

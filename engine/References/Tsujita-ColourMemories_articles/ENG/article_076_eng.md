@@ -43,6 +43,4 @@ Then after a while, word came from Kadokawa.
 
 And so various things finally got started. This was the beginning of my long relationship with *COO*.
 
-■ Continued in Episode 77
-
 *(09.01.20)*

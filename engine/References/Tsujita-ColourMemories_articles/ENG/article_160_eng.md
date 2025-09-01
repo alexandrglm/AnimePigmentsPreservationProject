@@ -37,6 +37,4 @@ So this work would also become quite difficult... (laugh). Still, the story held
 
 After all, emotional aspects are big in animation production.
 
-To be continued in Episode 161
-
 *(11.03.22)*

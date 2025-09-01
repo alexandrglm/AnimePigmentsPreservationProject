@@ -43,6 +43,4 @@ Incidentally, the "first movie constraints" were unwritten Toei rules when adapt
 
 But *Sailor Moon R* movie didn't use the TV opening. They used the opening theme song, but the background was footage from the theatrical version. I think Director Ikuhara wouldn't compromise on this point (←this memory is also vague).
 
-■Continues to Episode 109
-
 *(09.12.11)*

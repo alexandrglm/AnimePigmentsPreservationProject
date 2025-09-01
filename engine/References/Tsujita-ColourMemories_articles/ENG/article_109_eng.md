@@ -54,6 +54,4 @@ Now then.
 
 I wrote too much "introduction" (sweat). You've all noticed, right? (laugh) ...Which means, *Sailor Moon R* movie continues next time...
 
-■Continues to Episode 110
-
 *(09.12.15)*

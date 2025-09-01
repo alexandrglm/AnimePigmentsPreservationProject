@@ -37,6 +37,4 @@ So what happens? The skin shadow colors come back painted purple. And when I mak
 
 Each time I'd hold my head while apologetically taking retake work to the coloring team.
 
-■ Continued in Episode 66
-
 *(08.10.01)*

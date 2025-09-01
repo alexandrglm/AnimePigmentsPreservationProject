@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 32: Once Upon a Time... (24) *Saint Seiya* Part 11 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Completion and Setback**
 
 ***Hatarakids: Maiham-gumi*** started October 7th at 6:30 AM on TV Asahi. Episode 1's viewership was 3.3%! Man, considering it's a 6:30 AM show, that's quite a number.
@@ -40,7 +40,5 @@ Thus ended the days of theatrical ***Saint Seiya: Legend of Crimson Youth***. Af
 Then TV series *Saint Seiya* ended. For the final episode, I think I watched the first screening with everyone in the screening room, but somehow I have no memory of the content. While watching this final episode of a work I'd had many personal feelings about, my mind probably went to memories of *Saint Seiya* so far. Years later, encountering that final episode in a CATV rerun, I remember being stunned thinking "Ah, so this is how it ended" (bitter laugh).
 
 Then one day after over ten years had passed. A certain story reached me: "They're doing a sequel. *Hades Twelve Temples Arc (ハーデス十二宮編)* is decided."
-
-## **■Continues to Episode 33**
 
 *(07.10.16)*

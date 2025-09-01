@@ -59,6 +59,4 @@ The director and assistant directors pointed out "It's blue in the TV version," 
 
 Based on this completed "basic"—so-called "normal"—color direction, we then moved into each scene's colors, scene-by-scene color design.
 
-■Continues to Episode 114
-
 *(10.01.13)*

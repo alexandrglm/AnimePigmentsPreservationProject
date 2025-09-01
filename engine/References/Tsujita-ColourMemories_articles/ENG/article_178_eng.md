@@ -31,6 +31,4 @@ In the end, throughout March after March 11th, there were 2-3 art board checks, 
 
 Such was March 2011.
 
-Continued in Episode 179
-
 *(12.02.14)*

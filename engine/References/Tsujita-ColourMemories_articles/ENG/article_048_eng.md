@@ -47,6 +47,4 @@ And the OVA wave continued further. About half a year after *Asuka-gumi! 2*, at 
 
 *Vampire War* (ヴァンパイヤー戦争). An anime adaptation of Kasai Kiyoshi's novel.
 
-■ Continued in Episode 49
-
 *(08.04.22)*

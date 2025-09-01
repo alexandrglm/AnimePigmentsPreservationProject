@@ -25,6 +25,4 @@ Well, feeling somewhat "spaced out" like that, this week is extremely short.
 
 Oh, Thursday late night "Noitamina" this week apparently has broadcast time moved back 10 minutes, so be careful. There are final episode-specific devices, so please look forward to it. Everyone, please support us until the end.
 
-■Continues to Episode 128
-
 *(10.06.30)*

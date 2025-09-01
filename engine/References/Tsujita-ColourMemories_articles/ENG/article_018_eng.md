@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 18: Once Upon a Time... (13) *Jem* and "Brown Carbon"**
 
 **I took 10 days vacation. Not traveling anywhere, just living normal daily life in Tokyo, cleaning up the house and surroundings, repairing broken appliances.**
@@ -48,7 +48,5 @@ Well then.
 **Due to such circumstances, changing main line colors was quite risky back then.** With current digital painting, changing main line colors to create works is normal (laughs). This *Jem* would probably become something interesting if remade with today's technology.
 
 **Now, amid such "collaborative work" days, I was assigned a new work. A domestic work - and a TV series!** Saturday night 7 PM golden time broadcast! The character sheets and storyboard cover handed to me had the large title ***Saint Seiya*** written on it.
-
-## **■Continues to Episode 19**
 
 *(07.06.12)*

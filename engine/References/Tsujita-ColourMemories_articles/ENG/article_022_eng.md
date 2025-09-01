@@ -1,4 +1,4 @@
-# **Color Design Notes [Tsujita Kunio]**
+# Color Design Notes [Tsujita Kunio]
 ## **Episode 22: Once Upon a Time... (17) *Saint Seiya* Part 4 - The Story of Babel's Flame**
 
 I injured my back last weekend. The pain didn't recede but spread throughout my shoulder and worsened considerably (cries). So I went to a nearby orthopedic clinic.
@@ -54,7 +54,5 @@ Thus Episode 26 was completed with greatly excessive sheet counts and schedule. 
 Incidentally, we were properly scolded by production department higher-ups (laughs).
 
 The storyboard and direction for this episode was by **Yamauchi Shigeyasu**. Thus began my days with Yamauchi-san.
-
-## **■Continues to Episode 23**
 
 *(07.07.10)*

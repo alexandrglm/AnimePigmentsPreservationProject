@@ -73,6 +73,4 @@ Somehow the section chief piled various things on me in the confusion and left. 
 
 So amazingly, even "Dragon Quest" work came my way!
 
-To be continued in Episode 163
-
 *(11.04.12)*

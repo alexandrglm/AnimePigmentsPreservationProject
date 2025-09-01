@@ -47,6 +47,4 @@ After a flight of just under five hours, I arrived in Manila. Getting off the pl
 
 Whoosh! Tropical heat, crowds of Manila people with different skin colors, mysterious languages flying about. "Ah, foreign country!" I was overwhelmed and held my breath at that scene.
 
-■Continues to Episode 122
-
 *(10.04.16)*

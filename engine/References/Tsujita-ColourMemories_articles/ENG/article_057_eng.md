@@ -77,6 +77,4 @@ Now, for this *My Youth in Arcadia*, I think I went to see it when it was releas
 
 But I could watch it nostalgically thinking "This was the 'mood' of Toei theatrical works back then." I was satisfied watching the flame cel scenes we painted with a bit of happiness (laugh).
 
-■ Continued in Episode 58
-
 *(08.07.08)*
