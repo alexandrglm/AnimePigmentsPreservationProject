@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 78: Once Upon a Time... (49) - Location Scouting!
 
 Lately I've been approached by young people in the industry at various places saying things like "I'm reading your Anime Style series!" or "I'm watching *Casshern*!"
@@ -66,4 +65,4 @@ And the end of that Aburatsubo location scouting was extending our trip to Misak
 
 ■ Continued in Episode 79
 
-(09.02.10)
+*(09.02.10)*

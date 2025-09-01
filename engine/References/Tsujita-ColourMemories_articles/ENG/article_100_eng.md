@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Embarrassingly Reaching 100 Episodes Somehow, Special Edition: "Back Then I Painted That"
 
 September has arrived. Only four months left this year. Don't you feel like time accelerates once summer passes? ...Wait, just me?
@@ -78,4 +77,4 @@ These works are all important to me - I actually still have their color directio
 
 ■ Continued in Episode 101
 
-(09.09.01)
+*(09.09.01)*

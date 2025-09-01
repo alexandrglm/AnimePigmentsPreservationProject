@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 198: Extra Edition - Pirate Ship, Again!
 
 Man, I've been dropping manuscripts left and right lately, sorry. Once again my main work is in super-extreme crunch mode. I'm aboard the pirate ship for the first time in three years. I'm participating in the latest theatrical *One Piece* film opening nationwide December 15th (!), *One Piece Film Z*.
@@ -22,4 +21,4 @@ In the midst of such battle is the pirate movie *One Piece Film Z*! Incidentally
 
 I wonder if those roughly 20 positive films might remain as cultural heritage?
 
-(12.10.23)
+*(12.10.23)*

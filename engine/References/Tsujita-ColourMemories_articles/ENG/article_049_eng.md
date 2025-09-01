@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 49: Once Upon a Time... (31) - *Vampire War*
 
 Early summer. It's hot.
@@ -48,8 +47,8 @@ So it was completed in December 1990. Did this sell well? I'm not sure about tha
 
 Oh yes, this *Vampire War*, being aimed at slightly older audiences, actually has some "adult scenes." My first "adult scene" color direction made me a bit nervous. And then an even more "adult scene" work was waiting for me.
 
-OVA *Crying Freeman 4: Yugekitōgoku* (Crying Freeman４　雄首冬獄). That work by director Yamauchi Shigeyasu was waiting.
+OVA *Crying Freeman 4: Yugekitougoku* (Crying Freeman４　雄首冬獄). That work by director Yamauchi Shigeyasu was waiting.
 
 ■ Continued in Episode 50
 
-(08.04.30)
+*(08.04.30)*

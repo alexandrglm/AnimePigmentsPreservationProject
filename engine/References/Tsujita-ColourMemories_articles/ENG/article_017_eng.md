@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 17: Once Upon a Time... (12) "Atatatatata..." "Bushu! Hidebu!"**
 
 **A CD I ordered online recently arrived - *Future Boy Conan Complete Music Collection*.**

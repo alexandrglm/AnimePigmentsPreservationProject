@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 195: *Mawaru Penguindrum* Color Design Notes - Part 20
 
 There used to be a TV commercial that went "Baldness begins to show, hair is a long friend," and I'm actually facing such feelings myself. Good grief (sweat). While my hairline has been gradually receding over recent years, these past few months - or rather, this summer - my hair has suddenly thinned considerably. Crisis of capitulation before 50! Good grief, good grief (major sweat).
@@ -50,4 +49,4 @@ From here on, such situations and rushes would continue every week until the fin
 
 Continued in Episode 196
 
-(12.09.11)
+*(12.09.11)*

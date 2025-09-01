@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 152: Long Ago... 91 1995 Part 11 The Original Creator's "Rules" in June
 
 My work room at home has become quite an electronic digital room with several computers and peripherals, broadband internet, home server, etc., but that server suddenly died. Rest in peace.
@@ -36,4 +35,4 @@ And upon deciphering this "Book of Rules," the colors I'd conceived apparently d
 
 To be continued in Episode 153
 
-(11.01.18)
+*(11.01.18)*

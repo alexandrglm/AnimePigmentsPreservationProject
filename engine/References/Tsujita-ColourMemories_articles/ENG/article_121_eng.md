@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 121: Once Upon a Time... 69 - 1994 Part 3 - Celebration! Overseas! The First Step
 
 Tokyo is cold! It's April! What's with this cold weather!
@@ -50,4 +49,4 @@ Whoosh! Tropical heat, crowds of Manila people with different skin colors, myste
 
 ■Continues to Episode 122
 
-(10.04.16)
+*(10.04.16)*

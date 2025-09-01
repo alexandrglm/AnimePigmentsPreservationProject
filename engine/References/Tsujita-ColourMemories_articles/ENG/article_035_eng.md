@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 35: Once Upon a Time... (26) *Saint Seiya* Part 13 - About the Final Episode of "*Saint Seiya Hades Twelve Temples Arc*"**
 
 The other day my ordered ***Ratatouille*** DVD arrived, so I immediately watched it with my wife on my home 37-inch "Kameyama Model."

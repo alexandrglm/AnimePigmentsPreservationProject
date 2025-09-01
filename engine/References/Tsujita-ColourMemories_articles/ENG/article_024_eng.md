@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 24: Once Upon a Time... (19) *Saint Seiya* Part 6 - Theatrical *Saint Seiya: The Heated Battle of the Gods*, and Stories with Yamauchi-san**
 
 It's high school baseball season. The other day, while browsing West Tokyo tournament match results on the internet, huh? I saw my alma mater - Tokyo Metropolitan Fuji High School - in the match results. I hurriedly checked their record and amazingly they'd won through the 2nd and 3rd rounds to reach the best 16. Winning further - surprise! Best 8!

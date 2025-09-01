@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 170: Emergency Investigation! Are Directors Popular?
 
 The days called intense heat and extreme heat have become distant, settling into quite bearable temperature days. Our house neighbors a park, and the cicadas' voices that had been noisily crying from sunrise to midnight have gradually decreased, replaced by gentle cricket and autumn insect voices.
@@ -58,4 +57,4 @@ Now, the "are directors popular?" problem. An important statement emerges here.
 
 To be continued in Episode 171
 
-(11.08.31)
+*(11.08.31)*

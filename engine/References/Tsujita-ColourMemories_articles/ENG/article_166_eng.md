@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 166: About Apple-Branded Equipment
 
 I missed my manuscript deadline again (sweat). I'm sorry.
@@ -44,4 +43,4 @@ Even so, I think I probably can't separate from this apple-marked equipment.
 
 To be continued in Episode 167
 
-(11.06.28)
+*(11.06.28)*

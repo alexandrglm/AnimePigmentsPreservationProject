@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 193: Summer Vacation 2012
 
 When this manuscript is updated, it's probably around when everyone's Obon vacation is ending. Those who returned to their hometowns and such - man, good work! After the break, it's finally the feeling of this year's second half, right?
@@ -40,4 +39,4 @@ And you know, such "other worlds" still remain all over Tokyo. I'm filled with f
 
 Continued in Episode 194
 
-(12.08.21)
+*(12.08.21)*

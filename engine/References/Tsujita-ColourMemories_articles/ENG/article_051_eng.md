@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 51: Special Edition - One More Time Only! *Hakaba Kitaro* Color Design Notes-Style Episode Commentary!
 
 Yesterday there was an interview for the booklet to be included in *Hakaba Kitaro* DVD volume 4. Following director Chioka and animation supervisor Yamamuro, it was a group interview with art director Kurahashi, CG director Morita, and myself. The interviewer was Haraguchi-san from "List Production Committee." Oh! I met him for the first time.
@@ -104,7 +103,7 @@ The various monsters also had character designer Yamamuro-san and animation supe
 
 Actually, I initially planned to do color direction for this final episode myself. But I thought it might work better to ask Akimoto-san, who had handled several episodes already. Absolutely correct (laugh). Really, interesting screens were created.
 
-In the first half, the surreal screens of tuna, beefsteak, and Chinese food that Rakuyō Rōjin devours are Akimoto-san's masterpieces (laugh). Beyond that, I left many detailed things to her.
+In the first half, the surreal screens of tuna, beefsteak, and Chinese food that Rakuyou Roujin devours are Akimoto-san's masterpieces (laugh). Beyond that, I left many detailed things to her.
 
 The "Strange Olympics" "walking giant creatures," "island-like creatures," and "bird that walks one step per thousand years" were submitted with dummy coloring, and I created them while bouncing ideas with the director. Yes, those were all animation + coloring.
 
@@ -118,4 +117,4 @@ And with that, *Hakaba Kitaro* ends (laugh).
 
 ■ Continued in Episode 52
 
-(08.05.13)
+*(08.05.13)*

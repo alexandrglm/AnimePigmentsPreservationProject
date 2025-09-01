@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 173: *Mawaru Penguindrum* Complete! Watching the Final Episode in Theaters
 
 Amazingly, just a few more days until this year ends! Everyone, it's been a while - Tsujita here. Due to main work being extremely busy, I ended up taking over a month break from serialization. Sorry.
@@ -20,4 +19,4 @@ So my year was entirely *Mawaru Penguindrum*-colored. Last year was *The Tatami 
 
 To be continued in Episode 174
 
-(11.12.27)
+*(11.12.27)*

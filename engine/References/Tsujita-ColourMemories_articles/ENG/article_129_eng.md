@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ##  Episode 129: Sorry, Another Special Edition - *The Tatami Galaxy* Kyoto Local Post-Production Location Tour
 
 *The Tatami Galaxy*, which received great acclaim, has completed not only broadcast work but also all work on unreleased episodes for BD & DVD release. With a little time available, I'm taking a brief vacation. Ah, travel for the first time in a while. I'm in Kyoto bustling with the Gion Festival, camera in hand.
@@ -48,4 +47,4 @@ I got so emotionally invested in *The Tatami Galaxy*, but this finally gave me e
 
 ■Continues to Episode 130
 
-(10.07.16)
+*(10.07.16)*

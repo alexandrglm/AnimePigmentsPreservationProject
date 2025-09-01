@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 125: Once Upon a Time... 72 - 1994 Part 6 - Meeting! What Were the Results?
 
 The asteroid probe "Hayabusa" is coming home! Ever since hearing that news, I'd been sending encouragement to Hayabusa flying alone through the solar system toward Earth.
@@ -58,4 +57,4 @@ After that, how much did the business trip results achieve? Not dramatically, bu
 
 ■Continues to Episode 126
 
-(10.06.15)
+*(10.06.15)*

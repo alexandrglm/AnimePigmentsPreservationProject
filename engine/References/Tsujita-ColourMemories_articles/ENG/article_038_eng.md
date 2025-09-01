@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 38: Once Upon a Time... (28) - The Long Battle Over "Color Direction" Credits, Part 2
 
 Did you catch *Hakaba Kitaro*, which started broadcasting last week?
@@ -46,4 +45,4 @@ Once a precedent or format is established, it gets carried forward. For a while 
 
 ■ Continued in Episode 39
 
-(08.01.15)
+*(08.01.15)*

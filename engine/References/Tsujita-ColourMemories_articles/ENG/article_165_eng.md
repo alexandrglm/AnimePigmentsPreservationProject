@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 165: Side Story: About Names
 
 My goodness. Sorry for taking such a long break from publication.
@@ -42,4 +41,4 @@ It's been three years now, but I think that decision was correct. Being able to 
 
 To be continued in Episode 166
 
-(11.05.31)
+*(11.05.31)*

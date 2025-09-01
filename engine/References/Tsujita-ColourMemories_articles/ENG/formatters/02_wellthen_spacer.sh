@@ -1,4 +1,6 @@
 #!/bin/sh
+# well, then, well well remover
+
 set -eu
 
 for f in ./*.md; do

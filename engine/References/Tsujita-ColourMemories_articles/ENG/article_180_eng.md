@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 180: *Mawaru Penguindrum* Color Design Notes - Part 7
 
 Currently at Namco Namjatown in Tokyo Ikebukuro's Sunshine City, a collaboration project with *Mawaru Penguindrum* called "Survival Strategy at Namjatown!!" is being held. Several Penguindrum staff members went there the other day. Going together were scriptwriter Igami, Assistant Director Yamazaki, Character Designer Nishii, Director Kaneko, and myself. We all drew in the visitor message notebook, took commemorative photos, ate all the collaboration sweets together - the five of us went completely field trip mode with all the chatter and excitement (laugh). Man, it was fun.
@@ -32,4 +31,4 @@ Anyway, since I hadn't had work requesting gross production including direction 
 
 Continued in Episode 181
 
-(12.03.01)
+*(12.03.01)*

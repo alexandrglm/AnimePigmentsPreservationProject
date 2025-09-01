@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 132: Once Upon a Time... 76 - 1994 Part 10 - *Sailor Moon S* Movie Color Carbon Blues
 
 August arrived. Daily scorching heat in Tokyo. Aren't there fewer cicadas this year?
@@ -46,4 +45,4 @@ Now main feature work could start... but this color carbon proved more troubleso
 
 ■Continues to Episode 133
 
-(10.08.03)
+*(10.08.03)*

@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 25: Once Upon a Time... (20) *Saint Seiya* Part 7 - Theatrical *Saint Seiya: The Heated Battle of the Gods* A Bit More, and Stories about Special Effects Staff**
 
 I took about 2 weeks off from the series, and during this time I couldn't escape to cool highlands for summer retreat (cries) - I've been spending incredibly busy days. In this brutal heat too...

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 137: Once Upon a Time... 81 - 1995 Part 1 - Rubble and Collapse in January
 
 I've been maintaining early sleep, early rise as much as possible all summer. Wake up around 4-5 AM and start work. Eat breakfast around 7, then home work again all morning. External meetings from afternoon. Sleep around 11 PM—this lifestyle has settled wonderfully.
@@ -38,4 +37,4 @@ Thinking that way, "Ah, this theatrical *Dragon Ball Z* was good to make with br
 
 ■Continues to Episode 138
 
-(10.09.21)
+*(10.09.21)*

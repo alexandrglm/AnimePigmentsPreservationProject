@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 133: Once Upon a Time... 77 - 1994 Part 11 - *Sailor Moon S* Movie: More Color Carbon Blues
 
 I wrote "Aren't there fewer cicadas this year?" last time. The manuscript stating "I don't know about other areas, but Nakano definitely has fewer cicadas this year" was published worldwide, and starting the next day: this year's cicadas are in full frenzy again.
@@ -48,4 +47,4 @@ Now what? (sweat) Main feature work had already started. Changes weren't possibl
 
 ■Continues to Episode 134
 
-(10.08.10)
+*(10.08.10)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 101: Autumn New Program Introduction! Special Edition - Please Support *Ghost Stories Restaurant*!
 
 Last Sunday I returned to my parents' house in Sayama City and did quite a bit of searching through my room's storage. And wow, various things came out.
@@ -36,4 +35,4 @@ So please favor *Ghost Stories Restaurant* among this fall's anime.
 
 ■ Continued in Episode 102
 
-(09.09.08)
+*(09.09.08)*

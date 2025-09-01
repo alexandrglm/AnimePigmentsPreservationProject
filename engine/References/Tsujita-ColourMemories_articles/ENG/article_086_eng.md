@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 86: Excuse Me Extra Edition - *Casshern Sins* Flashback and New Programs
 
 In Tokyo, the cherry blossoms have passed their peak, and petals are fluttering in the refreshing wind like a blizzard. How is everyone doing?
@@ -40,4 +39,4 @@ Such was my spring situation.
 
 ■ Continued in Episode 87
 
-(09.04.10)
+*(09.04.10)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 150: Long Ago... 89 1995 Part 9 Meeting the Original Creator in April
 
 Everyone, Happy New Year!
@@ -48,4 +47,4 @@ That's right. Amazingly, visiting Yazawa-sensei's home for research was suddenly
 
 To be continued in Episode 151
 
-(11.01.07)
+*(11.01.07)*

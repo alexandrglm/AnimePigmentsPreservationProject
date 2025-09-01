@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 42: Connected Through Mizuki Shigeru Originals - Remembering *Akuma-kun*
 
 I'm working hard not to miss my manuscript deadline this week! (explosion)
@@ -50,4 +49,4 @@ This *Akuma-kun*—wasn't it released on DVD? With *Hakaba Kitaro* as a catalyst
 
 ■ Continued in Episode 43
 
-(08.03.04)
+*(08.03.04)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 156: Long Ago... 94 1995 Part 14 Persistence by the Color Copier in August
 
 Today as I write this manuscript is February 11th, National Foundation Day, and amazingly, Tokyo is getting heavy snow! Last week I wrote "couldn't it snow and accumulate properly just once?" and amazingly, it's actually snowing! Oh, the weather god must have read my previous writing (laugh).
@@ -36,4 +35,4 @@ Everyone waited by that narrow color copier watching the work screen through suc
 
 To be continued in Episode 157
 
-(11.02.15)
+*(11.02.15)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 47: Once Upon a Time... (29) - OVA Days Begin! *Hana no Asuka-gumi! 2: Lonely Cats Battle Royal*
 
 Over the weekend, I went to Hong Kong for delicious seafood with friends who live in Beijing. ...Writing it like that sounds incredibly international and celebrity-like, doesn't it? (laugh) Well anyway, I went to Hong Kong in a rush.
@@ -46,4 +45,4 @@ It's interesting how, while deciding the basic normal colors, plans for various 
 
 ■ Continued in Episode 48
 
-(08.04.15)
+*(08.04.15)*

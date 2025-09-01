@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 162: Long Ago... 101 1995 Part 20 Unexpected Additional Theatrical Works and "Dragon Quest VI" Descent in September
 
 Actually, we currently have a cat at home. Due to various circumstances, we're having my wife's family cat homestay with us. Her name is "Mao." About 10 years old. Male. In human terms, maybe over 60? An old man.
@@ -76,4 +75,4 @@ So amazingly, even "Dragon Quest" work came my way!
 
 To be continued in Episode 163
 
-(11.04.12)
+*(11.04.12)*

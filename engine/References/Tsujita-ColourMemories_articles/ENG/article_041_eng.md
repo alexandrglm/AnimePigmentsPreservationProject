@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 41: Sorry! Once Again Setting Aside "Color Direction" for a Bit to Talk About *Hakaba Kitaro*
 
 Once again, it's been two weeks since my last update.
@@ -36,4 +35,4 @@ Well, *Hakaba* has just a little left, but I wonder what will happen with the te
 
 ■ Continued in Episode 42
 
-(08.02.26)
+*(08.02.26)*

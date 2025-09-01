@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 147: Long Ago... 86 1995 Part 6 Somewhat Heavy April and May
 
 Every year, my biggest concern in December, or rather agony, is actually New Year's cards.
@@ -40,4 +39,4 @@ And in such circumstances, that day finally came. The end of *Dragon Ball's* ser
 
 To be continued in Episode 148
 
-(10.12.07)
+*(10.12.07)*

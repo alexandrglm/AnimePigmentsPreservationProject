@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 171: Long Ago... 106 1995 Part 26 *The Path to Power's* Overthought(?) Colors
 
 Now September.
@@ -32,4 +31,4 @@ Well, watching it again now after over ten years, it has a subtle atmosphere (bi
 
 To be continued in Episode 172
 
-(11.09.07)
+*(11.09.07)*

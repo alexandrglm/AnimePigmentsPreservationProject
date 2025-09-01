@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 168: Long Ago... 105 1995 Part 25 Hotel Sequester Meeting Camp - Where Will It Lead!?
 
 This weekend, I took just two days off and went to Sanuki in Kagawa Prefecture, Shikoku for a Oda Kazumasa live concert. A passionate 3.5-hour outdoor live performance at the tip of Okushi Peninsula against the backdrop of the Seto Inland Sea - it was magnificent! What a great summer vacation.
@@ -40,4 +39,4 @@ Oh yes, that guest room was rented until morning, so "since we have it, someone 
 
 To be continued in Episode 169
 
-(11.07.26)
+*(11.07.26)*

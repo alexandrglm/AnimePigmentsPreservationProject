@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 174: *Mawaru Penguindrum* Color Design Notes Part 1
 
 Happy New Year. I dropped manuscripts terribly last year - I apologize. That was all for *Mawaru Penguindrum*. Yes, *Mawaru Penguindrum*! Were you all watching?
@@ -51,4 +50,4 @@ According to records, this Episode 1's art meeting was held at the end of Novemb
 
 To be continued in Episode 175
 
-(12.01.10)
+*(12.01.10)*

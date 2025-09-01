@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 104: Captured by Pirates!!
 
 Autumn has fully arrived, with mornings and evenings getting quite chilly. Simultaneously, extreme dryness... My nose and throat wake up parched and dry, and while I'm not catching a cold, I'm troubled by nasally wake-up voice...
@@ -28,4 +27,4 @@ Such theatrical *ONE PIECE FILM STRONG WORLD* opens December 12th! Please look f
 
 ■ Continued in Episode 105
 
-(09.10.27)
+*(09.10.27)*

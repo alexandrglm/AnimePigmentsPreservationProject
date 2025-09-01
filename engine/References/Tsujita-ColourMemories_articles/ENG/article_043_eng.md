@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 43: Almost the End! *Hakaba Kitaro* - Stories of Tokyo from My Early Childhood
 
 Spring in March. March means the annual JR schedule revision!
@@ -44,4 +43,4 @@ I hope you can feel the obsessions of us "senior group" members, including mysel
 
 ■ Continued in Episode 44
 
-(08.03.11)
+*(08.03.11)*

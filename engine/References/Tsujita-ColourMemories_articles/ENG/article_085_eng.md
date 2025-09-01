@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 85: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Color Design Notes (Final Episode!)
 
 The Web Anime Style editorial department strictly ordered me: "It would be unseemly to spill over into April, so definitely upload and finish '*Casshern Sins* Color Design Notes' on the regular posting day of March 31st," and it's true that I thought "well, the last one is just 3 episodes so it'll be easy."
@@ -100,4 +99,4 @@ But you know, this feeling is wonderful. So once again, without learning my less
 
 ■ Continued in Episode 86
 
-(09.03.31)
+*(09.03.31)*

@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 5: Once Upon a Time... (4) All First Experiences! (laughs)**
 
 **The other week, my wife and I happened to be watching TV when a commercial for Bandai's plastic model "1/350 Space Battleship Yamato" came on.** My wife looked at the happy-eyed middle-aged men on screen and said "I wonder if anyone actually buys this" while looking at me. There I was with the same eyes as the TV middle-aged men, grinning. "...You bought it, didn't you."

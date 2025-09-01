@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 30: Once Upon a Time... (22) *Saint Seiya* Part 9 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Storyboard Art and Meeting Legend**
 
 I recently bought a big TV. A 37-inch full-spec high-definition LCD. The "Kameyama Model (亀山モデル)" they call it. Watching MLB broadcasts, binge-watching foreign dramas on cable TV, watching movies on DVD. Man, I'd been wanting something like this for so long (laughs).

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 114: New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Indeed Middle Part 2)
 
 "Hey there! Good work! Kobiki here!"
@@ -50,4 +49,4 @@ And so, we utterly exhausted staff faced November...
 
 ■Continues to Episode 116
 
-(10.01.27)
+*(10.01.27)*

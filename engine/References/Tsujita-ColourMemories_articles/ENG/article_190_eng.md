@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 190: *Mawaru Penguindrum* Color Design Notes - Part 17
 
 "♪London, London, your London~" Huh? There used to be a commercial like that, right? It somehow stuck in my ear so I ended up writing it, but what commercial was that exactly? (sweat) National? Tokyo local? Hmm...
@@ -60,4 +59,4 @@ For the final bedroom passage after the mysterious atmosphere began, I created c
 
 Continued in Episode 191
 
-(12.07.31)
+*(12.07.31)*

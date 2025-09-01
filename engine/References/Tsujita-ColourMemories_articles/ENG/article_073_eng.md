@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 73: Year-End Extra Edition - What I Thought After Going to Osaka
 
 Huh? (sweat)
@@ -52,4 +51,4 @@ Oh, speaking of which, back during *Doremi*, when Nagamine-kun was going to dire
 
 ■ Continued in Episode 74
 
-(08.12.26)
+*(08.12.26)*

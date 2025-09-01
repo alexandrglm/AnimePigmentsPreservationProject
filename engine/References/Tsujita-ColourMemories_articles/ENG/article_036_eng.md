@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 36: Once Upon a Time... (27) - The Long Battle Over "Color Direction" Credits, Part 1
 
 The mornings and evenings have gotten quite cold, and even Tokyo's autumn leaves have finally settled down. The trees in the park in front of my house have completely shed their leaves over the past few days, taking on a distinctly winter appearance.
@@ -52,4 +51,4 @@ And so, the long battle over "Color Direction" credits began...
 
 ■ Continued in Episode 37
 
-(07.12.11)
+*(07.12.11)*

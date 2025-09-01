@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 181: *Mawaru Penguindrum* Color Design Notes - Part 8
 
 The other day I completely moved out all the remaining equipment and luggage from the Mitaka studio. There's still some *Mawaru Penguindrum* leftover business to handle here and there, but the staff room where I was is already in the thick of work on a different title (apparently an April new series). So I withdrew to avoid being in the way.
@@ -40,4 +39,4 @@ The pink color tone of the final "first night in progress" scene under the floor
 
 Continued in Episode 182
 
-(12.03.07)
+*(12.03.07)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 65: Once Upon a Time... (42) - "R-2" Is Purple - The Trap (bitter laugh)
 
 Before I knew it, it's October (sweat).
@@ -40,4 +39,4 @@ Each time I'd hold my head while apologetically taking retake work to the colori
 
 ■ Continued in Episode 66
 
-(08.10.01)
+*(08.10.01)*

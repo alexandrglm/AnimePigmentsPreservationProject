@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 23: Once Upon a Time... (18) *Saint Seiya* Part 5 - Things I Was Taught, Things I Learned Through Skin and Body**
 
 I'm moving. The apartment where I've lived with my wife for 7 years has become too cramped, so we're moving to a slightly larger place.

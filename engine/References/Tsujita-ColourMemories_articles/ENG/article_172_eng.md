@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 172: "This Got Me Into the Industry!" Stories
 
 Somehow, I'm sorry (sweat). What was supposed to be weekly serialization has become monthly serialization. I apologize. Moreover, this is another somewhat standalone column breaking the flow.
@@ -32,4 +31,4 @@ This *Mawaru Penguindrum* I'm working hard on now might also influence someone's
 
 To be continued in Episode 173
 
-(11.10.18)
+*(11.10.18)*

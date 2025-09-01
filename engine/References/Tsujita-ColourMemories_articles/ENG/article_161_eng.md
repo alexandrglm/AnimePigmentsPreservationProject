@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 161: Long Ago... 100 1995 Part 19 Theatrical *Sailor Moon SuperS* and Various Thoughts October and November
 
 I hate nuclear power plants. I hate them, but it's fact that nuclear power plants are one of the major pillars supporting the massive electrical situation for us Tokyo residents and the metropolitan area. And due to earthquake accidents, Fukushima's nuclear power plants are now in terrible situations, with radiation danger approaching Fukushima Prefecture residents and us metropolitan area residents. The government keeps repeating "it's safe," but online "danger!" is being shouted, and everyone lives with anxiety.
@@ -44,4 +43,4 @@ Though I was like that, there was another reason for "not remembering very well"
 
 To be continued in Episode 162
 
-(11.03.29)
+*(11.03.29)*

@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 20: Once Upon a Time... (15) *Saint Seiya* Part 2 - Episode 1, and OP & ED Stories**
 
 **Last Saturday night, I got an email on my cell phone from a female acquaintance (25, single). From Narita Airport no less!** "I thought the excitement before my first overseas trip departure could only be conveyed now, so I'm emailing." Ah, that's right. That day was her very first overseas trip ever.

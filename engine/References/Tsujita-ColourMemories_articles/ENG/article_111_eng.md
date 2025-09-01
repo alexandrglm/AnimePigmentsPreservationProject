@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 111: New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Part 1)
 
 Happy New Year!
@@ -62,4 +61,4 @@ After waiting several days, the long-awaited response from Oda-sensei came back.
 
 ■Continues to Episode 112
 
-(10.01.05)
+*(10.01.05)*

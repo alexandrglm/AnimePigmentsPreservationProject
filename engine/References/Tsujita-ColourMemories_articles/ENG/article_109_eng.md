@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 109: Once Upon a Time... (66) *Sailor Moon R* Movie
 ...Oh, and About *Space Battleship Yamato: Resurrection*
 
@@ -57,4 +56,4 @@ I wrote too much "introduction" (sweat). You've all noticed, right? (laugh) ...W
 
 ■Continues to Episode 110
 
-(09.12.15)
+*(09.12.15)*

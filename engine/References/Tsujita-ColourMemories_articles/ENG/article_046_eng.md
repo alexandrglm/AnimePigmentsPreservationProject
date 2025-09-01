@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 46: For Some Reason This Week Is About "Lip Sync" Instead of "Color"
 
 Tokyo is in full cherry blossom bloom. Last week they reached full bloom all at once, and even in the park near my house, flower viewing parties continue from morning till morning (!) without pause (laugh). When I pass by the side of the park, the air smells of beer (bitter laugh).
@@ -52,4 +51,4 @@ Now Japanese anime works are speaking in various languages around the world, but
 
 ■ Continued in Episode 47
 
-(08.04.01)
+*(08.04.01)*

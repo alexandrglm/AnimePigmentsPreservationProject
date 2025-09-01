@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 87: Once Upon a Time... (51) Creating Colors! *COO*'s Special New Paint Colors Appear!
 
 Since last weekend, a friend has been traveling overseas - she went to New York! Before her departure, I was helping her with travel arrangements, camera matters, various Manhattan things, and wow, how convenient! Long live the Internet!
@@ -56,4 +55,4 @@ If we don't have sleeves, let's first make those sleeves. Thus we reached the gr
 
 ■ Continued in Episode 88
 
-(09.04.14)
+*(09.04.14)*

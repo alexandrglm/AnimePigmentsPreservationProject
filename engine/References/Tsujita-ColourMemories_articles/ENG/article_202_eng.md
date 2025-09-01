@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 202: About *Revolutionary Girl Utena* - Part 4
 
 Currently in the midst of an intense crunch for *Wake Up, Girls!*, and three members from the real Wake Up, Girls! came to the production site for coverage. Real idols! They were going around the studio having photos taken for some purpose. Eventually they visited my color design room too, and were getting excited looking at the WUG color samples displayed on the monitor!
@@ -30,4 +29,4 @@ Of course, in this era at this time, anime cels and backgrounds drawn on paper w
 
 Now, around when main character color tones were generally complete, Episode 1 work had finally begun. As with any work, until Episode 1 is completed, while each staff member has completion images in their heads, no one has seen that work's finished form or completion. Creating works where no one knows the "correct answer" gradually takes solid shape through the process of making Episode 1.
 
-(13.11.29)
+*(13.11.29)*

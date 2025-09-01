@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 110: Once Upon a Time... (66) *Sailor Moon R* Movie: The Secret of Moon Revenge
 
 Today (December 22nd) is this year's winter solstice. Even Tokyo, which they say gets warmer each year due to global warming and other factors, has felt properly "winter-like!" these past few days. The nighttime and early morning chill has become quite formidable.
@@ -62,4 +61,4 @@ This *Pretty Soldier Sailor Moon R* movie, thanks to everyone, became a big hit.
 
 ■Continues to Episode 111
 
-(09.12.22)
+*(09.12.22)*

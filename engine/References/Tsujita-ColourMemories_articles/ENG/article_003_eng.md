@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 3: Once Upon a Time... (2)**
 
 **I recently bought a new computer for work.** A **MacPro**. I've finally become an intel-mac user. I increased the memory to 5GB and immediately put it to work. Whoa, it's fast! **Photoshop**, **TraceMan**, and **PaintMan** are all running smoothly at speeds I've never experienced in my personal history! Now if only my own hands could get faster... (distant stare).

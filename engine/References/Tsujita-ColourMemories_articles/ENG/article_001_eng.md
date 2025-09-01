@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 1: What are Color Design and Color Direction?**
 
 **Nice to meet you.** My name is **Tsujita Kunio (辻田邦夫)**. I work in **color design** and **color direction**.

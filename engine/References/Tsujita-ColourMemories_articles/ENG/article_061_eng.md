@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 61: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Final Part)
 
 Summer means ghost stories and scary tales, doesn't it? (laugh)
@@ -90,4 +89,4 @@ Having defeated Hades and saved the earth's crisis, where will Athena and the Sa
 
 ■ Continued in Episode 62
 
-(08.08.07)
+*(08.08.07)*

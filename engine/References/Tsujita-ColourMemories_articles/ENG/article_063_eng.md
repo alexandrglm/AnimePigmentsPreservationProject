@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 63: Actually, I'm Currently Struggling with *Dragon Ball* (sweat)
 
 The Beijing Olympics have ended (bitter laugh).
@@ -40,4 +39,4 @@ So next time, I plan to resume "Once Upon a Time..." ...probably (sweat).
 
 ■ Continued in Episode 64
 
-(08.09.02)
+*(08.09.02)*

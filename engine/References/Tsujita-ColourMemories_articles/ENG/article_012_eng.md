@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 12: Special Episode... Adventures Around Windows and Family Registers**
 
 **It's been a while.**

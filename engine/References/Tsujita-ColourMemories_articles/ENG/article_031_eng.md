@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 31: Once Upon a Time... (23) *Saint Seiya* Part 10 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Preview Cuts and "Light, Shadow, and Color"**
 
 Last weekend I mowed the lawn at my parents' house. Since my father passed away in spring, including his illness period, it was the first lawn mowing in about a year. Oh man, it had grown completely wild - more like "grass cutting" than "lawn mowing."

@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 15: Once Upon a Time... (10) Still More Collaborative Works, Then Suddenly**
 
 **It's early summer.** The weather's decent and the sunshine feels pleasant and refreshing. The air is crisp, and even when you sweat a bit, it dries right up - GOOD.

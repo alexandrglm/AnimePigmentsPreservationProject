@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 135: Once Upon a Time... 79 - 1994 Part 13 - What! A Religious Organization's OVA *Warriors of Erosion*
 
 I went to Hong Kong at summer's end. I go to Hong Kong for fun fairly regularly, but this was my first time during such obviously hot midsummer season. I went quite prepared, but huh? Totally fine somehow. Rather, cool?
@@ -44,4 +43,4 @@ So while "anime halls" and such "buildings" are inexcusable, creating archives o
 
 ■Continues to Episode 136
 
-(10.09.08)
+*(10.09.08)*

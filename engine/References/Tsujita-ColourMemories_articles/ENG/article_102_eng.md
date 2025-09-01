@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 102: Once Upon a Time... (62) - About Gyopi-chan and Cow-san in *Goldfish Warning!*
 
 Recently, the book I ordered by Kamimura Sachiko-san, "Encyclopedia of Animation Basics," arrived. I've been flipping through and reading (or rather, looking at) it during work breaks, and even familiar terms and various systems I use daily feel somehow fresh when compiled in a book like this. Moreover, facts like "huh? That's how it was? (sweat)" are revealed (laughs). Anyway, it's really well compiled and wonderful. Highly recommended.
@@ -54,4 +53,4 @@ A year and a half later, such *Sailor Moon* awaited me after *COO* ended. Ikuhar
 
 ■ Continued in Episode 103
 
-(09.09.29)
+*(09.09.29)*

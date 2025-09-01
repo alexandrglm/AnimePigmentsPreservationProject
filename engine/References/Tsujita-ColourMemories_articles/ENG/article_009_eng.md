@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 9: Once Upon a Time... (7) The Forbidden "X" Paints**
 
 **It's warm. It's spring.** Tokyo is already warm enough that the cherry blossoms seem ready to bloom. The cherry trees in Shakujii Park also seem to be showing a pinkish tint overall.

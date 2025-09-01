@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 148: Long Ago... 87 1995 Part 7 *Dragon Ball Z's* End in June
 
 Have you all seen it yet? The movie "SPACE BATTLESHIP Yamato." I couldn't stand it anymore and eagerly went to see it on the second day of release.
@@ -38,4 +37,4 @@ And in such circumstances, that day finally came. The end of *Dragon Ball's* ser
 
 To be continued in Episode 149
 
-(10.12.14)
+*(10.12.14)*

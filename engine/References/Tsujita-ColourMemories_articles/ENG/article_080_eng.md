@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 80: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Color Design Notes (Part 1)
 
 The TV broadcast of *GeGeGe no Kitaro* (5th series) will end at the end of March. The final episode will be exactly episode 100.
@@ -134,4 +133,4 @@ Even so, I earnestly think I want people to watch on digital terrestrial rather 
 
 ■ Continued in Episode 81
 
-(09.02.24)
+*(09.02.24)*

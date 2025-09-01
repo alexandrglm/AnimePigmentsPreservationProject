@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 178: *Mawaru Penguindrum* Color Design Notes - Part 5: 3.11 At That Moment...
 
 Drift ice seems to be coming to the northern sea, the Sea of Okhotsk coast, again this year.
@@ -34,4 +33,4 @@ Such was March 2011.
 
 Continued in Episode 179
 
-(12.02.14)
+*(12.02.14)*

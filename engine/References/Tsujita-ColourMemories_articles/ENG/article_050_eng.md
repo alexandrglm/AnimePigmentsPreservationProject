@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 50: Once Upon a Time... (32) - Pentel Name Pens Going "Shuko Shuko!" *Crying Freeman* Appears!
 
 How did everyone spend Golden Week? I was all about zoos! (laugh)
@@ -22,9 +21,9 @@ Well then.
 
 Finally it has come—OVA *Crying Freeman*. An OVA work based on the gekiga by original creators Koike Kazuo and Ikegami Ryoichi. I participated in two *Freeman* works over two years.
 
-First was *Crying Freeman 4: Yugekitōgoku* (雄首冬獄). Script by Ono Ryunosuke, animation director Urushihara Satoshi, art director Nakamura Mitsuki.
+First was *Crying Freeman 4: Yugekitougoku* (雄首冬獄). Script by Ono Ryunosuke, animation director Urushihara Satoshi, art director Nakamura Mitsuki.
 
-Then *Crying Freeman 5: Senjō no Kishimojin* (戦場の鬼子母神). Script by Ono Ryunosuke, animation director Yamashita Takaaki, art directors Nakamura Mitsuki and Yoshida Noboru.
+Then *Crying Freeman 5: Senjou no Kishimojin* (戦場の鬼子母神). Script by Ono Ryunosuke, animation director Yamashita Takaaki, art directors Nakamura Mitsuki and Yoshida Noboru.
 
 Both were directed by Yamauchi Shigeyasu. Participating in director Yamauchi's work again after a long time. And once again, thoroughly realistic direction. This *Freeman* had already had three productions made, all with other people handling color direction. So I did the fourth and fifth. I think director Yamauchi brought me in.
 
@@ -32,9 +31,9 @@ Both were directed by Yamauchi Shigeyasu. Participating in director Yamauchi's w
 
 Even so, since these were works with originals, basically the original color prints were the major premise, and it would be problematic if they changed too much from the existing three works. Worrying about this in my own way, I submitted several initial designs each. Then, as usual, the director and everyone gathered to check, but absolutely everything got corrections, almost total annihilation. Complete restart from the beginning.
 
-The direction the director wanted was more realistic while having "flair." The colors I first submitted had probed too much for realism, all becoming similarly subdued and too biased. So we repeated correction, check, correction. The director himself seemed to think "hmm" when seeing my color samples, and through repeating these corrections, the director's image and everyone's basic worldview gradually solidified. Incidentally, this work process—or trial and error—was the same not just for "4: Yugekitōgoku" but also "5: Senjō no Kishimojin."
+The direction the director wanted was more realistic while having "flair." The colors I first submitted had probed too much for realism, all becoming similarly subdued and too biased. So we repeated correction, check, correction. The director himself seemed to think "hmm" when seeing my color samples, and through repeating these corrections, the director's image and everyone's basic worldview gradually solidified. Incidentally, this work process—or trial and error—was the same not just for "4: Yugekitougoku" but also "5: Senjou no Kishimojin."
 
-Both *4: Yugekitōgoku* and *5: Senjō no Kishimojin* had art by Nakamura-san's Office Mec-Man. Sometimes delicate, sometimes rough, these Mec-Man backgrounds had a really good atmosphere that fit this work. Particularly in "5: Senjō no Kishimojin," animation director Yamashita-san drew layouts for almost every single cut densely without a single gap, creating another masterpiece of completion (laugh). Art director Yoshida-san, confronted with this, responded with an equally detailed and dense frontal assault—a wonderful battle unfolded. Being pulled along by both, tension kept rising and it became a good work.
+Both *4: Yugekitougoku* and *5: Senjou no Kishimojin* had art by Nakamura-san's Office Mec-Man. Sometimes delicate, sometimes rough, these Mec-Man backgrounds had a really good atmosphere that fit this work. Particularly in "5: Senjou no Kishimojin," animation director Yamashita-san drew layouts for almost every single cut densely without a single gap, creating another masterpiece of completion (laugh). Art director Yoshida-san, confronted with this, responded with an equally detailed and dense frontal assault—a wonderful battle unfolded. Being pulled along by both, tension kept rising and it became a good work.
 
 For color direction, while still having paint problems, I was gradually getting used to realistic works, and I gradually developed my own methodology for realistic, subdued color usage. Special coloring matched to scene backgrounds also became reasonably well-balanced screens when going in dark directions. But now special coloring that removed saturation while going in bright directions became a bottleneck (bitter laugh). While thinking there were still limits, special effects staff helped me out with various impossible requests.
 
@@ -50,10 +49,10 @@ But even with such scenes, it wasn't so-called "18+ anime," and since they were 
 
 Actually, there was a small incident during production. There was a cut where a female character fought completely nude. This cut was outsourced to an overseas production for animation and finishing work, but amazingly, "pubic hair" not drawn in the key animation or animation director corrections was properly drawn and came back as cels. Three or four such cuts! My goodness, what a surprise (laugh). I don't know why this happened, but the animator probably "serviced" us by drawing it (laugh). Naturally this couldn't be used, so we had to redraw all those animation parts and re-finish (bitter laugh).
 
-*4: Yugekitōgoku* and *5: Senjō no Kishimojin* were completed through all this. 1991-autumn 1992.
+*4: Yugekitougoku* and *5: Senjou no Kishimojin* were completed through all this. 1991-autumn 1992.
 
 I recently rewatched these two works after a long time. My, how nostalgic (laugh). At the same time, I thought "Ah, I want to remake this with today's digital technology." If possible, I want to redo at least all the cels from color direction up. That's how wonderful the animation and art are. Ah, wouldn't someone make this *Crying Freeman* again? (laugh).
 
 ■ Continued in Episode 51
 
-(08.05.07)
+*(08.05.07)*

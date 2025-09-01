@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 149: Long Ago... 88 1995 Part 8 Birth of First TV "Color Design" at Toei in April
 
 Breaking news! There are only 10 days left this year! (big sweat)
@@ -50,4 +49,4 @@ Of course I'd never read it. "What kind of work is it..." I was wondering when S
 
 To be continued in Episode 150
 
-(10.12.21)
+*(10.12.21)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 199: About *Revolutionary Girl Utena* - Part 1
 
 Everyone, it's been a while.
@@ -42,4 +41,4 @@ Even if I hadn't spoken up myself at that timing, I think Ikuhara would have mad
 
 That was early autumn 1995, when broadcast start dates and time slots weren't even decided yet.
 
-(13.11.08)
+*(13.11.08)*

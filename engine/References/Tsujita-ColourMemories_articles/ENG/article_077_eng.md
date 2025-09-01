@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 77: Once Upon a Time... (48) - First, I Bought "Lonely Planet Fiji"
 
 The other day, I went to Seoul to meet some friends.
@@ -48,4 +47,4 @@ A very useful guidebook. It became the first overseas travel guidebook I ever bo
 
 ■ Continued in Episode 77
 
-(09.01.28)
+*(09.01.28)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 76: Once Upon a Time... (47) - White Protagonist!? The Launch of *COO*
 
 As always, when it comes time to replace my computer, I agonize tremendously. It's kind of like... breaking up with a girlfriend you've been with for a long time, and the future with a new girlfriend...
@@ -46,4 +45,4 @@ And so various things finally got started. This was the beginning of my long rel
 
 ■ Continued in Episode 77
 
-(09.01.20)
+*(09.01.20)*

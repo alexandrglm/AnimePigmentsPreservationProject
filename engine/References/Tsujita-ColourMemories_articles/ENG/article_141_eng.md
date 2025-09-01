@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 141: *The Tatami Galaxy* Color Design Notes Volume 2
 
 I've started going to a new studio this month for the first time to prepare for a certain TV series. The equipment is already set up and we're waiting for work to begin in earnest.
@@ -80,4 +79,4 @@ The schedule was already getting quite tight from around Episode 5. But thinking
 
 To be continued in Episode 142
 
-(10.10.19)
+*(10.10.19)*

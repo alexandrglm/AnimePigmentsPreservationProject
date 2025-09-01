@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 68: Once Upon a Time... (45) - *Dragon Ball Z: Extreme Battle! The Three Great Super Saiyans* and Final Days with My Mother
 
 Recently my wife has been troubled by nightmares. When I asked, it's apparently dreams about me getting involved with some new religion and not coming home.
@@ -20,13 +19,13 @@ It's a mystery.
 
 Well then.
 
-1992. Looking at my work chronology, this year I was involved in three theatrical works (two released that year), completed one video work (*Crying Freeman: Senjō no Kishimojin*), handled color direction for one TV series episode (*Dragon Quest: Dai no Daibōken*), and did some part-time work on several NHK *Minna no Uta* episodes... It was a year when I got to work on truly various projects.
+1992. Looking at my work chronology, this year I was involved in three theatrical works (two released that year), completed one video work (*Crying Freeman: Senjou no Kishimojin*), handled color direction for one TV series episode (*Dragon Quest: Dai no Daibouken*), and did some part-time work on several NHK *Minna no Uta* episodes... It was a year when I got to work on truly various projects.
 
 I think from the previous year and around this year, the works I could participate in increased, work volume kept growing, and I've continued at roughly the same intensity to this day. It feels like the beginning year of that flow.
 
 In 1992, the second theatrical *Dragon Ball Z* was the summer release *Dragon Ball Z: Extreme Battle! The Three Great Super Saiyans* (極限バトル!!三大超サイヤ人). Director Kikuchi Kazuhito, animation director Maeda Minoru, art director Nagasaki Hitoshi - a 60-minute work.
 
-Around this time, "Toei Anime Fair" combined about three theatrical works for screening during spring and summer vacation seasons, and this *Dragon Ball Z* was one such film. Incidentally, the simultaneous screenings were *Dragon Quest: Dai no Daibōken - Buchiyabure!! Shinsei Rokudaishōgun* and *Rokudenashi Blues*... I don't remember them (bitter laugh).
+Around this time, "Toei Anime Fair" combined about three theatrical works for screening during spring and summer vacation seasons, and this *Dragon Ball Z* was one such film. Incidentally, the simultaneous screenings were *Dragon Quest: Dai no Daibouken - Buchiyabure!! Shinsei Rokudaishougun* and *Rokudenashi Blues*... I don't remember them (bitter laugh).
 
 From spring theatrical release to summer was four months. Honestly the schedule wasn't very generous, but by this time staff were gradually getting used to making theatrical works on such short schedules. This time too, finishing work was outsourced to Manila studios while there was leeway, with the latter half asking Korean productions for animation + finishing work.
 
@@ -48,4 +47,4 @@ This was the first half of 1992, when I was 29. What awaited me was an even bigg
 
 ■ Continued in Episode 69
 
-(08.10.22)
+*(08.10.22)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 103: Once Upon a Time... (63) - Release Date Crisis! *Pretty Soldier Sailor Moon R The Movie*
 
 This week brought typhoons, but were everyone's towns and lives okay?
@@ -44,4 +43,4 @@ Oh yes, these "Sailor Senshi" costumes are design-wise more like figure skating 
 
 ■ Continued in Episode 104
 
-(09.10.09)
+*(09.10.09)*

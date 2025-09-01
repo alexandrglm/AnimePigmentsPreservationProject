@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 59: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Part 1)
 
 Sorry, I took another two-week break, but I'm back starting this week.
@@ -82,4 +81,4 @@ The full 6 episodes that we should have approached with plenty of leeway - the f
 
 ■ Continued in Episode 60
 
-(08.08.05)
+*(08.08.05)*

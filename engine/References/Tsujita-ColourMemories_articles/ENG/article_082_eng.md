@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 82: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Color Design Notes (Part 3)
 
 The WBC (World Baseball Classic) is really exciting! I'm also a huge baseball fan, so I can't help but be tremendously concerned about how the games turn out. Sports really should be enjoyed via live broadcast. Just knowing the results afterward is somehow unbearable for me.
@@ -100,4 +99,4 @@ Such was the opening. I've done openings for various works, but this *Casshern S
 
 ■ Continued in Episode 83
 
-(09.03.10)
+*(09.03.10)*

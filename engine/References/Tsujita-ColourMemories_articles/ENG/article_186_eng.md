@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 186: *Mawaru Penguindrum* Color Design Notes - Part 13
 
 This year I'm working at Toei Animation for the first time in several years. I commute to the Oizumi studio almost daily, and my desk is on the 3rd floor. I take the stairs up to the 3rd floor. But something's strange. That climb is incredibly tiring. Why?
@@ -40,4 +39,4 @@ Anyway, Episode 11 ends with a tension-filled cliffhanger of "What on earth is a
 
 Continued in Episode 187
 
-(12.07.03)
+*(12.07.03)*

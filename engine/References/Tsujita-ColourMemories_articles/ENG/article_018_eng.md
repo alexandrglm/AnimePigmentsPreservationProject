@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 18: Once Upon a Time... (13) *Jem* and "Brown Carbon"**
 
 **I took 10 days vacation. Not traveling anywhere, just living normal daily life in Tokyo, cleaning up the house and surroundings, repairing broken appliances.**

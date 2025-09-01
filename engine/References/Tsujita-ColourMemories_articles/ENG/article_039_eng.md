@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 39: Setting Aside "Color Direction" for a Bit to Talk About *Hakaba Kitaro*
 
 Man, Tokyo's been having cold days that really feel like the depths of winter.
@@ -34,4 +33,4 @@ So please watch this week too, everyone!
 
 ■ Continued in Episode 40
 
-(08.01.22)
+*(08.01.22)*

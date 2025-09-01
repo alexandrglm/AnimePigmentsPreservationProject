@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 126: About *NOX*
 
 The rainy season has arrived, and I'm suffering from the daily mugginess. The most challenging season of the year has come.
@@ -50,4 +49,4 @@ Now, that Eun-Young participates in *Tatami Galaxy* Episode 10 "Four-and-a-Half 
 
 ■Continues to Episode 127
 
-(10.06.22)
+*(10.06.22)*

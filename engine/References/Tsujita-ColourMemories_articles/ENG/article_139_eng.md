@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 139: *The Tatami Galaxy* Color Design Notes Volume 0
 
 Last week, for preparation of a certain work, several of us including a certain director went to a remote island in Kyushu. Plane → car → ferry connections for a little over 4 hours. Writing it like this makes it seem relatively close, but this was quite something...
@@ -42,4 +41,4 @@ Since the introduction got long, that's all for this time. Next time diving into
 
 ■Continues to Episode 140
 
-(10.10.05)
+*(10.10.05)*

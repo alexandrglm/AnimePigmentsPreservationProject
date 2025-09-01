@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 151: Long Ago... 90 1995 Part 10 Visiting the Original Creator's Workplace in May
 
 Yesterday, January 10th, was "Coming of Age Day." Due to the legal revision called "Happy Monday" in 1999, Coming of Age Day, which had been January 15th every year, became the second Monday of January - it's been quite a while now. Originally, why was January 15th Coming of Age Day? Because traditionally this January 15th was called "Koshogatsu" (Little New Year), and it was customary to perform coming-of-age ceremonies on this day - rituals where society recognizes boys as adults. Why do they carelessly change holidays with such origins? Here's a middle-aged man who feels great resentment toward holiday laws and legal systems that disregard such ancient cultural customs.
@@ -32,4 +31,4 @@ And through promotional still work for *Neighborhood Story*, I would start using
 
 To be continued in Episode 152
 
-(11.01.11)
+*(11.01.11)*

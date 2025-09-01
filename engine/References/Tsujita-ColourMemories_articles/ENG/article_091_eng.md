@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 91: Once Upon a Time... (54) - *COO* Above Water, Below Water
 
 Two weeks' absence (sweat).
@@ -58,4 +57,4 @@ However...
 
 ■ Continued in Episode 92
 
-(09.06.02)
+*(09.06.02)*

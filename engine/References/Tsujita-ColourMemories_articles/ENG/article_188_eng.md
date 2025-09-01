@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 188: *Mawaru Penguindrum* Color Design Notes - Part 15
 
 As I briefly wrote last week, I went location hunting for a certain new TV series all the way to Lijiang in China's Yunnan Province. It was quite a forced march, but haha, we got an unexpected bonus at the end. Actually, our return flight from Beijing was canceled due to bad weather! We stayed one night at an airline-arranged hotel and returned on the next morning's replacement flight.
@@ -50,4 +49,4 @@ And from Episode 13 the ending changed. That story will be next time.
 
 Continued in Episode 189
 
-(12.07.17)
+*(12.07.17)*

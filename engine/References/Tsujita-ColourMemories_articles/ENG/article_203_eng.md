@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 203: Happy New Year - Promotional Special!
 
 Happy New Year! How is everyone spending this 2014 New Year?
@@ -32,4 +31,4 @@ At the recent theatrical version completion screening, seeing the girls get move
 
 These are my first jobs of 2014. Everyone, please support them!
 
-(14.01.10)
+*(14.01.10)*

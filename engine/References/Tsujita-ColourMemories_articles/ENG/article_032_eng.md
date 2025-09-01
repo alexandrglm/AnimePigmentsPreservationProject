@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 32: Once Upon a Time... (24) *Saint Seiya* Part 11 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Completion and Setback**
 
 ***Hatarakids: Maiham-gumi*** started October 7th at 6:30 AM on TV Asahi. Episode 1's viewership was 3.3%! Man, considering it's a 6:30 AM show, that's quite a number.

@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 21: Once Upon a Time... (16) *Saint Seiya* Part 3 - Steel Saints**
 
 **Last weekend, my beloved laptop PowerBook G4 wouldn't start up.** The cause was hard disk failure. A year and a half after purchase. Considering usage frequency, ah, from experience it's about time for problems to occur (cries).

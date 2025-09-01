@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 192: Summer Vacation 1970
 
 When this manuscript is updated, it'll probably be around the Obon period. By then the London Olympics will be over, and while gently soaking in that afterglow, everyone will be doing hometown visits or summer vacation trips, perhaps? Summer vacation like that. This week is a summer vacation special, so "*Mawaru Penguindrum* Color Design Notes" is taking a break (laugh).
@@ -38,4 +37,4 @@ What kind of summer vacation lives do today's elementary students have? Since my
 
 Continued in Episode 193
 
-(12.08.14)
+*(12.08.14)*

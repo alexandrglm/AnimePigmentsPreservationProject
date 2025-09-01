@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 60: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Part 2)
 
 Lately, Tokyo has been hit by heat and thunderstorms.
@@ -66,4 +65,4 @@ And here too, ace Ikki appears at the very end (laugh). He's truly got the best 
 
 ■ Continued in Episode 61
 
-(08.08.06)
+*(08.08.06)*

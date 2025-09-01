@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 66: Once Upon a Time... (43) - Racing Through the Studio at 5 AM! Theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*
 
 There are no bananas.
@@ -38,4 +37,4 @@ This completed the color direction work. Now the battle with massive cel complet
 
 ■ Continued in Episode 67
 
-(08.10.07)
+*(08.10.07)*

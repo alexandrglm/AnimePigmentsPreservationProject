@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 169: Summer Greetings and Current Status
 
 Summer greetings to you all. How are you spending these hot summer days?
@@ -46,4 +45,4 @@ Making *Mawaru Penguindrum* like this - everyone please treat us favorably (laug
 
 To be continued in Episode 170
 
-(11.08.16)
+*(11.08.16)*

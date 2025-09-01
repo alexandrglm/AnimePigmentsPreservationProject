@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 143: *The Tatami Galaxy* Color Design Notes Volume 4 (Final Volume)
 
 The other day, the professional baseball draft was held, and promising young people were each selected by various teams. Previously, I used to think the draft "violates freedom of career choice," but recently my thinking has changed somewhat - actually, isn't it like hoping to join a big company called "Professional Baseball" and being assigned to one of 12 branch offices called "teams"? After all, these days students submit "job applications" saying "I'm going pro!"
@@ -112,4 +111,4 @@ This is self-praise, but this isn't just my work - it's very good work that we a
 
 To be continued in Episode 144
 
-(10.11.02)
+*(10.11.02)*

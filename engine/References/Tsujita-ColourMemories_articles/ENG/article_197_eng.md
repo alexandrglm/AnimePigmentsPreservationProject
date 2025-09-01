@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 197: *Mawaru Penguindrum* Color Design Notes - Part 22
 
 "Hot and cold until the equinox" - truly the old people said good things. The lingering summer heat has completely ended, and it's suddenly autumn these days. Summer has ended! For those lamenting this, no no you're wrong - autumn has finally begun!
@@ -41,4 +40,4 @@ Even so, Himari - that giant ventilation fan facing the neighboring small park, 
 Oh yes, the key to Yuri's apartment actually uses my apartment key as a model. The key initially prepared as reference was an ordinary cylinder lock key, and I said "Such a pickable key couldn't exist in this kind of apartment!" so we used my key... Ah, I don't live in such a luxury apartment mansion! Just to be clear (laugh).
 
 
-(12.09.25)
+*(12.09.25)*

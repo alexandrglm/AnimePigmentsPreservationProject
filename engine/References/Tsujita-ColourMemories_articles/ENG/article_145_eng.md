@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 145: Long Ago... 84 1995 Part 4 Shocking March (Middle) What Awaited Us in Seoul...
 
 In about two more weeks, the live-action "Space Battleship Yamato" - that is, "SPACE BATTLESHIP Yamato" - will be released. Man, I'm getting excited about it!
@@ -30,4 +29,4 @@ Thus began D Company's grand Seoul hospitality tour (laugh). Depending on how yo
 
 To be continued in Episode 146
 
-(10.11.16)
+*(10.11.16)*

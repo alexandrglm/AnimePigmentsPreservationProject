@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 93: Once Upon a Time... (56) - *COO* How to Make Color Direction Sheets Part 1
 
 The other day I received the Blu-ray version of *GeGeGe no Kitaro the Movie: Japan Explodes!!* and watched it at home immediately.
@@ -78,4 +77,4 @@ We'd take clean copies of the cut-and-pasted re-layouts. Finally, we'd add paint
 
 ■ Continued in Episode 94
 
-(09.06.18)
+*(09.06.18)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 189: *Mawaru Penguindrum* Color Design Notes - Part 16
 
 Congratulations! Magazine "Anime Style 001."
@@ -36,4 +35,4 @@ So, if the ending became new, maybe the opening too? (sweat) But with delays in 
 
 Continued in Episode 190
 
-(12.07.24)
+*(12.07.24)*

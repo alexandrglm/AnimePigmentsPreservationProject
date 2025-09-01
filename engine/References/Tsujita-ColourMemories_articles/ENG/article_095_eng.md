@@ -1,8 +1,7 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 95: Extra Edition - Summer Has Come!
 
-The Kantō-Kōshin'etsu region made its rainy season ending declaration at the beginning of this week. The Tokyo area has been producing consecutive midsummer days in the low thirties celsius.
+The Kantou-Koushin'etsu region made its rainy season ending declaration at the beginning of this week. The Tokyo area has been producing consecutive midsummer days in the low thirties celsius.
 
 Whew~, it's here! Summer!
 
@@ -80,4 +79,4 @@ Anyway, these are two contrasting works, *Evangelion: 2.0 You Can (Not) Advance*
 
 ■ Continued in Episode 96
 
-(09.07.17)
+*(09.07.17)*

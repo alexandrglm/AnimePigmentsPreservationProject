@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 159: Long Ago... 97 1995 Part 17 Storm of Color Samples and Copic is Divine! November and December
 
 Everyone! Have you finished your tax returns? This year's tax return is due March 14th! Last year I thought "ah, next year I'll ask a tax accountant!" but ultimately this year was also self-calculated & document preparation. "Ah, next year for sure..." Well, but I'll probably do it myself next year too... (distant look).
@@ -34,4 +33,4 @@ While handling *Neighborhood Story* character setting color work daily like this
 
 To be continued in Episode 160
 
-(11.03.08)
+*(11.03.08)*

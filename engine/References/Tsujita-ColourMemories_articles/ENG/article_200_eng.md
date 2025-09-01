@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 200: About *Revolutionary Girl Utena* - Part 2
 
 With November's arrival, several of my jobs for next year have been cleared for information release.
@@ -40,4 +39,4 @@ Hasegawa would create new rough drawings of ideas that emerged, I'd add colors t
 
 We continued such exchanges from 1995 into 1996. During that time I participated in *Dragon Ball* theatrical versions, did *Sailor Moon* *S* and *SS* theatrical versions - as always busy with Toei work, and during those busy periods *Utena* work would stop. But *Utena*'s broadcast start was finally looking like spring 1997. Then decision work would have to proceed all at once.
 
-(13.11.15)
+*(13.11.15)*

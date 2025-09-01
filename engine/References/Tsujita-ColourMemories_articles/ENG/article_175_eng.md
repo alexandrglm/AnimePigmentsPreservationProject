@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 175: *Mawaru Penguindrum* Color Design Notes Part 2
 
 I'm in Kyushu. Research and location hunting for a certain new work. Nagasaki, Kumamoto, and today Kagoshima. So this manuscript is being finished at a certain location in front of Kagoshima Station while getting coffee refills.
@@ -54,4 +53,4 @@ However, we still had big challenges remaining. Yes, the opening and ending prob
 
 To be continued in Episode 176
 
-(12.01.17)
+*(12.01.17)*

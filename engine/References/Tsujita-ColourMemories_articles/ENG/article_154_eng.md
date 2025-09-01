@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 154: Long Ago... 92 1995 Part 12 My First Mac Experience in July
 
 Last week I magnificently caught a cold, and the morning after writing my manuscript, my wife and I went to the neighborhood doctor. Eh? Together? That's right! Actually, my wife suddenly developed a fever at night too, so we ended up going together as a couple.
@@ -40,4 +39,4 @@ And just before departing for Manila business trip, I made a big decision. Actua
 
 To be continued in Episode 155
 
-(11.02.01)
+*(11.02.01)*

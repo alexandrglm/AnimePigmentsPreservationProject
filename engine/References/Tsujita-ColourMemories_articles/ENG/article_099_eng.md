@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 99: Once Upon a Time... (61) - *COO* And Into the Distance...
 
 Just recently, cicadas were noisily crying even at night, but last night I suddenly noticed the cicada voices had disappeared and somehow changed to autumn insects' voices. Tokyo nights have become quite cool.
@@ -66,4 +65,4 @@ As a side note, among promotional goods distributed to staff during production w
 
 ■ Continued in Episode 100
 
-(09.08.25)
+*(09.08.25)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 116: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 2) "SW" Main Feature Complete Scene Color Design Notes! Part 1
 
 Aaaaaah! March (sob). I was so busy I kept missing deadlines, and February ended before I knew it. Sorry! > All concerned parties
@@ -112,4 +111,4 @@ This continues one more time.
 
 ■Continues to Episode 117
 
-(10.03.02)
+*(10.03.02)*

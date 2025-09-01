@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 89: Once Upon a Time... (53) - The Story of Creating Colors That Convince Viewers with a Limited Number of Available Colors
 
 The world is in Golden Week. I myself am actually in Italy. My fifth visit to Italy in five years, and I'm immediately hit with heavy rain day and night... Hmm, someone's conspiracy?
@@ -64,4 +63,4 @@ While today certainly has today's struggles and considerations, "devising ways t
 
 ■ Continued in Episode 90
 
-(09.05.01)
+*(09.05.01)*

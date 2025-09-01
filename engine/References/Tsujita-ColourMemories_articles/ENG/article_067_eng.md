@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 67: Once Upon a Time... (44) - There Were Actually Two Types! The Secret of Super Saiyans
 
 The morning and evening air is completely autumn now. Days are increasing where it's cold enough to catch a cold if you're not careful. During these past few days when I've been coming home in the early morning due to work, the morning sky has been wonderful every day. The clouds are just great.
@@ -48,4 +47,4 @@ Anyway, we somehow managed to complete it and achieved nationwide March release.
 
 ■ Continued in Episode 68
 
-(08.10.15)
+*(08.10.15)*

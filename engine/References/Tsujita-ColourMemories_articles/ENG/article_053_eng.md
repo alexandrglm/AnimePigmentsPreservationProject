@@ -1,6 +1,5 @@
 # Color Design Notes [Tsujita Kunio]
-
-## Episode 53: Once Upon a Time... (34) - A Vivid World of Gods! *Tenjō-hen Uchū Kōji* Part 2
+## Episode 53: Once Upon a Time... (34) - A Vivid World of Gods! *Tenjou-hen Uchuu Kouji* Part 2
 
 Last week I went to three concerts. Man, this was definitely a first (laugh). When things pile up, they really pile up (laugh).
 
@@ -16,25 +15,25 @@ Being in this business, what catches my attention at concerts are the visual dir
 
 Well then.
 
-The OVA series *Tenjō-hen Uchū Kōji* finally got moving.
+The OVA series *Tenjou-hen Uchuu Kouji* finally got moving.
 
-The director was Imazawa Tetsuo. This was my first time working with Imazawa-san on this production. *Tenjō-hen Uchū Kōji* led to me later participating in the theatrical work *COO: Come From a Distant Ocean* (遠い海から来たＣＯＯ).
+The director was Imazawa Tetsuo. This was my first time working with Imazawa-san on this production. *Tenjou-hen Uchuu Kouji* led to me later participating in the theatrical work *COO: Come From a Distant Ocean* (遠い海から来たＣＯＯ).
 
 All 13 episodes had storyboard & direction rotating among three people: Imazawa-san, Umezawa Yoshitoshi, and Yoshizawa Takao.
 
 As I wrote before, I handled character color design and color direction for each episode. Though it was a 13-episode series, unlike TV it wasn't weekly delivery, so in principle I was entrusted with color direction and inspection for all episodes. When you do character design, you naturally want to do color direction and inspection too. Like the concurrent Toei Video OVAs I was participating in, during this period my work flow increasingly became "doing everything myself."
 
-Now, for Uchū Kōji character design.
+Now, for Uchuu Kouji character design.
 
-The *Tenjō-hen Uchū Kōji* original was a novel, but visuals like cover art were drawn by Inomata Mutsumi-san. So I remember referencing Inomata-san's art book (?) or something similar. I had also glimpsed the theatrical *Uchū Kōji*, so that was somewhat referenced too...
+The *Tenjou-hen Uchuu Kouji* original was a novel, but visuals like cover art were drawn by Inomata Mutsumi-san. So I remember referencing Inomata-san's art book (?) or something similar. I had also glimpsed the theatrical *Uchuu Kouji*, so that was somewhat referenced too...
 
-But this *Uchū Kōji* was the "Heaven Chapter." While episode 1 was set in the earthly realm of the capital (miyako) and Mount Kongō, from episode 2 onwards the setting becomes the heavenly realm, the world of gods. Yes, gods! "Asura King," "Four Heavenly Kings," "Fudō Myōō" and so on—the gods who successively appear before Uchū Kōji and others had no particular color references, and most were colors I created and decided on with everyone as usual.
+But this *Uchuu Kouji* was the "Heaven Chapter." While episode 1 was set in the earthly realm of the capital (miyako) and Mount Kongou, from episode 2 onwards the setting becomes the heavenly realm, the world of gods. Yes, gods! "Asura King," "Four Heavenly Kings," "Fudou Myouou" and so on—the gods who successively appear before Uchuu Kouji and others had no particular color references, and most were colors I created and decided on with everyone as usual.
 
 The common recognition among the director and everyone was "The heavenly realm must be a colorful, flashy world, surely." So in contrast to the earth realm with its subdued, low-saturation colors that could be taken as almost monochrome, both the art and character colors made the heavenly realm bright and gorgeous. And I thought of the gods in vivid, extremely colorful tones.
 
 The appearing gods were basically Buddhist guardian deities. Considering the visuals of original Buddhist art, they are indeed extremely colorful. So I used the characteristics of STAC paints—the vivid cel paints that had tormented me until then—to my advantage, creating brilliant gods (laugh).
 
-Another important point was "gold color." First, a ship that flies through the sky called "Tenshōsen" appears in the story, and it was supposed to be "blindingly golden." For things crossing to the heavenly realm, and the heavenly realm itself, I felt "gold color" was quite a "key" in creating colors. So in the heavenly realm, I used "gold color" quite extensively at key points for characters and props.
+Another important point was "gold color." First, a ship that flies through the sky called "Tenshousen" appears in the story, and it was supposed to be "blindingly golden." For things crossing to the heavenly realm, and the heavenly realm itself, I felt "gold color" was quite a "key" in creating colors. So in the heavenly realm, I used "gold color" quite extensively at key points for characters and props.
 
 "Gold color" comes out beautifully in photography. Especially since we were using film at the time, it was true transmitted light processing, and effects that captured light itself were dazzlingly beautiful. The brilliance of the golden clouds that welcome Princess Nayotake back to the heavenly realm in episode 1 is still entrancing when I watch it now (oh, but the color flickering... sorry even now (sobbing)).
 
@@ -48,4 +47,4 @@ But after this, an unexpected situation was waiting for me.
 
 ■ Continued in Episode 54
 
-(08.05.27)
+*(08.05.27)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 153: Side Story: A Cold Sufferer's Delusions
 
 Today is Monday, January 24, 2011. I finally caught my first cold of this winter (cry).
@@ -40,4 +39,4 @@ Such were my cold-induced delusions.
 
 To be continued in Episode 154
 
-(11.01.25)
+*(11.01.25)*

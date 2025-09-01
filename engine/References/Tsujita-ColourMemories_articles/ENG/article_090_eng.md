@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 90: Golden Week Extra Edition - *Tomorrow's Nadja* Memory City and That Person's City from *Doremi* (laughs)
 
 Golden Week is over. Once it ended, it immediately got hot (tears). The humidity especially...
@@ -54,4 +53,4 @@ By the way, the next day I went to Murano Island. The island famous as the birth
 
 ■ Continued in Episode 91
 
-(09.05.12)
+*(09.05.12)*

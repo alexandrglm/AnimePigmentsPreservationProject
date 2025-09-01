@@ -1,6 +1,5 @@
 # Color Design Notes [Tsujita Kunio]
-
-## Episode 56: Once Upon a Time... (37) - The Story of 16mm and 35mm *Tenjō-hen Uchū Kōji* Part 5
+## Episode 56: Once Upon a Time... (37) - The Story of 16mm and 35mm *Tenjou-hen Uchuu Kouji* Part 5
 
 The other day, there was one voicemail on my home phone.
 
@@ -26,11 +25,11 @@ That's all it was (laugh). Since they said "mail is OK," I'll clear it up by hav
 
 Well then.
 
-Around 1990 when we were making *Tenjō-hen Uchū Kōji*, it was naturally still "cel animation filmed on film," and at that time anime photography used both 16mm and 35mm film.
+Around 1990 when we were making *Tenjou-hen Uchuu Kouji*, it was naturally still "cel animation filmed on film," and at that time anime photography used both 16mm and 35mm film.
 
 16mm and 35mm refer to the width of the film. Since film has continuous holes (perforations) on both sides for shooting and projection, the actual image area is even smaller, but back then TV works used 16mm film while theatrical works used 35mm. With larger image area, image density is higher, and 35mm film, being about 4 times the area of 16mm, was naturally suited for large screens like movie theaters. Color reproduction was also better with 35mm.
 
-*Tenjō-hen Uchū Kōji* was shot on this 35mm film. Not just *Tenjō-hen Uchū Kōji* but all Toei Doga OVA works at the time should have been 35mm. Basically, TV works that aired once and were done, versus video works intended for repeated viewing, were treated like theatrical works.
+*Tenjou-hen Uchuu Kouji* was shot on this 35mm film. Not just *Tenjou-hen Uchuu Kouji* but all Toei Doga OVA works at the time should have been 35mm. Basically, TV works that aired once and were done, versus video works intended for repeated viewing, were treated like theatrical works.
 
 However, even for TV works, opening and ending films were shot in 35mm, and frequently used bank cuts were often shot in 35mm too. Repeatedly used footage required creating dupe (duplicate) negatives from original film for processing, and 35mm was suited for such things. Nowadays you can just copy and insert on computer during editing (laugh).
 
@@ -58,10 +57,10 @@ Including adjustments for such things, technicians at processing labs would pre-
 
 After screenings, we'd hold meetings with lab technicians and animation staff including the director to confirm and make requests. These adjustments were called "timing," and we always did this for film-screened works. Even with digital production today, this remains the final checkpoint for theatrical works screened on film.
 
-These Print 0 screenings were held at Toei-affiliated processing lab Toei Chemical Industries (now Toei Lab Tech) in Chofu. For *Tenjō-hen Uchū Kōji*, roughly every two months per episode. Since other OVA works were also going to Print 0 in parallel, I was going to Toei Chemical quite frequently. On Print 0 days, we'd take 2-3 taxis from Oizumi Studio, and after several trips, I became more familiar with the route from Oizumi to Toei Chemical than the taxi drivers (laugh).
+These Print 0 screenings were held at Toei-affiliated processing lab Toei Chemical Industries (now Toei Lab Tech) in Chofu. For *Tenjou-hen Uchuu Kouji*, roughly every two months per episode. Since other OVA works were also going to Print 0 in parallel, I was going to Toei Chemical quite frequently. On Print 0 days, we'd take 2-3 taxis from Oizumi Studio, and after several trips, I became more familiar with the route from Oizumi to Toei Chemical than the taxi drivers (laugh).
 
 From 1990 through 1991, OVA-centered days continued like this.
 
 ■ Continued in Episode 57
 
-(08.06.18)
+*(08.06.18)*

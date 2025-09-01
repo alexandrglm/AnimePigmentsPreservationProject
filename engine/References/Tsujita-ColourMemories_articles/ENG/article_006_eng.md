@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 6: Once Upon a Time... (5) People Fighting from 11 PM**
 
 **"I want to see *Odin: Photon Sailer Starlight*," I said, and thanks to Editor-in-Chief Oguro I was able to see it (Thank you, Editor-in-Chief Oguro!).** So recently we held a mini-screening in the color design room at Oizumi Studio. Several of us who were involved in finishing at the time watched it together.

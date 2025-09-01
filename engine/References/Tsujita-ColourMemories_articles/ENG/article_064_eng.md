@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 64: Once Upon a Time... (41) - Theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*
 
 Before I knew it, it's September.
@@ -56,4 +55,4 @@ So in early 1992, I frantically prepared "conversions." And finally color direct
 
 ■ Continued in Episode 65
 
-(08.09.10)
+*(08.09.10)*

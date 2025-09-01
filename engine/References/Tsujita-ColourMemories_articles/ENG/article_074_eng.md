@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 74: Happy New Year! New Year's Greetings and This Year's Aspirations
 
 Happy New Year.
@@ -78,4 +77,4 @@ So please treat me well this year too! (^_^)
 
 ■ Continued in Episode 75
 
-(09.01.06)
+*(09.01.06)*

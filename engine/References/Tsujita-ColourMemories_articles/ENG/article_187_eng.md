@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 187: *Mawaru Penguindrum* Color Design Notes - Part 14
 
 When this manuscript is updated, I'll actually be in China. For location hunting for a certain new TV series, the director, art staff, and I are heading to somewhere in China. Ah, China after a long time. It's been several years since I've been to China outside of Hong Kong, and this time it's somewhat rural.
@@ -46,4 +45,4 @@ Incidentally, as a digression, about the elementary school Momoka and Tabuki att
 
 Continued in Episode 188
 
-(12.07.10)
+*(12.07.10)*

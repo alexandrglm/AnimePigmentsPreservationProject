@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 97: Once Upon a Time... (59) - *COO* The Darkness of Southern Island Nights is...
 
 It's August! August. Soon it'll be "late summer greetings," but how is everyone doing?
@@ -44,4 +43,4 @@ As a postscript, considerably after the release, when *Coo: Far From Home* was b
 
 ■ Continued in Episode 98
 
-(09.08.04)
+*(09.08.04)*

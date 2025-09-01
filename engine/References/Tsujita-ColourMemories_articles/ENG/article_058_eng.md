@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 58: Once Upon a Time... (39) - Summer Vacation, "School Pool," and "Television Manga"
 
 The other day when I tried to buy tea from a vending machine, "Clank! Clink!" - the 100 yen coin I inserted came back to the change slot. "Maybe I didn't insert it properly?" I tried again. "Clank! Clink!" - it came back again.
@@ -50,4 +49,4 @@ Tokyo's rainy season is almost over.
 
 ■ Continued in Episode 59
 
-(08.07.15)
+*(08.07.15)*

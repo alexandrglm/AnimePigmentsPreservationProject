@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 8: Once Upon a Time... (6) Cel Paints Have a Sweet Fragrance That's Wonderful**
 
 **The other day I went to see the movie "Bubble he GO!! Time Machine wa Drum-shiki."** A story about time-traveling from 2007 to the bubble peak year 1990 to prevent the bubble's collapse and save Japan's near-bankrupt economy. **Hirosue Ryoko** love! **Abe Hiroshi** the best! It was quite an enjoyable movie and I was very satisfied.

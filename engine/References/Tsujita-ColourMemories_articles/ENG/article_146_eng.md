@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 146: Long Ago... 85 1995 Part 5 Shocking March (Final) What Awaited Us in Tokyo...
 
 For several years now, I've been using a razor-type shaver to shave my beard. Until then, I used an electric shaver, but that thing surprisingly scatters the shaved whiskers. Well, maybe the more expensive models don't do this, but anyway, the several-thousand-yen class one I was using splendidly scattered shaved whiskers everywhere. Once I noticed this one day, it bothered me so much that I ultimately converted to using a razor-type shaver.
@@ -46,4 +45,4 @@ And at Narita Airport, we would encounter even more surprising news. That mornin
 
 To be continued in Episode 147
 
-(10.11.30)
+*(10.11.30)*

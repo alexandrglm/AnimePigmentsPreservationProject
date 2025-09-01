@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 57: Once Upon a Time... (38) - Remembering and Thinking About *My Youth in Arcadia* Part-Time Job Story
 
 Sorry for taking a two-week break from serialization. Various deadlines and other things in my main work kept me from having time to write manuscripts properly. Sorry to everyone who looks forward to this.
@@ -80,4 +79,4 @@ But I could watch it nostalgically thinking "This was the 'mood' of Toei theatri
 
 ■ Continued in Episode 58
 
-(08.07.08)
+*(08.07.08)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 98: Once Upon a Time... (60) - *COO* The Warship Stage
 
 After saying "Summer!" it's already passed the traditional Tanabata and even crossed "Beginning of Autumn."
@@ -54,4 +53,4 @@ After somehow rescuing Coo from such warships, when humans fire at him, Coo sepa
 
 ■ Continued in Episode 99
 
-(09.08.11)
+*(09.08.11)*

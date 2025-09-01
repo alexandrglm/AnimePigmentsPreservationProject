@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 182: *Mawaru Penguindrum* Color Design Notes - Part 9
 
 The new TV series *Saint Seiya Omega* that started broadcasting April 1st. Between that work, an unannounced short work, and another short-length TV series, I'm getting completely swamped, which is partly why I'm falling behind on manuscripts again. Really sorry.
@@ -40,4 +39,4 @@ The color had an order from Director Ikuhara to "make it flashy anyway!" We crea
 
 Continued in Episode 183
 
-(12.03.21)
+*(12.03.21)*

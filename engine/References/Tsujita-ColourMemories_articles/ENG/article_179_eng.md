@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 179: *Mawaru Penguindrum* Color Design Notes - Part 6
 
 This month I've been interviewed in various places about *Mawaru Penguindrum* and *Saint Seiya*, doing interviews several times. Well, I apparently have a basically talkative disposition, so I end up speaking enthusiastically with abundant service spirit. Good grief (laugh).
@@ -40,4 +39,4 @@ Even so, that skunk with the "KIGA" pattern. Why the "KIGA" pattern? Even I don'
 
 Continued in Episode 180
 
-(12.02.23)
+*(12.02.23)*

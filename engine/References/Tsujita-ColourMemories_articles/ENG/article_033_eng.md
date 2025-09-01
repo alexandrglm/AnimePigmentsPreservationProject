@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 33: Special Episode - *The File of Young Kindaichi SP* Broadcast Commemoration - How to Make Hajime-chan's Colors**
 
 It's been a while (sweat).

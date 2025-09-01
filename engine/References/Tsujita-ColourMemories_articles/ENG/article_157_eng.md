@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 157: Long Ago... 95 1995 Part 15 Production Going Smoothly? September and October
 
 The TV series *Hakaba Kitaro* Blu-ray Box that I participated in will be released February 23rd. Last winter we created jacket artwork for this Box with Director Chioka's design concept, Animation Director Yamamuro's animation, and my color work, which the jacket designer worked hard to compile. This turned out quite well! Once you get your hands on it, you'll definitely want it! Such a jacket. So everyone, even those who already have the DVD-BOX, please consider it! ...Promotion, promotion (laugh).
@@ -46,4 +45,4 @@ But these were all still early series stages. Still just starting to run. First 
 
 To be continued in Episode 158
 
-(11.03.01)
+*(11.03.01)*

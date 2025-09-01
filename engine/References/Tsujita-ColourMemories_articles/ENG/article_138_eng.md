@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 138: Once Upon a Time... 82 - 1995 Part 2 - Pseudo-Digital? February
 
 "Heat and cold until the equinox"
@@ -42,4 +41,4 @@ The story climax has "Gogeta," who appears through Goku and Vegeta's fusion tech
 
 ■Continues to Episode 139
 
-(10.09.28)
+*(10.09.28)*

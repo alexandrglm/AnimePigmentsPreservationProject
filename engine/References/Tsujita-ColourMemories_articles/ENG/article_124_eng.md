@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 124: Early Summer Special Edition - *The Tatami Galaxy* Notes for Color Direction Staff
 
 Eh? Rain that seems like early rainy season continues in Tokyo. Still, once it clears, refreshing May winds. My, beer tastes good. ←That again? (laugh)
@@ -46,4 +45,4 @@ So please enjoy *The Tatami Galaxy* with that "color" aspect as one highlight to
 
 ■Continues to Episode 125
 
-(10.05.25)
+*(10.05.25)*

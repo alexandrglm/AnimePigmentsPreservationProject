@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 184: *Mawaru Penguindrum* Color Design Notes - Part 11
 
 Before I knew it, it's already June, and the new programs that started in April have mostly passed 10 episodes, with one-cour shows already at their climax. *Saint Seiya Omega* that I'm participating in is planned as a one-year series. We've finally passed the first major climax of the early part. The story will steadily progress toward the next climax from here.
@@ -50,4 +49,4 @@ The decision was left to me, so in the Blu-ray/DVD version, I corrected the pink
 
 Continued in Episode 185
 
-(12.06.19)
+*(12.06.19)*

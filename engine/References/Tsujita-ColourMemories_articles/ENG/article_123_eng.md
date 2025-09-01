@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 123: Once Upon a Time... 71 - 1994 Part 5 - Zun Zun Jaka Jaka!
 
 Tokyo is early summer. Day after day of clear skies with refreshing air continues, and beer tastes good (laugh).
@@ -76,4 +75,4 @@ Well, having toured the finishing department overall, various problems requiring
 
 ■Continues to Episode 124
 
-(10.05.18)
+*(10.05.18)*

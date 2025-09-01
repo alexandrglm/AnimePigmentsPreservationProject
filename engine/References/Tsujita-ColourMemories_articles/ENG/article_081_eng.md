@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 81: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Color Design Notes (Part 2)
 
 The other day, when I casually turned on the TV, there was a program about 50 years of news history for Fuji TV's 50th anniversary. In it, footage of the tsunami disaster at Okushiri Island was shown, and among the debris left after the tsunami receded, there was a family's photo album that had been destroyed and was all messed up.
@@ -120,4 +119,4 @@ The episodic complete stories mostly ended with episode 12. Finally, in the latt
 
 ■ Continued in Episode 82
 
-(09.03.05)
+*(09.03.05)*

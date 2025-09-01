@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 4: Once Upon a Time... (3) My First Color Direction Was "Collaborative Work"**
 
 **Last weekend, through an acquaintance's connections, I attended a seminar on "Color Space in Digital Cinema."** The content was quite specialized - how the expression range of "color" in digital video changes with the digitization of movie screenings and the high-definition improvement of video works accompanying TV HD conversion, etc. Having attended a video-related university (though I dropped out...), I do have basic knowledge, but being a cutting-edge technical course, I could barely grasp the general understanding (bitter laugh). But since it's a topic that relates to the core of our future work, it made me think about various things. We anime "color people" really need to have more digital knowledge. Ah, I need to study more (cries).

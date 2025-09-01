@@ -1,5 +1,4 @@
 # **Color Design Notes [Tsujita Kunio]**
-
 ## **Episode 16: Once Upon a Time... (11) *GeGeGe no Kitaro: Yokai Daisenso***
 
 **The other day, Ms. O from the records department (Toei Animation has this kind of position - like a script supervisor in live-action. Without these people, matching sound and image from editing onward becomes impossible - very important work) came to me saying:**

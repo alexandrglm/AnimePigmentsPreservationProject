@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 94: Once Upon a Time... (57) - *COO* How to Make Color Direction Sheets Part 2
 
 This year Tokyo also seems to be having a "dry rainy season." Every morning, weather forecasts often predict "it's going to rain! it's going to rain!" but in reality it's often just "sprinkling" and "drizzling" before stopping.
@@ -42,4 +41,4 @@ These rules remain basically the same even with today's digital coloring.
 
 ■ Continued in Episode 95
 
-(09.07.09)
+*(09.07.09)*

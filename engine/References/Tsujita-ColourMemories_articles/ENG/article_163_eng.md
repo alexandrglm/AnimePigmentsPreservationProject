@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 163: Long Ago... 102 1995 Part 21 "Dragon Quest VI" Emergency Calendar in September
 
 The cat "Mao" homestaying at our house due to various circumstances from my wife's family home had loose stool, even somewhat diarrheal. The return date was already decided, but "we can't send him back with loose stool like this," so we took him to a neighborhood doctor for examination. Amazingly, undesirable bacteria were found in his stomach. Medicine was prescribed and we began giving it to him.
@@ -30,4 +29,4 @@ But that was brief. Strategy guide work finally began. December was already enth
 
 To be continued in Episode 164
 
-(11.04.19)
+*(11.04.19)*

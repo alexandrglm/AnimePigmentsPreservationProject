@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 62: Once Upon a Time... (40) - The Beginning of Days with Theatrical *Dragon Ball Z*
 
 The Beijing Olympics have begun.
@@ -26,7 +25,7 @@ Well then.
 
 The clock goes back not just four years, but quite far. Continuing the old stories (laugh).
 
-1990-91 centered on OVA work, but OVAs continued in 1992 too with *BE-BOP HIGHSCHOOL 3* (director Kakudo Hiroyuki, animation director Hayama Jun'ichi) and the previously mentioned *Crying Freeman 5: Senjō no Kishimojin*.
+1990-91 centered on OVA work, but OVAs continued in 1992 too with *BE-BOP HIGHSCHOOL 3* (director Kakudo Hiroyuki, animation director Hayama Jun'ichi) and the previously mentioned *Crying Freeman 5: Senjou no Kishimojin*.
 
 In between all this, I became involved in new work. Theatrical *Dragon Ball Z* productions.
 
@@ -58,4 +57,4 @@ My long relationship with the *Dragon Ball Z* theatrical series, which would con
 
 ■ Continued in Episode 63
 
-(08.08.12)
+*(08.08.12)*

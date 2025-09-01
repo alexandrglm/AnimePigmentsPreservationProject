@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 75: Once Upon a Time... (46) - My First Theatrical Feature Film Begins!
 
 The other day, I bought a pair of jeans...
@@ -26,11 +25,11 @@ Now then.
 
 Let me write a bit more about old stories.
 
-This is about late summer 1990, while production of *Space Prince Tenjō-hen* (宇宙皇子　天上編) was continuing.
+This is about late summer 1990, while production of *Space Prince Tenjou-hen* (宇宙皇子　天上編) was continuing.
 
 Next to Toei Animation's (東映動画) Oizumi Studio was a shopping center called "Oz," and on its 4th floor next to a bookstore was a small cafe-like establishment. It's gone now, but back then it was often used by Toei Animation staff. I too ate there once or twice a week.
 
-One day, when I went to that shop for lunch during break time, Director Imazawa (今沢), who directed *Space Prince Tenjō-hen*, was having his meal there. After greeting him, I sat at a table some distance away, and after ordering, I was reading a paperback I'd brought along. Then Director Imazawa came over to sit next to me after finishing his meal.
+One day, when I went to that shop for lunch during break time, Director Imazawa (今沢), who directed *Space Prince Tenjou-hen*, was having his meal there. After greeting him, I sat at a table some distance away, and after ordering, I was reading a paperback I'd brought along. Then Director Imazawa came over to sit next to me after finishing his meal.
 
 "Actually, there's a job I'd like to ask you to do"
 
@@ -50,15 +49,15 @@ Marine biologist Tetsuro and his son Yosuke were living in the Fiji Islands of t
 
 Far from not knowing it, I was actually a huge fan of the author Kageyama Tamio and had read almost all of his works. Particularly this "*COO: From a Far Sea*" was one of my favorite books, and I properly owned the first edition.
 
-That it was from the same Kadokawa Shoten (角川書店) as *Space Prince Tenjō-hen*, that it was planned to be a theatrical work of over 90 minutes, that the characters would be by Okura Masahiko (大倉雅彦), that the art director hadn't been decided yet (later decided to be Yamamoto Nizo), that production would start immediately after *Space Prince Tenjō-hen* finished - as Director Imazawa spoke these details quietly, gently, and slowly, I was listening with tremendous internal excitement.
+That it was from the same Kadokawa Shoten (角川書店) as *Space Prince Tenjou-hen*, that it was planned to be a theatrical work of over 90 minutes, that the characters would be by Okura Masahiko (大倉雅彦), that the art director hadn't been decided yet (later decided to be Yamamoto Nizo), that production would start immediately after *Space Prince Tenjou-hen* finished - as Director Imazawa spoke these details quietly, gently, and slowly, I was listening with tremendous internal excitement.
 
 I myself had never done anything but minor assistance on feature theatrical works, but being able to participate as a main staff member in "movies" like *Galaxy Express 999* (９９９) or *Space Battleship Yamato* (ヤマト) was exciting just by itself, and that it was "*COO*" - I couldn't help but be excited.
 
 "Yes! I definitely want to do it!"
 
-I felt that Director Imazawa had evaluated my work during these two years of working hard on *Space Prince Tenjō-hen* and was giving me this opportunity. No matter what kind of work, if you continue trying to do good work and produce results, there will always be people properly watching. I've continued to believe this and still do today, and this was one such instance.
+I felt that Director Imazawa had evaluated my work during these two years of working hard on *Space Prince Tenjou-hen* and was giving me this opportunity. No matter what kind of work, if you continue trying to do good work and produce results, there will always be people properly watching. I've continued to believe this and still do today, and this was one such instance.
 
-Then, when *Space Prince Tenjō-hen* ended, the staff room was finally set up. This was at the end of 1991.
+Then, when *Space Prince Tenjou-hen* ended, the staff room was finally set up. This was at the end of 1991.
 
 Around that time, I had *Dragon Ball Z* theatrical work coming up (*Dragon Ball Z: Clash! 10 Billion Power Warriors*, directed by Nishio Daisuke), and I joined *COO* overlapping with the final push of that work.
 
@@ -70,4 +69,4 @@ However, what was drawn there wasn't the Japanese boy Yosuke, but a foreign boy 
 
 ■ Continued in Episode 76
 
-(09.01.13)
+*(09.01.13)*

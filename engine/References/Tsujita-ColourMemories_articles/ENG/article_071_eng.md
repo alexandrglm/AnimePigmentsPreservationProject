@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 71: Extra Edition - Finally Complete! *GeGeGe no Kitaro the Movie: Japan Explodes!!*
 
 How many floors up do you use the elevator?
@@ -56,4 +55,4 @@ The short film *GeGeGe Festival! The Five Great Kitaros* and *GeGeGe no Kitaro t
 
 ■ Continued in Episode 72
 
-(08.12.02)
+*(08.12.02)*

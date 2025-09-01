@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 164: Long Ago... 103 1995 Part 22 *Dragon Quest VI* Item Color Direction Into the New Year!? December
 
 The cat "Mao" homestaying at our house due to various circumstances from my wife's family home - thanks to that, his stomach condition improved and he's in perfect form. He eats even more than before.
@@ -36,4 +35,4 @@ And naturally, the actual game *Dragon Quest VI* was postponed until those were 
 
 To be continued in Episode 165
 
-(11.04.26)
+*(11.04.26)*

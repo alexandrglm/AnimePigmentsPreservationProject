@@ -1,6 +1,5 @@
 # Color Design Notes [Tsujita Kunio]
-
-## Episode 54: Once Upon a Time... (35) - Hospitalization! Surgery! That Led to My First "Color Design"! *Tenjō-hen Uchū Kōji* Part 3
+## Episode 54: Once Upon a Time... (35) - Hospitalization! Surgery! That Led to My First "Color Design"! *Tenjou-hen Uchuu Kouji* Part 3
 
 Last weekend there was the 17th memorial service for my mother, and I wore a suit for the first time in ages. Oh, formal wear (ceremonial clothes) could be called a suit too (bitter laugh). I wore formal wear in April, but a regular suit (← confusing) was really over a year ago. I was a bit anxious about my body type, but thankfully that was fine (laugh).
 
@@ -16,7 +15,7 @@ Ah, I really should wear suits sometimes. But in our industry, if you carelessly
 
 Well then.
 
-*Tenjō-hen Uchū Kōji* somehow got off to a start. Episode 1 "Prince! Now Is the Time to Depart" (Direction/Imazawa Tetsuo), Episode 2 "Cruel! Asura King" (Direction/Umezawa Yoshitoshi), Episode 3 "Reunion! Woman of Geki Female Market" (Direction/Yoshizawa Takao)—with three episodes, the direction and animation staff had made one round. Starting from episode 4, we entered the second rotation round.
+*Tenjou-hen Uchuu Kouji* somehow got off to a start. Episode 1 "Prince! Now Is the Time to Depart" (Direction/Imazawa Tetsuo), Episode 2 "Cruel! Asura King" (Direction/Umezawa Yoshitoshi), Episode 3 "Reunion! Woman of Geki Female Market" (Direction/Yoshizawa Takao)—with three episodes, the direction and animation staff had made one round. Starting from episode 4, we entered the second rotation round.
 
 By episode 3, each staff member had roughly confirmed the atmosphere and feel of this work. Each director had different "flavors," and those differences mysteriously matched well with each story's taste, allowing all three to work enjoyably.
 
@@ -24,13 +23,13 @@ Toei Doga's Oizumi Studio has a screening room where rushes checks and first pri
 
 Unlike TV series works, without the tight schedule of weekly delivery, staff for the next episode after the one just watched were often still just starting work. So inspired or stimulated by that first print, they'd add a little seasoning to their current work, creating a bit of competition among staff that gradually raised the quality. Eventually, staff from other episodes started coming to rushes checks too.
 
-In *Tenjō-hen Uchū Kōji*, while direction and animation rotated, art and color direction kept the same person throughout, so during meetings I could say things like "more △△ feeling than ○○ from the previous episode..." and the directors' requirement levels gradually rose episode by episode, which was incredibly enjoyable (laugh). And the stories themselves progressed to bigger, deeper places.
+In *Tenjou-hen Uchuu Kouji*, while direction and animation rotated, art and color direction kept the same person throughout, so during meetings I could say things like "more △△ feeling than ○○ from the previous episode..." and the directors' requirement levels gradually rose episode by episode, which was incredibly enjoyable (laugh). And the stories themselves progressed to bigger, deeper places.
 
 Entering the rotation from episode 4 in this mood, I fell into a troublesome situation. A physical problem. My left elbow, which I'd been hurting for a while, got considerably worse. I was hit with pain and numbness so bad I could barely hold a pen.
 
 Cubital tunnel syndrome. You know how when you hit your elbow it goes "biiiing" with terrible numbness? The cause was inflammation of the nerve passing through exactly that area. I'd been attending a hospital and enduring with anti-inflammatories and painkillers, but finally reached my limit. So it became surgical treatment. About 2.5 weeks hospitalization.
 
-Man, I was in trouble (sweat). The story was getting more interesting, with the prince and Taishakuten confronting each other over a woman named Kagami. Moreover, stories continued featuring the raging Taishakuten, the Four Heavenly Kings (Jikokuten, Zōchōten, Kōmokuten, Tamonten), and literally dozens of gods called "Thirty-three Heavens." I had to create color settings for all of them...
+Man, I was in trouble (sweat). The story was getting more interesting, with the prince and Taishakuten confronting each other over a woman named Kagami. Moreover, stories continued featuring the raging Taishakuten, the Four Heavenly Kings (Jikokuten, Zouchouten, Koumokuten, Tamonten), and literally dozens of gods called "Thirty-three Heavens." I had to create color settings for all of them...
 
 However, I couldn't do satisfactory work in this condition, and naturally no one would stop work and wait for someone like me during my hospitalization, surgery, and recovery period of over a month, even with schedule allowances (laugh).
 
@@ -44,7 +43,7 @@ Looking back, this became my first case of working with other color directors as
 
 While I had created character colors for TV series before, the basic approach was for directors and color directors to meet and proceed with work episode by episode, and I didn't take a stance of actively and deeply involving myself in each episode's content or the color director's work.
 
-For these two *Tenjō-hen Uchū Kōji* episodes, after meetings with directors and art directors, I arranged separate detailed meetings with the assigned color directors. I think I also made and provided color direction schedules.
+For these two *Tenjou-hen Uchuu Kouji* episodes, after meetings with directors and art directors, I arranged separate detailed meetings with the assigned color directors. I think I also made and provided color direction schedules.
 
 With surgery decided but waiting for bed availability until the hospitalization date was confirmed, I frantically rushed through work. But a bed opened earlier than expected, so I was hospitalized much earlier than planned. Some work didn't get finished in time, so I ended up bringing settings to the hospital room and completing unfinished work in the ward's rest room.
 
@@ -52,4 +51,4 @@ This was around the 1990 rainy season (laugh).
 
 ■ Continued in Episode 55
 
-(08.06.04)
+*(08.06.04)*

@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 185: *Mawaru Penguindrum* Color Design Notes - Part 12
 
 Recently, I've finally (finally!) started paying attention to my weight, and I'm properly getting on the scale every morning. This morning as I write this it's 81.2 kilograms. I've gained a bit lately. Plus 1 kilogram, perhaps due to that Chinese food banquet the other day. Come to think of it, last month when I had yakiniku three days in one week, I was surprised when I suddenly gained 2-3 kilograms (laugh). But somehow I'm keeping it under 80 kilograms.
@@ -38,4 +37,4 @@ Another subtle failure in such dark performance. The Kanba×Masako kiss scene wa
 
 Continued in Episode 186
 
-(12.06.26)
+*(12.06.26)*

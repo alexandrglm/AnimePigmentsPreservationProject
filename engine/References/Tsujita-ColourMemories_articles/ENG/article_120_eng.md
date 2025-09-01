@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 120: Once Upon a Time... (68) Continued: 1994
 
 It's April, and numerous new anime programs are starting one after another, and among them are three lines of programs I'm participating in.
@@ -48,4 +47,4 @@ In today's digital era, you can simulate on your own computer monitor, so screen
 
 ■Continues to Episode 121
 
-(10.04.06)
+*(10.04.06)*

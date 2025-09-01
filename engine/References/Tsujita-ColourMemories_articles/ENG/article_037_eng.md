@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 37: New Year Special - Pre-Broadcast Special! *Hakaba Kitaro* Starts This Week!
 
 A new year has arrived. How did everyone spend New Year's?
@@ -54,4 +53,4 @@ In any case, please look forward to it!
 
 ■ Continued in Episode 38
 
-(08.01.08)
+*(08.01.08)*

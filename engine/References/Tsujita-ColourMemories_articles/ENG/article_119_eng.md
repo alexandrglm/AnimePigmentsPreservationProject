@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 119: Once Upon a Time... (67) 1994, Between TV Series and Theatrical Versions
 
 Cherry blossoms! ...That's what I was saying last week, but Tokyo has gotten thoroughly cold again. While the bloom declaration came out, subsequent cold snaps mean even this final weekend of March still has cherry blossoms at only 20-30% bloom. The real hanami day will probably be around this weekend.
@@ -44,4 +43,4 @@ And on top of that, "Let's build theatrical versions as theatrical worlds!"—th
 
 ■Continues to Episode 120
 
-(10.03.30)
+*(10.03.30)*

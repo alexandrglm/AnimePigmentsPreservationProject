@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 79: Once Upon a Time... (50) - JMSDF Yokosuka Base Destroyer Location Scouting Chronicles!
 
 Right now I'm working on the new program *Marie & Gali* (マリー＆ガリー) starting in April (or more precisely, broadcasting from March 31st).
@@ -56,4 +55,4 @@ And that was the end of *COO*'s location scouting. Now we would finally enter th
 
 ■ Continued in Episode 80
 
-(09.02.18)
+*(09.02.18)*

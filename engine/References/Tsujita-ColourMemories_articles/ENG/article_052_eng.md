@@ -1,6 +1,5 @@
 # Color Design Notes [Tsujita Kunio]
-
-## Episode 52: Once Upon a Time... (33) - *Tenjō-hen Uchū Kōji* Starts
+## Episode 52: Once Upon a Time... (33) - *Tenjou-hen Uchuu Kouji* Starts
 
 A typhoon is approaching!
 
@@ -22,11 +21,11 @@ By the way, today's manuscript is apparently episode 52. 52 episodes means exact
 
 Well then.
 
-*Hana no Asuka-gumi! 2: Lonely Cats Battle Royal*, *Vampire War*, and *Crying Freeman 4: Yugekitōgoku*, *Crying Freeman 5: Senjō no Kishimojin*. I've been writing about the OVA cycle from 1990 onwards, but actually a big project was running in parallel. An OVA series no less! A full 13 episodes! *Tenjō-hen Uchū Kōji* (天上編　宇宙皇子).
+*Hana no Asuka-gumi! 2: Lonely Cats Battle Royal*, *Vampire War*, and *Crying Freeman 4: Yugekitougoku*, *Crying Freeman 5: Senjou no Kishimojin*. I've been writing about the OVA cycle from 1990 onwards, but actually a big project was running in parallel. An OVA series no less! A full 13 episodes! *Tenjou-hen Uchuu Kouji* (天上編　宇宙皇子).
 
-*Tenjō-hen Uchū Kōji* - Original by Fujikawa Keisuke, character design concept by Inomata Mutsumi, character design & chief animation director Yamazaki Nobuyoshi, art director Matsumoto Kenji, director Imazawa Tetsuo. Production by Kadokawa Shoten. An anime adaptation of Fujikawa Keisuke's SF (?) epic novel series "Uchū Kōji," which could be called his life's work.
+*Tenjou-hen Uchuu Kouji* - Original by Fujikawa Keisuke, character design concept by Inomata Mutsumi, character design & chief animation director Yamazaki Nobuyoshi, art director Matsumoto Kenji, director Imazawa Tetsuo. Production by Kadokawa Shoten. An anime adaptation of Fujikawa Keisuke's SF (?) epic novel series "Uchuu Kouji," which could be called his life's work.
 
-The previous year (1989), also produced by Kadokawa Shoten, theatrical *Uchū Kōji* was released (animation production by Trans Arts), which was an adaptation of the "Earth Chapter." So this time was an adaptation of the sequel "Heaven Chapter."
+The previous year (1989), also produced by Kadokawa Shoten, theatrical *Uchuu Kouji* was released (animation production by Trans Arts), which was an adaptation of the "Earth Chapter." So this time was an adaptation of the sequel "Heaven Chapter."
 
 Even though it was an OVA, unlike the Toei Video OVAs I was participating in simultaneously, it was basically TV format 30-minute episodes. With exactly 13 episodes = 1 cour series, it was sized to be broadcast on TV as-is.
 
@@ -34,9 +33,9 @@ The recognition around this was somewhat delicate (laugh). As a company (Toei Do
 
 I think about 2 months of production time was allocated per episode, but maybe we worked too hard and took too much time, resulting in 2 months (bitter laugh). The flow was that staff for the next episode would see the rushes or first print of preceding episodes and think "Alright, let's work hard to make something even better!" (laugh). So each episode became progressively more substantial.
 
-For this series, I handled character color design and color direction & inspection for each episode. During this period, I was doubling up with Toei Video OVAs, but since those were mostly hard "realistic" works, doubling with *Tenjō-hen Uchū Kōji*, which felt like a work with a somewhat different, softer atmosphere, was a good balance for me.
+For this series, I handled character color design and color direction & inspection for each episode. During this period, I was doubling up with Toei Video OVAs, but since those were mostly hard "realistic" works, doubling with *Tenjou-hen Uchuu Kouji*, which felt like a work with a somewhat different, softer atmosphere, was a good balance for me.
 
-I already had a strong tendency to get emotionally involved and absorbed in work, but this production had attractive circumstances beyond content. This *Tenjō-hen Uchū Kōji* series was going to be released on LaserDisc!
+I already had a strong tendency to get emotionally involved and absorbed in work, but this production had attractive circumstances beyond content. This *Tenjou-hen Uchuu Kouji* series was going to be released on LaserDisc!
 
 While LaserDisc (LD hereafter) is now a relic of the past, the feeling at the time was that it was a "digital" high-quality medium. While VHS or Beta videotape images deteriorated over time, images stored on LD could be reproduced beautifully semi-permanently. It was truly an attractive medium.
 
@@ -44,12 +43,12 @@ Around this time, a new recording/playback format for music, MD (MiniDisk), also
 
 Now then.
 
-I knew "Uchū Kōji" was a popular original work, but I had never read it myself, so before starting actual production work, I recklessly thought "First, let me try reading through the original?" and bought all the paperback volumes at once with a "ba-dump!" (By coincidence, I ran into Sato Jun'ichi at that bookstore! Seeing my bulk purchase of paperbacks, he laughed hard saying "I've never seen anyone buy books like this!" (laugh)).
+I knew "Uchuu Kouji" was a popular original work, but I had never read it myself, so before starting actual production work, I recklessly thought "First, let me try reading through the original?" and bought all the paperback volumes at once with a "ba-dump!" (By coincidence, I ran into Sato Jun'ichi at that bookstore! Seeing my bulk purchase of paperbacks, he laughed hard saying "I've never seen anyone buy books like this!" (laugh)).
 
 So I eagerly started reading volume 1 of the "Earth Chapter"...
 
-Ah, I failed spectacularly (explosion). In the end, I never reached the crucial "Heaven Chapter," and the days of OVA *Tenjō-hen Uchū Kōji* began (laugh).
+Ah, I failed spectacularly (explosion). In the end, I never reached the crucial "Heaven Chapter," and the days of OVA *Tenjou-hen Uchuu Kouji* began (laugh).
 
 ■ Continued in Episode 53
 
-(08.05.20)
+*(08.05.20)*

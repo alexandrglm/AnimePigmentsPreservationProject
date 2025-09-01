@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 183: *Mawaru Penguindrum* Color Design Notes - Part 10
 
 Sorry for the wait! Resuming!
@@ -30,4 +29,4 @@ Incidentally, since "We forgot about #2! What should we do?", we decided he was 
 
 Continued in Episode 184
 
-(12.06.12)
+*(12.06.12)*

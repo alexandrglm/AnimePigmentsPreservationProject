@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 107: Once Upon a Time... (64) Incredible Population Density! The Staff Room for *Sailor Moon R* Movie
 
 Now that production on the "pirate movie" has ended, I thought peaceful days had finally arrived... but thanks to the schedule getting severely delayed, my work on other projects I'm involved with is completely backed up. Last week I actually had to pull all-nighters for three days straight. Ah, maybe being captured by pirates was easier (wry laugh).
@@ -50,4 +49,4 @@ That was the tension under which the key animation progressed. And that key anim
 
 ■Continues to Episode 108
 
-(09.12.01)
+*(09.12.01)*

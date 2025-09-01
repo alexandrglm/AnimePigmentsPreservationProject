@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 69: A Little Bit of Promotion! *Theatrical GeGeGe no Kitaro: Japan Explodes!!*
 
 "The sky is high, and I'm getting fat," autumn (crying).
@@ -34,7 +33,7 @@ Even though it's almost released...
 
 So out of frustration, I'll do a little promotion this time...
 
-Once again, *Theatrical GeGeGe no Kitaro: Japan Explodes!!*. Nationwide release Saturday, December 20th. Original by Mizuki Shigeru, supervision by Kyogoku Natsuhiko, script by Sanjō Riku, director Koga Gō, character design by Ueno Ken, animation director Asanuma Akihiro, art director Honma Sadaaki, and color design by me - that's the lineup.
+Once again, *Theatrical GeGeGe no Kitaro: Japan Explodes!!*. Nationwide release Saturday, December 20th. Original by Mizuki Shigeru, supervision by Kyogoku Natsuhiko, script by Sanjou Riku, director Koga Gou, character design by Ueno Ken, animation director Asanuma Akihiro, art director Honma Sadaaki, and color design by me - that's the lineup.
 
 This work and one other job have me extremely busy currently. That's why I've been missing serialization lately... (deeply reflecting).
 
@@ -74,4 +73,4 @@ And the story about that other job next time.
 
 ■ Continued in Episode 70
 
-(08.11.04)
+*(08.11.04)*

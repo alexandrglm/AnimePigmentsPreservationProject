@@ -1,5 +1,4 @@
 # Color Design Notes [Tsujita Kunio]
-
 ## Episode 201: About *Revolutionary Girl Utena* - Part 3
 
 Now then.
@@ -54,4 +53,4 @@ When considering colors in anime, what I'm constantly concerned about is "what k
 
 On *Revolutionary Girl Utena*'s screen, there was no "red" other than that red that wouldn't lose to Utena's "black." But in my mind that bridal costume was silk, and the dress texture actually in my mind was different from that screen's red. So encountering that bridal costume at that venue was shocking. Ah, this is it! I was simply incredibly happy. "It's real Anthy with just the contents missing." Surrounded by production materials as "past," that dress standing brilliantly in the center was the only "new" thing transcending time.
 
-(13.11.22)
+*(13.11.22)*
