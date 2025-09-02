@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 104: Captured by Pirates!!
 
 Autumn has fully arrived, with mornings and evenings getting quite chilly. Simultaneously, extreme dryness... My nose and throat wake up parched and dry, and while I'm not catching a cold, I'm troubled by nasally wake-up voice...
@@ -8,7 +8,6 @@ That "new type" seems to be going around lately.
 Fortunately, no one around me has been hit by the "new type," but it feels like something to be cautious about.
 
 ...As I write this, I'm still wearing just a T-shirt, but I need to be careful about health management.
-
 Now then.
 
 Today's Tokyo was blessed with wonderful clear weather after the typhoon, but I'm caught in a situation completely unrelated to such things.

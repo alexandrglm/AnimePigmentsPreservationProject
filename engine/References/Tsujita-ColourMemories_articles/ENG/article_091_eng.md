@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 91: Once Upon a Time... (54) - *COO* Above Water, Below Water
 
 Two weeks' absence (sweat).
@@ -18,7 +18,6 @@ I actually went with a relatively light heart, but this was quite impressive and
 Our presentation was relatively early, so that tension ended quickly once we received the award on stage (laughs). After that we could leisurely enjoy watching the other award presentations.
 
 Setting aside our award, looking at the content of other awards made me excited. Video and the technology supporting it are deep and enjoyable.
-
 Now then.
 
 *Coo: Far From Home* means "ocean."
@@ -27,17 +26,17 @@ Now then.
 
 One day, Director Imazawa brought a photo book.
 
-The photo book featured southern seas, with many photos taken with the camera lens half-submerged underwater, creating compositions where above and below water were divided right at the screen center. Beautiful (presumably) South Pacific waters with high transparency. Clear footage was captured and featured where above and below water were indistinguishable.
+The photo book featured southern seas, with many photos taken with the camera lens half-submerged underwater, creating compositions where above and below water were divided right at the screen centre. Beautiful (presumably) South Pacific waters with high transparency. Clear footage was captured and featured where above and below water were indistinguishable.
 
 "Like this, I'm wondering if we can create underwater, submarine footage that doesn't look different from above water or in air," said the director.
 
-Normally, underwater processing involves first changing character colors with color direction to look appropriate, then adding water undulation through photography processing like wave glass effects, creating enough effects to clearly indicate "this is underwater!" But the idea was to deliberately not do that and aim for surprisingly transparent water.
+Normally, underwater processing involves first changing character colours with colour direction to look appropriate, then adding water undulation through photography processing like wave glass effects, creating enough effects to clearly indicate "this is underwater!" But the idea was to deliberately not do that and aim for surprisingly transparent water.
 
 We ran various tests using actual production animation for processing tests.
 
-In cuts where above and below sea surface fit simultaneously in the screen like those photo books, indeed, it seemed fine to paint above and below water with the same colors (actually, we painted underwater areas slightly darker). We achieved the intended transparent feeling as aimed.
+In cuts where above and below sea surface fit simultaneously in the screen like those photo books, indeed, it seemed fine to paint above and below water with the same colours (actually, we painted underwater areas slightly darker). We achieved the intended transparent feeling as aimed.
 
-However, in cuts where the camera was above water (sea surface) showing underwater parts through water, we found it felt better to properly differentiate above and below water colors. Ultimately, it was case-by-case. The important thing was not that "water doesn't exist" but that it "appears as if water doesn't exist." However, we decided to minimize wave glass processing in photography.
+However, in cuts where the camera was above water (sea surface) showing underwater parts through water, we found it felt better to properly differentiate above and below water colours. Ultimately, it was case-by-case. The important thing was not that "water doesn't exist" but that it "appears as if water doesn't exist." However, we decided to minimise wave glass processing in photography.
 
 Underwater seemed workable this way, but the problem was indoor aquariums. In the story, a large aquarium for raising Coo was newly installed in the separate research room. Coo swims around inside it.
 
@@ -47,12 +46,12 @@ We expressed the "glass wall" feeling by reflecting Coo's body on the glass when
 
 The problem was indeed the "aquarium placed indoors" aspect. With underwater ocean scenes, you just see endless underwater extending into the distance, so maintaining water transparency was sufficient, but with indoor aquariums, you see various indoor elements through water and glass, so rather than transparency, we needed to express "there's water there" to avoid busy, cluttered screens.
 
-This was quite a dilemma. As mentioned earlier, the director's theme was "transparency," but that transparency could work against the screen. We tried various test photography approaches: a version doing nothing like underwater scenes, a version with cel color changes plus wave glass photography processing, and others.
+This was quite a dilemma. As mentioned earlier, the director's theme was "transparency," but that transparency could work against the screen. We tried various test photography approaches: a version doing nothing like underwater scenes, a version with cel colour changes plus wave glass photography processing, and others.
 
-Among these, what we settled on as "ah, this might be it" was a technique of layering thin light blue color film over everything below the waterline where water existed. Honestly, transparency was somewhat reduced, but here we prioritized expressing that "water exists." So coloring was basically normal color tones. In terms of animation, we created thickness with paint at the waterline to make film placement easier. Film was laid underneath and photographed. This technique cleared the aquarium issue.
+Among these, what we settled on as "ah, this might be it" was a technique of layering thin light blue colour film over everything below the waterline where water existed. Honestly, transparency was somewhat reduced, but here we prioritised expressing that "water exists." So colouring was basically normal colour tones. In terms of animation, we created thickness with paint at the waterline to make film placement easier. Film was laid underneath and photographed. This technique cleared the aquarium issue.
 
 However...
 
-"Hmm, we need some more flavoring..." While watching test photography rushes of underwater cuts, the director and animation director began pondering.
+"Hmm, we need some more flavouring..." While watching test photography rushes of underwater cuts, the director and animation director began pondering.
 
 *(09.06.02)*

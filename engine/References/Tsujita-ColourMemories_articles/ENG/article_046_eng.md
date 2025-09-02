@@ -1,5 +1,5 @@
-# Color Design Notes [Tsujita Kunio]
-## Episode 46: For Some Reason This Week Is About "Lip Sync" Instead of "Color"
+# Colour Design Memories, by Kunio Tsujita
+## Episode 46: For Some Reason This Week Is About "Lip Sync" Instead of "Colour"
 
 Tokyo is in full cherry blossom bloom. Last week they reached full bloom all at once, and even in the park near my house, flower viewing parties continue from morning till morning (!) without pause (laugh). When I pass by the side of the park, the air smells of beer (bitter laugh).
 
@@ -9,11 +9,10 @@ I might have written this before, but back when *Saint Seiya* (聖闘士星矢) 
 
 Ah, I think that's quite a profound statement.
 
-Twenty years have passed since then, and every year around this time, I remember Morishita-san's words and feel a bit wistful. Thinking such thoughts, I went night cherry blossom viewing along the neighborhood cherry tree avenue this year too.
-
+Twenty years have passed since then, and every year around this time, I remember Morishita-san's words and feel a bit wistful. Thinking such thoughts, I went night cherry blossom viewing along the neighbourhood cherry tree avenue this year too.
 Well then.
 
-April is program revision season. The foreign drama slot on a certain commercial broadcaster's daytime programming is one of my pleasures, but when I turned on the TV to watch *CSI:NY2*... huh? It's *Winter Sonata*! (sweat)
+April is programmes revision season. The foreign drama slot on a certain commercial broadcaster's daytime programmesming is one of my pleasures, but when I turned on the TV to watch *CSI:NY2*... huh? It's *Winter Sonata*! (sweat)
 
 Surprised, I checked and found that the broadcast slot had moved starting this week. Three episodes per week became just one episode on Wednesdays... (crying). Well, I ended up watching "Winter Sonata" for the first time in several years (laugh). Yesterday was episode 1. Mm, it's still a masterpiece.
 
@@ -35,7 +34,7 @@ Even in TV productions, necessary cuts properly animate according to dialogue pr
 
 When dubbing is finished and sound is attached, there's always a process of watching the entire main story from beginning to end to check everything, and we check for audio-visual mismatches there too. At that time, we request retakes for any lip sync that's particularly bothersome and fix what can be fixed.
 
-I'm there to check color-related things, but I end up pointing out those bothersome mismatches anyway. Some directors say "This is fine as is (laugh)," and maybe that's right, but... hmm, it bothers me! (bitter laugh)
+I'm there to check colour-related things, but I end up pointing out those bothersome mismatches anyway. Some directors say "This is fine as is (laugh)," and maybe that's right, but... hmm, it bothers me! (bitter laugh)
 
 There's something called "spotting" where the editor gives us timing like "open mouth starting at X seconds Y frames" to match sound/dialogue with images, and we reshoot according to that. Recently with digital editing, sometimes we can fix things by rearranging image order frame by frame on shot rush data, but usually it's a reshoot. Especially for something like *Hakaba Kitaro* (墓場鬼太郎) with continuous screen processing, it definitely requires reshooting.
 
@@ -47,6 +46,6 @@ So I'm bothered by "lip sync" daily.
 
 Now Japanese anime works are speaking in various languages around the world, but how is that? With just the "closed mouth," "medium mouth," "open mouth" pattern, aren't there many languages that don't match? And cuts that we animation-matched because Japanese mismatches bothered us become completely mismatched when dubbed (bitter laugh).
 
-(...Ah, there's no color discussion... (sweat))
+(...Ah, there's no colour discussion... (sweat))
 
 *(08.04.01)*

@@ -1,15 +1,14 @@
-# Color Design Notes [Tsujita Kunio]
-## Episode 191: *Mawaru Penguindrum* Color Design Notes - Part 18
+# Colour Design Memories, by Kunio Tsujita
+## Episode 191: *Mawaru Penguindrum* Colour Design Notes - Part 18
 
 The newly redesigned Web Anime Style. One day Oguro-san said "We'd like to add a cover illustration to this column." "Hmm, should I draw pictures like other writers? Ah, but that's somehow different for me (laugh)." So I thought about it a bit and submitted a rough idea saying "How about something like this?" The designer skillfully put it together into that cover illustration.
 
-The color chart-style design used in the background is actually a real color chart (laugh). Since we can't make color models for all coloring specifications (like dust cloud color specifications or minor prop color specifications), we use color charts like this for color direction input. This chart is one I made myself, and I use it for almost all works where I'm in charge of design. I add modifications each time to match the work's content and color tone tendencies.
+The colour chart-style design used in the background is actually a real colour chart (laugh). Since we can't make colour models for all colouring specifications (like dust cloud colour specifications or minor prop colour specifications), we use colour charts like this for colour direction input. This chart is one I made myself, and I use it for almost all works where I'm in charge of design. I add modifications each time to match the work's content and colour tone tendencies.
 
-Making color charts is quite fun, but once you start, it takes an incredible amount of time. It's fun and you forget time passing and get absorbed, to the point where it interferes with other work (laugh). So it's troublesome because I sometimes want to play with color charts as a form of escapism (laugh).
-
+Making colour charts is quite fun, but once you start, it takes an incredible amount of time. It's fun and you forget time passing and get absorbed, to the point where it interferes with other work (laugh). So it's troublesome because I sometimes want to play with colour charts as a form of escapism (laugh).
 Now then.
 
-**Episode 15: The One Who Saves the World** Storyboard/Ikuhara Kunihiko & Shibata Katsunori, Direction/Shibata Katsunori, Color Direction/Mizuno Taeko (水野多恵子)
+**Episode 15: The One Who Saves the World** Storyboard/Ikuhara Kunihiko & Shibata Katsunori, Direction/Shibata Katsunori, Colour Direction/Mizuno Taeko (水野多恵子)
 
 Ringo, caught in Yuri's trap, about to have this and that and even such things done to her. But then, unexpectedly Shoma appears! Not exactly dashingly - he trips, hits his head, and faints. Yuri is somewhat exasperated, but her thoughts turn to her young days, meeting Momoka, and the days they spent together. And aiming for the other half of the diary that such a Yuri possesses, Masako had infiltrated the inn. Such was Episode 15.
 
@@ -25,15 +24,15 @@ So at some meeting attempt, I suddenly thought "How about adding 'windows' like 
 
 Incidentally, the new tower (Tokyo Tower) brought by "fate transfer" also uses a 3D model.
 
-So from that opening with the David Statue Tower surprise in the past flashback, another surprise was, well, that father (laugh). For all atelier scenes I thought to create a slight sense of unreality, having photography apply strong diffusion to characters and strongly create a color bleeding feeling. Particularly in the opening evening atelier scene, against the yellow-toned western sunlight background, I applied pink~purple shadow colors to characters to create a mad atmosphere. I wanted to properly make an impression of this father's madness here, and I think we successfully created it.
+So from that opening with the David Statue Tower surprise in the past flashback, another surprise was, well, that father (laugh). For all atelier scenes I thought to create a slight sense of unreality, having photography apply strong diffusion to characters and strongly create a colour bleeding feeling. Particularly in the opening evening atelier scene, against the yellow-toned western sunlight background, I applied pink~purple shadow colours to characters to create a mad atmosphere. I wanted to properly make an impression of this father's madness here, and I think we successfully created it.
 
-On the other hand, scenes with Momoka rather built up quiet color usage matter-of-factly matching spatial brightness. Particularly the scene telling of the diary and "fate transfer" under the afterglow after sunset, combined with that quiet, repetitive, shuddering music, is personally a quietly favorite scene of mine.
+On the other hand, scenes with Momoka rather built up quiet colour usage matter-of-factly matching spatial brightness. Particularly the scene telling of the diary and "fate transfer" under the afterglow after sunset, combined with that quiet, repetitive, shuddering music, is personally a quietly favourite scene of mine.
 
 Oh yes, in the world with the David Statue Tower, in flashback scenes there are no Ping marks throughout the city. Not limited to this episode's flashback, in characters' distant past flashbacks it's like that. Did you notice?
 
 Now, in the actual timeline it's the hospital and hot spring inn.
 
-For the hot spring inn, the dark room tones of Yuri and Ringo's room - I created three types divided by scene content. The first half aimed for that mysterious atmosphere with purple-like color tones, and after Shoma bursts in I created more normal-like color tones to strengthen reality feeling. In the scene with Masako dressed as an inn attendant, I created atmosphere with blue-toned colors to match the expression of quietly listening to Masako's story in the sliding door shadows, and in the scene where Shoma wakes up after everything ends, I deliberately made it brighter with normal color tone balance to create a relieved feeling of conclusion. Except for the initial mysterious atmosphere scene, the background art brightness and color tone are basically the same, but I created these impressions through differences in character color tones. Creating colors, this kind of thing is fun (laugh).
+For the hot spring inn, the dark room tones of Yuri and Ringo's room - I created three types divided by scene content. The first half aimed for that mysterious atmosphere with purple-like colour tones, and after Shoma bursts in I created more normal-like colour tones to strengthen reality feeling. In the scene with Masako dressed as an inn attendant, I created atmosphere with blue-toned colours to match the expression of quietly listening to Masako's story in the sliding door shadows, and in the scene where Shoma wakes up after everything ends, I deliberately made it brighter with normal colour tone balance to create a relieved feeling of conclusion. Except for the initial mysterious atmosphere scene, the background art brightness and colour tone are basically the same, but I created these impressions through differences in character colour tones. Creating colours, this kind of thing is fun (laugh).
 
 I forgot to write this last time, but there's a convenience store bag casually placed in front of the safe in the inn guest room. When I asked Director Yamazaki "What's this?" she said "Ah, that's an 'overnight set.' Ringo bought it!" Ah, I see! This is truly the perspective of a female director, I thought!
 

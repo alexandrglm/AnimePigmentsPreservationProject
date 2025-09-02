@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 64: Once Upon a Time... (41) - Theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*
 
 Before I knew it, it's September.
@@ -18,7 +18,6 @@ So many things I want to do, places I want to go...
 Next year I'm wanting to take the entire month of August as summer vacation. Would that be impossible?
 
 Such is this melancholy September (crying).
-
 Well then.
 
 March 1992 release, theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*. Director Nishio Daisuke, animation director Maeda Minoru, art director Taniguchi Jun'ichi.
@@ -33,24 +32,24 @@ That storyboard was completed around early February. Since this work's editing w
 
 Oh yes, March releases around that time were "spring vacation timing" around the 20th, so editing was in February. Now they've moved up to early March release, so editing and dubbing finish by late January accordingly.
 
-Now, about colors.
+Now, about colours.
 
-Theatrical versions of TV works operate on the principle that "people watching TV will come see them," so if they become different from TV, that's problematic. Aside from animation, different-looking colors are bad. Things that were red on TV must be red in theatrical versions, blue things must be blue. That was the rule about not changing those.
+Theatrical versions of TV works operate on the principle that "people watching TV will come see them," so if they become different from TV, that's problematic. Aside from animation, different-looking colours are bad. Things that were red on TV must be red in theatrical versions, blue things must be blue. That was the rule about not changing those.
 
-However, theatrical versions naturally have different volume from TV versions. When TV version colors are just plopped into theatrical version screens, they inevitably feel light and float. So I started from designing main character color tones specifically for theatrical versions.
+However, theatrical versions naturally have different volume from TV versions. When TV version colours are just plopped into theatrical version screens, they inevitably feel light and float. So I started from designing main character colour tones specifically for theatrical versions.
 
-That said, unlike now with digital coloring where you can do subtle things infinitely, it was fine adjustments within cel paint color limitations. So normal colors stayed mostly the same as TV color direction, with balance reviews centered on shadow color depth. I reset shadow colors somewhat deeper than TV. And there was another big reason for this.
+That said, unlike now with digital colouring where you can do subtle things infinitely, it was fine adjustments within cel paint colour limitations. So normal colours stayed mostly the same as TV colour direction, with balance reviews centered on shadow colour depth. I reset shadow colours somewhat deeper than TV. And there was another big reason for this.
 
 It was the Taiyo Shikisai paint problem again.
 
-As I've written before, while most industry production company works used Taiyo Shikisai cel paints, almost only Toei Doga used STAC cel paints. With sufficient production schedule, naturally everything could be outsourced to Manila studios or domestic finishing productions handling Toei Doga work, having everything colored with STAC paints. But with such tight schedules, that wasn't possible. A considerable portion had to be requested from Korean productions, meaning naturally the paints would be Taiyo Shikisai cel paints.
+As I've written before, while most industry production company works used Taiyo Shikisai cel paints, almost only Toei Doga used STAC cel paints. With sufficient production schedule, naturally everything could be outsourced to Manila studios or domestic finishing productions handling Toei Doga work, having everything coloured with STAC paints. But with such tight schedules, that wasn't possible. A considerable portion had to be requested from Korean productions, meaning naturally the paints would be Taiyo Shikisai cel paints.
 
-Basic color direction is designed with STAC colors, then "converted" to Taiyo Shikisai colors. However, naturally STAC and Taiyo don't have identical colors. STAC color direction gets applied to "almost the same" color paints for "conversion." "Almost the same" can be "slightly different," and combinations of those "slightly different" colors can sometimes become "quite different."
+Basic colour direction is designed with STAC colours, then "converted" to Taiyo Shikisai colours. However, naturally STAC and Taiyo don't have identical colours. STAC colour direction gets applied to "almost the same" colour paints for "conversion." "Almost the same" can be "slightly different," and combinations of those "slightly different" colours can sometimes become "quite different."
 
-Common with normal colors and their shadow colors is when the normal color conversion is slightly darker than original STAC color, and shadow color conversion is slightly brighter than original STAC color - the finished cel's normal and shadow often end up with almost no difference.
+Common with normal colours and their shadow colours is when the normal colour conversion is slightly darker than original STAC colour, and shadow colour conversion is slightly brighter than original STAC colour - the finished cel's normal and shadow often end up with almost no difference.
 
-So by designing shadow colors slightly deeper in the original STAC color design to create difference, even when converted to Taiyo colors, there shouldn't be major impression differences from the original - that's what I thought.
+So by designing shadow colours slightly deeper in the original STAC colour design to create difference, even when converted to Taiyo colours, there shouldn't be major impression differences from the original - that's what I thought.
 
-So in early 1992, I frantically prepared "conversions." And finally color direction with Taiyo Shikisai paint conversion began.
+So in early 1992, I frantically prepared "conversions." And finally colour direction with Taiyo Shikisai paint conversion began.
 
 *(08.09.10)*

@@ -1,5 +1,5 @@
-# Color Design Notes [Tsujita Kunio]
-## Episode 117: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 3) "SW" Main Feature Complete Scene Color Design Notes! Part 2
+# Colour Design Memories, by Kunio Tsujita
+## Episode 117: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 3) "SW" Main Feature Complete Scene Colour Design Notes! Part 2
 
 Yesterday marked exactly one year since I became freelance. Wow, that was fast (laugh). Still, it was quite a thrilling year. While I'd secretly (!) worked on various projects before, this was definitely a big difference.
 
@@ -8,10 +8,9 @@ One year ago today was also the day I said farewell to my other secret name "Kun
 One way or another, it was quite an emotionally intense year.
 
 Even so, being able to continue receiving work without interruption like this is truly something to be grateful for—I'm endlessly thankful.
-
 Now then.
 
-Continuing "*STRONG WORLD* Main Feature Complete Scene Color Design Notes!" for this major theatrical work that was my first big job after going freelance.
+Continuing "*STRONG WORLD* Main Feature Complete Scene Colour Design Notes!" for this major theatrical work that was my first big job after going freelance.
 
 #### Scene 34: Supplement
 
@@ -29,7 +28,7 @@ Like the first half, character brightness is somewhat suppressed to match the di
 
 From around here time becomes night. From then on, it's endless night scenes until the battle ends.
 
-For monsters responding to Captain Scarlett's roar and enhanced soldiers, I deliberately made night scene colors bright. Thinking realistically, you'd darken them more to match background colors for atmosphere, but doing that raises the screen's age appeal. What we aimed for was screens for boys and girls, "manga movie" screens, so we thought about showing characters and monsters as clearly as possible.
+For monsters responding to Captain Scarlett's roar and enhanced soldiers, I deliberately made night scene colours bright. Thinking realistically, you'd darken them more to match background colours for atmosphere, but doing that raises the screen's age appeal. What we aimed for was screens for boys and girls, "manga movie" screens, so we thought about showing characters and monsters as clearly as possible.
 
 However, cuts where story development called for "this cut should be really dark!" were properly crafted.
 
@@ -37,7 +36,7 @@ The Daft Green felling scene (Scene 38) was actually a scene where both animatio
 
 #### Scenes 25-26, 30: Pirates Gathered at Port to Palace Command Room
 
-Matching pirate captain colors and command room pirates and navigators—this area was all Kobiki-san work.
+Matching pirate captain colours and command room pirates and navigators—this area was all Kobiki-san work.
 
 Inside the command room, character brightness was suppressed to match background brightness. Even in dim places, it's brightness that looks natural through balance.
 
@@ -49,17 +48,17 @@ Nami's formal wear debut scene. ...Rather, for us the key was the "kotatsu" (lau
 
 #### Scene 41: Xiao's Village Fire
 
-This scene also matched colors created in advance for the trailer—Kobiki work. This scene also took work until quite late, didn't it?
+This scene also matched colours created in advance for the trailer—Kobiki work. This scene also took work until quite late, didn't it?
 
 #### Scene 43: Xiao's Village Burned Ruins
 
 Franky and others arrive at the burned ruins. The scene where the Straw Hat crew assembles.
 
-Initially, the art board for this scene that came up had the same series of night colors as other night scenes around the palace. But I thought this should be a bit different. The dejected feeling of being thoroughly beaten by Shiki, plus losing Nami—that despair. And the scene where spirits rise toward "raid" after hearing Nami's message. So I proposed "How about somewhat cold, strongly blue moonlight?" and they modified it in that direction.
+Initially, the art board for this scene that came up had the same series of night colours as other night scenes around the palace. But I thought this should be a bit different. The dejected feeling of being thoroughly beaten by Shiki, plus losing Nami—that despair. And the scene where spirits rise toward "raid" after hearing Nami's message. So I proposed "How about somewhat cold, strongly blue moonlight?" and they modified it in that direction.
 
-Transparent night colors that make characters feel moonlight. It finished with good balance.
+Transparent night colours that make characters feel moonlight. It finished with good balance.
 
-However, one failure in this scene: the smoke wafting around. I tried creating various detailed colors to match backgrounds for depth perception. But the colors I made apparently had too low saturation, and when photography applied blur processing, oh my, the smoke lost too much color and became mere gray. Gray on the blue-finished background felt somewhat reddish. Hmm. I was aiming for somewhat harder colors, so disappointing.
+However, one failure in this scene: the smoke wafting around. I tried creating various detailed colours to match backgrounds for depth perception. But the colours I made apparently had too low saturation, and when photography applied blur processing, oh my, the smoke lost too much colour and became mere grey. Grey on the blue-finished background felt somewhat reddish. Hmm. I was aiming for somewhat harder colours, so disappointing.
 
 Ah, this type of adjustment needs close collaboration with photography doing actual compositing—a lesson scene. But even subtracting that, the scene finished with good feeling.
 
@@ -75,9 +74,9 @@ Which gesture represented which content, I wonder? (laugh)
 
 And what Indigo conveyed was that they'd captured Nami (laugh).
 
-For outdoor night scenes around the palace, in my initial design plan I intended to create about four subtly different "night colors." One for moonlit night colors when Sunny crashes in, one for night colors near palace building lights, one for night colors on palace rooftops, and night colors around this Daft Green area.
+For outdoor night scenes around the palace, in my initial design plan I intended to create about four subtly different "night colours." One for moonlit night colours when Sunny crashes in, one for night colours near palace building lights, one for night colours on palace rooftops, and night colours around this Daft Green area.
 
-But ultimately, I made them all the same "night color." There are various reasons, but one was snow. Snow constantly danced on screen, and later became blizzards. In that case, doing subtle things wouldn't be very effective. Rather, organizing everything the same would reduce work hassles and let us properly spend effort where we wanted to add touches—that was also a consideration.
+But ultimately, I made them all the same "night colour." There are various reasons, but one was snow. Snow constantly danced on screen, and later became blizzards. In that case, doing subtle things wouldn't be very effective. Rather, organising everything the same would reduce work hassles and let us properly spend effort where we wanted to add touches—that was also a consideration.
 
 Considering balance with work volume while properly establishing screens under time pressure—I consider that part of my job too.
 
@@ -85,13 +84,13 @@ Oh, the scene where Nami gets caught by iron spears—I secretly remembered Anth
 
 #### Scene 47- Palace Interior Assembly Hall
 
-Anyway, a spaciously broad, gorgeous, bright great hall. Pirate captains lined up there. And a Kobiki-san work scene (laugh). Reference copies were distributed for animation matching, but many cuts inevitably didn't come up as intended, so detailed corrections beyond just colors were done bit by bit on cel data.
+Anyway, a spaciously broad, gorgeous, bright great hall. Pirate captains lined up there. And a Kobiki-san work scene (laugh). Reference copies were distributed for animation matching, but many cuts inevitably didn't come up as intended, so detailed corrections beyond just colours were done bit by bit on cel data.
 
 #### Scene 52: Caldera Lakeside Sunny
 
-This time, Sunny was made with 3DCG in principle. And 3D scene colors are naturally my job too. For this Sunny too, I provided color samples matched to backgrounds scene by scene, and they worked based on those.
+This time, Sunny was made with 3DCG in principle. And 3D scene colours are naturally my job too. For this Sunny too, I provided colour samples matched to backgrounds scene by scene, and they worked based on those.
 
-They'd output single images from models assembled for specific scenes and cuts, then I'd layer color corrections using adjustment layers. Plus detailed nuances were conveyed verbally to staff like "more like this feeling" (laugh).
+They'd output single images from models assembled for specific scenes and cuts, then I'd layer colour corrections using adjustment layers. Plus detailed nuances were conveyed verbally to staff like "more like this feeling" (laugh).
 
 #### Scene 54: Palace Front Garden
 
@@ -103,13 +102,13 @@ In the earlier teaser, there was a cut with Luffy and others lined up in formal 
 
 So for the raid scene, darkening just before Luffy's group bursts through the sliding doors was to recreate that cut. Around here, it wasn't about physical logic but atmosphere and impression priority!
 
-Smoke from Luffy's group's firearms. The blast smoke from firing barrels is black powder-type black smoke, but the first shot is darkest, then gradually becomes grayer. Landing smoke is also black-type initially, but smoke rising from floors in subsequent cuts gradually becomes lighter gray as cuts progress.
+Smoke from Luffy's group's firearms. The blast smoke from firing barrels is black powder-type black smoke, but the first shot is darkest, then gradually becomes greyer. Landing smoke is also black-type initially, but smoke rising from floors in subsequent cuts gradually becomes lighter grey as cuts progress.
 
 The reason is both Luffy's group and pirates wear "black." If smoke is also black, screens become busy and important character acting becomes hard to understand.
 
 #### Scene 61- Around Palace Various
 
-From here it's pure volume! Basically, inside the great hall is "normal," elsewhere like corridors have brightness adjusted to backgrounds. Once on rooftops, night colors. From Scene 65, monsters storm into the palace, but those follow the same basics.
+From here it's pure volume! Basically, inside the great hall is "normal," elsewhere like corridors have brightness adjusted to backgrounds. Once on rooftops, night colours. From Scene 65, monsters storm into the palace, but those follow the same basics.
 
 Really, around here it's pure volume (laugh).
 

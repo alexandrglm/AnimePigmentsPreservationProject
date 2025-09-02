@@ -1,21 +1,20 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 90: Golden Week Extra Edition - *Tomorrow's Nadja* Memory City and That Person's City from *Doremi* (laughs)
 
 Golden Week is over. Once it ended, it immediately got hot (tears). The humidity especially...
 
 During Golden Week, I was away from Japan. While I was away, various things happened. A certain famous rock singer passed away, a certain famous actor got married...
 
-Various things happened among my acquaintances too. A certain color direction person who got married in a lightning engagement (laughs). Or my Seoul friend's mother who passed away suddenly at a young age. Happy and sad events crowded together during this year's Golden Week.
-
+Various things happened among my acquaintances too. A certain colour direction person who got married in a lightning engagement (laughs). Or my Seoul friend's mother who passed away suddenly at a young age. Happy and sad events crowded together during this year's Golden Week.
 Now then.
 
-This year's Golden Week, I took a somewhat long break and traveled around northern Italy. From Milan to Parma, Bologna, Venice, Verona, and back to Milan. I saw various things in each city and ate lots (laughs).
+This year's Golden Week, I took a somewhat long break and travelled around northern Italy. From Milan to Parma, Bologna, Venice, Verona, and back to Milan. I saw various things in each city and ate lots (laughs).
 
 Whether domestic or international, whenever I travel anywhere, I'm always curious about places related to works I've been involved with that appeared in the main episodes. And speaking of Europe, there's *Tomorrow's Nadja* (明日のナージャ).
 
-In *Tomorrow's Nadja*, we "traveled" across Europe from England to Austria for about a year. Italy also appeared - Milan, Venice, and Rome - but the place I love most that appeared across 2 full episodes (episodes 18-19) was Venice.
+In *Tomorrow's Nadja*, we "travelled" across Europe from England to Austria for about a year. Italy also appeared - Milan, Venice, and Rome - but the place I love most that appeared across 2 full episodes (episodes 18-19) was Venice.
 
-Actually, this was my third visit to Venice! My previous visit was 11 years ago. So this was my first time since *Nadja*. In the main episodes, famous places like canals, St. Mark's Square, and Rialto Bridge appeared, but naturally they were all major spots I'd been to before. So during main episode work at the time, I knew the atmosphere of every place perfectly and could create perfect colors and ambiance.
+Actually, this was my third visit to Venice! My previous visit was 11 years ago. So this was my first time since *Nadja*. In the main episodes, famous places like canals, St. Mark's Square, and Rialto Bridge appeared, but naturally they were all major spots I'd been to before. So during main episode work at the time, I knew the atmosphere of every place perfectly and could create perfect colours and ambiance.
 
 However, one place I'd never been to appeared in the main episodes: the Contarini del Bovolo Palace and its spiral staircase. I should have seen most major points, but I'd never been there at all. When I looked it up, it was properly listed in guidebooks, but probably honestly not with very good photos, so I'd unconsciously passed by that building.
 

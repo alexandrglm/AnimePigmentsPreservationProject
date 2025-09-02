@@ -1,18 +1,17 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 168: Long Ago... 105 1995 Part 25 Hotel Sequester Meeting Camp - Where Will It Lead!?
 
 This weekend, I took just two days off and went to Sanuki in Kagawa Prefecture, Shikoku for a Oda Kazumasa live concert. A passionate 3.5-hour outdoor live performance at the tip of Okushi Peninsula against the backdrop of the Seto Inland Sea - it was magnificent! What a great summer vacation.
 
-And Sunday, there was a major nationwide event in Japan. Yes, analog TV broadcast cessation. Cessation at noon on the 24th - at that moment I was on Kotohira Shrine's long stone steps. It was unfortunate not to experience that moment in front of a TV. A turning point for TV broadcasting that had cared for me for over 40 years since becoming aware. Thanks to this TV I was captivated by animation and am here now - grateful for TV broadcasting history.
+And Sunday, there was a major nationwide event in Japan. Yes, analogue TV broadcast cessation. Cessation at noon on the 24th - at that moment I was on Kotohira Shrine's long stone steps. It was unfortunate not to experience that moment in front of a TV. A turning point for TV broadcasting that had cared for me for over 40 years since becoming aware. Thanks to this TV I was captivated by animation and am here now - grateful for TV broadcasting history.
 
-I returned to Tokyo at night, but my work room TV receiver is analog (digitized through BD deck connection), and I'd actually been watching analog waves until just before leaving for travel. So I was half-looking forward to turning on the TV when I got home to confirm static!
+I returned to Tokyo at night, but my work room TV receiver is analogue (digitised through BD deck connection), and I'd actually been watching analogue waves until just before leaving for travel. So I was half-looking forward to turning on the TV when I got home to confirm static!
 
 But when I turned on the TV... huh? Wait? I can watch broadcasts normally (sweat).
 
 "Ah, that's right!"
 
-Actually, our apartment building uses cable TV entirely, so the cable company apparently provides analog conversion of digital broadcasts - nothing special, just normal viewing. Somewhat disappointing (laugh).
-
+Actually, our apartment building uses cable TV entirely, so the cable company apparently provides analogue conversion of digital broadcasts - nothing special, just normal viewing. Somewhat disappointing (laugh).
 Anyway.
 
 Under Producer Morishita's orders, we theatrical *Dragon Ball: The Path to Power* staff were gathered at Daiichi Hotel Hikarigaoka (at that time). Gathered in a large guest room with an unusually spacious meeting room, the conference began.

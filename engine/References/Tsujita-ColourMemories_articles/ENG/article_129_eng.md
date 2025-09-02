@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ##  Episode 129: Sorry, Another Special Edition - *The Tatami Galaxy* Kyoto Local Post-Production Location Tour
 
 *The Tatami Galaxy*, which received great acclaim, has completed not only broadcast work but also all work on unreleased episodes for BD & DVD release. With a little time available, I'm taking a brief vacation. Ah, travel for the first time in a while. I'm in Kyoto bustling with the Gion Festival, camera in hand.
@@ -6,7 +6,6 @@
 But, rain. Western Japan generally seems to have heavy rain tendencies since the week's start, and Kyoto too feels properly like the end of rainy season, getting hit by daily evening showers. Plus it's muggily hot during the day without clearing up completely. And humidity. Good grief.
 
 Still, I'm enjoying my first vacation in a while.
-
 Now then.
 
 Right after receiving the *Tatami Galaxy* job offer last autumn, before my actual work started, I went to Kyoto twice for self-funded location scouting. At that time I toured important *Tatami Galaxy* locations like Kamogawa Delta, Kamo Bridge, Shimogamo Shrine and Tadasu Forest, plus the Kiyamachi area, grasping the atmosphere in my own way before diving into main production work.

@@ -1,27 +1,26 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 77: Once Upon a Time... (48) - First, I Bought "Lonely Planet Fiji"
 
 The other day, I went to Seoul to meet some friends.
 
 I occasionally meet up like this with Korean friends I used to work with. Incidentally, they're two young women (laughs). With their escort, I always get to enjoy a Seoul that's different from regular tourist travel - going to art museums, strolling through fashionable districts, eating delicious food at local restaurants.
 
-Really though, Korea and Seoul are so close. The flight time is about 2 hours. You arrive with roughly the same sense of distance as going to Fukuoka or somewhere. And when you arrive, the scenery isn't that different from Japan. The skin color of people passing by is the same as Japanese people, and it doesn't feel that different from places like Osaka or Hakata that I visited recently. Oh yes, they stand on the right side of escalators too (laughs).
+Really though, Korea and Seoul are so close. The flight time is about 2 hours. You arrive with roughly the same sense of distance as going to Fukuoka or somewhere. And when you arrive, the scenery isn't that different from Japan. The skin colour of people passing by is the same as Japanese people, and it doesn't feel that different from places like Osaka or Hakata that I visited recently. Oh yes, they stand on the right side of escalators too (laughs).
 
 But what's definitely different are the characters overflowing on signs throughout the city. Wow, I can't read them at all > Hangul (laughs). I took the subway alone from the airport, but you know, I couldn't understand anything at all. Seoul's subway also has "serial numbers" for stations like Tokyo's, so I managed to reach my destination relying on those.
 
 Ah! I see!
 
-Foreigners coming to Tokyo must feel exactly the same way. I realized for the first time the importance of those subway station "serial numbers."
-
+Foreigners coming to Tokyo must feel exactly the same way. I realised for the first time the importance of those subway station "serial numbers."
 Now then.
 
 *Coo: Far From Home* was restarted with "protagonist = Japanese" according to the original work. The staff room we had set up was still far from being busy. The crucial scenario itself was still in progress, and various settings were barely getting started. I myself was actually busier with other works (like theatrical *Dragon Ball Z*, etc.).
 
-In terms of color direction (color design), ultimately there's no way to work until character settings come out, so I could only wait for settings to start appearing. Even so, to be proactive, I reread the original work... well, that was about it (laughs).
+In terms of colour direction (colour design), ultimately there's no way to work until character settings come out, so I could only wait for settings to start appearing. Even so, to be proactive, I reread the original work... well, that was about it (laughs).
 
 Meanwhile, the director and main staff (planning producer Tamiya-san, animation director, art director) went on location scouting to Fiji and Tahiti, where the story takes place.
 
-As expected, I wasn't taken along for color direction (tears). Too bad. According to what I heard from the director later, it was an extremely tight and demanding location scout, but even so, the beautiful ocean and coral reefs seen from above in the airplane were absolutely wonderful.
+As expected, I wasn't taken along for colour direction (tears). Too bad. According to what I heard from the director later, it was an extremely tight and demanding location scout, but even so, the beautiful ocean and coral reefs seen from above in the aeroplane were absolutely wonderful.
 
 Lucky them.
 

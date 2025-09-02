@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 56: Once Upon a Time... (37) - The Story of 16mm and 35mm *Tenjou-hen Uchuu Kouji* Part 5
 
 The other day, there was one voicemail on my home phone.
@@ -22,12 +22,11 @@ Nervously, I called the tax office the next day. And then...
 "That's all"
 
 That's all it was (laugh). Since they said "mail is OK," I'll clear it up by having them send documents and responding. Ah, what a relief (laugh). I'm really not good with tax offices (bitter laugh).
-
 Well then.
 
 Around 1990 when we were making *Tenjou-hen Uchuu Kouji*, it was naturally still "cel animation filmed on film," and at that time anime photography used both 16mm and 35mm film.
 
-16mm and 35mm refer to the width of the film. Since film has continuous holes (perforations) on both sides for shooting and projection, the actual image area is even smaller, but back then TV works used 16mm film while theatrical works used 35mm. With larger image area, image density is higher, and 35mm film, being about 4 times the area of 16mm, was naturally suited for large screens like movie theaters. Color reproduction was also better with 35mm.
+16mm and 35mm refer to the width of the film. Since film has continuous holes (perforations) on both sides for shooting and projection, the actual image area is even smaller, but back then TV works used 16mm film while theatrical works used 35mm. With larger image area, image density is higher, and 35mm film, being about 4 times the area of 16mm, was naturally suited for large screens like movie theatres. Colour reproduction was also better with 35mm.
 
 *Tenjou-hen Uchuu Kouji* was shot on this 35mm film. Not just *Tenjou-hen Uchuu Kouji* but all Toei Doga OVA works at the time should have been 35mm. Basically, TV works that aired once and were done, versus video works intended for repeated viewing, were treated like theatrical works.
 
@@ -39,7 +38,7 @@ This 35mm film naturally cost considerably more for both negative film and proce
 
 This was quite subtle.
 
-Naturally 16mm used 16mm projectors, and with smaller film screens, the actual light projected onto screens was less, making screens feel darker compared to 35mm rushes. While 16mm was fine for checking animation and camera work itself, color reproduction and light effects like transmitted light in our domain inevitably looked inferior to 35mm rushes.
+Naturally 16mm used 16mm projectors, and with smaller film screens, the actual light projected onto screens was less, making screens feel darker compared to 35mm rushes. While 16mm was fine for checking animation and camera work itself, colour reproduction and light effects like transmitted light in our domain inevitably looked inferior to 35mm rushes.
 
 However, 16mm had various advantages, primarily being much easier to handle. Not just projection, but especially editing was easier. Editing was naturally done with positive film, and the difficulty between 16mm and 35mm editing was like heaven and earth (though "negative editing" done after all cuts were approved was naturally done with 35mm negative film as the master).
 
@@ -47,13 +46,13 @@ So after checking with 16mm and giving OK, the completed film had final checking
 
 This final check was called "Print 0 screening," meaning screening with the first positive film processed from the negative assembled through negative editing. Here we checked whether there were any fatal problems. Well, problems would be bad (bitter laugh). I also attended these checks.
 
-What I checked was screen color reproduction. Film impressions change considerably with printing. Naturally it starts with the negative, but color tones and transparency can look quite different depending on printing balance.
+What I checked was screen colour reproduction. Film impressions change considerably with printing. Naturally it starts with the negative, but colour tones and transparency can look quite different depending on printing balance.
 
-Also, there were individual differences in cameras and lenses used for shooting—even with the same 35mm cameras, lens individual differences could subtly affect footage color tones. If everything were shot with identical lenses there'd be no variation, but when shooting in parallel on multiple photography tables, there could often be slight color variations cut by cut.
+Also, there were individual differences in cameras and lenses used for shooting—even with the same 35mm cameras, lens individual differences could subtly affect footage colour tones. If everything were shot with identical lenses there'd be no variation, but when shooting in parallel on multiple photography tables, there could often be slight colour variations cut by cut.
 
-Including adjustments for such things, technicians at processing labs would pre-adjust and print Print 0 to some degree (for this, we'd provide combinations of actual cels and backgrounds used in the main story as color references for each scene), but with animation, since light and color reproduction aren't shooting natural objects, some effects and color tones might be better emphasized depending on scenes. When intended effects didn't come out well, we'd have them adjust during printing.
+Including adjustments for such things, technicians at processing labs would pre-adjust and print Print 0 to some degree (for this, we'd provide combinations of actual cels and backgrounds used in the main story as colour references for each scene), but with animation, since light and colour reproduction aren't shooting natural objects, some effects and colour tones might be better emphasised depending on scenes. When intended effects didn't come out well, we'd have them adjust during printing.
 
-"Make flame colors stronger in this scene" or "make blue sky reproduction clearer," sometimes specifying cuts for adjustments.
+"Make flame colours stronger in this scene" or "make blue sky reproduction clearer," sometimes specifying cuts for adjustments.
 
 After screenings, we'd hold meetings with lab technicians and animation staff including the director to confirm and make requests. These adjustments were called "timing," and we always did this for film-screened works. Even with digital production today, this remains the final checkpoint for theatrical works screened on film.
 

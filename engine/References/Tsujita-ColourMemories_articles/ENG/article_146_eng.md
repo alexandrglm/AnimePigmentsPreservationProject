@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 146: Long Ago... 85 1995 Part 5 Shocking March (Final) What Awaited Us in Tokyo...
 
 For several years now, I've been using a razor-type shaver to shave my beard. Until then, I used an electric shaver, but that thing surprisingly scatters the shaved whiskers. Well, maybe the more expensive models don't do this, but anyway, the several-thousand-yen class one I was using splendidly scattered shaved whiskers everywhere. Once I noticed this one day, it bothered me so much that I ultimately converted to using a razor-type shaver.
@@ -8,7 +8,6 @@ When shaving with that razor-type shaver, I use something called shaving cream. 
 How much should I smear on my face each time before starting to shave? I've been unable to find the answer to this day. Shaving cream has that nice fluffy texture that makes you want to use lots and put it on your face, but does that actually help with the original act of shaving whiskers? If you put too much on, maybe you can't actually shave whiskers properly? But if it's too little, that's lonely in its own way.
 
 Every time I shave, I think about such things and try various approaches. But I still tend to use too much cream. It's also fun to see myself like that at 47.
-
 Anyway.
 
 After being "kidnapped" at Seoul's Gimpo Airport, we were split between two cars and first taken to D Company's headquarters.
@@ -25,11 +24,11 @@ Lunch with other company employees at a restaurant near headquarters. After eati
 
 What interested me was naturally the finishing (仕上げ) department. The studio's second floor was the finishing room, and wow, you could feel the fighting spirit! There were ingenious touches everywhere for efficiently progressing work in short time - very educational.
 
-For example, paint bottles. Normally you line up paints in thin glass bottles, but honestly, there's limited space around desks so you can't line up very many. At this studio, they were amazingly using 35mm negative film - you know, regular camera film containers. They put paint in those cases! Of course, colors used in large quantities were in glass bottles, but for colors used only a little at a time but with quite a variety of colors, this method worked well. Since they're low height, you can line them up in desk drawers.
+For example, paint bottles. Normally you line up paints in thin glass bottles, but honestly, there's limited space around desks so you can't line up very many. At this studio, they were amazingly using 35mm negative film - you know, regular camera film containers. They put paint in those cases! Of course, colours used in large quantities were in glass bottles, but for colours used only a little at a time but with quite a variety of colours, this method worked well. Since they're low height, you can line them up in desk drawers.
 
-Come to think of it, domestically (within Toei Animation?) there were small glass bottles called "tracing bottles," and tracers did color tracing with paint in those. Thinking about it, we also used paint in tracing bottles for minor corrections during inspection.
+Come to think of it, domestically (within Toei Animation?) there were small glass bottles called "tracing bottles," and tracers did colour tracing with paint in those. Thinking about it, we also used paint in tracing bottles for minor corrections during inspection.
 
-A further innovation was drying shelf usage. To dry paint applied to cels, you put painted cels one by one on shelves, but here they rolled them tightly and stuck them in shelves to save space. They'd roll them into horizontal U-shapes and push them into 3-4 centimeter gaps between upper and lower shelf boards. Since cels have resilient force trying to return to their original shape, being held down by upper and lower shelf boards prevents cels from sticking together. We often used such methods for long cels, but here they used this method even for standard cels. It's impossible for large painted areas, but for small painted areas or things painted only on the right or left half of cels, unpainted parts can be rolled and turned upside down safely. Moreover, since they were using high-viscosity Taiyo Shisai paint, such feats might be possible. Well, maybe I just didn't know and the same thing was being done at domestic finishing production companies using Taiyo colors, but in any case, for us using low-viscosity STAC paint, it was eye-opening to see methods we'd never thought of!
+A further innovation was drying shelf usage. To dry paint applied to cels, you put painted cels one by one on shelves, but here they rolled them tightly and stuck them in shelves to save space. They'd roll them into horizontal U-shapes and push them into 3-4 centimetre gaps between upper and lower shelf boards. Since cels have resilient force trying to return to their original shape, being held down by upper and lower shelf boards prevents cels from sticking together. We often used such methods for long cels, but here they used this method even for standard cels. It's impossible for large painted areas, but for small painted areas or things painted only on the right or left half of cels, unpainted parts can be rolled and turned upside down safely. Moreover, since they were using high-viscosity Taiyo Shisai paint, such feats might be possible. Well, maybe I just didn't know and the same thing was being done at domestic finishing production companies using Taiyo colours, but in any case, for us using low-viscosity STAC paint, it was eye-opening to see methods we'd never thought of!
 
 Other areas - animation and art - all seemed to have their own unique innovations, making for quite good learning!
 
@@ -39,7 +38,7 @@ The next day was a full day of sightseeing. Again cared for by E Company's Kim-s
 
 And the day after that, we were already returning home. Reunited with the tour guide at the airport (bitter laugh). We had her handle procedures quietly without much conversation and became passengers.
 
-On that flight, I encountered tremendously sad news. Voice actor Yamada Yasuo-san, famous for *Lupin III*, had passed away. I learned this from Japanese newspapers on the plane. This was shocking. We spoke little, and the plane headed to Narita.
+On that flight, I encountered tremendously sad news. Voice actor Yamada Yasuo-san, famous for *Lupin III*, had passed away. I learnt this from Japanese newspapers on the plane. This was shocking. We spoke little, and the plane headed to Narita.
 
 And at Narita Airport, we would encounter even more surprising news. That morning, someone had spread sarin gas in Tokyo's subway, resulting in many deaths! It had become a major confusion, a major incident! We were stunned. It was March 20, 1995.
 

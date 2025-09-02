@@ -1,5 +1,5 @@
-# Color Design Notes [Tsujita Kunio]
-## **Episode 23: Once Upon a Time... (18) *Saint Seiya* Part 5 - Things I Was Taught, Things I Learned Through Skin and Body**
+# Colour Design Memories, by Kunio Tsujita
+## **Episode 23: Once Upon a Time... (18) *Saint Seiya* Part 5 - Things I Was Taught, Things I Learnt Through Skin and Body**
 
 I'm moving. The apartment where I've lived with my wife for 7 years has become too cramped, so we're moving to a slightly larger place.
 
@@ -16,10 +16,9 @@ By the way, while I'm writing these old *Saint Seiya* stories, new work informat
 (http://www.toei-anim.co.jp/sp/seiya/). Actually, **Araki-san** and the *Hades Chapter* staff are currently in production for this winter's broadcast start (**SKY PerfecTV!**). Of course I'm participating too.
 
 This series will go through to the end of **Kurumada-sensei**'s original source material. After a long gap, about 20 years. Finally the *Saint Seiya* series reaches its end. Please look forward to it!
-
 Well then.
 
-From Episode 26 onward, comprehensive animation and finishing orders to Taiwanese companies started continuously at about 1 episode per 3-4 episodes, so I handled color direction and inspection for "Taiwan-sent episodes." The program's reputation and ratings were quite good, and broadcasting entered its second year, far from just 2 cours or half a year. The program entered the "**Twelve Temples arc**" and content was getting more and more exciting.
+From Episode 26 onward, comprehensive animation and finishing orders to Taiwanese companies started continuously at about 1 episode per 3-4 episodes, so I handled colour direction and inspection for "Taiwan-sent episodes." The programmes's reputation and ratings were quite good, and broadcasting entered its second year, far from just 2 cours or half a year. The programmes entered the "**Twelve Temples arc**" and content was getting more and more exciting.
 
 The fun part of TV series is that as you enter the rotation and participate in the work, you get more excited than TV viewers wondering "What will happen next?" Until then, I was only called when there were problems, but participating firmly in the work like this - though it's a bit cheesy to say (laughs) - love for that work grows steadily. You gradually become more of a fan of that work than anyone else (laughs).
 
@@ -31,7 +30,7 @@ Through working together, I'd ask questions at every opportunity, or learn by ov
 
 In that process, I could think about various things myself - "I did it this way this time, but how about trying something like this next time" - actively speaking up and making suggestions in meetings, adding new processing attempts to the screen.
 
-Even taking one special coloring for special image scenes, not just thinking about character colors but trying various things including photography processing was possible because of this "dense" direction team and this *Saint Seiya* work.
+Even taking one special colouring for special image scenes, not just thinking about character colours but trying various things including photography processing was possible because of this "dense" direction team and this *Saint Seiya* work.
 
 During this period, what was most educational was being scolded for my mistakes (laughs). Failures that made my face burn with shame are absolutely unforgettable, and you never make the same mistake twice. Learning through skin, learning through body, so to speak (laughs).
 

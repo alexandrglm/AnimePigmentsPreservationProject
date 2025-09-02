@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 198: Extra Edition - Pirate Ship, Again!
 
 Man, I've been dropping manuscripts left and right lately, sorry. Once again my main work is in super-extreme crunch mode. I'm aboard the pirate ship for the first time in three years. I'm participating in the latest theatrical *One Piece* film opening nationwide December 15th (!), *One Piece Film Z*.
@@ -7,7 +7,7 @@ So due to that production's super-extreme crunch, I'll probably have to take a b
 
 It's been three years since that big hit *Strong World*! So fast. And in those three years, various things - particularly the technical situation surrounding theatrical works - have changed dramatically.
 
-The world is "DCP screening!" DCP = Digital Cinema Package. A system that compresses one film's worth of video + audio data into a server and projects it with projectors. Right, it's not film. Movie theater screening has already transitioned to the digital screening era. Film-making processes like making negatives through digital recording and printing film are disappearing entirely. Like TV works, you check photography data on monitors, edit and connect them, confirm OK takes, and deliver. Color correction and done.
+The world is "DCP screening!" DCP = Digital Cinema Package. A system that compresses one film's worth of video + audio data into a server and projects it with projectors. Right, it's not film. Movie theatres screening has already transitioned to the digital screening era. Film-making processes like making negatives through digital recording and printing film are disappearing entirely. Like TV works, you check photography data on monitors, edit and connect them, confirm OK takes, and deliver. Colour correction and done.
 
 With such trends, I've heard news that major film companies are ending movie film production too.
 
@@ -17,7 +17,7 @@ But you know, this isn't about nostalgia or anything, but there's a somewhat anx
 
 But the benefits received from going digital are undeniably enormous, and possibilities keep expanding. I'm studying hard these days to not be left behind by the times - or rather, to ride the times and keep running. New knowledge is always enjoyable (laugh).
 
-In the midst of such battle is the pirate movie *One Piece Film Z*! Incidentally, this time's opening theaters - a nationwide scale of hundreds of screens - but apparently only about 20 theaters won't be DCP screening. For those theaters they'll apparently print positive film for that number.
+In the midst of such battle is the pirate movie *One Piece Film Z*! Incidentally, this time's opening theatress - a nationwide scale of hundreds of screens - but apparently only about 20 theatress won't be DCP screening. For those theatress they'll apparently print positive film for that number.
 
 I wonder if those roughly 20 positive films might remain as cultural heritage?
 

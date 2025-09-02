@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 61: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Final Part)
 
 Summer means ghost stories and scary tales, doesn't it? (laugh)
@@ -10,16 +10,15 @@ My alma mater was Tokyo Metropolitan Fuji High School, and Fuji High had somethi
 I wonder how those "Seven Mysteries" are doing now? Are they still being passed down through generations? Since the old school buildings related to the "Seven Mysteries" were rebuilt, maybe the traditions have been lost?
 
 I remember this every year around the time when Perseid meteor shower season approaches.
-
 Well then.
 
-Finally the final installment of "Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes." At last, the final chapter "Hades Elysion Chapter."
+Finally the final instalment of "Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes." At last, the final chapter "Hades Elysion Chapter."
 
 **Elysion Chapter Episode 1 - Death Battle to Elysion - Direction/Katsumata Tomoharu**
 
-For Elysion Chapter, I asked Akimoto-san, who loves "Ikki-niisan!" to handle color direction from episode 1. No, I was planning to handle episode 1 as usual, but due to a production communication error, Akimoto-san was called to the episode 1 meeting (bitter laugh). So I said "Then, do it!" (laugh). Thus, Akimoto-san handled color direction for all episodes.
+For Elysion Chapter, I asked Akimoto-san, who loves "Ikki-niisan!" to handle colour direction from episode 1. No, I was planning to handle episode 1 as usual, but due to a production communication error, Akimoto-san was called to the episode 1 meeting (bitter laugh). So I said "Then, do it!" (laugh). Thus, Akimoto-san handled colour direction for all episodes.
 
-Episode 1 was still the story of passing through "The Wailing Wall." So almost exactly the same color design created for "Inferno Chapter: Finale" could be reused.
+Episode 1 was still the story of passing through "The Wailing Wall." So almost exactly the same colour design created for "Inferno Chapter: Finale" could be reused.
 
 **Elysion Chapter Episode 2 - Gods of Death and Sleep - Direction/Katsumata Tomoharu**
 
@@ -31,7 +30,7 @@ At the episode 1 meeting, I proposed "Let's make battles image spaces whenever p
 
 From episode 2, Thanatos and Hypnos finally appeared.
 
-Actually, these two had been appearing in the opening since *Inferno Chapter: Prelude* along with Hades in Surplice. Since we couldn't show them "until they appeared in the main story," they were silhouette processed throughout *Inferno Chapter* and even in *Elysion Chapter* until episode 2, but when we first made the opening for *Inferno Chapter: Prelude*, these two's colors were almost complete.
+Actually, these two had been appearing in the opening since *Inferno Chapter: Prelude* along with Hades in Surplice. Since we couldn't show them "until they appeared in the main story," they were silhouette processed throughout *Inferno Chapter* and even in *Elysion Chapter* until episode 2, but when we first made the opening for *Inferno Chapter: Prelude*, these two's colours were almost complete.
 
 I absolutely love these two. They're my personal best among all the Cloths and Surplices we've done so far.
 
@@ -39,23 +38,23 @@ Incidentally, the opening had been steadily accumulating small fixes through *Pr
 
 **Elysion Chapter Episode 3 - Golden Reinforcements - Direction/Nishizawa Nobutaka**
 
-Regarding Seiya's sister "Seika," we hadn't had proper character sheets until now, and while she appeared briefly in *Inferno Chapter*, we roughly decided colors based on the key animation that came up then. This time too, no character sheets came out in the end (bitter laugh), so we created coloring settings from key animation used in the main story.
+Regarding Seiya's sister "Seika," we hadn't had proper character sheets until now, and while she appeared briefly in *Inferno Chapter*, we roughly decided colours based on the key animation that came up then. This time too, no character sheets came out in the end (bitter laugh), so we created colouring settings from key animation used in the main story.
 
-Speaking of missing settings, I actually forgot that we hadn't created digital coloring color direction for Bear Geki and others (sweat), so I had Akimoto-san handle all of that through screen matching too.
+Speaking of missing settings, I actually forgot that we hadn't created digital colouring colour direction for Bear Geki and others (sweat), so I had Akimoto-san handle all of that through screen matching too.
 
-For the Sanctuary where Seika and others are, character colors gradually darken in stages according to the eclipse's progress.
+For the Sanctuary where Seika and others are, character colours gradually darken in stages according to the eclipse's progress.
 
 **Elysion Chapter Episode 4 - Legendary God Cloths - Direction/Katsumata Tomoharu**
 
 Finally they appeared - the God Cloths (ゴッドクロス).
 
-These are anime original colorings. In the original color settings, all five were the same gold color, but that overlapped too much with Gold Saints. Actually, from the end of episode 3, Seiya and others are wearing Gold Cloths, so even changing them a bit would still be hard to differentiate on screen.
+These are anime original colourings. In the original colour settings, all five were the same gold colour, but that overlapped too much with Gold Saints. Actually, from the end of episode 3, Seiya and others are wearing Gold Cloths, so even changing them a bit would still be hard to differentiate on screen.
 
-And I wanted to bring out each of the five's individual "colors" from the Cloths they'd fought in until then. The God Cloths' basic whitish color is common to all five, with their respective "colors" applied to the shadow colors.
+And I wanted to bring out each of the five's individual "colours" from the Cloths they'd fought in until then. The God Cloths' basic whitish colour is common to all five, with their respective "colours" applied to the shadow colours.
 
-These colored God Cloths had already appeared in *Saint Seiya: Heaven Chapter Overture* (director Yamauchi Shigeyasu). In mythological times, the Saint who uniquely wounded Hades wore these God Cloths. See? It connects properly, right? (laugh)
+These coloured God Cloths had already appeared in *Saint Seiya: Heaven Chapter Overture* (director Yamauchi Shigeyasu). In mythological times, the Saint who uniquely wounded Hades wore these God Cloths. See? It connects properly, right? (laugh)
 
-All underwear is white too. For the God Cloths' color balance and to express the sacred, elevated feeling of "God Cloths," I made everyone white.
+All underwear is white too. For the God Cloths' colour balance and to express the sacred, elevated feeling of "God Cloths," I made everyone white.
 
 In episode 4, Seiya first dons the God Cloth, and photography director Ogata-san worked hard on that donning scene. To somehow give form to my request for "aura rising from the God Cloth itself," he repeated test photography many times and even did voluntary retakes himself.
 
@@ -75,9 +74,9 @@ As tension rises toward the end, work volume and content inevitably become extra
 
 The final Cloth I decided on was "Athena's Cloth."
 
-I thought Seiya and others' God Cloths and "Athena's Cloth" should have common elements, so I based it on the gold coloring used for God Cloths, arranging whitish colors also used for God Cloths in the Cloth edge paint divisions. This "Athena's Cloth" was also a dazzling golden Cloth in the original color settings. I was able to arrange this well with coloring close to the original.
+I thought Seiya and others' God Cloths and "Athena's Cloth" should have common elements, so I based it on the gold colouring used for God Cloths, arranging whitish colours also used for God Cloths in the Cloth edge paint divisions. This "Athena's Cloth" was also a dazzling golden Cloth in the original colour settings. I was able to arrange this well with colouring close to the original.
 
-"Thanatos," "Hypnos," "God Cloths," and "Athena's Cloth." All the Surplices and Cloths appearing in Elysion Chapter are my absolute favorites (laugh).
+"Thanatos," "Hypnos," "God Cloths," and "Athena's Cloth." All the Surplices and Cloths appearing in Elysion Chapter are my absolute favourites (laugh).
 
 ***
 

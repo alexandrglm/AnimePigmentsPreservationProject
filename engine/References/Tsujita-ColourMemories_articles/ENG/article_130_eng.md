@@ -1,27 +1,26 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 130: Once Upon a Time... 74 - 1994 Part 8 - *Sailor Moon S* Movie Blues
 
 I've returned to morning-person lifestyle recently.
 
-Sleep early at night, start around 4 AM. I currently have work where I handle everything from color design to color direction and finishing inspection, so I wake up and immediately enter my work room to begin cel inspection. Production managers collect animation director completions around 7 AM every morning, and stop by my home around 9 AM. There I hand over completed finishing inspections and receive in-between animation completions for immediate color direction. They take those straight back, hand them to finishing staff at 10 AM for painting work. Then those completions get brought again the next morning—that's my current lifestyle flow.
+Sleep early at night, start around 4 AM. I currently have work where I handle everything from colour design to colour direction and finishing inspection, so I wake up and immediately enter my work room to begin cel inspection. Production managers collect animation director completions around 7 AM every morning, and stop by my home around 9 AM. There I hand over completed finishing inspections and receive in-between animation completions for immediate colour direction. They take those straight back, hand them to finishing staff at 10 AM for painting work. Then those completions get brought again the next morning—that's my current lifestyle flow.
 
 Generally morning home work like that. Afternoons I go out for meetings or take little naps. Quite a healthy lifestyle.
 
 Speaking of which, elementary, middle, and high school students just entered summer vacation. I was a child quite bad at early rising, but thinking now, if I'd managed proper early rising, I could have done much more. Not saying 4 AM, but acting from around 5 AM really lets you use the day incredibly long. It's normally bright before 5 AM anyway.
 
 I won't advocate "daylight saving time" introduction like Europe and America, but summer especially recommends early rising.
-
 Now then.
 
 The first of my two jobs in 1994's second half was *Pretty Soldier Sailor Moon S* movie. Director: Shibata Hiroki, Animation Director: Kagawa Hisashi, Art Director: Kubota Tadao. My second *Sailor Moon* theatrical work.
 
-The cat Luna falls in love with a human man who helped her. Then Princess Snow Kaguya, queen of snow and ice who appeared with a comet approaching Earth for the first time in 4.5 billion years, attacks for Earth invasion. The man Luna loved was first to spot that comet... such a story.
+The cat Luna falls in love with a human man who helped her. Then Princess Snow Kaguya, queen of snow and ice who appeared with a comet approaching Earth for the first time in 4.5 milliards years, attacks for Earth invasion. The man Luna loved was first to spot that comet... such a story.
 
-This story was actually written specifically by original creator Takeuchi Naoko. An episode "written for the movie!" with the plan to serialize the same story in magazines timed with movie release.
+This story was actually written specifically by original creator Takeuchi Naoko. An episode "written for the movie!" with the plan to serialise the same story in magazines timed with movie release.
 
 As I wrote before, almost exactly the same time the previous year I'd participated in Director Ikuhara's *Sailor Moon R* movie. With absolutely no time, having to make it work no matter what, it was still a theatrical version we could create with great concentration and enjoyment.
 
-Then one year later. During this time I hadn't been openly involved with *Sailor Moon*, but I'll reveal this now—I was secretly participating in "new character" color design. Colors for Uranus and Neptune, especially their checkered uniform looks, were colors I provided. Then-CD Ikuhara-kun, Character Designer Ito Ikuko-san, and I would secretly paint cels in Oizumi Studio's painting room at night, making color samples for decisions.
+Then one year later. During this time I hadn't been openly involved with *Sailor Moon*, but I'll reveal this now—I was secretly participating in "new character" colour design. Colours for Uranus and Neptune, especially their chequered uniform looks, were colours I provided. Then-CD Ikuhara-kun, Character Designer Ito Ikuko-san, and I would secretly paint cels in Oizumi Studio's painting room at night, making colour samples for decisions.
 
 Oh, incidentally, regarding upgraded Sailor Moon—that wasn't me. I think it was predetermined. From Kodansha editorial or Bandai maybe? The design came as "Use this!"
 

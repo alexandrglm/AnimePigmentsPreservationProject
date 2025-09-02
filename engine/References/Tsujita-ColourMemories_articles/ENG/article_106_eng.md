@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 106: Somehow Escaped from the "Pirate Movie"!!
 
 Last week, I went to Kyoto for a bit. I walked endlessly along the Kamogawa riverbank, going upstream from Shijo all the way to Shimogamo Shrine. It was still a little too early for the autumn leaves, but I thoroughly enjoyed weekday Kyoto and the Kamogawa River. More than anything, it was just the right kind of stimulation for my heart and body, which were completely exhausted from the "pirate movie," and made for a good change of pace.
@@ -12,7 +12,6 @@ Come to think of it, the very first time I went to Kyoto was on a middle school 
 Thirty years have passed since then. I often think I'd like to take my time and visit each of those various places I went to back then, one by one.
 
 Unrelated to that, I'll probably be going to Kyoto again around next week (laugh). Oh, this time it's for location scouting.
-
 Now then.
 
 The "pirate movie"—*Strong World ONE PIECE FILM*—which had me trapped for so long, was finally completed last Wednesday. Preview screenings have already been held in various locations nationwide, and there are less than three weeks left until the nationwide release.

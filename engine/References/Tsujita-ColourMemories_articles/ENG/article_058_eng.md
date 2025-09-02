@@ -1,4 +1,4 @@
-# Color Design Notes [Tsujita Kunio]
+# Colour Design Memories, by Kunio Tsujita
 ## Episode 58: Once Upon a Time... (39) - Summer Vacation, "School Pool," and "Television Manga"
 
 The other day when I tried to buy tea from a vending machine, "Clank! Clink!" - the 100 yen coin I inserted came back to the change slot. "Maybe I didn't insert it properly?" I tried again. "Clank! Clink!" - it came back again.
@@ -18,7 +18,6 @@ It's kind of like humans.
 I wondered what experiences that worn "Showa 49" 100 yen coin had been through.
 
 I bought that vending machine tea with a still-young "Heisei 3" (1991) 100 yen coin (laugh).
-
 Well then.
 
 Next week, children and students will plunge into summer vacation.
@@ -29,9 +28,9 @@ During summer vacation, from late July through August, Tokyo's Channel 10 - NET 
 
 What did they show? American-made animations like *Wacky Races* (チキチキマシン猛レース), *King Kong*, *Tom Thumb*, and *Super 3*, plus reruns of *Magic User Sally* (魔法使いサリー) and *Pyun Pyun Maru* (ぴゅんぴゅん丸). I looked forward to it so much and watched voraciously.
 
-My elementary school summer vacation routine: first, wake up at 6 AM (be woken up (laugh)), go to radio exercises at the nearby middle school playground to get my stamp, eat breakfast, then be made to help with garden cleaning, then sit at my desk briefly to do summer homework arithmetic drills until "Television Manga" time. In the afternoon I'd run around the neighborhood chasing cicadas with a bug net, or ride my bicycle around aimlessly (laugh).
+My elementary school summer vacation routine: first, wake up at 6 AM (be woken up (laugh)), go to radio exercises at the nearby middle school playground to get my stamp, eat breakfast, then be made to help with garden cleaning, then sit at my desk briefly to do summer homework arithmetic drills until "Television Manga" time. In the afternoon I'd run around the neighbourhood chasing cicadas with a bug net, or ride my bicycle around aimlessly (laugh).
 
-And into this life came the troublesome thing called "school pool." Different days, morning or afternoon, schedules organized by grade level - it wasn't absolutely mandatory, but I almost always went (was made to go). Well, if you went, some friend would be there, and splashing around in the water was somewhat fun... but actually, I was quite bad at swimming (bitter laugh).
+And into this life came the troublesome thing called "school pool." Different days, morning or afternoon, schedules organised by grade level - it wasn't absolutely mandatory, but I almost always went (was made to go). Well, if you went, some friend would be there, and splashing around in the water was somewhat fun... but actually, I was quite bad at swimming (bitter laugh).
 
 So having to give up enjoyable "Television Manga" to go to "school pool" that I didn't even like much felt somehow unreasonable to a child's heart (bitter laugh). Oh dear (bitter laugh).
 
