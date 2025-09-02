@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 69: A Little Bit of Promotion! *Theatrical GeGeGe no Kitaro: Japan Explodes!!*
 
 "The sky is high, and I'm getting fat," autumn (crying).

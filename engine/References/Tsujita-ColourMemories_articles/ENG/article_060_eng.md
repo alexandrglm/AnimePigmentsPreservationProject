@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 60: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Part 2)
 
 Lately, Tokyo has been hit by heat and thunderstorms.
@@ -57,8 +56,6 @@ The *Finale* that had forced through "texture brushing for all cuts" was really 
 *Finale* reaches its end. Truly "Farewell! Golden Saints." ...Well, it's mostly standing around talking in front of "the wall" (bitter laugh). This bridges to *Elysion Chapter*.
 
 And here too, ace Ikki appears at the very end (laugh). He's truly got the best timing (laugh).
-
-***
 
 *Inferno Chapter* had various issues including "voice actor changes," but we managed to run through it somehow.
 

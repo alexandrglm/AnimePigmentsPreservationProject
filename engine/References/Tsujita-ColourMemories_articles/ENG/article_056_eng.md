@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 56: Once Upon a Time... (37) - The Story of 16mm and 35mm *Tenjou-hen Uchuu Kouji* Part 5
 
 The other day, there was one voicemail on my home phone.

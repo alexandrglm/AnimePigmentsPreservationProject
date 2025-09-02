@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 152: Long Ago... 91 1995 Part 11 The Original Creator's "Rules" in June
 
 My work room at home has become quite an electronic digital room with several computers and peripherals, broadband internet, home server, etc., but that server suddenly died. Rest in peace.

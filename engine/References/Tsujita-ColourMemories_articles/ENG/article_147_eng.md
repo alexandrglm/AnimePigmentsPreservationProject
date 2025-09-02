@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 147: Long Ago... 86 1995 Part 6 Somewhat Heavy April and May
 
 Every year, my biggest concern in December, or rather agony, is actually New Year's cards.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Embarrassingly Reaching 100 Episodes Somehow, Special Edition: "Back Then I Painted That"
 
 September has arrived. Only four months left this year. Don't you feel like time accelerates once summer passes? ...Wait, just me?

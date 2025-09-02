@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 44: One More Time About *Hakaba Kitaro* - Image Resolution Talk
 
 I somehow managed to get through the turbulent tax return process, and finally have some free time. This winter I was constantly busy with *Hakaba Kitaro*, so I kept putting off hot pot promises with friends and drinking party invitations, but now I'm going to do lots of that!

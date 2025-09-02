@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 182: *Mawaru Penguindrum* Colour Design Notes - Part 9
 
 The new TV series *Saint Seiya Omega* that started broadcasting April 1st. Between that work, an unannounced short work, and another short-length TV series, I'm getting completely swamped, which is partly why I'm falling behind on manuscripts again. Really sorry.

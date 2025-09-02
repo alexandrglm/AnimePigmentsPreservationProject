@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 203: Happy New Year - Promotional Special!
 
 colour Colour colour COLOUR

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 117: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 3) "SW" Main Feature Complete Scene Colour Design Notes! Part 2
 
 Yesterday marked exactly one year since I became freelance. Wow, that was fast (laugh). Still, it was quite a thrilling year. While I'd secretly (!) worked on various projects before, this was definitely a big difference.

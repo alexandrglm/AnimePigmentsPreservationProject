@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 171: Long Ago... 106 1995 Part 26 *The Path to Power's* Overthought(?) Colours
 
 Now September.

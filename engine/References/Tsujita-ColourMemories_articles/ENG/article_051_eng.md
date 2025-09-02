@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 51: Special Edition - One More Time Only! *Hakaba Kitaro* Colour Design Notes-Style Episode Commentary!
 
 Yesterday there was an interview for the booklet to be included in *Hakaba Kitaro* DVD volume 4. Following director Chioka and animation supervisor Yamamuro, it was a group interview with art director Kurahashi, CG director Morita, and myself. The interviewer was Haraguchi-san from "List Production Committee." Oh! I met him for the first time.

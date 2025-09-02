@@ -1,7 +1,6 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 82: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Colour Design Notes (Part 3)
 
-The **WBC** ***(World Baseball Classic)*** **is really exciting!** I'm also a huge baseball fan, so I can't help but be tremendously concerned about how the games turn out. Sports really should be enjoyed via live broadcast. Just knowing the results afterward is somehow unbearable for me.
+The **WBC *(World Baseball Classic)* is really exciting!** I'm also a huge baseball fan, so I can't help but be tremendously concerned about how the games turn out. Sports really should be enjoyed via live broadcast. Just knowing the results afterward is somehow unbearable for me.
 
 But unfortunately, the preliminary game times coincided with travel between studios, or working in environments without TV or radio. Meetings can't be helped, but during travel and such, couldn't something be done? Following game progress on mobile phone news sites is also not quite right...
 

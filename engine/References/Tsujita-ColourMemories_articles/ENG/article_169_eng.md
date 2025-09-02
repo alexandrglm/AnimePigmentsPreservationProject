@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 169: Summer Greetings and Current Status
 
 Summer greetings to you all. How are you spending these hot summer days?

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 174: *Mawaru Penguindrum* Colour Design Notes Part 1
 
 Happy New Year. I dropped manuscripts terribly last year - I apologise. That was all for *Mawaru Penguindrum*. Yes, *Mawaru Penguindrum*! Were you all watching?

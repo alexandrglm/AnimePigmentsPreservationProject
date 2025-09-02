@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 167: Long Ago... 104 1995 Part 24 Finally "The Path to Power," However...
 
 Well, *Mawaru Penguindrum* has finally begun broadcasting - have you all been watching? (grin)

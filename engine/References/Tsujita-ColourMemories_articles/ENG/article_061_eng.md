@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 61: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Final Part)
 
 Summer means ghost stories and scary tales, doesn't it? (laugh)
@@ -78,7 +77,6 @@ I thought Seiya and others' God Cloths and "Athena's Cloth" should have common e
 
 "Thanatos," "Hypnos," "God Cloths," and "Athena's Cloth." All the Surplices and Cloths appearing in Elysion Chapter are my absolute favourites (laugh).
 
-***
 
 *Hades Elysion Chapter* ended after a year and a half from production start, and the long-running *Saint Seiya* anime adaptation concluded with this. The "Saint Seiya team" was disbanded.
 

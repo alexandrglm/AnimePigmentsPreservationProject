@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 108: Once Upon a Time... (65) I Love Thinking About Girls' Clothing Colours! *Sailor Moon R* Movie
 
 Monday through Tuesday this week, I went to Kyoto again (which is why I missed my Tuesday deadline (sweat)). Self-funded location scouting to mentally prepare for a certain new project. Well, the previous trip was similar (laugh). This time the director also asked me to shoot video materials for the main production, so I went and struggled with an unfamiliar movie camera.

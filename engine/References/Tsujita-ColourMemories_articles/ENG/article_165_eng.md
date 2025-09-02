@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 165: Side Story: About Names
 
 My goodness. Sorry for taking such a long break from publication.

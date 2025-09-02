@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 83: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Colour Design Notes (Part 4)
 
 I somehow managed to complete *Casshern Sins* last Friday. Looking back on about a year and a half, it feels like it was over in a flash once finished... With that sense of accomplishment mixed with the physical damage from almost three straight days and nights of all-nighters during the final push, I've been rather "spacey" since last weekend.

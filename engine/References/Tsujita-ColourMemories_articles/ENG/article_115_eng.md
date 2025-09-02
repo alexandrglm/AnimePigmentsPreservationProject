@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 115: It's February Already But... New Year Special Edition - *Strong World ONE PIECE FILM* Notes (Final Part 1)
 
 Somehow, it's become February already!

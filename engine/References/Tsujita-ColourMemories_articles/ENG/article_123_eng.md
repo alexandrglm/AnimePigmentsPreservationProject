@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 123: Once Upon a Time... 71 - 1994 Part 5 - Zun Zun Jaka Jaka!
 
 Tokyo is early summer. Day after day of clear skies with refreshing air continues, and beer tastes good (laugh).

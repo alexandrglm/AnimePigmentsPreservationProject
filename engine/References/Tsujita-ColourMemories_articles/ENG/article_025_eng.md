@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 25: Once Upon a Time... (20) *Saint Seiya* Part 7 - Theatrical *Saint Seiya: The Heated Battle of the Gods* A Bit More, and Stories about Special Effects Staff**
 
 I took about 2 weeks off from the series, and during this time I couldn't escape to cool highlands for summer retreat (cries) - I've been spending incredibly busy days. In this brutal heat too...
@@ -12,7 +11,7 @@ This summer I've been sweating abnormally, no matter how many T-shirts I change 
 Such is the middle of lingering summer heat in Tokyo (bitter laugh).
 Well then.
 
-Let me write a bit more about theatrical ***Saint Seiya: The Heated Battle of the Gods***.
+Let me write a bit more about theatrical **"*Saint Seiya: The Heated Battle of the Gods*"**.
 
 There's a process called "special effects" in finishing work processes.
 
@@ -42,7 +41,7 @@ Also, since too many cel layers interfere with photography, sometimes effects mu
 
 And teamwork. Especially for big jobs like theatrical works, special effects staff divide up the work to finish piece by piece. True specialists.
 
-In this theatrical ***Saint Seiya: The Heated Battle of the Gods***, the climax scene where **Frey** stabs his sword into the **Odin** statue and massive collapse occurs in light was especially difficult. Flowing cut connections, beautiful powerful animation, colourful backgrounds, and photography that beautifully captured light and shadow. Cel colours and special effects that fit perfectly within that. It's my favourite scene.
+In this theatrical **"*Saint Seiya: The Heated Battle of the Gods*"**, the climax scene where **Frey** stabs his sword into the **Odin** statue and massive collapse occurs in light was especially difficult. Flowing cut connections, beautiful powerful animation, colourful backgrounds, and photography that beautifully captured light and shadow. Cel colours and special effects that fit perfectly within that. It's my favourite scene.
 
 However, here I made a big mistake.
 
@@ -54,6 +53,6 @@ During **saridashi** (compositing), **Yamauchi** director noticed. Naturally I w
 
 Incidentally, it's properly retaken in the main story, so now only I know about this (laughs).
 
-Every time I rewatch ***Saint Seiya: The Heated Battle of the Gods***, what I first remember is **Frey**'s sword's magnificent special effects and **Yamauchi** director's words.
+Every time I rewatch **"*Saint Seiya: The Heated Battle of the Gods*"**, what I first remember is **Frey**'s sword's magnificent special effects and **Yamauchi** director's words.
 
 *(07.08.21)*

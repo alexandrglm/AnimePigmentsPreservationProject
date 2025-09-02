@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 159: Long Ago... 97 1995 Part 17 Storm of Colour Samples and Copic is Divine! November and December
 
 Everyone! Have you finished your tax returns? This year's tax return is due March 14th! Last year I thought "ah, next year I'll ask a tax accountant!" but ultimately this year was also self-calculated & document preparation. "Ah, next year for sure..." Well, but I'll probably do it myself next year too... (distant look).

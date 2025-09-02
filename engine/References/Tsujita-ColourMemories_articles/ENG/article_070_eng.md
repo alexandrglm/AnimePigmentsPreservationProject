@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 70: Side Story - More Promotion! *Theatrical GeGeGe no Kitaro: Japan Explodes!!*
 
 November means "Tori no Ichi" (Rooster Market). This year there seem to be three rooster days.

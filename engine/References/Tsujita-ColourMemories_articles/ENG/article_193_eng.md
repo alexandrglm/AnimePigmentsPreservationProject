@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 193: Summer Vacation 2012
 
 When this manuscript is updated, it's probably around when everyone's Obon vacation is ending. Those who returned to their hometowns and such - man, good work! After the break, it's finally the feeling of this year's second half, right?

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 120: Once Upon a Time... (68) Continued: 1994
 
 It's April, and numerous new anime programmes are starting one after another, and among them are three lines of programmes I'm participating in.

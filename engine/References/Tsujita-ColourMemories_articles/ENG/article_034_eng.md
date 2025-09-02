@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 34: Once Upon a Time... (25) *Saint Seiya* Part 12 - And After 15 Years, "*Saint Seiya Hades Twelve Temples Arc*" Begins**
 
 Did you watch ***The File of Young Kindaichi SP*** that aired over two weeks? Behind that main broadcast, I attended the Anime Style *Mononoke* event.

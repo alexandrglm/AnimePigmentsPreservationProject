@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 77: Once Upon a Time... (48) - First, I Bought "Lonely Planet Fiji"
 
 The other day, I went to Seoul to meet some friends.

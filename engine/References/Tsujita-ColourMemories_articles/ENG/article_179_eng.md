@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 179: *Mawaru Penguindrum* Colour Design Notes - Part 6
 
 This month I've been interviewed in various places about *Mawaru Penguindrum* and *Saint Seiya*, doing interviews several times. Well, I apparently have a basically talkative disposition, so I end up speaking enthusiastically with abundant service spirit. Good grief (laugh).

@@ -1,18 +1,17 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 17: Once Upon a Time... (12) "Atatatatata..." "Bushu! Hidebu!"**
 
 **A CD I ordered online recently arrived - *Future Boy Conan Complete Music Collection*.**
 
 **When I told A-san, who helps with work, "The *Conan* music collection is great!" she gave me a puzzled look...**
 
-**"Eh? Tsujita-san listens to *Conan*? I mean, do you watch *Conan*?"**
-**"Eh? Not 'watching' but 'watched'..."**
-**"Hm? Hm?"**
+>   **"Eh? Tsujita-san listens to *Conan*? I mean, do you watch *Conan*?"**
+>   **"Eh? Not 'watching' but 'watched'..."**
+>   **"Hm? Hm?"**
 
-**The *Conan* she was referring to was *Detective Conan*!** Incidentally, she was born in 1982. Ah, *Future Boy Conan* was anime from before you were born (laughs). A slight generation gap over "*Conan*" (bitter laugh).
+The *Conan* she was referring to was **"*Detective Conan*"!** Incidentally, she was born in 1982. Ah, *Future Boy Conan* was anime from before you were born (laughs). A slight generation gap over "*Conan*" (bitter laugh).
 Well then.
 
-**1986 opened with the theatrical work *GeGeGe no Kitaro: Yokai Daisenso*** (actually, Toei Animation's website "Work Lineup" lists the release date as March 15, 1985, but this is a mistake for 1986), **but around the same production period, Toei Doga was working on another major theatrical work. The title was *Hokuto no Ken: Seikimatsu Kyuseishu Densetsu*.**  A new theatrical work for the same series that was serialised in "Weekly Shonen Jump" and had begun TV animation broadcast the previous fall, gaining considerable popularity.
+Well, **1986 opened with the theatrical work *"GeGeGe no Kitaro: Yokai Daisenso*"** (actually, Toei Animation's website "Work Lineup" lists the release date as March 15, 1985, but this is a mistake for 1986), **but around the same production period, Toei Doga was working on another major theatrical work. The title was *"Hokuto no Ken: Seikimatsu Kyuseishu Densetsu*".**  A new theatrical work for the same series that was serialised in "Weekly Shonen Jump" and had begun TV animation broadcast the previous fall, gaining considerable popularity.
 
 **Director: **Ashida Toyoo**, Direction: **Umezawa Atsutoshi**, Character Design/Animation Director: **Suda Masami**, Art Director: **Tanaka Sukeyuki**.** Colour direction had **Fujise-san**, who handled TV series colours, with **Tsukada-san** (*Slam Dunk*, *One Piece*) helping. Not just me but all Toei Doga inspection members at the time were drafted to help inspect this TP delivery.
 

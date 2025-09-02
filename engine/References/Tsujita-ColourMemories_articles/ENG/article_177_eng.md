@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 177: *Mawaru Penguindrum* Colour Design Notes - Part 4
 
 Various productions are moving toward spring at each company, and even someone like me has been invited to work on several April-start projects. One of them was announced the other day: *Saint Seiya Omega* (聖闘士星矢Ω). It's a completely new original TV series.

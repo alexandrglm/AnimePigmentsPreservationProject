@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 132: Once Upon a Time... 76 - 1994 Part 10 - *Sailor Moon S* Movie Colour Carbon Blues
 
 August arrived. Daily scorching heat in Tokyo. Aren't there fewer cicadas this year?

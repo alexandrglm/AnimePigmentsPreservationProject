@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 49: Once Upon a Time... (31) - *Vampire War*
 
 Early summer. It's hot.

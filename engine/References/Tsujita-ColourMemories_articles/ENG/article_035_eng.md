@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 35: Once Upon a Time... (26) *Saint Seiya* Part 13 - About the Final Episode of "*Saint Seiya Hades Twelve Temples Arc*"**
 
 The other day my ordered ***Ratatouille*** DVD arrived, so I immediately watched it with my wife on my home 37-inch "Kameyama Model."
@@ -16,9 +15,9 @@ Movies and anime are definitely more interesting when watched with someone.
 Oh, and delicious food too (laughs).
 Well then.
 
-The 13-episode ***Saint Seiya: Hades Twelve Temples Arc*** raised our staff's tension with each episode. Since Sky Perfect TV advanced broadcast preceded DVD release, completion and delivery had to match that advanced broadcast, making quite tight schedules from series latter half, especially after Episode 9. Still, once things got exciting, there was no turning back. Every episode continued with deliveries stubbornly holding out until the very limit.
+The 13-episode **"*Saint Seiya: Hades Twelve Temples Arc*"** raised our staff's tension with each episode. Since Sky Perfect TV advanced broadcast preceded DVD release, completion and delivery had to match that advanced broadcast, making quite tight schedules from series latter half, especially after Episode 9. Still, once things got exciting, there was no turning back. Every episode continued with deliveries stubbornly holding out until the very limit.
 
-For ***Saint Seiya: Hades Twelve Temples Arc***, I handled all colour design, colour direction input, and finishing delivery final checking for Episode 1, but from Episode 2 onward Sakuma Yoshiko-san (佐久間ヨシ子) took charge. For episodes with gross production requested from **Dangan Pictures**, Suzuki Rumiko-san (鈴城るみ子), who handled colour direction for **Lifework** production episodes during the old TV series, participated in finishing inspection and special effects. She added another spoonful of essence to my colour design to expand story volume.
+For **"*Saint Seiya: Hades Twelve Temples Arc*"**, I handled all colour design, colour direction input, and finishing delivery final checking for Episode 1, but from Episode 2 onward Sakuma Yoshiko-san (佐久間ヨシ子) took charge. For episodes with gross production requested from **Dangan Pictures**, Suzuki Rumiko-san (鈴城るみ子), who handled colour direction for **Lifework** production episodes during the old TV series, participated in finishing inspection and special effects. She added another spoonful of essence to my colour design to expand story volume.
 
 Colour design creates series or episode colour blueprints, but for each episode, colour direction and inspection are key.
 
@@ -48,7 +47,7 @@ But well, that's impossible (bitter laugh).
 
 I sent all cels to photography and repeated rush checking. Then, the last. I gave OK to Hades Castle collapse cuts and finished all cuts. Amazingly, it was the morning before broadcast.
 
-Thus ***Saint Seiya: Hades Twelve Temples Arc*** ended. Thanks to this work becoming a big DVD sales hit, afterwards theatrical ***Saint Seiya: Heaven Chapter Overture*** then ***Sanctuary Chapter*** and ***Elysion Chapter*** would be made, but well, those stories are for another time.
+Thus **"*Saint Seiya: Hades Twelve Temples Arc*"** ended. Thanks to this work becoming a big DVD sales hit, afterwards theatrical **"*Saint Seiya: Heaven Chapter Overture*"** then **"*Sanctuary Chapter*"** and **"*Elysion Chapter*"** would be made, but well, those stories are for another time.
 
 As an aside, Golden Week 2001, I went to Greece on my honeymoon. I spent time on Aegean Sea islands, and also visited a small island called Delos. This World Heritage island has temples, sculptures, and Roman-era ruins throughout. Just like the Sanctuary. Standing atop Mount Kinthos (キントス山) in the island's centre, looking down at the ruins spread below, I thought ah, maybe the scenery the Saints saw was like this too. A bit moving. Somehow I felt like bronze-coloured Saint Cloth boxes might be lying around there.
 

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 75: Once Upon a Time... (46) - My First Theatrical Feature Film Begins!
 
 The other day, I bought a pair of jeans...

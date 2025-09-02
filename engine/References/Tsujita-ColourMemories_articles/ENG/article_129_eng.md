@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ##  Episode 129: Sorry, Another Special Edition - *The Tatami Galaxy* Kyoto Local Post-Production Location Tour
 
 *The Tatami Galaxy*, which received great acclaim, has completed not only broadcast work but also all work on unreleased episodes for BD & DVD release. With a little time available, I'm taking a brief vacation. Ah, travel for the first time in a while. I'm in Kyoto bustling with the Gion Festival, camera in hand.

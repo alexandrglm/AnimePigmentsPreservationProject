@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 155: Long Ago... 93 1995 Part 13 Learning Macintosh Through Part-Time Work July-August
 
 Setsubun, then Risshun - spring has arrived on the calendar. These past few days in Tokyo, the air feels somewhat spring-like, and the cold has lost its temporary severity. The plum blossoms bloomed too. Ah, winter is ending.

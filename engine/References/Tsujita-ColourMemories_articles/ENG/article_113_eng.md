@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 113: New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Probably Middle Part)
 
 While last time we had "first snow fell!" in cold Tokyo, this week Tokyo is warm enough to make you think "Is this spring?" But well, another cold wave will probably return soon, so it's just a momentary "spring-like?" weather.

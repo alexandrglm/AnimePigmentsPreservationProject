@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 96: The Sea and Sky I Realised Through Solar Eclipse Broadcasting, and Once Upon a Time... (58) - *Coo: Far From Home*
 
 During the total solar eclipse on the 22nd, Tokyo's weather was completely overcast. I couldn't even see the partial eclipse with the naked eye. Unfortunately I was working, so I was glued to NHK General's eclipse broadcast on TV the whole time. Of course, digital terrestrial with HD LCD TV combination. Perfectly recorded on Blu-ray (laughs).

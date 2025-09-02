@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 173: *Mawaru Penguindrum* Complete! Watching the Final Episode in Theatres
 
 Amazingly, just a few more days until this year ends! Everyone, it's been a while - Tsujita here. Due to main work being extremely busy, I ended up taking over a month break from serialisation. Sorry.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 40: Once Again Setting Aside "Colour Direction" for a Bit to Talk About *Hakaba Kitaro*
 
 Uh, it's been 2 weeks? 3 weeks? since my last update (sweat).

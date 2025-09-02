@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 158: Long Ago... 96 1995 Part 16 Weekly Art Meetings! September and October
 
 Everyone! Have you finished your tax returns? This year's tax return deadline is March 14th! Last year I thought "ah, next year I'll ask a tax accountant!" but ultimately this year was also self-calculated & document preparation. "Ah, next year for sure..." Well, but I'll probably do it myself next year too... (distant look).

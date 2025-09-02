@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 81: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Colour Design Notes (Part 2)
 
 The other day, when I casually turned on the TV, there was a programmes about 50 years of news history for Fuji TV's 50th anniversary. In it, footage of the tsunami disaster at Okushiri Island was shown, and among the debris left after the tsunami receded, there was a family's photo album that had been destroyed and was all messed up.

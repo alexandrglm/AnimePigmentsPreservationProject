@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 22: Once Upon a Time... (17) *Saint Seiya* Part 4 - The Story of Babel's Flame**
 
 I injured my back last weekend. The pain didn't recede but spread throughout my shoulder and worsened considerably (cries). So I went to a nearby orthopaedic clinic.

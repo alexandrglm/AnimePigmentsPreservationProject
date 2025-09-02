@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 57: Once Upon a Time... (38) - Remembering and Thinking About *My Youth in Arcadia* Part-Time Job Story
 
 Sorry for taking a two-week break from serialisation. Various deadlines and other things in my main work kept me from having time to write manuscripts properly. Sorry to everyone who looks forward to this.

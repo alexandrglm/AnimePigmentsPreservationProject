@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 197: *Mawaru Penguindrum* Colour Design Notes - Part 22
 
 "Hot and cold until the equinox" - truly the old people said good things. The lingering summer heat has completely ended, and it's suddenly autumn these days. Summer has ended! For those lamenting this, no no you're wrong - autumn has finally begun!

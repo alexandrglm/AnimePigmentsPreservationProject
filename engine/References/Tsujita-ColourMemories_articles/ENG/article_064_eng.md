@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 64: Once Upon a Time... (41) - Theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*
 
 Before I knew it, it's September.

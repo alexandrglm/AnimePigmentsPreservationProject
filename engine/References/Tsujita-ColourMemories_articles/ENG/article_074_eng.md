@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 74: Happy New Year! New Year's Greetings and This Year's Aspirations
 
 Happy New Year.

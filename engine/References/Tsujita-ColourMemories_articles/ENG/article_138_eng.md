@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 138: Once Upon a Time... 82 - 1995 Part 2 - Pseudo-Digital? February
 
 "Heat and cold until the equinox"

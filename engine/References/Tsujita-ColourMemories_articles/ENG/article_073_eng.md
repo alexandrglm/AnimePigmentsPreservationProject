@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 73: Year-End Extra Edition - What I Thought After Going to Osaka
 
 Huh? (sweat)

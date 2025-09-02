@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 23: Once Upon a Time... (18) *Saint Seiya* Part 5 - Things I Was Taught, Things I Learnt Through Skin and Body**
 
 I'm moving. The apartment where I've lived with my wife for 7 years has become too cramped, so we're moving to a slightly larger place.
@@ -11,7 +10,7 @@ So before the actual move, I decided to carry as much luggage as possible to the
 
 By the way, while I'm writing these old *Saint Seiya* stories, new work information was officially announced:
 
-***Saint Seiya: Hades Elysion Chapter***
+**"*Saint Seiya: Hades Elysion Chapter*"**
 
 (http://www.toei-anim.co.jp/sp/seiya/). Actually, **Araki-san** and the *Hades Chapter* staff are currently in production for this winter's broadcast start (**SKY PerfecTV!**). Of course I'm participating too.
 
@@ -36,7 +35,7 @@ During this period, what was most educational was being scolded for my mistakes 
 
 Not just being taught hand-by-hand, but accumulating many experiences like this is absolutely necessary when young. I think it was fortunate that for me it was *Saint Seiya*.
 
-The popular *Saint Seiya* led to theatrical release. Production of the second theatrical work ***Saint Seiya: The Heated Battle of the Gods*** was decided. Unfortunately I couldn't participate in the first theatrical version, but this time I could participate properly. And Director: **Yamauchi Shigeyasu**.
+The popular *Saint Seiya* led to theatrical release. Production of the second theatrical work **"*Saint Seiya: The Heated Battle of the Gods*"** was decided. Unfortunately I couldn't participate in the first theatrical version, but this time I could participate properly. And Director: **Yamauchi Shigeyasu**.
 
 Here comes Yamauchi-san!
 

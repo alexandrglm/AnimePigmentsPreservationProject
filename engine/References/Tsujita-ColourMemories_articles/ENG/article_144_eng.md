@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 144: Long Ago... 83 1995 Part 3 Shocking March (First Half) Return to Manila
 
 This autumn, we've had a succession of obituaries for people who captivated us during our boyhood and youth and had no small influence on us, and recently even news of the accidental death of *Space Battleship Yamato's* Producer Nishizaki... What is this? I'm filled with such lonely feelings.

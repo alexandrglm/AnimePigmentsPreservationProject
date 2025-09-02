@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 125: Once Upon a Time... 72 - 1994 Part 6 - Meeting! What Were the Results?
 
 The asteroid probe "Hayabusa" is coming home! Ever since hearing that news, I'd been sending encouragement to Hayabusa flying alone through the solar system toward Earth.

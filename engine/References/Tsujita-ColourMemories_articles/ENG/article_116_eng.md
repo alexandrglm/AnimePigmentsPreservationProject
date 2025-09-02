@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 116: It's March Already But... New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Final Part 2) "SW" Main Feature Complete Scene Colour Design Notes! Part 1
 
 Aaaaaah! March (sob). I was so busy I kept missing deadlines, and February ended before I knew it. Sorry! > All concerned parties

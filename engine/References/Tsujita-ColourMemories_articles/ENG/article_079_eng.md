@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 79: Once Upon a Time... (50) - JMSDF Yokosuka Base Destroyer Location Scouting Chronicles!
 
 Right now I'm working on the new programmes *Marie & Gali* (マリー＆ガリー) starting in April (or more precisely, broadcasting from March 31st).

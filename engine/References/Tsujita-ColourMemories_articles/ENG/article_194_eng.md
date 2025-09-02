@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 194: *Mawaru Penguindrum* Colour Design Notes - Part 19
 
 The so-called Obon vacation is over, the earth was subtly saved again this year by "24-Hour TV," and ah, the feeling that summer is finally ending is becoming palpable. The days have gotten shorter too... At night you can hear autumn insect sounds here and there... but ah no no, cicadas are still energetic in Tokyo's Nakano (laugh). During this last weekend of August as I write this, around my house they're still having grand choruses day after day - or rather night after night.

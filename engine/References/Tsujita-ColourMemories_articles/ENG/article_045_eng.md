@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 45: Sorry! Currently in Rehabilitation...
 
 The other day, I changed my mobile phone model. It's the 705i series! Finally—or rather, at last—I'm now a FOMA person (← so late).

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 20: Once Upon a Time... (15) *Saint Seiya* Part 2 - Episode 1, and OP & ED Stories**
 
 **Last Saturday night, I got an email on my cell phone from a female acquaintance (25, single). From Narita Airport no less!** "I thought the excitement before my first overseas trip departure could only be conveyed now, so I'm emailing." Ah, that's right. That day was her very first overseas trip ever.
@@ -12,7 +11,7 @@
 **I want to go out somewhere by maybe next month...** Ah, maybe impossible. Then, then at least in autumn... (distant stare).
 Well then.
 
-***Saint Seiya* Episode 1. Script: **Koyama Takao**, Storyboard & Direction: **Morishita Kozo**, Animation Director: **Araki Shingo**, Art Director: **Kubota Tadao**.**
+**"*Saint Seiya* Episode 1"**. Script: **Koyama Takao**, Storyboard & Direction: **Morishita Kozo**, Animation Director: **Araki Shingo**, Art Director: **Kubota Tadao**.**
 
 **Toei Doga's TV series finishing system at this time assigned one "inspection" member as the person in charge of each work, but usually they only handled programmes startup and later-appearing "main treatment" character colouring settings (so-called "colour direction sheets"), with per-episode colour direction requested from production companies handling that episode's finishing.**
 

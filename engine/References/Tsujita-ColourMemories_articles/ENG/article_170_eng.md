@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 170: Emergency Investigation! Are Directors Popular?
 
 The days called intense heat and extreme heat have become distant, settling into quite bearable temperature days. Our house neighbours a park, and the cicadas' voices that had been noisily crying from sunrise to midnight have gradually decreased, replaced by gentle cricket and autumn insect voices.

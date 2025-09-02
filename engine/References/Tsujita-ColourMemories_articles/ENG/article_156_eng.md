@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 156: Long Ago... 94 1995 Part 14 Persistence by the Colour Copier in August
 
 Today as I write this manuscript is February 11th, National Foundation Day, and amazingly, Tokyo is getting heavy snow! Last week I wrote "couldn't it snow and accumulate properly just once?" and amazingly, it's actually snowing! Oh, the weather god must have read my previous writing (laugh).

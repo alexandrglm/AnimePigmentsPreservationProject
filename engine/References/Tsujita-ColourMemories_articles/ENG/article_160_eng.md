@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 160: Long Ago... 99 1995 Part 18 Sailor Moon SuperS Movie (sweat) in September
 
 The March 11th earthquake and accompanying tsunami have devastated eastern Japan, particularly the Tohoku region.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 29: Special Episode - Theatrical *CLANNAD* Release Commemoration - Stories with Director Dezaki Part 2**
 
 For certain reasons, I've been intensively watching *The File of Young Kindaichi (金田一少年の事件簿)* DVDs lately. The anime version (laughs). A work I previously did colour design and colour direction for. I helped with the recently released DVD-BOX packaging work, and through that connection I forcibly got the DVD-BOX! (Sorry)

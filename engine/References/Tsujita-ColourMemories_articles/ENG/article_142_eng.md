@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 142: *The Tatami Galaxy* Colour Design Notes Volume 3
 
 There's a cat that has semi-permanently settled in a park near our house. Nicknamed "Char Cat." It's neither red nor three times faster than normal. It's called "Char Cat" because whenever you try to pet it, it always threatens with "Char~" (laugh). But then it'll meow "nya~n" in a cute voice.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 1: What are Colour Design and Colour Direction?**
 
 **Nice to meet you.** My name is **Tsujita Kunio (辻田邦夫)**. I work in **colour design** and **colour direction**.

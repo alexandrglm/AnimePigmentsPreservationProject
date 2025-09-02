@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 95: Extra Edition - Summer Has Come!
 
 The Kantou-Koushin'etsu region made its rainy season ending declaration at the beginning of this week. The Tokyo area has been producing consecutive midsummer days in the low thirties celsius.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 66: Once Upon a Time... (43) - Racing Through the Studio at 5 AM! Theatrical *Dragon Ball Z: Clash! The 10 Billion Power Warriors*
 
 There are no bananas.

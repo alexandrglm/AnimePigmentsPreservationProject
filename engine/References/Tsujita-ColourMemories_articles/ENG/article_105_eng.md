@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 105: Escaping from the Pirates!!
 
 Lately I've been eating "Cup Noodle" for late-night meals. Actually I don't really like cup noodles and rarely eat them unless it's really necessary, but "Cup Noodle" is different. I've been with it for 30 years now. Since middle school, late-night snacks meant "Cup Noodle." Still taking care of me now.

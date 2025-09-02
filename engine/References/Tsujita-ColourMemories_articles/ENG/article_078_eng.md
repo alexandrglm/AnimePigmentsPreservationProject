@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 78: Once Upon a Time... (49) - Location Scouting!
 
 Lately I've been approached by young people in the industry at various places saying things like "I'm reading your Anime Style series!" or "I'm watching *Casshern*!"

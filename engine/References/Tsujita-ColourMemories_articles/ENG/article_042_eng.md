@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 42: Connected Through Mizuki Shigeru Originals - Remembering *Akuma-kun*
 
 I'm working hard not to miss my manuscript deadline this week! (explosion)

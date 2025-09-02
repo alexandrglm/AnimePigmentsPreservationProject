@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 153: Side Story: A Cold Sufferer's Delusions
 
 Today is Monday, January 24, 2011. I finally caught my first cold of this winter (cry).

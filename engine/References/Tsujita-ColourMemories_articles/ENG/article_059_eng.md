@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 59: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Part 1)
 
 Sorry, I took another two-week break, but I'm back starting this week.
@@ -72,8 +71,6 @@ And Hades with "Shun's face." On the production floor he was called "Hades-Shun"
 When one Gold Saint enters the screen, it tightens up perfectly. And when facing the purplish-grey Rhadamanthys and other three Inferno Judges, they stand out even more (laugh).
 
 And finally the ace appears - Ikki! (laugh) While all five Bronze Saints' auras are photography processing, Phoenix Ikki's orange aura stands out most beautifully on screen among the five. Somehow he looks strongest and best (laugh).
-
-***
 
 The full 6 episodes that we should have approached with plenty of leeway - the final two were still somewhat, or rather considerably, tight scheduling. Even so, *Inferno Chapter* got started somehow. After finishing *Prelude*, there was much to consider, and I began preparing homework for what came next.
 

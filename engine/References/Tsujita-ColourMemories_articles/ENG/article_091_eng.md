@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 91: Once Upon a Time... (54) - *COO* Above Water, Below Water
 
 Two weeks' absence (sweat).

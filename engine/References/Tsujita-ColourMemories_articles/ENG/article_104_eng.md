@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 104: Captured by Pirates!!
 
 Autumn has fully arrived, with mornings and evenings getting quite chilly. Simultaneously, extreme dryness... My nose and throat wake up parched and dry, and while I'm not catching a cold, I'm troubled by nasally wake-up voice...

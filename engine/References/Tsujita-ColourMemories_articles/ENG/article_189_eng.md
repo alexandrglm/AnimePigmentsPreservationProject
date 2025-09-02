@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 189: *Mawaru Penguindrum* Colour Design Notes - Part 16
 
 Congratulations! Magazine "Anime Style 001."

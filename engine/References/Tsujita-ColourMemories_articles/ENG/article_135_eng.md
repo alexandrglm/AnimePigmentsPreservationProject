@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 135: Once Upon a Time... 79 - 1994 Part 13 - What! A Religious Organisation's OVA *Warriors of Erosion*
 
 I went to Hong Kong at summer's end. I go to Hong Kong for fun fairly regularly, but this was my first time during such obviously hot midsummer season. I went quite prepared, but huh? Totally fine somehow. Rather, cool?

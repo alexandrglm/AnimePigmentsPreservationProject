@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 72: Another Extra Edition! About *Casshern Sins*
 
 Actually, today (December 9th), there's the staff first screening of *GeGeGe no Kitaro the Movie: Japan Explodes!!* in the screening room at Toei Studios (東映撮影所) Oizumi Studio. And I'm writing this manuscript during the break until that first screening, and during the break until the wrap party (sweat).

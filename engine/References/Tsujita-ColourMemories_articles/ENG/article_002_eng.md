@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 2: Once Upon a Time... (1)**
 
 **January is already half over.** During the year-end and New Year holidays, there were various movies I wanted to see, but I only managed to go see "The Inugami Family" (cries). I guess I'll have to work hard with DVD rentals (bitter laugh).

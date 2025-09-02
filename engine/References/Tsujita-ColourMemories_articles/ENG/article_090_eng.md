@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 90: Golden Week Extra Edition - *Tomorrow's Nadja* Memory City and That Person's City from *Doremi* (laughs)
 
 Golden Week is over. Once it ended, it immediately got hot (tears). The humidity especially...

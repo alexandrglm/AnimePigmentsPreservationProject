@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 50: Once Upon a Time... (32) - Pentel Name Pens Going "Shuko Shuko!" *Crying Freeman* Appears!
 
 How did everyone spend Golden Week? I was all about zoos! (laugh)

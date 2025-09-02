@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 19: Once Upon a Time... (14) *Saint Seiya* Part 1 - Conversation with Kubota-san**
 
 **Last weekend was such intense summer sunshine that I wondered "Huh? Did the rainy season end?" So I went stargazing in the Okuchichibu mountains with friends from my high school astronomy club.** We met at JR Mitaka Station in the evening and drove west on the Chuo Expressway, chasing the sunset.

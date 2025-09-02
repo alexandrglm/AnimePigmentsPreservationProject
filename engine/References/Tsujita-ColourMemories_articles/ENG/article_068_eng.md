@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 68: Once Upon a Time... (45) - *Dragon Ball Z: Extreme Battle! The Three Great Super Saiyans* and Final Days with My Mother
 
 Recently my wife has been troubled by nightmares. When I asked, it's apparently dreams about me getting involved with some new religion and not coming home.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 55: Once Upon a Time... (36) - Do Rising Spirits Soar Through the Heavens? *Tenjou-hen Uchuu Kouji* Part 4
 
 The other day, I ended up making a "click" purchase. A pretty expensive purchase at that. Oh, not a computer. A camera. A digital camera. I bought another one.

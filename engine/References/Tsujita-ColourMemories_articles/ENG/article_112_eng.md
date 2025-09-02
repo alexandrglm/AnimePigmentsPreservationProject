@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 112: New Year Special Edition - *STRONG WORLD ONE PIECE FILM* Notes (Middle Part... Actually Part 1 Part 2)
 
 Yesterday in Tokyo, we had the first snow of winter dancing down. First snow. In Oizumi it started snowing around noon and was coming down nicely for a while, but unfortunately it quickly turned to rain.

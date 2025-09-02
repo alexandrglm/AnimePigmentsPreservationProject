@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 185: *Mawaru Penguindrum* Colour Design Notes - Part 12
 
 Recently, I've finally (finally!) started paying attention to my weight, and I'm properly getting on the scale every morning. This morning as I write this it's 81.2 kilogrammemes. I've gained a bit lately. Plus 1 kilogramme, perhaps due to that Chinese food banquet the other day. Come to think of it, last month when I had yakiniku three days in one week, I was surprised when I suddenly gained 2-3 kilogrammemes (laugh). But somehow I'm keeping it under 80 kilogrammemes.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 166: About Apple-Branded Equipment
 
 I missed my manuscript deadline again (sweat). I'm sorry.

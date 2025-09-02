@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 27: Special Episode - My Personal Best Theatrical Anime This Summer**
 
 This series has actually exceeded 26 episodes. In TV terms, that's 2 cours! Though I've taken breaks occasionally, man, this is wonderful. I'm amazed at myself (laughs).

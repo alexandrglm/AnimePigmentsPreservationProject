@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 176: *Mawaru Penguindrum* (輪るピングドラム) Colour Design Notes - Part 3
 
 Last week, I was caught in unexpected snow in Kyushu's Mount Aso, and this week it snowed in Tokyo! Man, snow! For a Tokyo native like me, this snow just makes me unreservedly happy. Sure, there are concerns about frozen roads the next morning and impacts on transportation, but well, that's that. I mean, it's an event that happens maybe once or twice a winter! (laugh) Let's just enjoy it with a big heart!

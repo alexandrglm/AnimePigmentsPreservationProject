@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 37: New Year Special - Pre-Broadcast Special! *Hakaba Kitaro* Starts This Week!
 
 A new year has arrived. How did everyone spend New Year's?

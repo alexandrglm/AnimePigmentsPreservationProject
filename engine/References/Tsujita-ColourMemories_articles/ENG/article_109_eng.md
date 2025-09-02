@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 109: Once Upon a Time... (66) *Sailor Moon R* Movie
 ...Oh, and About *Space Battleship Yamato: Resurrection*
 

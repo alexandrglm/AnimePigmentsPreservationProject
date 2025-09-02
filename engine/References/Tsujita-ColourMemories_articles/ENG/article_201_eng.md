@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 201: About *Revolutionary Girl Utena* - Part 3
 Now then.
 

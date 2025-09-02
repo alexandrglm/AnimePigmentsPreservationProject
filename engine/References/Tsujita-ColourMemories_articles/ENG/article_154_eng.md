@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 154: Long Ago... 92 1995 Part 12 My First Mac Experience in July
 
 Last week I magnificently caught a cold, and the morning after writing my manuscript, my wife and I went to the neighbourhood doctor. Eh? Together? That's right! Actually, my wife suddenly developed a fever at night too, so we ended up going together as a couple.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 139: *The Tatami Galaxy* Colour Design Notes Volume 0
 
 Last week, for preparation of a certain work, several of us including a certain director went to a remote island in Kyushu. Plane → car → ferry connections for a little over 4 hours. Writing it like this makes it seem relatively close, but this was quite something...

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 52: Once Upon a Time... (33) - *Tenjou-hen Uchuu Kouji* Starts
 
 A typhoon is approaching!

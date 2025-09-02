@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 11: Once Upon a Time... (8) The Treacherous Small Bottles**
 
 **After returning from Seoul, Tokyo has gotten cold somehow.**

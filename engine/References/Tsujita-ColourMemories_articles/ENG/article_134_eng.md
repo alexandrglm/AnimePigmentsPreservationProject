@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 134: Once Upon a Time... 78 - 1994 Part 12 - *Sailor Moon S* Movie: Even More Colour Carbon Blues
 
 I went to Kyoto again.

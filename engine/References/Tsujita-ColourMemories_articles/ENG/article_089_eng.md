@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 89: Once Upon a Time... (53) - The Story of Creating Colours That Convince Viewers with a Limited Number of Available Colours
 
 The world is in Golden Week. I myself am actually in Italy. My fifth visit to Italy in five years, and I'm immediately hit with heavy rain day and night... Hmm, someone's conspiracy?

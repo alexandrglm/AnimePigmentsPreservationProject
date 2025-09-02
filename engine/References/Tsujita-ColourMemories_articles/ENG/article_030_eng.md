@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 30: Once Upon a Time... (22) *Saint Seiya* Part 9 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Storyboard Art and Meeting Legend**
 
 I recently bought a big TV. A 37-inch full-spec high-definition LCD. The "Kameyama Model (亀山モデル)" they call it. Watching MLB broadcasts, binge-watching foreign dramas on cable TV, watching movies on DVD. Man, I'd been wanting something like this for so long (laughs).
@@ -14,11 +13,11 @@ Well then.
 
 Resuming long-neglected *Saint Seiya* stories (laughs).
 
-After spring vacation 1988's theatrical ***Saint Seiya: The Heated Battle of the Gods*** ended, until summer vacation August 1988's theatrical ***Saint Seiya: Legend of Crimson Youth*** was about 4 months.
+After spring vacation 1988's theatrical **"*Saint Seiya: Legend of Crimson Youth*"** ended, until summer vacation August 1988's theatrical **"*Saint Seiya: Legend of Crimson Youth*"** was about 4 months.
 
 Even already starting storyboard work, making a 70-minute movie was a somewhat (quite?) tight schedule. But well, the director and we staff had firmly grasped something like confidence from *The Heated Battle of the Gods*, so mood-wise we were fully motivated.
 
-***Saint Seiya: Legend of Crimson Youth*** was located on the 2nd floor of Oizumi Studio's new building. The newest wing at that time of Oizumi Studio, which consisted of patchwork additions, was the "new building" - the 1st floor had "collaborative work" staff rooms, and the 2nd floor had several staff rooms for video works like *Shonan Bakusozoku (湘南爆走族)* and *Crying Freeman*. Our ***Saint Seiya: Legend of Crimson Youth*** was also tucked into one of those small spaces (incidentally, that area on the 2nd floor of the new building is now photography rooms and the colour design room where I am).
+**"*Saint Seiya: Legend of Crimson Youth*"** was located on the 2nd floor of Oizumi Studio's new building. The newest wing at that time of Oizumi Studio, which consisted of patchwork additions, was the "new building" - the 1st floor had "collaborative work" staff rooms, and the 2nd floor had several staff rooms for video works like *Shonan Bakusozoku (湘南爆走族)* and *Crying Freeman*. Our **"*Saint Seiya: Legend of Crimson Youth*"** was also tucked into one of those small spaces (incidentally, that area on the 2nd floor of the new building is now photography rooms and the colour design room where I am).
 
 In the staff room, Director Yamauchi (山内) sat firmly in the very back, with the assistant director's seat next to him. Back-to-back was production progress A-san's (female) seat. Plus about two spare seats. Just a small room like that. Animation Director Araki (荒木) worked at Araki Pro (荒木プロ), so no seat in the staff room. Art and I each worked at our own seats within the studio, so no seats in the staff room.
 

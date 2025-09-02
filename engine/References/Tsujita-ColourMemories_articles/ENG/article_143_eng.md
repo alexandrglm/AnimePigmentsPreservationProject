@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 143: *The Tatami Galaxy* Colour Design Notes Volume 4 (Final Volume)
 
 The other day, the professional baseball draft was held, and promising young people were each selected by various teams. Previously, I used to think the draft "violates freedom of career choice," but recently my thinking has changed somewhat - actually, isn't it like hoping to join a big company called "Professional Baseball" and being assigned to one of 12 branch offices called "teams"? After all, these days students submit "job applications" saying "I'm going pro!"

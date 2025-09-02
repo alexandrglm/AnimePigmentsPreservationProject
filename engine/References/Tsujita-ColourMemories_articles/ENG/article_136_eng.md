@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 136: Once Upon a Time... 80 - Into the Turbulent Year 1995: Again From *Dragon Ball Z* Movie
 
 As a child, I loved doing fireworks with my family in our yard on summer evenings. When I was a child, fireworks were sold individually at nearby shopping districts. Now various types of fireworks are bundled into packages sold at supermarkets and toy stores, but back then—what kind of shops were they? In summer, shops would display fireworks out front for sale. Ones that made flames go whoosh, ones that crackled and sparked with light. Since we did fireworks in a garden small as a cat's forehead, we didn't choose big elaborate ones like those you launch, but I'd still excitedly select extremely modest handheld fireworks and have mother buy them.

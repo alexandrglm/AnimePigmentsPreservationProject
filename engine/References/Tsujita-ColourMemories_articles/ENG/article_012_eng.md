@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 12: Special Episode... Adventures Around Windows and Family Registers**
 
 **It's been a while.**

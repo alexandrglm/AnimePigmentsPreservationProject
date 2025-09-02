@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 54: Once Upon a Time... (35) - Hospitalisation! Surgery! That Led to My First "Colour Design"! *Tenjou-hen Uchuu Kouji* Part 3
 
 Last weekend there was the 17th memorial service for my mother, and I wore a suit for the first time in ages. Oh, formal wear (ceremonial clothes) could be called a suit too (bitter laugh). I wore formal wear in April, but a regular suit (← confusing) was really over a year ago. I was a bit anxious about my body type, but thankfully that was fine (laugh).

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 18: Once Upon a Time... (13) *Jem* and "Brown Carbon"**
 
 **I took 10 days vacation. Not travelling anywhere, just living normal daily life in Tokyo, cleaning up the house and surroundings, repairing broken appliances.**
@@ -18,9 +17,7 @@ Well then.
 
 **This work features a **BAND** of four girls named "**Jem**," "**Shana**," "**Kimber**," and "**Aja**" (though they're about 20?) as protagonists.** They tour worldwide performing, getting into predicaments through various interference from rival band led by "**Pizzazz**," but somehow get through it every time (laughs).
 
-**I was assigned to handle this work.**
-
-**Well, ultimately, from Episode 4 onward, all colour-related work would be handed over completely to subcontracting production companies, but those initial 3 episodes were tough again.** Being a girls' band story, naturally there were 2-3 costume changes per episode. Naturally around the eyes were sharp eyeliner and eyeshadow. All naturally colour trace. And what was most difficult - this work was a "**brown carbon**" work.
+**I was assigned to handle this work.Well, ultimately, from Episode 4 onward, all colour-related work would be handed over completely to subcontracting production companies, but those initial 3 episodes were tough again.** Being a girls' band story, naturally there were 2-3 costume changes per episode. Naturally around the eyes were sharp eyeliner and eyeshadow. All naturally colour trace. And what was most difficult - this work was a "**brown carbon**" work.
 
 **Back then, we used "trace machines" to transfer in-between animation to cels.** The mechanism was almost the same as "**Print Gocco**." Line drawings (in-between animation) drawn on paper were heat-transferred to cels from the back side using special carbon paper. This carbon was actually troublesome.
 
@@ -46,6 +43,6 @@ Well then.
 
 **Due to such circumstances, changing main line colours was quite risky back then.** With current digital painting, changing main line colours to create works is normal (laughs). This *Jem* would probably become something interesting if remade with today's technology.
 
-**Now, amid such "collaborative work" days, I was assigned a new work. A domestic work - and a TV series!** Saturday night 7 PM golden time broadcast! The character sheets and storyboard cover handed to me had the large title ***Saint Seiya*** written on it.
+**Now, amid such "collaborative work" days, I was assigned a new work. A domestic work - and a TV series!** Saturday night 7 PM golden time broadcast! The character sheets and storyboard cover handed to me had the large title **"*Saint Seiya*"** written on it.
 
 *(07.06.12)*

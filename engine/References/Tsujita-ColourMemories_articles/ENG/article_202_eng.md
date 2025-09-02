@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 202: About *Revolutionary Girl Utena* - Part 4
 
 Currently in the midst of an intense crunch for *Wake Up, Girls!*, and three members from the real Wake Up, Girls! came to the production site for coverage. Real idols! They were going around the studio having photos taken for some purpose. Eventually they visited my colour design room too, and were getting excited looking at the WUG colour samples displayed on the monitor!

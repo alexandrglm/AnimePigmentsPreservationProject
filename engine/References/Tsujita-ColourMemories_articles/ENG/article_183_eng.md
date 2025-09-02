@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 183: *Mawaru Penguindrum* Colour Design Notes - Part 10
 
 Sorry for the wait! Resuming!

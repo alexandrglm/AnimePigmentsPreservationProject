@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 36: Once Upon a Time... (27) - The Long Battle Over "Colour Direction" Credits, Part 1
 
 The mornings and evenings have gotten quite cold, and even Tokyo's autumn leaves have finally settled down. The trees in the park in front of my house have completely shed their leaves over the past few days, taking on a distinctly winter appearance.

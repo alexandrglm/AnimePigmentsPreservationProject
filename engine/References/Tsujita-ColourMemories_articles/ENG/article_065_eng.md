@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 65: Once Upon a Time... (42) - "R-2" Is Purple - The Trap (bitter laugh)
 
 Before I knew it, it's October (sweat).

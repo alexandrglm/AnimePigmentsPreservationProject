@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 31: Once Upon a Time... (23) *Saint Seiya* Part 10 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Preview Cuts and "Light, Shadow, and Colour"**
 
 Last weekend I mowed the lawn at my parents' house. Since my father passed away in spring, including his illness period, it was the first lawn mowing in about a year. Oh man, it had grown completely wild - more like "grass cutting" than "lawn mowing."
@@ -12,7 +11,7 @@ Well, the battery dying after cutting about half the lawn was predictable (laugh
 And getting muscle soreness the next day was also predictable (laughs).
 Well then.
 
-After successfully finishing colour direction meetings for theatrical ***Saint Seiya: Legend of Crimson Youth***, main episode cuts finally came to me. First, the preview edition advance batch.
+After successfully finishing colour direction meetings for theatrical **"*Saint Seiya: Legend of Crimson Youth*"**, main episode cuts finally came to me. First, the preview edition advance batch.
 
 Toei Doga's theatrical work method doesn't wait for complete storyboards - as soon as storyboards finish, animation meetings proceed and orders go to key animators. So what comes up first are the initial cuts that finished animation meetings early. Well, for initial previews, there's no need to use climax cuts - rather, main story introduction "atmosphere" cuts are stacked for previews. This time too, we made previews centreed on opening scenes of Abel (アベル) and Gold Saints appearing. Incidentally, back then preview cut selection and direction were assistant director jobs. Now they often just hand materials to preview editing companies from the start.
 
@@ -36,7 +35,7 @@ The basic thinking was "the light and shadow colours of that space naturally app
 
 So first we match character brightness to the necessary spatial brightness, then pick up spatial (background) colour tones and add them to character colours. The degree here is crucial. If brightness and colour tones exactly match the background, characters assimilate with backgrounds and necessary acting becomes invisible. If we thought truly realistically, especially on starlit nights, cels and backgrounds assimilating would look correct, but that wouldn't work as screen composition. Conversely, if characters are too strong, acting becomes hollow and disappointing.
 
-How much to match, how much to show. The degree of "making character presence and acting stand out" depends on work tendencies, but this ***Saint Seiya: Legend of Crimson Youth*** became my first work in a sense for determining that "degree."
+How much to match, how much to show. The degree of "making character presence and acting stand out" depends on work tendencies, but this **"*Saint Seiya: Legend of Crimson Youth*"** became my first work in a sense for determining that "degree."
 
 This remains my theme today.
 

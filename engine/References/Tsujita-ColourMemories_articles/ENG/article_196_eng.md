@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 196: *Mawaru Penguindrum* Colour Design Notes - Part 21
 
 September has brought various jobs into full swing all at once. TV series *Saint Seiya Omega* has reached the halfway point and is at the turning point. The climax of the 2nd cour ending and the launch of new developments from the 3rd cour are clashing. And the latest theatrical work *One Piece Film Z*, opening nationwide December 15th, is also sprinting furiously toward completion at the end of October, accelerating all at once.

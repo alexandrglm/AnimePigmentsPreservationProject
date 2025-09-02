@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 191: *Mawaru Penguindrum* Colour Design Notes - Part 18
 
 The newly redesigned Web Anime Style. One day Oguro-san said "We'd like to add a cover illustration to this column." "Hmm, should I draw pictures like other writers? Ah, but that's somehow different for me (laugh)." So I thought about it a bit and submitted a rough idea saying "How about something like this?" The designer skillfully put it together into that cover illustration.

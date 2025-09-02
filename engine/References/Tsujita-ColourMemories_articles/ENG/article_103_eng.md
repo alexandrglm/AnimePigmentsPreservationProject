@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 103: Once Upon a Time... (63) - Release Date Crisis! *Pretty Soldier Sailor Moon R The Movie*
 
 This week brought typhoons, but were everyone's towns and lives okay?

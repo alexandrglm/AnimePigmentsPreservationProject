@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 62: Once Upon a Time... (40) - The Beginning of Days with Theatrical *Dragon Ball Z*
 
 The Beijing Olympics have begun.

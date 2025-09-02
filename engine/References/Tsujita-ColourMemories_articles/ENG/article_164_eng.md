@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 164: Long Ago... 103 1995 Part 22 *Dragon Quest VI* Item Colour Direction Into the New Year!? December
 
 The cat "Mao" homestaying at our house due to various circumstances from my wife's family home - thanks to that, his stomach condition improved and he's in perfect form. He eats even more than before.

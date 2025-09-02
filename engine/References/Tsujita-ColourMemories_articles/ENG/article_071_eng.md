@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 71: Extra Edition - Finally Complete! *GeGeGe no Kitaro the Movie: Japan Explodes!!*
 
 How many floors up do you use the elevator?

@@ -1,13 +1,12 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 32: Once Upon a Time... (24) *Saint Seiya* Part 11 - Theatrical *Saint Seiya: Legend of Crimson Youth* - Completion and Setback**
 
-***Hatarakids: Maiham-gumi*** started October 7th at 6:30 AM on TV Asahi. Episode 1's viewership was 3.3%! Man, considering it's a 6:30 AM show, that's quite a number.
+**Hey!, *Hatarakids: Maiham-gumi* started October 7th at 6:30 AM on TV Asahi**. Episode 1's viewership was 3.3%! Man, considering it's a 6:30 AM show, that's quite a number.
 
 So for further viewership increases, I contacted and promoted to several friends with small children... but got sad reactions like "Let me sleep on Sunday mornings (cries)" and "Let me sleep at least until *PreCure* at 8:30 (angry)" (cries). Ah, everyone's having a tough time (bitter laugh).
 
-Still, I want lots of families with small children to watch ***Hatarakids: Maiham-gumi***. Look, you don't have to get up - just record it! (laughs) From November 2nd, nationwide broadcast on BS Asahi starts too. That one's at 6 PM!
+Still, I want lots of families with small children to watch **"*Hatarakids: Maiham-gumi*"**. Look, you don't have to get up - just record it! (laughs) From November 2nd, nationwide broadcast on BS Asahi starts too. That one's at 6 PM!
 
-Everyone please support ***Hatarakids: Maiham-gumi***!
+Everyone please support **"*Hatarakids: Maiham-gumi*"**!
 Well then.
 
 Though it's now normal to add colour direction to key animation for overseas animation/finishing orders, back then adding colour direction to in-between animation was still more common. Especially for theatrical works. "Since it's theatrical, we must make it carefully and properly." The studio was still full of that spirit. I was happy that internal tracing and painting staff especially had such feelings.
@@ -24,7 +23,7 @@ However, such care was possible during preview creation, the initial schedule pe
 
 Still, main story colour direction work was enjoyable. Especially the "rematches" between Seiya and other Bronze Saints and Gold Saints! Though each duration was short, I could handle battles I couldn't directly colour-direct during the TV series with new theatrical animation. Every time I held key animation or in-between animation and flipped through them, I was constantly excited. Facing good animation, key animation, or in-between animation, your spine goes "sharp" and your mind tightens. Such enjoyable tense days.
 
-Around the same time, another company was producing a major theatrical work in full swing. ***AKIRA***. Since it was notable work industry-wide in various ways, various stories about *AKIRA*'s production situation leaked into our staff room. Originally longer than *Saint Seiya*, it seemed quite difficult in various ways.
+Around the same time, another company was producing a major theatrical work in full swing. **"*AKIRA*"**. Since it was notable work industry-wide in various ways, various stories about *AKIRA*'s production situation leaked into our staff room. Originally longer than *Saint Seiya*, it seemed quite difficult in various ways.
 
 Hearing such stories, our situation was also getting quite tough. Well, only the director maintained his usual pace, sitting firmly.
 
@@ -32,7 +31,7 @@ However, I'd fallen into a bad situation myself. A summer cold I caught once at 
 
 Ultimately I couldn't check final cel deliveries. Though I could attend final checking, the retake replacement work limit had already passed, leaving several disappointing retakes. The biggest failure cut among them was one made for previews. The cut where Saori-san's skirt colour was changed to blue somehow wasn't replaced when the master was assembled.
 
-Thus ended the days of theatrical ***Saint Seiya: Legend of Crimson Youth***. After that, by company orders I had one month of forced rest. Perhaps due to my "criminal record" of crashing during theatrical production, I was removed from staff for the 4th theatrical *Saint Seiya* released the following spring, and TV series *Saint Seiya* also changed production systems, so for the 2nd season "Asgard Arc (アスガルド編)" and 3rd season "Poseidon Arc (ポセイドン編)," my work returned to only main-related character colour direction.
+Thus ended the days of theatrical **"*Saint Seiya: Legend of Crimson Youth*"**. After that, by company orders I had one month of forced rest. Perhaps due to my "criminal record" of crashing during theatrical production, I was removed from staff for the 4th theatrical *Saint Seiya* released the following spring, and TV series *Saint Seiya* also changed production systems, so for the 2nd season "Asgard Arc (アスガルド編)" and 3rd season "Poseidon Arc (ポセイドン編)," my work returned to only main-related character colour direction.
 
 (Just between us, I'm not convinced about Athena (アテナ) in theatrical work #4. Athena would never cry like that, and you shouldn't make Athena cry like that. That's impossible (laughs))
 

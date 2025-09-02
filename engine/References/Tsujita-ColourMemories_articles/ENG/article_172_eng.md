@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 172: "This Got Me Into the Industry!" Stories
 
 Somehow, I'm sorry (sweat). What was supposed to be weekly serialisation has become monthly serialisation. I apologise. Moreover, this is another somewhat standalone column breaking the flow.

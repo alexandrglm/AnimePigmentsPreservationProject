@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 126: About *NOX*
 
 The rainy season has arrived, and I'm suffering from the daily mugginess. The most challenging season of the year has come.

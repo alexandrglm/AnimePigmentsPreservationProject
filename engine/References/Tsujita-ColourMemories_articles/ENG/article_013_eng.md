@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 13: Once Upon a Time... (9) Strip Colour Charts and Paint Maniacs**
 
 **It's supposedly Golden Week (GW) in society.** If you take the right days off, this year's GW could be 9 consecutive days - how are you all spending it? (laughs)

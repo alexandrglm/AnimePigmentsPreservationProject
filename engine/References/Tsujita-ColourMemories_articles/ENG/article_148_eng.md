@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 148: Long Ago... 87 1995 Part 7 *Dragon Ball Z's* End in June
 
 Have you all seen it yet? The movie "SPACE BATTLESHIP Yamato." I couldn't stand it anymore and eagerly went to see it on the second day of release.

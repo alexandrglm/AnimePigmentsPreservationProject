@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 14: GW Memorial... Japanese Anime Protagonists Speaking Foreign Languages**
 
 **Golden Week (GW) - how did everyone spend it?**
@@ -8,7 +7,6 @@
 **Maybe because of that fatigue (← wrong), I completely mixed up the day of the week and totally missed yesterday's update deadline! (cries)** So sorry (sweat).
 Well then.
 
----
 
 **I think many people spent GW overseas, but did any of you watch anime during your travels?** Japanese-made anime, specifically.
 

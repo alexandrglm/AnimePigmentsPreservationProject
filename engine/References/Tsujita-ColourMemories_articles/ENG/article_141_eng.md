@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 141: *The Tatami Galaxy* Colour Design Notes Volume 2
 
 I've started going to a new studio this month for the first time to prepare for a certain TV series. The equipment is already set up and we're waiting for work to begin in earnest.

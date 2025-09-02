@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 149: Long Ago... 88 1995 Part 8 Birth of First TV "Colour Design" at Toei in April
 
 Breaking news! There are only 10 days left this year! (big sweat)

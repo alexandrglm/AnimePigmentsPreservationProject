@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 97: Once Upon a Time... (59) - *COO* The Darkness of Southern Island Nights is...
 
 It's August! August. Soon it'll be "late summer greetings," but how is everyone doing?

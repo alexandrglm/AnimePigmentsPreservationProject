@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 84: DVD & Blu-Ray Release Commemorative! *Casshern Sins* Colour Design Notes (Part 5 and 1/2)
 
 From last week through this week, the WBC (World Baseball Classic) has been at the centre of my life - everything in my day was decided according to game broadcast times. I ended up skipping preview screenings and having meeting times shifted, so my apologies > To all concerned parties

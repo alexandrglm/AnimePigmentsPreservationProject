@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 87: Once Upon a Time... (51) Creating Colours! *COO*'s Special New Paint Colours Appear!
 
 Since last weekend, a friend has been travelling overseas - she went to New York! Before her departure, I was helping her with travel arrangements, camera matters, various Manhattan things, and wow, how convenient! Long live the Internet!

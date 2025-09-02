@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 150: Long Ago... 89 1995 Part 9 Meeting the Original Creator in April
 
 Everyone, Happy New Year!

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 38: Once Upon a Time... (28) - The Long Battle Over "Colour Direction" Credits, Part 2
 
 Did you catch *Hakaba Kitaro*, which started broadcasting last week?

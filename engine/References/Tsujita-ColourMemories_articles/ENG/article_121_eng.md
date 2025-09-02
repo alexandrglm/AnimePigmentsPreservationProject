@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 121: Once Upon a Time... 69 - 1994 Part 3 - Celebration! Overseas! The First Step
 
 Tokyo is cold! It's April! What's with this cold weather!

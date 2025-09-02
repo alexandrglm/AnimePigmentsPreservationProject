@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 88: Once Upon a Time... (52) - Colours Created! The Secret of BG-2A, BG-3A, and CR-1A, CR-2A
 
 From last week through this week, there was a big move in the colour design room at Toei Animation's (東映アニメーション) Oizumi Studio. Since I became freelance, the room was divided into a room for freelance people and others. And with that came the big move. And personal organisation, major cleanup.

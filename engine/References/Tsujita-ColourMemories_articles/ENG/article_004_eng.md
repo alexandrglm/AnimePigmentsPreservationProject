@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 4: Once Upon a Time... (3) My First Colour Direction Was "Collaborative Work"**
 
 **Last weekend, through an acquaintance's connections, I attended a seminar on "Colour Space in Digital Cinema."** The content was quite specialised - how the expression range of "colour" in digital video changes with the digitisation of movie screenings and the high-definition improvement of video works accompanying TV HD conversion, etc.   

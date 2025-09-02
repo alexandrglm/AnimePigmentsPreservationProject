@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 92: Once Upon a Time... (55) - *COO* What to Do About Shallow Waters? Flickering Light
 
 The *Coo: Far From Home* memories I'm continuing to ramble about - actually, this work still hasn't been released on DVD. When it was originally released, Laserdisc (!) and VHS video were released during their heyday, but it still hasn't reached DVD release.

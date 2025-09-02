@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 93: Once Upon a Time... (56) - *COO* How to Make Colour Direction Sheets Part 1
 
 The other day I received the Blu-ray version of *GeGeGe no Kitaro the Movie: Japan Explodes!!* and watched it at home immediately.

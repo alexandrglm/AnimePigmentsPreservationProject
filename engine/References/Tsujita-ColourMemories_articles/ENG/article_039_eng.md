@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 39: Setting Aside "Colour Direction" for a Bit to Talk About *Hakaba Kitaro*
 
 Man, Tokyo's been having cold days that really feel like the depths of winter.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 46: For Some Reason This Week Is About "Lip Sync" Instead of "Colour"
 
 Tokyo is in full cherry blossom bloom. Last week they reached full bloom all at once, and even in the park near my house, flower viewing parties continue from morning till morning (!) without pause (laugh). When I pass by the side of the park, the air smells of beer (bitter laugh).

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 200: About *Revolutionary Girl Utena* - Part 2
 
 With November's arrival, several of my jobs for next year have been cleared for information release.

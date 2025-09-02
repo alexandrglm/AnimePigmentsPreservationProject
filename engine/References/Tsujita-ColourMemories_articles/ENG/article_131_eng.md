@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 131: Once Upon a Time... 75 - 1994 Part 9 - *Sailor Moon S* Movie Bank Cut Blues
 
 Yes yes, it's summer vacation for elementary, middle, and high school students. Well, aside from exam students, I hope children who aren't can spend a summer playing around like little pigs and having various experiences. Oh, but no bad behaviour! (laugh)

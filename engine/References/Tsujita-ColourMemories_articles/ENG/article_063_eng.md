@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 63: Actually, I'm Currently Struggling with *Dragon Ball* (sweat)
 
 The Beijing Olympics have ended (bitter laugh).

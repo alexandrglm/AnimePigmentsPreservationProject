@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 26: Once Upon a Time... (21) *Saint Seiya* Part 8 - Getting Fired Up in the "Twelve Temples Arc"**
 
 The hot summer has finally started to show signs of waning, but man, it's still hot in this final week of August.

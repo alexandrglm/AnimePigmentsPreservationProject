@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 86: Excuse Me Extra Edition - *Casshern Sins* Flashback and New Programmes
 
 In Tokyo, the cherry blossoms have passed their peak, and petals are fluttering in the refreshing wind like a blizzard. How is everyone doing?

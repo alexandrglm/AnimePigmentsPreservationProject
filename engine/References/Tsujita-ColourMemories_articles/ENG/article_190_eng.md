@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 190: *Mawaru Penguindrum* Colour Design Notes - Part 17
 
 "♪London, London, your London~" Huh? There used to be a commercial like that, right? It somehow stuck in my ear so I ended up writing it, but what commercial was that exactly? (sweat) National? Tokyo local? Hmm...

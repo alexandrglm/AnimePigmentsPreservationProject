@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 94: Once Upon a Time... (57) - *COO* How to Make Colour Direction Sheets Part 2
 
 This year Tokyo also seems to be having a "dry rainy season." Every morning, weather forecasts often predict "it's going to rain! it's going to rain!" but in reality it's often just "sprinkling" and "drizzling" before stopping.

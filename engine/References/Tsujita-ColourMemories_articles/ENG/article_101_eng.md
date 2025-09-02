@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 101: Autumn New Programmes Introduction! Special Edition - Please Support *Ghost Stories Restaurant*!
 
 Last Sunday I returned to my parents' house in Sayama City and did quite a bit of searching through my room's storage. And wow, various things came out.

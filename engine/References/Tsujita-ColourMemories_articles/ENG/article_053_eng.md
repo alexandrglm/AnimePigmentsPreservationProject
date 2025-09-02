@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 53: Once Upon a Time... (34) - A Vivid World of Gods! *Tenjou-hen Uchuu Kouji* Part 2
 
 Last week I went to three concerts. Man, this was definitely a first (laugh). When things pile up, they really pile up (laugh).

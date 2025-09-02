@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 43: Almost the End! *Hakaba Kitaro* - Stories of Tokyo from My Early Childhood
 
 Spring in March. March means the annual JR schedule revision!

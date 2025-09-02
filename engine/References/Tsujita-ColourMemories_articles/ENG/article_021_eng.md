@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 21: Once Upon a Time... (16) *Saint Seiya* Part 3 - Steel Saints**
 
 **Last weekend, my beloved laptop PowerBook G4 wouldn't start up.** The cause was hard disc failure. A year and a half after purchase. Considering usage frequency, ah, from experience it's about time for problems to occur (cries).
@@ -14,7 +13,7 @@
 **So everyone, please back up important data frequently (cries).**
 Well then.
 
-***Saint Seiya* that somehow got started.**
+**"*Saint Seiya*" that somehow got started.**
 
 **I don't remember watching Episode 1 during the original broadcast.** Like Morishita-san's comment after that Episode 1 first screening, I honestly didn't think it would become such a hit either. Also, actually, due to staff error, my name wasn't included in Episode 1's end credits.
 

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 175: *Mawaru Penguindrum* Colour Design Notes Part 2
 
 I'm in Kyushu. Research and location hunting for a certain new work. Nagasaki, Kumamoto, and today Kagoshima. So this manuscript is being finished at a certain location in front of Kagoshima Station while getting coffee refills.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 7: Surely *Space Battleship Yamato* Was the Beginning**
 
 **Due to my work, our house was piled with VHS videotapes.** Various programmes recordings from TV, work reference footage, even white boxes (completed video dubbed to VHS tapes for staff use). They were all necessary, but they just took up space and were bothersome. In recent years, DVD recorders appeared on the market, and our house dutifully purchased one. We converted all the VHS tapes to DVD at once. We were able to clear them out beautifully.

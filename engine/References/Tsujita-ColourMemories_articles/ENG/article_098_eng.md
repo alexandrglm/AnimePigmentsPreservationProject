@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 98: Once Upon a Time... (60) - *COO* The Warship Stage
 
 After saying "Summer!" it's already passed the traditional Tanabata and even crossed "Beginning of Autumn."

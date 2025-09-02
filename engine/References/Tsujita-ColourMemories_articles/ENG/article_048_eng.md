@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 48: Once Upon a Time... (30) - Things That Haven't Changed Since Then *Hana no Asuka-gumi! 2: Lonely Cats Battle Royal*
 
 Mid-April has passed, and the shadow of Golden Week is starting to appear. In the midst of the "Golden Week scheduling" where various departments will be properly closed during the holidays, this week is a delivery rush for magazine-related work, DVD jacket work, and various copyright materials.

@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 28: Special Episode - Theatrical *CLANNAD* Release Commemoration - Stories with Director Dezaki**
 Well then.
 

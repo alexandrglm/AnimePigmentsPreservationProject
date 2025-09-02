@@ -1,18 +1,17 @@
-# Colour Design Memories, by Kunio Tsujita
 ## **Episode 33: Special Episode - *The File of Young Kindaichi SP* Broadcast Commemoration - How to Make Hajime-chan's Colours**
 
 It's been a while (sweat).
 
-I took two weeks off from the series due to busyness from ***The File of Young Kindaichi*** and other work rushes, then last week I caught a terrible cold and was half-dead. Oh man... (sweat).
+I took two weeks off from the series due to busyness from **"*The File of Young Kindaichi*"** and other work rushes, then last week I caught a terrible cold and was half-dead. Oh man... (sweat).
 
-Actually, I caught this cold at an exorcism for ***Hakaba Kitaro (墓場鬼太郎)***. It's being called the "Hakaba cold" in some circles (cries). Plus it spread to several *Kindaichi* finishing staff around me, so it's being called the "Kindaichi cold" in some circles (cries).
+Actually, I caught this cold at an exorcism for **"*Hakaba Kitaro (墓場鬼太郎)*"**. It's being called the "Hakaba cold" in some circles (cries). Plus it spread to several *Kindaichi* finishing staff around me, so it's being called the "Kindaichi cold" in some circles (cries).
 
 Anyway, this cold entering its third week, but thankfully I can see the end approaching. Ah, when things settle down I want to go to a hot spring...
 
 When will things settle down? How many days? For better or worse, I'm packed with work until April next year (wails).
 Well then.
 
-***The File of Young Kindaichi*** returned after about 7 years. We made two new titles: "Opera House: The Last Murder" and "Vampire Legend Murder Case." Broadcast over two weeks this week and next. First, "Opera House: The Last Murder" aired on the 12th. Did everyone watch it?
+**"*The File of Young Kindaichi*"** returned after about 7 years. We made two new titles: "Opera House: The Last Murder" and "Vampire Legend Murder Case." Broadcast over two weeks this week and next. First, "Opera House: The Last Murder" aired on the 12th. Did everyone watch it?
 
 "Opera House: The Last Murder": Script by Shimada Mitsuru (島田満), Character Design & Animation Direction by Takeda Yoshihiro (竹田欣弘), Art Direction by Akiyama Kentaro (秋山健太郎), Direction by Ito Naoyuki (伊藤尚往).
 
@@ -20,7 +19,7 @@ Well then.
 
 *Kindaichi* after 7 years.
 
-Looking back, when ***The File of Young Kindaichi*** began, it was still analogue production with cel + film. Then from Episode 45 "Black Death Butterfly Murder Case" File 2, it suddenly switched to digital production. From then on, we got through by gradually correcting basic colour direction data for each episode. So for me, *Kindaichi* was precious training in digital colouring and digital colour design. New works of such a *Kindaichi*. I couldn't help getting excited (laughs).
+Looking back, when **"*The File of Young Kindaichi*"** began, it was still analogue production with cel + film. Then from Episode 45 "Black Death Butterfly Murder Case" File 2, it suddenly switched to digital production. From then on, we got through by gradually correcting basic colour direction data for each episode. So for me, *Kindaichi* was precious training in digital colouring and digital colour design. New works of such a *Kindaichi*. I couldn't help getting excited (laughs).
 
 The producer's request to me was "Don't significantly change main character impressions from the previous *Kindaichi*." *Kindaichi* has been broadcast for a long time and reruns continue on various stations. The established image must be inherited as-is.
 
@@ -66,8 +65,8 @@ Adding to scene colour design designed this way, I apply arrangements cut by cut
 
 Additionally, both works this time had Ota Sunao-kun's (太田直) Toei Animation special effects team working hard. Character eye gradations and gradient brush shadows added to character shadows are mostly the special effects team's handwork. While Toei works normally can't add elaborate special effects to TV productions, they worked hard as if releasing daily frustrations (laughs).
 
-Such slightly luxurious effort went into ***The File of Young Kindaichi SP*** (laughs).
+Such slightly luxurious effort went into **"*The File of Young Kindaichi SP*"** (laughs).
 
-The other day, talking with Directors Ito-kun and Uda-kun, we laughed that Inspector Kenmochi is probably about our actual age now. Ito-kun, Uda-kun, and I are roughly the same age. So we thought, "Ah, we're 'old men' too now" (laughs). Though we're such "old men," we'd like to do ***The File of Young Kindaichi*** again.
+The other day, talking with Directors Ito-kun and Uda-kun, we laughed that Inspector Kenmochi is probably about our actual age now. Ito-kun, Uda-kun, and I are roughly the same age. So we thought, "Ah, we're 'old men' too now" (laughs). Though we're such "old men," we'd like to do **"*The File of Young Kindaichi*"** again.
 
 *(07.11.13)*

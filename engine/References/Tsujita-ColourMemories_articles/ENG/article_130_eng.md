@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 130: Once Upon a Time... 74 - 1994 Part 8 - *Sailor Moon S* Movie Blues
 
 I've returned to morning-person lifestyle recently.

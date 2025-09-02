@@ -1,4 +1,3 @@
-# Colour Design Memories, by Kunio Tsujita
 ## Episode 145: Long Ago... 84 1995 Part 4 Shocking March (Middle) What Awaited Us in Seoul...
 
 In about two more weeks, the live-action "Space Battleship Yamato" - that is, "SPACE BATTLESHIP Yamato" - will be released. Man, I'm getting excited about it!
