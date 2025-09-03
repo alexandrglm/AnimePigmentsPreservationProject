@@ -7,7 +7,6 @@
 **So I'm starting again.**
 Well then.
 
----
 
 **Suddenly, but actually I'm still not quite back to normal, so this time is a special episode (bitter laugh).** Moreover, it's not about anime at all... (sweat).
 

@@ -11,8 +11,6 @@
 **...But when exactly is "next time I go overseas"? (bitter laugh)**
 Well then.
 
----
-
 **About paints. Did you know? Paints are "perishable goods."**
 
 **I have no idea what raw materials are actually used, but cel paints would grow mould and rot.** STAC paints especially were thoroughly "perishable goods."

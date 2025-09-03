@@ -9,8 +9,6 @@
 **Once you get a new digital camera, it's natural to want to try it out (bitter laugh).** ...I wonder if I'll go somewhere camera in hand during the latter half of the holidays?
 Well then.
 
----
-
 **When it comes to essential items for colour direction in the paint era, it was definitely the strip colour chart.**
 
 **In industries dealing with colour - publishing, printing, and others - they almost always use "colour samples," right?** For example, when choosing wallpaper at home centres or even for paint, there are strip-shaped sample bundles at sales floors so you can compare colour differences up close. Similarly, cel paints had strip-shaped colour sample charts.
