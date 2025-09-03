@@ -1,10 +1,8 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 193: Summer Vacation 2012
 
 When this manuscript is updated, it's probably around when everyone's Obon vacation is ending. Those who returned to their hometowns and such - man, good work! After the break, it's finally the feeling of this year's second half, right?
 
-Continuing from last week, this week is also a summer vacation special. "*Mawaru Penguindrum* Color Design Notes" is taking a break (laugh).
-
+Continuing from last week, this week is also a summer vacation special. "*Mawaru Penguindrum* Colour Design Notes" is taking a break (laugh).
 Now then.
 
 Do you know the Former Iwasaki Residence in Tokyo's Ueno?
@@ -19,7 +17,7 @@ So on a recent Sunday, I invited my wife and went to see it despite the heat.
 
 Taking one step inside the Western building, man, it was magnificently another world! It's somehow frustratingly hard to express well, but you're overwhelmed by the minute, detailed decorative design. Not just saying "Rich!" but somehow the social status, the fundamental baseline of value is completely different dimension in everything. And while gorgeous, a gentle atmosphere. I time-tripped briefly, thinking of the gorgeous bygone era when this building was actually used.
 
-Due to my profession, what concerned me was naturally "light" and "brightness (darkness)." Rather than placing lighting everywhere to make it brightly illuminated like modern Japanese buildings, the brightness creation relying on natural light caught my attention. Spatial expressions that change depending on how you take light, what kind of color direction could show characters in such places, and so on. The color design of individual decorations and overall room spaces was magnificent, but such color design exists because of this harmony between natural light and artificial lighting - that kind of balance, I kept convincing myself (laugh).
+Due to my profession, what concerned me was naturally "light" and "brightness (darkness)." Rather than placing lighting everywhere to make it brightly illuminated like modern Japanese buildings, the brightness creation relying on natural light caught my attention. Spatial expressions that change depending on how you take light, what kind of colour direction could show characters in such places, and so on. The colour design of individual decorations and overall room spaces was magnificent, but such colour design exists because of this harmony between natural light and artificial lighting - that kind of balance, I kept convincing myself (laugh).
 
 Man, this kind of place has images that don't really expand from reference photos!
 
@@ -27,9 +25,9 @@ And the route went from Western to Japanese building. The connected Western and 
 
 Man, wonderful. I could experience something wonderful. It was fun! Ah, I should have come earlier!
 
-While thinking such things, savoring the feeling of wind passing through the lawn garden, my brief summer vacation ended (laugh).
+While thinking such things, savouring the feeling of wind passing through the lawn garden, my brief summer vacation ended (laugh).
 
-When you're completely immersed in TV series schedules, honestly you can't take consolidated breaks whether it's Obon or whatever. Because there's broadcast every week, and you deliver one episode every week. Individual episode staff might be able to rest once they finish their assignments, but when you're at the center of the production site and in a role where you must look at all episodes, it's quite impossible. Moving schedules forward so you can rest during Obon... such situations collapsed years ago in our anime industry (wry laugh). So last year and this year, my summer vacation and Obon break have been essentially zero.
+When you're completely immersed in TV series schedules, honestly you can't take consolidated breaks whether it's Obon or whatever. Because there's broadcast every week, and you deliver one episode every week. Individual episode staff might be able to rest once they finish their assignments, but when you're at the centre of the production site and in a role where you must look at all episodes, it's quite impossible. Moving schedules forward so you can rest during Obon... such situations collapsed years ago in our anime industry (wry laugh). So last year and this year, my summer vacation and Obon break have been essentially zero.
 
 So this kind of small mood change, new knowledge experience, is wonderful summer vacation that can soften my feelings.
 

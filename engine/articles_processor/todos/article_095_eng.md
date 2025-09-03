@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 95: Extra Edition - Summer Has Come!
 
 The Kantou-Koushin'etsu region made its rainy season ending declaration at the beginning of this week. The Tokyo area has been producing consecutive midsummer days in the low thirties celsius.
@@ -8,7 +7,6 @@ Whew~, it's here! Summer!
 When it comes to summer, it's anime movie season! (←stated definitively!)
 
 So, postponing numerous urgent jobs to make time (sorry > everyone involved), I went to see this summer's two hot topic works! *Evangelion: 2.0 You Can (Not) Advance* and *Summer Wars*. Both were works that stirred my creator's heart and anime artisan's soul.
-
 Now then.
 
 First, *Evangelion: 2.0 You Can (Not) Advance*.
@@ -21,7 +19,7 @@ And I ended up watching that too, but while watching, what I thought was that it
 
 The various visual expressions that were innovative at the time were innovative by those standards, but partly because we've seen them too much, when you watch them again, in a sense they've become the standard for this type of visuals in today's era. So they still feel "old."
 
-And the original works were still cel & film analog production screens. While you can certainly see digital touches here and there, they were overwhelmingly creating "digital feel" with analog technology. That was really at full capacity, hence the "limitations."
+And the original works were still cel & film analogue production screens. While you can certainly see digital touches here and there, they were overwhelmingly creating "digital feel" with analogue technology. That was really at full capacity, hence the "limitations."
 
 So when you ask, what should we create and show now, again? If you just brush up the visuals and effects, just tracing the same things and doing the same things would be meaningless. The first movie in the new series, *1.0*, was literally the "introduction," so in a sense it needed to be "the same," but I thought this second one would be where the *Evangelion* series truly shows what it's made of.
 
@@ -37,7 +35,7 @@ The people who came to watch are mostly all coming thinking they "understand" it
 
 Anyway, the sheer volume, overwhelming screen density, the sharp editing that keeps pounding without pause. It was two hours that passed in a flash. And I want to see the "next" one soon (laughs).
 
-The CG usage and photography have become even more exquisite. The color design supporting that must have been incredibly difficult. These kinds of works must be rewarding but would be impossible for me (laughs). I'm just full of praise.
+The CG usage and photography have become even more exquisite. The colour design supporting that must have been incredibly difficult. These kinds of works must be rewarding but would be impossible for me (laughs). I'm just full of praise.
 
 And then there's *Summer Wars*.
 

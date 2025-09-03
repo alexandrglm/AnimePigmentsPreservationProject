@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## **Episode 27: Special Episode - My Personal Best Theatrical Anime This Summer**
 
 This series has actually exceeded 26 episodes. In TV terms, that's 2 cours! Though I've taken breaks occasionally, man, this is wonderful. I'm amazed at myself (laughs).
@@ -6,7 +5,6 @@ This series has actually exceeded 26 episodes. In TV terms, that's 2 cours! Thou
 So this week I'm setting aside the *Saint Seiya: Legend of Crimson Youth (真紅の少年伝説)* story for a "special episode" - before I forget, let me talk about the anime movies I saw this summer.
 
 Lots of anime movies were released this summer. I saw three: *Ratatouille*, *Vexille*, and *Summer Days with Coo (河童のクゥと夏休み)*. Ah, I really wanted to see many more, but finding time to go...
-
 Well then.
 
 First, *Ratatouille*.
@@ -33,7 +31,7 @@ However, what felt subtle was the matching between "story" and "technique."
 
 This movie is about "humans" and "androids," but both androids and human characters are the same cel-shaded CG on screen. The more realistically gestures and movements were done, the less convincing it felt when those characters spoke about "humanity." Like wanting to yell at the screen "But you're CG!" If it had been regular 2D hand-drawn animation, there wouldn't have been such discomfort. "Maybe this is the difficult part of CG movies?" - that's my impression.
 
-Whether *Ratatouille* or *Vexille*, 3DCG work colors must be difficult. Lighting completely changes how things look. But it's probably fun too, though it looks tough (bitter laugh). If I get a chance someday, I'd definitely like to try it.
+Whether *Ratatouille* or *Vexille*, 3DCG work colours must be difficult. Lighting completely changes how things look. But it's probably fun too, though it looks tough (bitter laugh). If I get a chance someday, I'd definitely like to try it.
 
 And *Summer Days with Coo*.
 

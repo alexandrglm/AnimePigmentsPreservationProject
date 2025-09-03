@@ -1,15 +1,13 @@
-# Color Design Notes [Tsujita Kunio]
-## Episode 194: *Mawaru Penguindrum* Color Design Notes - Part 19
+## Episode 194: *Mawaru Penguindrum* Colour Design Notes - Part 19
 
 The so-called Obon vacation is over, the earth was subtly saved again this year by "24-Hour TV," and ah, the feeling that summer is finally ending is becoming palpable. The days have gotten shorter too... At night you can hear autumn insect sounds here and there... but ah no no, cicadas are still energetic in Tokyo's Nakano (laugh). During this last weekend of August as I write this, around my house they're still having grand choruses day after day - or rather night after night.
 
 Those guys seem to conserve energy by staying quiet in tree shade during the intensely hot daytime hours, start crying around evening when the sun sets, and it's "showtime!" after midnight when temperatures drop (laugh). Such is this still swelteringly hot end of summer. But you know, even these cicadas' summer is almost over. In less than a month we'll reach the autumn equinox - such is summer's end.
 
 Oh! Are students doing summer homework assignments around now? (laugh)
-
 Now then.
 
-**Episode 16: The Immortal Man** Storyboard/Ikuhara Kunihiko, Kaneko Shingo & Furukawa Tomohiro, Direction/Kaneko Shingo, Color Direction/Otsuka Natsuko
+**Episode 16: The Immortal Man** Storyboard/Ikuhara Kunihiko, Kaneko Shingo & Furukawa Tomohiro, Direction/Kaneko Shingo, Colour Direction/Otsuka Natsuko
 
 The half of the diary that Masako finally obtained is a bright red fake planted by Yuri. And Masako begins telling her own past story. Memories? Conflict? with her fearsome grandfather Sahei. The curse of that grandfather's ghost. Such was Episode 16.
 
@@ -23,15 +21,15 @@ Proper materials... Right, we decided to paste something properly written with c
 
 Sahei's paste-ins weren't just the "Grandfather" text, but also all the Natsume family crests on his haori were pasted in by photography. Furthermore, the family crest birthmark that appeared on his left shoulder skin was the same. The family crest birthmark was another mystery - I noticed it had been drawn in the setting, and when I asked "Eh? Is this okay?" Kaneko and the director said "Yeah, it's okay!" Hmm, I thought it might not be necessary (the work is difficult, and actually quite a few photography retakes resulted), but now I can't imagine Sahei without the family crest birthmark.
 
-There was always a somewhat bothersome white foreigner next to Sahei speaking English excessively, but who exactly he was was never explained in the main story (laugh). Actually he was set as "Sahei's overseas friend," and was quite an important (?) existence that Sahei kept close (probably living together in the mansion). Incidentally, my initial character image was Carlos Rivera's manager from *Tomorrow's Joe 2*. I finished him with Central/South American skin and hair color, but gahaha (laugh), he looked way too similar and we had a big laugh, but since "it's conversely hard to tell (laugh)" he became a normal blonde white person (laugh).
+There was always a somewhat bothersome white foreigner next to Sahei speaking English excessively, but who exactly he was was never explained in the main story (laugh). Actually he was set as "Sahei's overseas friend," and was quite an important (?) existence that Sahei kept close (probably living together in the mansion). Incidentally, my initial character image was Carlos Rivera's manager from *Tomorrow's Joe 2*. I finished him with Central/South American skin and hair colour, but gahaha (laugh), he looked way too similar and we had a big laugh, but since "it's conversely hard to tell (laugh)" he became a normal blonde white person (laugh).
 
 Character-wise, oh yes, Renjaku! I attacked with a cobalt blue bra like this was my moment. Yes. This is my taste (laugh). From when I first met this Renjaku, she must be wearing a cobalt blue bra! (laugh) Man, that was exactly right, wasn't it? There must be quite a few people whose hearts were grabbed by this Renjaku in this episode!
 
-Now, color-wise, I asked color director Otsuka for lots this time too. Things without proper settings, like Sahei's costume changes - golf wear, fishing old man look, sushi chef look, etc. Also young Masako's various disguises. For such scenes that matched the rough animation, I had Otsuka create almost all the colors.
+Now, colour-wise, I asked colour director Otsuka for lots this time too. Things without proper settings, like Sahei's costume changes - golf wear, fishing old man look, sushi chef look, etc. Also young Masako's various disguises. For such scenes that matched the rough animation, I had Otsuka create almost all the colours.
 
 And, after all, what can I say - the fugu sashimi!
 
-I've only eaten fugu sashimi about 4 times in my life, but I remember it being "translucent" (laugh). Looking at reference photos it seemed like that too, so "we have to make it translucent." Anticipating that translucent feeling, I first had Otsuka create colors, then threw that to special effects' Yamada for processing. But story-wise, with quite a few cuts of fugu sashimi appearing, processing each one individually would be quite difficult. So we processed one cut of fugu sashimi from a nearly overhead angle and reused that for multiple cuts. We had photography paste it in at different angles, or I forcibly drew additional parts. We couldn't fully process the cut where chopsticks sweep it up, but the animation momentum made it feel OK!
+I've only eaten fugu sashimi about 4 times in my life, but I remember it being "translucent" (laugh). Looking at reference photos it seemed like that too, so "we have to make it translucent." Anticipating that translucent feeling, I first had Otsuka create colours, then threw that to special effects' Yamada for processing. But story-wise, with quite a few cuts of fugu sashimi appearing, processing each one individually would be quite difficult. So we processed one cut of fugu sashimi from a nearly overhead angle and reused that for multiple cuts. We had photography paste it in at different angles, or I forcibly drew additional parts. We couldn't fully process the cut where chopsticks sweep it up, but the animation momentum made it feel OK!
 
 Such was the "fugu sashimi" we all worked hard on (laugh).
 

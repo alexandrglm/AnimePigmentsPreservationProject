@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 49: Once Upon a Time... (31) - *Vampire War*
 
 Early summer. It's hot.
@@ -9,10 +8,9 @@ Yesterday, April 29th was "Showa Day" (until recently it was "Green Day"). Emper
 
 Oh yes, two DVDs I ordered because they were recently re-released arrived. *Genma Wars* (幻魔大戦) and *The Dagger of Kamui* (カムイの剣). Works by director Rintaro. Kadokawa Shoten theatrical animation works from over 20 years ago now. Both had art by the late Mukuo Takashi-san. They're absolutely wonderful.
 
-Such old anime, but I actually participated in *Genma Wars* as coloring staff (laugh). Of course my name isn't listed anywhere. I painted cuts like the protagonist crawling to help a fawn, and several cuts of the flame dragon at the climax. My, how nostalgic (laugh).
+Such old anime, but I actually participated in *Genma Wars* as colouring staff (laugh). Of course my name isn't listed anywhere. I painted cuts like the protagonist crawling to help a fawn, and several cuts of the flame dragon at the climax. My, how nostalgic (laugh).
 
 But when I carelessly tell such stories to young people, I get responses like "That's a movie from before I was born, right?" and find myself speechless (bitter laugh).
-
 Well then.
 
 Continuing the OVA story.
@@ -27,25 +25,25 @@ Until then, Toei Video's OVA works were all manga adaptations, but this *Vampire
 
 And this *Vampire War* character design was just so good! It felt exactly like what I had imagined in my mind when reading the original. Hamasu-san's realistic line style made me so happy that participating became a very enjoyable work. Content-wise, it was also a slightly adult story with many mature depictions, so it was a perfect fit.
 
-The protagonist is Japanese, but everyone else is foreign. The story setting is also Paris, and none of the staff had been to Europe (I still haven't been to Paris (bitter laugh)), but somehow couldn't we put a European atmosphere into the colors? I referenced various overseas photo books and kept layering my own images.
+The protagonist is Japanese, but everyone else is foreign. The story setting is also Paris, and none of the staff had been to Europe (I still haven't been to Paris (bitter laugh)), but somehow couldn't we put a European atmosphere into the colours? I referenced various overseas photo books and kept layering my own images.
 
-This time too, the initial character colors came from art designer Nakamura-san, but I also presented my image colors alongside them, and the director and everyone would gather to exchange opinions and make modifications while deciding.
+This time too, the initial character colours came from art designer Nakamura-san, but I also presented my image colours alongside them, and the director and everyone would gather to exchange opinions and make modifications while deciding.
 
-Unlike the current era where you can modify color samples in monitors with a single click, we had to make decisions by placing paint strip color charts on painted color sample cels, then repaint them by the next color meeting. For me, I wanted to have the next meeting tomorrow and keep deciding, but everyone was busy and there were many external staff, so waiting a week for meetings was unbearable.
+Unlike the current era where you can modify colour samples in monitors with a single click, we had to make decisions by placing paint strip colour charts on painted colour sample cels, then repaint them by the next colour meeting. For me, I wanted to have the next meeting tomorrow and keep deciding, but everyone was busy and there were many external staff, so waiting a week for meetings was unbearable.
 
-The paint problem that caused considerable suffering in the previous *Asuka-gumi! 2*—this time there was still some struggle, but it went relatively smoothly. When I thought about making the taste European atmosphere, relatively flashy colors were OK too. Naturally I toned things down where needed, but overall vivid color use created that "authentic feel." The protagonist in subdued colors, everything else using slightly flashy colors—that feeling.
+The paint problem that caused considerable suffering in the previous *Asuka-gumi! 2*—this time there was still some struggle, but it went relatively smoothly. When I thought about making the taste European atmosphere, relatively flashy colours were OK too. Naturally I toned things down where needed, but overall vivid colour use created that "authentic feel." The protagonist in subdued colours, everything else using slightly flashy colours—that feeling.
 
-Even props in the story were drawn referencing real existing things to create realism. Obviously we couldn't reference real firearms, but we collected tons of model gun magazines and military equipment introduction magazines for reference, and being guys, we enjoyed deciding bullet and camouflage paint details.
+Even props in the story were drawn referencing real existing things to create realism. Obviously we couldn't reference real firearms, but we collected tonnes of model gun magazines and military equipment introduction magazines for reference, and being guys, we enjoyed deciding bullet and camouflage paint details.
 
 And alcohol. One day, the director came to my desk and said "This is reference," placing down a rum bottle with a thud! With contents, of course. In the story, the protagonist drinks this straight from the bottle. "Well, should we try it for real?" No no, we didn't actually try drinking straight, but we decided everything in detail like that.
 
-But what was still difficult was the lack of skin tone intermediate color variations. Since many white people appeared, I developed skin tones with overall reddish hues. However, there were still insufficient colors for scenes with slightly lowered brightness like night colors, resulting in everyone settling on similar skin colors in darker areas.
+But what was still difficult was the lack of skin tone intermediate colour variations. Since many white people appeared, I developed skin tones with overall reddish hues. However, there were still insufficient colours for scenes with slightly lowered brightness like night colours, resulting in everyone settling on similar skin colours in darker areas.
 
-Still, since there was much more time than with *Asuka-gumi! 2*, I could do color direction while continuously making samples myself bit by bit as much as possible, and almost every scene went perfectly well—shameless self-praise (laugh).
+Still, since there was much more time than with *Asuka-gumi! 2*, I could do colour direction while continuously making samples myself bit by bit as much as possible, and almost every scene went perfectly well—shameless self-praise (laugh).
 
 So it was completed in December 1990. Did this sell well? I'm not sure about that, but I feel like novel-based OVAs didn't continue for long after this. Hmm, too bad.
 
-Oh yes, this *Vampire War*, being aimed at slightly older audiences, actually has some "adult scenes." My first "adult scene" color direction made me a bit nervous. And then an even more "adult scene" work was waiting for me.
+Oh yes, this *Vampire War*, being aimed at slightly older audiences, actually has some "adult scenes." My first "adult scene" colour direction made me a bit nervous. And then an even more "adult scene" work was waiting for me.
 
 OVA *Crying Freeman 4: Yugekitougoku* (Crying Freeman４　雄首冬獄). That work by director Yamauchi Shigeyasu was waiting.
 

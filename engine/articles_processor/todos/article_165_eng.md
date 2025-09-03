@@ -1,16 +1,14 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 165: Side Story: About Names
 
 My goodness. Sorry for taking such a long break from publication.
 
-Currently participating in a new program starting broadcast in July. First TV series in almost a year since *The Tatami Galaxy*. Just over a month until broadcast. Entering the climax of program startup - quite difficult in various ways. With all this, I couldn't move freely and kept missing manuscript deadlines. Everyone, I'm sorry.
+Currently participating in a new programmes starting broadcast in July. First TV series in almost a year since *The Tatami Galaxy*. Just over a month until broadcast. Entering the climax of programmes startup - quite difficult in various ways. With all this, I couldn't move freely and kept missing manuscript deadlines. Everyone, I'm sorry.
 
-Now, this new TV series - I'm handling Episode 1 color direction as usual, but I'm scheduled to participate in color direction for quite a number of episodes this series. This 2-cour, planned 24-episode series - this is my focus this year. Please look forward to it.
+Now, this new TV series - I'm handling Episode 1 colour direction as usual, but I'm scheduled to participate in colour direction for quite a number of episodes this series. This 2-cour, planned 24-episode series - this is my focus this year. Please look forward to it.
 
 Eh? The title? Official staff announcements haven't been made yet... (sweat). The workplace is dizzyingly busy, but working with this director for the first time in quite a while is quite enjoyable with continuous surprises and laughter.
 
-...So I've returned after 3 weeks?
-
+...So, I've returned after 3 weeks?
 Anyway.
 
 The Anime Style talk event "Yamauchi Shigeyasu's World Part 1" was recently held with great success. I also appeared as someone who knows Director Yamauchi, talking about old stories (already a quarter century ago (laugh)) and various things.
@@ -21,7 +19,7 @@ Many of you probably know, but I actually worked under names other than my real 
 
 Well, since the statute of limitations has passed (has it?), I'll talk about it - these works were so-called "other company work" during my time at Toei. So they were credited with concealed characters, or pen names, or false names, aliases. That was Kokuon Kunio.
 
-Working on other company productions while doing Toei Animation work, but being involved with productions meant not being half-hearted, not causing trouble for other staff - I resolved this and approached productions with the stance of giving 100% to Toei work and equally 100% to other company productions. However, it couldn't be like Toei work where I'd handle everything (color design & color direction inspection), so participation was like character color design only, or color design only - such forms of full participation.
+Working on other company productions while doing Toei Animation work, but being involved with productions meant not being half-hearted, not causing trouble for other staff - I resolved this and approached productions with the stance of giving 100% to Toei work and equally 100% to other company productions. However, it couldn't be like Toei work where I'd handle everything (colour design & colour direction inspection), so participation was like character colour design only, or colour design only - such forms of full participation.
 
 Those in the industry understand well that Toei Animation and other productions have greatly different production methods and workplace systems. Toei is somewhat of a black box. Since almost all parts are made with basically in-house staff (including TAP), Toei's style has formed in production. That has good aspects, but I was interested in other productions' styles, and there were many good aspects not found at Toei. So I wanted to experience that and make it mine, and reflect that experience even slightly into Toei's system. With such personal convictions, I participated whenever asked.
 

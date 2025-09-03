@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 62: Once Upon a Time... (40) - The Beginning of Days with Theatrical *Dragon Ball Z*
 
 The Beijing Olympics have begun.
@@ -11,16 +10,15 @@ There are competition events I'm seeing for the first time, which is refreshing.
 
 Among all this, what I'm watching with "professional eyes" is swimming.
 
-The eternal theme for those doing color direction is, above all, expressing "water." Recently it's often processed with 3D CG, but expressing "water" through animation + coloring is still anime's foundation. So while enjoying the competitions, I'm just looking at water (laugh).
+The eternal theme for those doing colour direction is, above all, expressing "water." Recently it's often processed with 3D CG, but expressing "water" through animation + colouring is still anime's foundation. So while enjoying the competitions, I'm just looking at water (laugh).
 
-The texture of undulating pool water surfaces, the splashes athletes kick up, underwater bubbles, diving water columns, and the color tones of athletes underwater, and so on. The more I look, the more interesting it becomes (laugh).
+The texture of undulating pool water surfaces, the splashes athletes kick up, underwater bubbles, diving water columns, and the colour tones of athletes underwater, and so on. The more I look, the more interesting it becomes (laugh).
 
 The broadcast technology is amazing too. Between the camera work and CG-combined explanatory composite screens, I'm quite enjoying that side too!
 
 Come to think of it, I remember the men's gymnastics team final from the previous Athens Olympics. At that time, I was watching while working at Oizumi Studio in the early morning. I watched that famous "Bridge to Glory" commentary on the master monitor at my desk (connected to a VCR, so you could watch TV through its tuner).
 
 Hmm? What work was that? Saint Seiya? ...I mean, it feels like recent memory... (sweat).
-
 Well then.
 
 The clock goes back not just four years, but quite far. Continuing the old stories (laugh).
@@ -33,17 +31,17 @@ In between all this, I became involved in new work. Theatrical *Dragon Ball Z* p
 
 "Huh? *Dragon Ball*? Me? Why?" I remember responding like that when the department manager assigned it to me. Somehow it was suddenly decided I'd do it.
 
-At the time, Toei had a principle that theatrical versions of TV series works would in principle have the TV's main person handle color direction. However, this *Dragon Ball Z* worked differently from other TV series.
+At the time, Toei had a principle that theatrical versions of TV series works would in principle have the TV's main person handle colour direction. However, this *Dragon Ball Z* worked differently from other TV series.
 
-For example, like me with *Saint Seiya*, normally one color director would be assigned to a series, creating main character colors and managing color direction sheets, but this *Dragon Ball* team didn't assign a dedicated color director. Staff room members - chief director, directors, and assistant directors - decided all color direction matters, with production coordinators and assistant directors managing color direction. They'd give color direction decided in the staff room directly to finishing production companies for work. That was roughly the system.
+For example, like me with *Saint Seiya*, normally one colour director would be assigned to a series, creating main character colours and managing colour direction sheets, but this *Dragon Ball* team didn't assign a dedicated colour director. Staff room members - chief director, directors, and assistant directors - decided all colour direction matters, with production coordinators and assistant directors managing colour direction. They'd give colour direction decided in the staff room directly to finishing production companies for work. That was roughly the system.
 
-This team had used this method since the original *Dr. Slump*. Well, for TV series, especially works where characters don't increase much, this method worked somehow (← but later this method backfired when color directions got scattered (bitter laugh)).
+This team had used this method since the original *Dr. Slump*. Well, for TV series, especially works where characters don't increase much, this method worked somehow (← but later this method backfired when colour directions got scattered (bitter laugh)).
 
-However, for theatrical works, you can't do everything "in the staff room" like TV. So nominally, a female color director named Sakai-san had been handling *Dragon Ball* theatrical works as the basic person in charge, having worked on previous *Dragon Ball* and *Dragon Ball Z* theatrical versions.
+However, for theatrical works, you can't do everything "in the staff room" like TV. So nominally, a female colour director named Sakai-san had been handling *Dragon Ball* theatrical works as the basic person in charge, having worked on previous *Dragon Ball* and *Dragon Ball Z* theatrical versions.
 
 So somehow this *Dragon Ball Z* work came to me. This was November 1991.
 
-Honestly, I had hardly watched *Dragon Ball* original or TV until then. I had read the *Dr. Slump* original and watched quite a bit of TV since it was the first work I colored when I started anime work as a part-timer, but I knew almost nothing about *Dragon Ball* (bitter laugh).
+Honestly, I had hardly watched *Dragon Ball* original or TV until then. I had read the *Dr. Slump* original and watched quite a bit of TV since it was the first work I coloured when I started anime work as a part-timer, but I knew almost nothing about *Dragon Ball* (bitter laugh).
 
 So I first read the original comics in bulk to get "basic knowledge" in my head (laugh).
 

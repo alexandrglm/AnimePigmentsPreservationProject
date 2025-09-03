@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## **Episode 12: Special Episode... Adventures Around Windows and Family Registers**
 
 **It's been a while.**
@@ -6,10 +5,7 @@
 **Actually, my father passed away early this month, and with all the related matters, plus the work piling up as a result - whoosh! - I've been taking a break for a while.** Well, the work situation is still very much whoosh! continuing, but somehow... (distant stare).
 
 **So I'm starting again.**
-
 Well then.
-
----
 
 **Suddenly, but actually I'm still not quite back to normal, so this time is a special episode (bitter laugh).** Moreover, it's not about anime at all... (sweat).
 
@@ -43,7 +39,7 @@ Well then.
 
 **For utilities, I called everyone to arrange mailing of name change and account change procedure documents.**
 
-**For life insurance (simple insurance), like banks they needed family register copies and such, plus since there was medical insurance, I had to go to the hospital where he was admitted to get "hospitalization certificates" issued.**
+**For life insurance (simple insurance), like banks they needed family register copies and such, plus since there was medical insurance, I had to go to the hospital where he was admitted to get "hospitalisation certificates" issued.**
 
 **Incidentally, my family home is in Sayama City, Saitama Prefecture.** I'm in Nakano Ward, Tokyo. And both my father and I had our family registers in Nakano Ward. So basic procedures were in Sayama City, and basic documents needed were in Nakano Ward - back and forth like that.
 

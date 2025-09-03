@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 72: Another Extra Edition! About *Casshern Sins*
 
 Actually, today (December 9th), there's the staff first screening of *GeGeGe no Kitaro the Movie: Japan Explodes!!* in the screening room at Toei Studios (東映撮影所) Oizumi Studio. And I'm writing this manuscript during the break until that first screening, and during the break until the wrap party (sweat).
@@ -8,7 +7,6 @@ Looking back, it feels like this year was all about *Kitaro*. Around this time l
 Well, that's what kind of year this was. I wonder what kind of year next year will be. I still can't see anything yet, so while staying alert, I think I'll take a relaxed approach.
 
 What kind of year was this for everyone?
-
 Now then.
 
 During this year of my personal "*Kitaro* Year," there was actually a work that was quietly, secretly moving in parallel. The currently airing *Casshern Sins* (キャシャーンSins).
@@ -17,7 +15,7 @@ During this year of my personal "*Kitaro* Year," there was actually a work that 
 
 Original creator: Tatsunoko Production (竜の子プロダクション), Series composition: Kobayashi Yasuko (小林靖子), Character design: Umakoshi Yoshihiko (馬越嘉彦), Director: Yamauchi Shigeyasu (山内重保). Yes, it's a work by Director Yamauchi.
 
-"Director Yamauchi is apparently doing *Casshern* with Umakoshi characters" - I heard that rumor from certain sources at the end of the year before last. At that time, I was overwhelmed with my father's final days and had no spare capacity, but after things settled down, one day I resolved to call Director Yamauchi.
+"Director Yamauchi is apparently doing *Casshern* with Umakoshi characters" - I heard that rumour from certain sources at the end of the year before last. At that time, I was overwhelmed with my father's final days and had no spare capacity, but after things settled down, one day I resolved to call Director Yamauchi.
 
 "I hear you're doing *Casshern*?"
 
@@ -25,7 +23,7 @@ Original creator: Tatsunoko Production (竜の子プロダクション), Series 
 
 "Um, could I join too? (sweat)"
 
-And so, I ended up participating in *Casshern* by half-forcing my way in (!). As color design (色彩設計), I'm in charge of the basic character colors and scene-by-scene design. Sometimes I also do color direction for individual episodes.
+And so, I ended up participating in *Casshern* by half-forcing my way in (!). As colour design (色彩設計), I'm in charge of the basic character colours and scene-by-scene design. Sometimes I also do colour direction for individual episodes.
 
 Actually, I haven't seen the original *New Human Casshern* (新造人間キャシャーン). Nor the OVA that came after. Despite being right in the strike zone generationally, I somehow hadn't watched it. I could enthusiastically sing the theme song at karaoke (laughs), but somehow I hadn't seen the main story. I still haven't watched beyond the reference materials for the main story (sorry).
 
@@ -35,7 +33,7 @@ The production site is Madhouse (マッドハウス). I first met the production
 
 24 episodes across 2 cours. It's just the right amount to work on thoroughly. The director seemed to be thinking about a small elite team for both direction and animation.
 
-"For episodes directed by the director, Umakoshi-san will be animation director, and Tsujita-san will handle color direction and inspection" - somehow it became arranged like that (laughs). That was fine, but looking at the schedule, the director's own directed episodes were lined up right from the start: episodes 1, 2, 4, and 7 in the first half.
+"For episodes directed by the director, Umakoshi-san will be animation director, and Tsujita-san will handle colour direction and inspection" - somehow it became arranged like that (laughs). That was fine, but looking at the schedule, the director's own directed episodes were lined up right from the start: episodes 1, 2, 4, and 7 in the first half.
 
 "Th-this is! (sweat)"
 
@@ -45,13 +43,13 @@ Meanwhile, voice actor auditions began. I was secretly thinking "I wonder if Fur
 
 Various things were decided bit by bit like this, the year changed, and we entered this year. By last year, production had already started on the main episodes, and screens were gradually becoming visible. We've been creating it quite steadily, aiming for broadcast this autumn.
 
-Screen-wise, first and foremost is the excellence of the animation! With Umakoshi-san at the center, they're drawing really good animation every episode - it's wonderful. As an animation note, we've abandoned the thin lines popular nowadays and are finishing the in-betweens with clear, bold lines throughout. We're taking care to ensure the powerful nature of the animation comes through more strongly on screen.
+Screen-wise, first and foremost is the excellence of the animation! With Umakoshi-san at the centre, they're drawing really good animation every episode - it's wonderful. As an animation note, we've abandoned the thin lines popular nowadays and are finishing the in-betweens with clear, bold lines throughout. We're taking care to ensure the powerful nature of the animation comes through more strongly on screen.
 
 We're using a technique of adding "bleeding" to the entire screen during photography. By applying this processing to all cuts, strong unity is born across scenes without screen variation.
 
-This "bleeding filter processing" drastically affects both cel and background saturation and contrast, so we're controlling the saturation and brightness of both cel colors and backgrounds by reverse-calculating from the intended final screen. In a way, it's the complete opposite of *Hakaba Kitaro* (laughs).
+This "bleeding filter processing" drastically affects both cel and background saturation and contrast, so we're controlling the saturation and brightness of both cel colours and backgrounds by reverse-calculating from the intended final screen. In a way, it's the complete opposite of *Hakaba Kitaro* (laughs).
 
-From the start, we've been quite conscious of how the screen looks on digital terrestrial and high-definition broadcasting, so honestly, even for the same broadcast, I'd recommend viewing on digital terrestrial rather than analog broadcast.
+From the start, we've been quite conscious of how the screen looks on digital terrestrial and high-definition broadcasting, so honestly, even for the same broadcast, I'd recommend viewing on digital terrestrial rather than analogue broadcast.
 
 Well, episode 1 was completed with quite luxurious time investment, and while there were some cuts that looked a bit dark and hard to see, it turned out quite well overall, I must say!
 

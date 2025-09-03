@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 63: Actually, I'm Currently Struggling with *Dragon Ball* (sweat)
 
 The Beijing Olympics have ended (bitter laugh).
@@ -12,7 +11,6 @@ But why does Japanese baseball use Japan-spec sized balls instead of internation
 Oh.
 
 Come to think of it, I recorded the opening ceremony broadcast, but I still haven't watched it properly. I have a feeling it'll just get archived like this... And before I know it, it'll be the London Olympics (bitter laugh).
-
 Well then.
 
 Once again I've taken a two-week break from this series. I'm truly sorry to those looking forward to it (sweat).
@@ -21,15 +19,15 @@ In the series, I started writing about theatrical *Dragon Ball Z* from last time
 
 Director Ueda Yoshihiro, animation director Yamamuro Tadayoshi, art director Kurahashi Takashi. Ueda-san and Yamamuro-san are members who've been making *Dragon Ball* continuously. Kurahashi-san's art fits nicely there (laugh).
 
-Whether it was last year or the year before, we made a short for the Fuji TV program "I.Q. Sapuri" for quiz purposes, but making *Dragon Ball* properly as a work like this is the first time since TV broadcasting ended.
+Whether it was last year or the year before, we made a short for the Fuji TV programmes "I.Q. Sapuri" for quiz purposes, but making *Dragon Ball* properly as a work like this is the first time since TV broadcasting ended.
 
-So my work starts with pulling old color direction from Toei Animation's database and recreating it as digital coloring color direction data. Actually, *Dragon Ball* was made with cel finishing + film photography right to the end. So there were absolutely no materials for current digital coloring, and I had to start creating from there.
+So my work starts with pulling old colour direction from Toei Animation's database and recreating it as digital colouring colour direction data. Actually, *Dragon Ball* was made with cel finishing + film photography right to the end. So there were absolutely no materials for current digital colouring, and I had to start creating from there.
 
-This is really tough (laugh). The sheer numbers... (bitter laugh). I'm recreating color direction just for characters appearing in this new work, but even so it's easily over 50. Naturally there are also new characters for the new work, so it suddenly became creating color direction for over 60 characters.
+This is really tough (laugh). The sheer numbers... (bitter laugh). I'm recreating colour direction just for characters appearing in this new work, but even so it's easily over 50. Naturally there are also new characters for the new work, so it suddenly became creating colour direction for over 60 characters.
 
-First I made the main characters like Goku, Vegeta, and Piccolo-san to establish balance, but when we had several cuts shot with the initial colors, it somehow became an overly mild *Dragon Ball*... (sweat). Apparently I'd made the color usage somewhat contemporary and familiar.
+First I made the main characters like Goku, Vegeta, and Piccolo-san to establish balance, but when we had several cuts shot with the initial colours, it somehow became an overly mild *Dragon Ball*... (sweat). Apparently I'd made the colour usage somewhat contemporary and familiar.
 
-So "This isn't *Dragon Ball*!" - I apologized profusely and voluntarily redid it, remaking the colors to be more "sharp!" through trial and error.
+So "This isn't *Dragon Ball*!" - I apologised profusely and voluntarily redid it, remaking the colours to be more "sharp!" through trial and error.
 
 I'm quite flustered by all this (sweat).
 

@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 107: Once Upon a Time... (64) Incredible Population Density! The Staff Room for *Sailor Moon R* Movie
 
 Now that production on the "pirate movie" has ended, I thought peaceful days had finally arrived... but thanks to the schedule getting severely delayed, my work on other projects I'm involved with is completely backed up. Last week I actually had to pull all-nighters for three days straight. Ah, maybe being captured by pirates was easier (wry laugh).
@@ -7,17 +6,16 @@ To add insult to injury, one of my home computer's HDDs died, and I lost work-re
 
 Everyone, back up your data early and often! (cry)
 
-I somehow managed to recreate that tragic color chart data from scratch, and had the rescheduled meeting the other day. Overall, I got the director's OK. This project starts broadcasting next year—I still can't write about it in detail, but please look forward to it as well.
-
+I somehow managed to recreate that tragic colour chart data from scratch, and had the rescheduled meeting the other day. Overall, I got the director's OK. This project starts broadcasting next year—I still can't write about it in detail, but please look forward to it as well.
 Now then.
 
 It might vary by production company and studio, but at Toei Animation (formerly Toei Doga), when a new project starts up, first a "staff room" gets set up.
 
-The "staff room" is literally a room for staff. The director is at the center, along with key animation directors, assistant directors, production managers and other main staff who are gathered in one room, and the project revolves around that room. Whether it's a TV series or theatrical work, the scale varies, but anyway, first there's the staff room.
+The "staff room" is literally a room for staff. The director is at the centre, along with key animation directors, assistant directors, production managers and other main staff who are gathered in one room, and the project revolves around that room. Whether it's a TV series or theatrical work, the scale varies, but anyway, first there's the staff room.
 
-Incidentally at Toei Animation (東映アニメーション), except for special cases, we color designers and color direction (色指定) staff don't have desks in the staff room. Since it's basically company employees who handle this work, we participate in projects from our own departmental desks within the company. Art staff work from within the company or outsourced production houses. This system remains the same today.
+Incidentally at Toei Animation (東映アニメーション), except for special cases, we colour designers and colour direction (色指定) staff don't have desks in the staff room. Since it's basically company employees who handle this work, we participate in projects from our own departmental desks within the company. Art staff work from within the company or outsourced production houses. This system remains the same today.
 
-Ideally, all the main staff should be gathered in the same room, and in today's digitized environment that's relatively easy to do, but back when we used cel paints, you couldn't exactly bring paints and such along with you, so it became somewhat customary to work separately.
+Ideally, all the main staff should be gathered in the same room, and in today's digitised environment that's relatively easy to do, but back when we used cel paints, you couldn't exactly bring paints and such along with you, so it became somewhat customary to work separately.
 
 So, the staff room for *Pretty Soldier Sailor Moon R* movie was set up on the second floor of Oizumi Studio's so-called "new building."
 

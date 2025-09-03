@@ -1,7 +1,6 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 76: Once Upon a Time... (47) - White Protagonist!? The Launch of *COO*
 
-As always, when it comes time to replace my computer, I agonize tremendously. It's kind of like... breaking up with a girlfriend you've been with for a long time, and the future with a new girlfriend...
+As always, when it comes time to replace my computer, I agonise tremendously. It's kind of like... breaking up with a girlfriend you've been with for a long time, and the future with a new girlfriend...
 
 "I thought we could be together forever..."
 
@@ -18,7 +17,6 @@ If I endure and persevere, I could manage a bit longer. But I can't escape the i
 If it were death by separation (breaking down and becoming unusable), I could give up more easily (←hey now).
 
 I've been writing this entire series on that PowerBook, but from next time I'll probably be writing with my new "girlfriend."
-
 Now then.
 
 We were supposed to create advance image stills for *Coo: Far From Home* (Coo　遠い海から来たクー), but I was surprised when I saw the key frames Okura-san had drawn. What was depicted there wasn't the Japanese boy Yosuke, but a foreigner - clearly a white boy.

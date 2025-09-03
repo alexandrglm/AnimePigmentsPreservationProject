@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 52: Once Upon a Time... (33) - *Tenjou-hen Uchuu Kouji* Starts
 
 A typhoon is approaching!
@@ -17,8 +16,7 @@ Hmm, the web site's online shop was out of stock. I wonder about their direct sh
 
 Will I be able to intercept this year's rainy season with cool outdoor rubber boots? (laugh)
 
-By the way, today's manuscript is apparently episode 52. 52 episodes means exactly 4 cours for TV anime, exactly one year at 52 weeks. Well, for these "Color Design Notes," I've taken breaks sometimes—or rather, frequently—so it's been well over a year since serialization started, but somehow for "anime industry work," 52 feels like a good milestone, so I'm having a little solo celebration (laugh).
-
+By the way, today's manuscript is apparently episode 52. 52 episodes means exactly 4 cours for TV anime, exactly one year at 52 weeks. Well, for these "Colour Design Notes," I've taken breaks sometimes—or rather, frequently—so it's been well over a year since serialisation started, but somehow for "anime industry work," 52 feels like a good milestone, so I'm having a little solo celebration (laugh).
 Well then.
 
 *Hana no Asuka-gumi! 2: Lonely Cats Battle Royal*, *Vampire War*, and *Crying Freeman 4: Yugekitougoku*, *Crying Freeman 5: Senjou no Kishimojin*. I've been writing about the OVA cycle from 1990 onwards, but actually a big project was running in parallel. An OVA series no less! A full 13 episodes! *Tenjou-hen Uchuu Kouji* (天上編　宇宙皇子).
@@ -33,14 +31,13 @@ The recognition around this was somewhat delicate (laugh). As a company (Toei Do
 
 I think about 2 months of production time was allocated per episode, but maybe we worked too hard and took too much time, resulting in 2 months (bitter laugh). The flow was that staff for the next episode would see the rushes or first print of preceding episodes and think "Alright, let's work hard to make something even better!" (laugh). So each episode became progressively more substantial.
 
-For this series, I handled character color design and color direction & inspection for each episode. During this period, I was doubling up with Toei Video OVAs, but since those were mostly hard "realistic" works, doubling with *Tenjou-hen Uchuu Kouji*, which felt like a work with a somewhat different, softer atmosphere, was a good balance for me.
+For this series, I handled character colour design and colour direction & inspection for each episode. During this period, I was doubling up with Toei Video OVAs, but since those were mostly hard "realistic" works, doubling with *Tenjou-hen Uchuu Kouji*, which felt like a work with a somewhat different, softer atmosphere, was a good balance for me.
 
 I already had a strong tendency to get emotionally involved and absorbed in work, but this production had attractive circumstances beyond content. This *Tenjou-hen Uchuu Kouji* series was going to be released on LaserDisc!
 
 While LaserDisc (LD hereafter) is now a relic of the past, the feeling at the time was that it was a "digital" high-quality medium. While VHS or Beta videotape images deteriorated over time, images stored on LD could be reproduced beautifully semi-permanently. It was truly an attractive medium.
 
 Around this time, a new recording/playback format for music, MD (MiniDisk), also appeared, and "digital" technology was gradually becoming mainstream. Well, MD is still alive, but we never imagined that LD would meet such an abrupt end with hardware and all through "the rise of DVD" (bitter laugh).
-
 Now then.
 
 I knew "Uchuu Kouji" was a popular original work, but I had never read it myself, so before starting actual production work, I recklessly thought "First, let me try reading through the original?" and bought all the paperback volumes at once with a "ba-dump!" (By coincidence, I ran into Sato Jun'ichi at that bookstore! Seeing my bulk purchase of paperbacks, he laughed hard saying "I've never seen anyone buy books like this!" (laugh)).

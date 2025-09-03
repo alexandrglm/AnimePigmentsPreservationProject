@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 199: About *Revolutionary Girl Utena* - Part 1
 
 Everyone, it's been a while.
@@ -8,7 +7,6 @@ Long Time No See.
 Suddenly resuming the series!
 
 Please support me!
-
 Now then.
 
 The other day I went to peek at "76th Anime Style Event: *Revolutionary Girl Utena* - Anime Magazine Editor's Adventure [Extra Edition]" held at Shinjuku Loft Plus One. Nostalgic stories like that, and stories I'd never known - quite interesting tales. Listening to Oguro-san and Nishikori-san's talk on stage, I remembered various forgotten things, so I'll write them down.
@@ -17,7 +15,7 @@ The other day I went to peek at "76th Anime Style Event: *Revolutionary Girl Ute
 
 That was when Ikuhara was already decided to leave Toei Animation and become independent - one dawn after I'd pulled an all-nighter at the studio for some work, Ikuhara casually came to the finishing department where I was... hmm? Was that wrong? Was it while eating breakfast in the early morning Oizumi studio cafeteria? Anyway, being suddenly told that, I panicked. Well, thinking about it now, that was probably Ikuhara inviting me to a new work he was about to start - as a director.
 
-But I never imagined directing at the time, had no confidence, and above all the "color" work was so enjoyable I couldn't help it. I don't remember how I responded to Ikuhara's words, but ultimately I didn't become a director, and Ikuhara left Toei Animation as planned.
+But I never imagined directing at the time, had no confidence, and above all the "colour" work was so enjoyable I couldn't help it. I don't remember how I responded to Ikuhara's words, but ultimately I didn't become a director, and Ikuhara left Toei Animation as planned.
 
 I think it was several months (?) after that happened. Ikuhara called, and we decided to meet in Nishi-Ogikubo on a Saturday. "How about food?" so the two of us went to a set meal restaurant at Nishi-Ogikubo Station's south exit. Eating set meals silently without talking much. Around when we finished eating, suddenly "I made a studio, want to come see?" Ikuhara said this abruptly, and leaving the restaurant he immediately started walking briskly toward Ogikubo direction down Shinmei-dori from the south exit. Following one step behind. We walked quite a ways down that street with sparse shops to a certain apartment building. The studio was in its basement. That was "BE-PAPAS."
 
@@ -29,7 +27,7 @@ Ikuhara's desk was positioned with the full glass wall set up for lighting behin
 
 Ah, creating an underground secret base (studio) like this and preparing to start something new - that atmosphere was so frustratingly cool.
 
-Now, at that time Hasegawa was also in the studio, drawing rough animation for copyright stills for some work. After greeting "It's been a while!" I was shown rough sketches of new work characters that Hasegawa had drawn. "Colors and such aren't decided yet..." - the characters I was shown were rough but sharp, cool, and somehow had wonderfully good sensuality.
+Now, at that time Hasegawa was also in the studio, drawing rough animation for copyright stills for some work. After greeting "It's been a while!" I was shown rough sketches of new work characters that Hasegawa had drawn. "Colours and such aren't decided yet..." - the characters I was shown were rough but sharp, cool, and somehow had wonderfully good sensuality.
 
 So, well, somehow naturally I found myself saying "Ikuhara, can I take these characters with me?"
 

@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 145: Long Ago... 84 1995 Part 4 Shocking March (Middle) What Awaited Us in Seoul...
 
 In about two more weeks, the live-action "Space Battleship Yamato" - that is, "SPACE BATTLESHIP Yamato" - will be released. Man, I'm getting excited about it!
@@ -10,14 +9,13 @@ But you know, being shown the gradually released preview footage, I did a 180-de
 Like *Yamato Resurrection* released last winter, I really do love *Space Battleship Yamato*. The other day I was talking about the *Yamato Resurrection* movie at a certain gathering, and Director Yuasa told me "Tsujita-san is too kind to movies lol," but you know, it's fine. *Yamato* is in a different league (laugh). But really, I hope it's a hit.
 
 My friends since high school are also quietly but quite passionately excited about "let's all go see it!" The audience will definitely have an extremely high "middle-aged man ratio"!
-
 Anyway.
 
 After returning from the two-week Manila business trip, a few days later I was departing for Seoul, Korea.
 
 Actually, this Seoul trip was a private vacation. Four of us friends who share hardships at Toei Animation somehow thought of a Seoul trip and went on a 2-night, 3-day package tour. Just a completely ordinary package tour with a tour guide, so we'd tour normally, eat normally, and normally spend money at duty-free shops before returning. Since we at Toei are always indebted to Korean production companies for theatrical works, we're naturally curious about Korea. What kind of city is it, what kind of culture, what does everyone eat to keep going (laugh). The trigger was that kind of light feeling.
 
-The plane carrying us arrived on schedule at Seoul's Gimpo Airport. Through immigration, through customs, to the arrival lobby. Since it wasn't work, no big aluminum case. Everyone traveled light with just one piece of hand luggage. Going through the automatic doors to the wide arrival lobby, as expected, a Korean female tour guide holding a big card with our names was waiting for us. "Ooh! Having your name written like this feels pretty good!" At 33 years and 11 months, having my first package tour experience, I was quite excited.
+The plane carrying us arrived on schedule at Seoul's Gimpo Airport. Through immigration, through customs, to the arrival lobby. Since it wasn't work, no big aluminium case. Everyone travelled light with just one piece of hand luggage. Going through the automatic doors to the wide arrival lobby, as expected, a Korean female tour guide holding a big card with our names was waiting for us. "Ooh! Having your name written like this feels pretty good!" At 33 years and 11 months, having my first package tour experience, I was quite excited.
 
 However! The tour guide wasn't the only one waiting for us. Several somewhat tough-looking, solidly built Korean men were waiting for our arrival!
 

@@ -1,11 +1,10 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 75: Once Upon a Time... (46) - My First Theatrical Feature Film Begins!
 
 The other day, I bought a pair of jeans...
 
 I usually wear Uniqlo's stone-washed-style ones that cost about 3000 yen, but they had gotten quite worn out. Then my wife said, "Wear something more age-appropriate!"
 
-So I went to a jeans specialty store and bought a certain famous brand's "503" or something like that. 8500 yen (tax included). Nearly three times the price of what I used to wear. Well, whether expensive means better - it certainly is different. Though of course, there are plenty of jeans that cost twice as much as these, so I settled on these "503s" as my version of "age-appropriate."
+So I went to a jeans speciality store and bought a certain famous brand's "503" or something like that. 8500 yen (tax included). Nearly three times the price of what I used to wear. Well, whether expensive means better - it certainly is different. Though of course, there are plenty of jeans that cost twice as much as these, so I settled on these "503s" as my version of "age-appropriate."
 
 I'm a 45-year-old with an "almost" standard Japanese body type, so naturally I need alterations - hemming the length, the leg length.
 
@@ -15,19 +14,18 @@ Just the other day, I saw my jeans hanging on the balcony next to my wife's jean
 
 So this time I asked them to hem it "a bit long" with some consideration. Then apparently the store's hemming person also added some "consideration," because they're long!
 
-I mean, they're not ridiculously long, but you know how young people wear them long? Like that. But I've never worn them long like that, and since I have short legs, the way the jeans bunch up around my ankles feels really uncomfortable.
+I mean, they're not ridiculously long, but you know how young people wear them long? Like that. But I've never worn them long like that, and since I have short legs, the way the jeans bunch up around my ancles feels really uncomfortable.
 
 Ah, the sadness of middle age (tears). The sadness of being a 45-year-old Japanese man (sobbing).
 
 I'm wearing those jeans as I write this manuscript.
-
 Now then.
 
 Let me write a bit more about old stories.
 
 This is about late summer 1990, while production of *Space Prince Tenjou-hen* (宇宙皇子　天上編) was continuing.
 
-Next to Toei Animation's (東映動画) Oizumi Studio was a shopping center called "Oz," and on its 4th floor next to a bookstore was a small cafe-like establishment. It's gone now, but back then it was often used by Toei Animation staff. I too ate there once or twice a week.
+Next to Toei Animation's (東映動画) Oizumi Studio was a shopping centre called "Oz," and on its 4th floor next to a bookstore was a small cafe-like establishment. It's gone now, but back then it was often used by Toei Animation staff. I too ate there once or twice a week.
 
 One day, when I went to that shop for lunch during break time, Director Imazawa (今沢), who directed *Space Prince Tenjou-hen*, was having his meal there. After greeting him, I sat at a table some distance away, and after ordering, I was reading a paperback I'd brought along. Then Director Imazawa came over to sit next to me after finishing his meal.
 
@@ -35,7 +33,7 @@ One day, when I went to that shop for lunch during break time, Director Imazawa 
 
 "Yes" - I closed my paperback and focused on Director Imazawa's words.
 
-"We're going to do a theatrical work. I'd like to ask you to handle the colors."
+"We're going to do a theatrical work. I'd like to ask you to handle the colours."
 
 "Yes!"
 
@@ -47,7 +45,7 @@ That was the first time I heard about the theatrical feature *Coo: Far From Home
 
 Marine biologist Tetsuro and his son Yosuke were living in the Fiji Islands of the South Pacific for Tetsuro's research. One day, while Yosuke was heading to school on the main island by jet ski, he encountered a baby of a mysterious creature resembling a seal washed up on the beach. He brought it home to show his father. Amazingly, it was a baby plesiosaur - a dinosaur that should have been extinct since ancient times. They began life with this baby, named "COO," but danger approached Yosuke and his father from those targeting COO...
 
-Far from not knowing it, I was actually a huge fan of the author Kageyama Tamio and had read almost all of his works. Particularly this "*COO: From a Far Sea*" was one of my favorite books, and I properly owned the first edition.
+Far from not knowing it, I was actually a huge fan of the author Kageyama Tamio and had read almost all of his works. Particularly this "*COO: From a Far Sea*" was one of my favourite books, and I properly owned the first edition.
 
 That it was from the same Kadokawa Shoten (角川書店) as *Space Prince Tenjou-hen*, that it was planned to be a theatrical work of over 90 minutes, that the characters would be by Okura Masahiko (大倉雅彦), that the art director hadn't been decided yet (later decided to be Yamamoto Nizo), that production would start immediately after *Space Prince Tenjou-hen* finished - as Director Imazawa spoke these details quietly, gently, and slowly, I was listening with tremendous internal excitement.
 

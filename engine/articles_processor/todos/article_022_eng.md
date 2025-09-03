@@ -1,7 +1,6 @@
-# Color Design Notes [Tsujita Kunio]
 ## **Episode 22: Once Upon a Time... (17) *Saint Seiya* Part 4 - The Story of Babel's Flame**
 
-I injured my back last weekend. The pain didn't recede but spread throughout my shoulder and worsened considerably (cries). So I went to a nearby orthopedic clinic.
+I injured my back last weekend. The pain didn't recede but spread throughout my shoulder and worsened considerably (cries). So I went to a nearby orthopaedic clinic.
 
 After examination and looking at X-rays, the doctor's diagnosis...
 
@@ -16,12 +15,11 @@ In my case, I extend my right hand to operate the keyboard while working with a 
 Infrared treatment to warm and loosen shoulder-to-back muscles, neck traction and stretching, lying on mats for stretching, electrode electrical therapy, and done.
 
 So for a while, it's rehabilitation (cries).
-
 Well then.
 
 *Saint Seiya*, which had left my hands after just Episode 1, returned to me after half a year.
 
-This year, Toei Doga decided to order some TV production that had been done domestically to Taiwanese production companies. While "collaborative" works had long sent animation and finishing, plus some key animation, to overseas production companies, ordering domestic TV works overseas was the first time since I joined Toei Doga. So for overseas-ordered episodes only, I would handle color direction and inspection.
+This year, Toei Doga decided to order some TV production that had been done domestically to Taiwanese production companies. While "collaborative" works had long sent animation and finishing, plus some key animation, to overseas production companies, ordering domestic TV works overseas was the first time since I joined Toei Doga. So for overseas-ordered episodes only, I would handle colour direction and inspection.
 
 *Saint Seiya* after half a year. Far from Morishita-san's "prophecy," it had become very popular with good ratings (bitter laugh). It was safely continuing beyond 2 cours.
 
@@ -39,7 +37,7 @@ The second half B-part wasn't much honestly, but *Seiya*'s selling point was bat
 
 During the story, Babel torments Seiya and friends with flame balls, and from one animation drawing of that flame ball, we decided to create 6 transmitted light masks for multiple photography of 3 types of flame light. Besides the painted cel of the flame ball itself, 6 masks (laughs). Finishing sheet count exploded! We ran out of BL (black) paint for painting transmitted light masks and had to urgently send additional supplies from Japan.
 
-Furthermore, I proposed that when creating flame balls, naturally flame reflection would be needed, and we increasingly used overlaps from normal cels to reflection color-change cels within single cuts. Not just Babel who manipulates flame, but Seiya and friends receiving those techniques also had 2 color types of cels made for overlaps. Plus, **Cygnus**'s "cooling technique" color-change overlaps to protect from that heat were naturally done. Furthermore, Steel Saints' techniques appearing to rescue Seiya and friends all similarly did various things.
+Furthermore, I proposed that when creating flame balls, naturally flame reflection would be needed, and we increasingly used overlaps from normal cels to reflection colour-change cels within single cuts. Not just Babel who manipulates flame, but Seiya and friends receiving those techniques also had 2 colour types of cels made for overlaps. Plus, **Cygnus**'s "cooling technique" colour-change overlaps to protect from that heat were naturally done. Furthermore, Steel Saints' techniques appearing to rescue Seiya and friends all similarly did various things.
 
 With storyboards by this director who excels at battle direction, naturally animators put in effort. Animation sheet count naturally increased too (laughs). Thus, for one TV episode, it became work with terrifyingly excessive animation and finishing sheet counts.
 

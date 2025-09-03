@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 78: Once Upon a Time... (49) - Location Scouting!
 
 Lately I've been approached by young people in the industry at various places saying things like "I'm reading your Anime Style series!" or "I'm watching *Casshern*!"
@@ -9,7 +8,7 @@ Despite how I look, I'm actually quite shy (laughs). While I can have perfectly 
 
 Just recently someone spoke to me at a certain studio, but I got so flustered that I don't think I gave proper responses...
 
-At that time (and pretty much always), I was walking around lost in thought, completely defenseless when someone spoke to me, so I was surprised and flustered (sweat).
+At that time (and pretty much always), I was walking around lost in thought, completely defenceless when someone spoke to me, so I was surprised and flustered (sweat).
 
 Since someone took the trouble to speak to me, I wish I could have given at least one witty response. Sorry about that > you at that time
 
@@ -18,7 +17,6 @@ Oh well...
 But you know, I'm actually quite happy about it (laughs). Thank you everyone. Getting such reactions is tremendously encouraging (laughs).
 
 So I'll do my best not to drop manuscripts... *cough cough* ...as much as possible (heavy sweat).
-
 Now then.
 
 *Coo: Far From Home* had begun, but we were in days of waiting for the scenario, then waiting for storyboards. I think at this point the planned theatrical release was summer of the following year (1993), so it was still over a year away.
@@ -35,7 +33,7 @@ Since we didn't even know about the era of *Galaxy Express 999* and such, I reme
 
 So the stance was to first take proper time on storyboards and settings, and do solid foundation work.
 
-Therefore, character design worked on character designs, art director worked on art settings - everyone was steadily advancing their basic setting work. Meanwhile, I was starting to create color samples from the character designs that came up, while fighting with that year's second *Dragon Ball Z* theatrical version, and losing my mother to cancer (tears).
+Therefore, character design worked on character designs, art director worked on art settings - everyone was steadily advancing their basic setting work. Meanwhile, I was starting to create colour samples from the character designs that came up, while fighting with that year's second *Dragon Ball Z* theatrical version, and losing my mother to cancer (tears).
 
 "Let's go on location scouting!"
 

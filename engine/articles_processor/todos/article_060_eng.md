@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 60: Summer Vacation Special - Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes (Part 2)
 
 Lately, Tokyo has been hit by heat and thunderstorms.
@@ -10,7 +9,6 @@ Then—WHAM! SPLASH!—a storm too fierce to even open an umbrella!
 Right around evening when I could finally head home, the Oizumi area where the studio is located invariably enters "battle sky" mode (laugh).
 
 Today too, I can already hear the rumbling approaching. Hahaha (laugh), we're being targeted (crying).
-
 Well then.
 
 Continuing from last time, "Saint Seiya: Hades Inferno Chapter & Elysion Chapter Completion & Broadcast Memorial Complete Episode Notes." Sorry again to those who aren't Saint Seiya fans (sweat).
@@ -19,33 +17,33 @@ Continuing from last time, "Saint Seiya: Hades Inferno Chapter & Elysion Chapter
 
 After *Prelude* ended, we started production on *Finale* after a brief pause, but after finishing *Prelude* I had various thoughts and changed several "methods."
 
-The biggest change was texture brushing for the Cloths. Texture brushing means manually adding highlight-like reflections and natural shadow drops to finished colored cels to give images material texture. The special effects team handles this work.
+The biggest change was texture brushing for the Cloths. Texture brushing means manually adding highlight-like reflections and natural shadow drops to finished coloured cels to give images material texture. The special effects team handles this work.
 
-In previous *Saint Seiya* series, we only added texture brushing to key images and cuts, with the rest going to photography as colored cels. But cels without texture brushing inevitably looked flat and digital-coloring-like. Especially Seiya in white Cloth was fatal as the protagonist.
+In previous *Saint Seiya* series, we only added texture brushing to key images and cuts, with the rest going to photography as coloured cels. But cels without texture brushing inevitably looked flat and digital-colouring-like. Especially Seiya in white Cloth was fatal as the protagonist.
 
 "Let's add texture brushing to all cuts and all characters!" This was my pushiness, convincing everyone around, and from *Finale* onwards we requested texture brushing processing for all cuts.
 
-So after coloring completion checks, all cuts went to special effects team "*Saint Seiya* Chief" Katsuoka-san, and under Katsuoka-san's supervision, texture brushing processing was added.
+So after colouring completion checks, all cuts went to special effects team "*Saint Seiya* Chief" Katsuoka-san, and under Katsuoka-san's supervision, texture brushing processing was added.
 
 Seeing the first rushes of episode 1, Araki-san said "It would be nice if all had brushing like this." "We're doing all of them! (laugh)" I said. "Then animation has to work hard too!" Araki-san's happy face at that moment made us happy too.
 
 **Inferno Chapter: Finale Episode 2 - Ikki! Fist of Anguish - Direction/Katsumata Tomoharu**
 
-Since Kobioki-san who handled color direction for *Prelude* escaped (laugh), I handled all color direction for *Finale* myself.
+Since Kobioki-san who handled colour direction for *Prelude* escaped (laugh), I handled all colour direction for *Finale* myself.
 
 Episodes 1 and 2 progress centered on "Hades-Shun," Ikki, and Pandora. Honestly a somewhat plain development (laugh). So I used various small techniques for fun.
 
-One was the scene where Ikki tells Pandora about Andromeda. When Shun's face overlaps with the chained Andromeda image from mythology, Andromeda's hair changes from olive to Shun's hair color green. Not through photography overlap specifications, just how this color looks when overlapped with that color, but it felt nice (laugh). There was no particular direction instruction, but I sometimes added color accents like this for fun. You can do this when handling color direction yourself (laugh).
+One was the scene where Ikki tells Pandora about Andromeda. When Shun's face overlaps with the chained Andromeda image from mythology, Andromeda's hair changes from olive to Shun's hair colour green. Not through photography overlap specifications, just how this colour looks when overlapped with that colour, but it felt nice (laugh). There was no particular direction instruction, but I sometimes added colour accents like this for fun. You can do this when handling colour direction yourself (laugh).
 
 **Inferno Chapter: Finale Episode 3 - Goddess! Stake Your Life - Direction/Nishizawa Nobutaka**
 
-Hades' soul expelled from Shun's body by Athena—in the original it was just a white mass like ectoplasm, so I first tried making it like white light, but the atmosphere somehow didn't work well. "Should we make it a color that suggests evil?" said Nishizawa-san. So it became blue-black with red Hades aura processing.
+Hades' soul expelled from Shun's body by Athena—in the original it was just a white mass like ectoplasm, so I first tried making it like white light, but the atmosphere somehow didn't work well. "Should we make it a colour that suggests evil?" said Nishizawa-san. So it became blue-black with red Hades aura processing.
 
 **Inferno Chapter: Finale Episode 4 - Despair! The Wailing Wall - Direction/Sasaki Noriyo**
 
-Seiya finally escaping Cocytus reaches "The Wailing Wall." The basic character colors in front of "The Wailing Wall" are actually the same as "Hades' Chamber" colors. I liked this color balance myself, and when I happened to place that color sample on "The Wailing Wall" art board, it was a perfect match (laugh).
+Seiya finally escaping Cocytus reaches "The Wailing Wall." The basic character colours in front of "The Wailing Wall" are actually the same as "Hades' Chamber" colours. I liked this colour balance myself, and when I happened to place that colour sample on "The Wailing Wall" art board, it was a perfect match (laugh).
 
-Oh, the Cocytus colors were also favorites of mine.
+Oh, the Cocytus colours were also favourites of mine.
 
 **Inferno Chapter: Finale Episode 5 - Gathering! Gold Cloths - Direction/Katsumata Tomoharu**
 
@@ -58,8 +56,6 @@ The *Finale* that had forced through "texture brushing for all cuts" was really 
 *Finale* reaches its end. Truly "Farewell! Golden Saints." ...Well, it's mostly standing around talking in front of "the wall" (bitter laugh). This bridges to *Elysion Chapter*.
 
 And here too, ace Ikki appears at the very end (laugh). He's truly got the best timing (laugh).
-
-***
 
 *Inferno Chapter* had various issues including "voice actor changes," but we managed to run through it somehow.
 

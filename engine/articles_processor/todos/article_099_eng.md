@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 99: Once Upon a Time... (61) - *COO* And Into the Distance...
 
 Just recently, cicadas were noisily crying even at night, but last night I suddenly noticed the cicada voices had disappeared and somehow changed to autumn insects' voices. Tokyo nights have become quite cool.
@@ -16,7 +15,6 @@ Oh my... (sweat).
 Such "fashionable location scouting" needs to happen seasonally. When's next? Around late October maybe?
 
 The sheer number of people was overwhelming though (laughs).
-
 Now then.
 
 *Coo: Far From Home* production faced its second summer. This was 1993. Main episode work was mostly complete, with parallel retake work beginning. Release was officially decided for that winter, December. Delivery schedule decided for autumn. Finally the final phase.
@@ -39,17 +37,17 @@ No, we were more excited than nervous.
 
 That day from morning, I was strangely high-energy.
 
-Toei Animation Oizumi Studio's 3rd floor screening room gathered all staff, screening by reel (about 10+ minutes each) in order. Main episode about 2 hours. We were in the screening room about 4 hours total. While some screens still had retake work remaining, what had color throughout was mostly complete.
+Toei Animation Oizumi Studio's 3rd floor screening room gathered all staff, screening by reel (about 10+ minutes each) in order. Main episode about 2 hours. We were in the screening room about 4 hours total. While some screens still had retake work remaining, what had colour throughout was mostly complete.
 
 It was quite moving!
 
 A 2-hour feature film was my first experience. About a year and a bit with various difficulties. The results were here. Ah, good. While the director and other staff discussed various additional retakes, I was alone in a storm of emotion.
 
-Then October. At Toei Chemical's Chofu screening room, *Coo: Far From Home*'s first screening was held. I remember it was quite early morning. Sitting front row center (I always watch first screenings from this seat), I checked the first print. Secretly, several retakes remained with "oops" moments (laughs), but it was still magnificent. When I confirmed "Color Design: Tsujita Kunio" in the ending credits, my emotions swelled even larger. I felt a rush of having accomplished something.
+Then October. At Toei Chemical's Chofu screening room, *Coo: Far From Home*'s first screening was held. I remember it was quite early morning. Sitting front row centre (I always watch first screenings from this seat), I checked the first print. Secretly, several retakes remained with "oops" moments (laughs), but it was still magnificent. When I confirmed "Colour Design: Tsujita Kunio" in the ending credits, my emotions swelled even larger. I felt a rush of having accomplished something.
 
 Several days later, the completion premiere was held at Oizumi Toei Studios' screening room. Kadokawa Haruki couldn't attend (laughs), but original author Kageyama Tamio came.
 
-After the screening, at the wrap party in the studio cafeteria, I actually got to talk with Kageyama-san! "Kageyama-san, when this *COO* was published, I properly bought and read the book, and being a huge fan of this story, for someone like me to be involved in this movie..." I was extremely excited (burst). Kageyama-san listened happily to my story. And then I realized:
+After the screening, at the wrap party in the studio cafeteria, I actually got to talk with Kageyama-san! "Kageyama-san, when this *COO* was published, I properly bought and read the book, and being a huge fan of this story, for someone like me to be involved in this movie..." I was extremely excited (burst). Kageyama-san listened happily to my story. And then I realised:
 
 "Ah! I should have gotten my first edition signed!"
 

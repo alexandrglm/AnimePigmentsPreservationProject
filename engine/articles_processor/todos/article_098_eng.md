@@ -1,4 +1,3 @@
-# Color Design Notes [Tsujita Kunio]
 ## Episode 98: Once Upon a Time... (60) - *COO* The Warship Stage
 
 After saying "Summer!" it's already passed the traditional Tanabata and even crossed "Beginning of Autumn."
@@ -18,14 +17,13 @@ High school baseball cheering brass bands are amazing every year. Mixed with old
 Old anime theme songs have clear themes, energy, and that "cheering" feeling. They're also not musically difficult and suited for brass bands.
 
 Every year some high school uses them for cheering, passed down continuously. In music or anything, good things really do remain!
-
 Now then.
 
 *Coo: Far From Home* - the story rushes toward the ending with rapid developments. Pursuing kidnapped Coo, the story moves to Tahiti, Papeete. From peaceful island scenes, the story shifts to the "city."
 
 *COO*, which we'd been carefully making in storyboard order from the beginning, took about a year to reach this point.
 
-I think we were working on this area around spring 1993. Ah, since we visited the Maritime Self-Defense Force for research in late 1992, maybe a bit later? Around when Yamamoto Nizo-san's work was nearing completion, which is why I remember having a big drinking party.
+I think we were working on this area around spring 1993. Ah, since we visited the Maritime Self-Defence Force for research in late 1992, maybe a bit later? Around when Yamamoto Nizo-san's work was nearing completion, which is why I remember having a big drinking party.
 
 Assistant director Hiroshima-san, production manager Sakai-kun, and I were taken by Nizo-san to get completely drunk in Oizumi, then drank more at Sayama City station, then tumbled into Nizo-san's studio "Eieisha" then in Sayama City, where the still-strong Nizo-san made us drink more beer (laughs). Though he was also totally drunk, in that condition he still pulled out Moriya Suji-san's art book or something to explain to us (laughs). ...Such memories too (laughs).
 
@@ -39,11 +37,11 @@ And the story from Papeete onward:
 
 In crowded Papeete, underwear-like T-shirts & shorts with sandals wouldn't work. Tetsuro father and son appear in somewhat "city-appropriate" clothes (ultimately Tetsuro wore "slightly better shorts" (laughs)).
 
-Yosuke boyishly wears T-shirt + shorts, but we decided to dress adult Tetsuro properly in a collared shirt. Cathy wears a white dress. While Yosuke was fine, Tetsuro, uncomfortable in his usual collar-less shirt, keeps fussing with his neckline. I dressed the tanned characters in whitish clothes to emphasize their tan. Locals mostly wear colored shirts. Incidentally, at the airport scene, the contrast with the group of young Japanese tourist women who just arrived, still with their untanned white skin, looked good.
+Yosuke boyishly wears T-shirt + shorts, but we decided to dress adult Tetsuro properly in a collared shirt. Cathy wears a white dress. While Yosuke was fine, Tetsuro, uncomfortable in his usual collar-less shirt, keeps fussing with his neckline. I dressed the tanned characters in whitish clothes to emphasisees their tan. Locals mostly wear coloured shirts. Incidentally, at the airport scene, the contrast with the group of young Japanese tourist women who just arrived, still with their untanned white skin, looked good.
 
 Such white clothes only for Papeete. Soon they change into different outfits. The group pursues the warship holding Coo to Mangareva Island. From here, cruisers and warships become the stage, so the screen atmosphere becomes considerably harder.
 
-The earlier location scouting and Maritime Self-Defense Force destroyer research proved very helpful. Having seen the real thing and having that sense within yourself makes all the difference. Director Imazawa's storyboards and Yamamoto-san's art properly created the stage. The high-density closed space, ship interior atmosphere naturally meant suppressing color tones and lowering brightness. The basic approach was the same as night interior island colors, but considering the enclosed space colors, screens including characters appeared somewhat harder.
+The earlier location scouting and Maritime Self-Defence Force destroyer research proved very helpful. Having seen the real thing and having that sense within yourself makes all the difference. Director Imazawa's storyboards and Yamamoto-san's art properly created the stage. The high-density closed space, ship interior atmosphere naturally meant suppressing colour tones and lowering brightness. The basic approach was the same as night interior island colours, but considering the enclosed space colours, screens including characters appeared somewhat harder.
 
 Since performances here also had characters' expressions drawn with sharp distinctions, I think we successfully conveyed the tension of the warship setting throughout the screen.
 
