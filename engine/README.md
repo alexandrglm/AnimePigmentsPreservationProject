@@ -10,6 +10,8 @@ A complete colorimetric processing pipeline for converting classic anime cel pig
 
 ## 🚀 Engine Overview
 
+#### PATH: `./engine/01-colour_engines-pdf`
+
 The engine consists of two main components:
 
 1. **`1-main.py`** - Complete processing pipeline orchestrator
@@ -24,7 +26,7 @@ The core orchestrator that coordinates all processing modules to create a comple
 ### Usage
 
 ```bash
-python ./engine/1-main.py [excel_file] [options]
+python ./engine/01-colour_engines-pdf/1-main.py [excel_file] [options]
 ```
 
 ### Arguments
@@ -45,12 +47,12 @@ python ./engine/1-main.py [excel_file] [options]
 
 **Basic processing:**
 ```bash
-python ./engine/1-main.py
+python ./engine/01-colour_engines-pdf/1-main.py
 ```
 
 **Full processing with custom files:**
 ```bash
-python ./engine/1-main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
+python ./engine/01-colour_engines-pdf/1-main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
   -o colours_complete.json \
   -i PSOcoated_v3.icc \
   -p pantone_lab_2024.csv \
@@ -126,7 +128,7 @@ Generates professional PDF colour reference books from processed JSON data with 
 ### Usage
 
 ```bash
-python ./engine/2-pdf_generator.py <json_file> [output_pdf] [options]
+python ./engine/01-colour_engines-pdf/2-pdf_generator.py <json_file> [output_pdf] [options]
 ```
 
 ### Arguments
@@ -147,7 +149,7 @@ python ./engine/2-pdf_generator.py <json_file> [output_pdf] [options]
 
 **Basic PDF generation:**
 ```bash
-python ./engine/2-pdf_generator.py colours_complete.json
+python ./engine/01-colour_engines-pdf/2-pdf_generator.py colours_complete.json
 ```
 
 **Professional book with cover and custom ICC:**
