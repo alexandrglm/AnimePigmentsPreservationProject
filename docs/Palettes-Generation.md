@@ -4,21 +4,21 @@
 
 `Palette Creator` is a Python-based tool to generate colour palettes from JSON data into multiple formats compatible with software used in illustration, animation, manga, and design workflows.
 
->**Notice** that the **source values MUST the RGB ones **; if you want to use palettes directly for printing in CMYK, you must specify the CMYK values calculated from Lab-type values.
+> **Notice** that the **source values MUST the RGB ones **; if you want to use palettes directly for printing in CMYK, you must specify the CMYK values calculated from Lab-type values.
 
->**ICC Profiles can be embebbed ONLY when using Krita**
+> **ICC Profiles can be embebbed ONLY when using Krita**
 
 It supports:
 
-| No | Software   | Format                   | Notes / Import Path                                                                                                                                      |
-| -- | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | GIMP-gpl   | `.gpl` ASCII             | Import via `Windows → Dockable Dialogs → Palettes → Import Palette`                                                                                      |
-| 2  | CSS        | `.css`                   | Generates variables: `--ColourName: rgb(R,G,B);`                                                                                                         |
-| 3  | SCSS       | `.scss`                  | Generates variables: `$ColourName: rgb(R,G,B);`                                                                                                          |
-| 4  | Unity      | `.cs` or `.unitypalette` | Colours as `Color(r,g,b,1)` floats 0–1                                                                                                                   |
-| 5  | ASE        | `.ase` binary            | Compatible with Photoshop, Illustrator, Affinity, Corel; RGB; type global=0                                                                              |
-| 6  | TXT Simple | `.txt`                   | Each line: `R G B   ColourName`; compatible with Clip Studio, SAI, OpenToonz, Harmony                                                                    |
-| 7  | Krita      | `.kpl` ZIP               | Contains `colorset.xml`, `profiles.xml`, `mimetype`; default sRGB profile; import via `Palette → Import Palette`; supports embedding custom ICC profiles |
+| No  | Software   | Format                   | Notes / Import Path                                                                                                                                      |
+| --- | ---------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | GIMP-gpl   | `.gpl` ASCII             | Import via `Windows → Dockable Dialogs → Palettes → Import Palette`                                                                                      |
+| 2   | CSS        | `.css`                   | Generates variables: `--ColourName: rgb(R,G,B);`                                                                                                         |
+| 3   | SCSS       | `.scss`                  | Generates variables: `$ColourName: rgb(R,G,B);`                                                                                                          |
+| 4   | Unity      | `.cs` or `.unitypalette` | Colours as `Color(r,g,b,1)` floats 0–1                                                                                                                   |
+| 5   | ASE        | `.ase` binary            | Compatible with Photoshop, Illustrator, Affinity, Corel; RGB; type global=0                                                                              |
+| 6   | TXT Simple | `.txt`                   | Each line: `R G B   ColourName`; compatible with Clip Studio, SAI, OpenToonz, Harmony                                                                    |
+| 7   | Krita      | `.kpl` ZIP               | Contains `colorset.xml`, `profiles.xml`, `mimetype`; default sRGB profile; import via `Palette → Import Palette`; supports embedding custom ICC profiles |
 
 Each palette is generated per **chart** defined in the JSON, with colour names and RGB values.
 

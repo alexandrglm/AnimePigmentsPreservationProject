@@ -33,22 +33,24 @@ python ./engine/1-main.py [excel_file] [options]
 
 ### Options
 
-| Option | Description | Default |
-|--------|-------------|---------|
-| `-o, --output <file>` | Output JSON file | `colours_complete.json` |
-| `-i, --icc-profile <icc>` | ICC profile for CMYK conversion | `PSOcoated_v3.icc` |
-| `-p, --pantone-csv <csv>` | Pantone LAB database CSV | `pantone_lab_2024.csv` |
-| `--no-backup` | Don't backup existing output | |
-| `-v, --verbose` | Enable verbose logging | |
+| Option                    | Description                     | Default                 |
+| ------------------------- | ------------------------------- | ----------------------- |
+| `-o, --output <file>`     | Output JSON file                | `colours_complete.json` |
+| `-i, --icc-profile <icc>` | ICC profile for CMYK conversion | `PSOcoated_v3.icc`      |
+| `-p, --pantone-csv <csv>` | Pantone LAB database CSV        | `pantone_lab_2024.csv`  |
+| `--no-backup`             | Don't backup existing output    |                         |
+| `-v, --verbose`           | Enable verbose logging          |                         |
 
 ### Examples
 
 **Basic processing:**
+
 ```bash
 python ./engine/1-main.py
 ```
 
 **Full processing with custom files:**
+
 ```bash
 python ./engine/1-main.py ORIGINAL_Cel_Animation_Color_Charts.xlsx \
   -o colours_complete.json \
@@ -136,21 +138,23 @@ python ./engine/2-pdf_generator.py <json_file> [output_pdf] [options]
 
 ### Options
 
-| Option | Description | Default |
-|--------|-------------|---------|
-| `-j, --join <pdf>` | Prepend PDF document (cover/intro) | |
-| `--offset <n>` | Page numbering offset | `0` |
-| `-i, --icc-profile <icc>` | ICC profile for embedding | `PSOcoated_v3.icc` |
-| `-v, --verbose` | Enable verbose output | |
+| Option                    | Description                        | Default            |
+| ------------------------- | ---------------------------------- | ------------------ |
+| `-j, --join <pdf>`        | Prepend PDF document (cover/intro) |                    |
+| `--offset <n>`            | Page numbering offset              | `0`                |
+| `-i, --icc-profile <icc>` | ICC profile for embedding          | `PSOcoated_v3.icc` |
+| `-v, --verbose`           | Enable verbose output              |                    |
 
 ### Examples
 
 **Basic PDF generation:**
+
 ```bash
 python ./engine/2-pdf_generator.py colours_complete.json
 ```
 
 **Professional book with cover and custom ICC:**
+
 ```bash
 python ./engine/2-pdf_generator.py colours_complete.json colour_reference_book.pdf \
   -j cover_intro.pdf \
@@ -192,12 +196,12 @@ python ./engine/2-pdf_generator.py colours_complete.json colour_reference_book.p
 
 ### Quality Benchmarks
 
-| Metric | Target | Current Performance |
-|--------|--------|-------------------|
-| CMYK Mean ΔE | < 3.0 | ✅ Acceptable for production |
-| Excellent Rate | > 60% | ✅ Most colours imperceptible |
-| Problematic Rate | < 10% | ✅ Minimal visible shifts |
-| Pantone Match Rate | > 80% | ✅ Industry completeness |
+| Metric             | Target | Current Performance          |
+| ------------------ | ------ | ---------------------------- |
+| CMYK Mean ΔE       | < 3.0  | ✅ Acceptable for production  |
+| Excellent Rate     | > 60%  | ✅ Most colours imperceptible |
+| Problematic Rate   | < 10%  | ✅ Minimal visible shifts     |
+| Pantone Match Rate | > 80%  | ✅ Industry completeness      |
 
 ---
 
@@ -213,11 +217,13 @@ python ./engine/2-pdf_generator.py colours_complete.json colour_reference_book.p
 ### Python Libraries
 
 **Core Processing:**
+
 - `pandas`, `openpyxl` - Excel processing
 - `PIL`, `ImageCms` - Colour transformation
 - `colormath` - Delta E calculations
 
 **PDF Generation:**
+
 - `reportlab` - PDF creation
 - `pikepdf` - ICC profile embedding
 
@@ -226,11 +232,13 @@ python ./engine/2-pdf_generator.py colours_complete.json colour_reference_book.p
 ## ⚠️ Technical Limitations
 
 ### Gamut Considerations
+
 - Many pigment colours exceed sRGB gamut boundaries
 - Accurate display requires wide-gamut monitors
 - Out-of-gamut colours undergo clipping with potential shifts
 
 ### Viewing Conditions
+
 - Results optimised for D50/2° standard observer
 - Commercial printing introduces ±2-3 ΔE00 variation
 - Colour appearance varies with illuminant and observer

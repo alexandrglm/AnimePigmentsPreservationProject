@@ -13,5 +13,3 @@ Knowledge sources from articles by **Kunio Tsujita** belong to the author and **
 ---
 
 **2025 - Anime Cel Pigment References Preservation Project**
-
-

@@ -12,8 +12,6 @@ In this world , each pigment had an **absolute colour** - a unique colorimetric 
 
 In this case, to preserve the historical information faithfully, a**device-independent** colour space is needed.
 
-
-
 ---
 
 ### CIE L*a*b*: The DNA of Colour
@@ -37,8 +35,6 @@ Delta E is the "perceptual distance" between two colours. But it's not a simple 
 ### Why CIE2000 Rather Than Basic Delta E?
 
 Traditional Delta E `(√[(ΔL)² + (Δa)² + (Δb)²])`has a problem: it treats all regions of colour space equally, but our eye doesn't work that way. It's more sensitive to certain changes than others.
-
-
 
 **CIE2000 introduces perceptual corrections:**
 
@@ -74,14 +70,10 @@ That's the reason of existance for the `ICC - International Colour Consortium` p
 For this project, **PSO Coated v3** has been chosen as our CMYK reference for several critical reasons:
 
 1. Minded the **original cel materials (vinyl/acetate)** authenticity, **were inherently reflective and coated surfaces**, directly matching the glossy finish typical of animation reference materials.
-   
-   
+
 2. Traditional anime pigments, their characteristics, were formulated to produce glossy, reflective finishes that enhanced colour saturation and vibrancy.
-   
-   
+
 3. Specific ICC profile requirements are essential for preserving the most precise colour reproduction when transferring to paper through commercial printing processes.
-   
-   
 
 **Crucially**, this approach enables the project's PDF generation phase to support both **embedded ICC workflow** (using the reference PSO Coated v3 profile) or  **custom ICC substitution** for pre-press or direct printing applications, adapting the entire project to specific printing house requirements and paper stocks.
 
@@ -98,8 +90,6 @@ Original LAB values → PIL LAB Image → ICC Transform → CMYK Values
 But here's the clever bit:  
 
 > **Colour processing pipeline immediately converts back to LAB and calculate Delta E**. 
-
-
 
 This gives the more **conversion accuracy** - how much colour shift occurs in the print translation, the better, ensuring a production-quality accuracy.
 
@@ -119,15 +109,9 @@ For each anime pigment:
 2. **Find minimum difference**
 3. **Apply quality thresholds** (Matching rate preserved under ΔE 2.5)
 
-
-
 Traditional anime pigments were formulated for **artistic effect**, not commercial printing.  
 
-
-
 Some colours - particularly fluorescents, metallics, and highly saturated hues - simply don't exist in the Pantone universe.   
-
-
 
 When a, for examplw, ΔE of 8.5 value for a match is reported, we're being honest:
 
@@ -258,8 +242,6 @@ So, both sRGB and ProPhoto RGB values are provided:
   }
   ```
 
-
-
 ---
 
 ## But, in the end.... What's the biggest picture?
@@ -289,8 +271,6 @@ The project draws from years of collective knowledge shared in:
 - **Kanzenshuu forums** - Source for STAC/TAIYO charts spectrophotometry.
 - **Nekomataya resources** - More TAIYO resources preservation.
 - Some [**Anime Style Magazine**](https://animestyle.jp/column/) articles, are included in the scope of the project, to understand the colour process, the Colour Direction/Inspection guidelines in classic anime production, as well as for the sheer enjoyment of reading them :)
-
-
 
 This analysis represents the intersection of art, science, and nostalgia - preserving the tools that created the visual language of anime so that anyone who wishes may study it, appreciate it, and continue building upon it.
 

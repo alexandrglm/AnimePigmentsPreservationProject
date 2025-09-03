@@ -30,7 +30,7 @@
 
 - **`[BOOK-1]_Anime_CEL_Pigments_References.pdf`** - Professional reference charts (optimised for both sRGB display and accurate printing with ICC profiles)
 
-![Book Colour Example](./docs/book_2.png)
+![Book Colour Example](./docs/img/book_2.png)
 
 #### **Technical Articles Collection**
 
@@ -50,7 +50,7 @@ Generate palettes compatible with major creative applications using **`3: palett
 
 ![Palettes Import Example](./docs/img/palettes.png)
 
-#### Supported  Formats
+#### Supported  Software / Formats
 
 | SOFTWARE                  | FORMAT                  |                                                                |
 | ------------------------- | ----------------------- | -------------------------------------------------------------- |
